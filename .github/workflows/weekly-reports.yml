@@ -1,9 +1,10 @@
 # Every Monday: download the last week's matches from Cricsheet, generate a
-# report for each, optionally add an AI-written story, and commit the results
-# to reports/. Run it by hand any time from the Actions tab.
+# report for each, add an AI-written story, and commit the results to
+# reports/. Run it by hand any time from the Actions tab.
 #
-# Optional: add an ANTHROPIC_API_KEY repository secret to enable narratives.
-# Without it, you still get full stats reports.
+# Stories use GitHub Models (free) with the built-in token: no setup needed.
+# Optional: add an ANTHROPIC_API_KEY secret to use Claude instead, or set a
+# NARRATOR_MODEL repository variable to pick a different model.
 
 name: Weekly match reports
 
@@ -21,6 +22,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 jobs:
   reports:
@@ -42,9 +44,11 @@ jobs:
           MT="${{ github.event.inputs.match_type }}"
           python automation/batch_reports.py data/ -o reports/ ${MT:+--match-type "$MT"}
 
-      - name: Add narratives (if API key configured)
+      - name: Write match stories
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NARRATOR_MODEL: ${{ vars.NARRATOR_MODEL }}
         run: python automation/narrate.py reports/ --limit 15
 
       - name: Commit new reports

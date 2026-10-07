@@ -14,7 +14,7 @@ get readable match reports without invented stats.
 |---|---|
 | **`cricket-match-report` skill** | Ask Claude for a match report and get scorecards, phase analysis, partnerships and the moments that decided the game. |
 | **Weekly automation** | A GitHub Action downloads last week's matches every Monday, generates a report for each, and commits them to `reports/`. |
-| **AI narratives (optional)** | Add an API key and each report gets a short Claude-written match story. |
+| **AI match stories** | Each report gets a short written story, free via GitHub Models, with every number fact-checked against the data. |
 
 See [`examples/sample_report.md`](examples/sample_report.md) for the computed
 report and [`examples/sample_story.md`](examples/sample_story.md) for the
@@ -54,8 +54,11 @@ python automation/batch_reports.py data/ -o reports/ --match-type T20
 
 1. Push this repo to GitHub. The workflow in `.github/workflows/weekly-reports.yml`
    runs every Monday at 06:00 IST.
-2. *(Optional)* Add an `ANTHROPIC_API_KEY` repository secret
-   (Settings → Secrets and variables → Actions) for AI-written stories.
+2. Stories are written for free by [GitHub Models](https://docs.github.com/en/github-models)
+   using the workflow's built-in token, so there's nothing to configure. Optional:
+   - add an `ANTHROPIC_API_KEY` secret to use Claude instead (paid, higher quality)
+   - set a `NARRATOR_MODEL` variable (Settings → Secrets and variables →
+     Actions → Variables) to choose another model, e.g. `openai/gpt-4.1-mini`
 3. Run it now from the **Actions** tab → *Weekly match reports* → *Run workflow*.
    You can pick any Cricsheet dataset (e.g. `ipl`, `t20s`) and format.
 
@@ -69,6 +72,16 @@ python automation/batch_reports.py data/ -o reports/ --match-type T20
   skill reports the problem instead of writing a story.
 - Unit tests cover each rule with hand-worked examples:
   `python -m unittest discover tests`
+
+## How the stories stay honest
+
+Free models are more likely to invent details, so every story is
+fact-checked before it's saved: each number it cites must appear in the
+computed report. If one doesn't, the model gets one retry with the offending
+numbers pointed out; if it still invents something, the story is discarded
+and the report keeps its stats only. (The check confirms every number exists
+in the data, not that it's used in the right context, so read stories before
+sharing them.)
 
 ## Roadmap
 

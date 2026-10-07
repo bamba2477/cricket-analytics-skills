@@ -139,5 +139,32 @@ class SampleMatch(unittest.TestCase):
                     self.assertIn(m.group(1), bowlers)
 
 
+sys.path.insert(0, str(ROOT / "automation"))
+import narrate  # noqa: E402
+
+
+class StoryFactCheck(unittest.TestCase):
+    def setUp(self):
+        self.report = build_report(json.loads((ROOT / "examples" / "sample_match.json").read_text()))
+
+    def test_example_story_passes(self):
+        story = (ROOT / "examples" / "sample_story.md").read_text().split("---", 1)[1]
+        self.assertEqual(narrate.unsupported_numbers(story, self.report), [])
+
+    def test_invented_numbers_are_caught(self):
+        bad = narrate.unsupported_numbers("Fernandes hit 88 off 41 (SR 214.6).", self.report)
+        self.assertEqual(bad, ["88", "41", "214.6"])
+
+    def test_retry_then_reject(self):
+        replies = iter(["Fernandes hit 88.", "Still 88."])
+        story, bad = narrate.narrate_one(lambda m: next(replies), self.report)
+        self.assertIsNone(story)
+        self.assertEqual(bad, ["88"])
+
+    def test_compact_payload_fits_free_tier(self):
+        # GitHub Models free tier allows 8,000 input tokens; ~4 chars per token.
+        self.assertLess(len(json.dumps(narrate.compact(self.report))) / 4, 3000)
+
+
 if __name__ == "__main__":
     unittest.main()
