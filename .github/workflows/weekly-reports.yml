@@ -24,6 +24,11 @@ permissions:
   contents: write
   models: read
 
+# One run at a time; a second run waits instead of racing the first.
+concurrency:
+  group: weekly-reports
+  cancel-in-progress: false
+
 jobs:
   reports:
     runs-on: ubuntu-latest
@@ -58,7 +63,15 @@ jobs:
           git add reports/
           if git diff --cached --quiet; then
             echo "No new reports."
-          else
-            git commit -m "Match reports: $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "Match reports: $(date -u +%Y-%m-%d)"
+          # Someone may have pushed while this run was working: replay our
+          # commit on top of theirs and try again.
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "Push attempt $attempt failed; retrying in 10s..."
+            sleep 10
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
