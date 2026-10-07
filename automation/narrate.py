@@ -97,7 +97,10 @@ def compact(report: dict) -> dict:
                         for b in inn["batting"] if b["balls"] or b["runs"]],
             "bowling": [f"{b['name']} {b['wickets']}/{b['runs']} in {b['overs']} ov, econ {b['economy']}"
                         for b in inn["bowling"]],
-            "phases": [f"{p['phase']} (overs {p['overs']}): {p['runs']}/{p['wickets']}, RR {p['run_rate']}"
+            # Spelled out so a phase's own runs/wickets can't be mistaken for the score.
+            "phases": [f"{p['phase']} (overs {p['overs']}): {p['runs']} runs and {p['wickets']} "
+                       f"wickets in this phase, run rate {p['run_rate']}; "
+                       f"score at end of phase {_score_after(inn, p['overs'])}"
                        for p in inn["phases"]],
             "fall_of_wickets": [f"{f['score']}-{f['wicket']} {f['player']} ({f['over']})"
                                 for f in inn["fall_of_wickets"]],
@@ -105,6 +108,13 @@ def compact(report: dict) -> dict:
                                   for p in best],
         })
     return out
+
+
+def _score_after(inn: dict, overs: str) -> str:
+    """Cumulative score (runs/wickets) at the end of a phase like "7-15"."""
+    last = int(overs.split("-")[1])
+    done = [o for o in inn.get("over_by_over", []) if o["over"] <= last]
+    return f"{sum(o['runs'] for o in done)}/{sum(o['wickets'] for o in done)}"
 
 
 def _norm(tok: str) -> str:

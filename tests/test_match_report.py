@@ -161,6 +161,17 @@ class StoryFactCheck(unittest.TestCase):
         self.assertIsNone(story)
         self.assertEqual(bad, ["88"])
 
+    def test_phases_show_cumulative_score(self):
+        # Phase runs/wickets must not look like the score: the sample chase had
+        # 60/2 after the powerplay and 136/4 after 15 overs.
+        chase = narrate.compact(self.report)["innings"][1]["phases"]
+        self.assertIn("in this phase", chase[1])
+        self.assertTrue(chase[0].endswith("score at end of phase 60/2"), chase[0])
+        self.assertTrue(chase[1].endswith("score at end of phase 136/4"), chase[1])
+        # The final phase's end score is the innings total.
+        inn = self.report["innings"][1]
+        self.assertTrue(chase[2].endswith(f"{inn['total']}/{inn['wickets']}"))
+
     def test_compact_payload_fits_free_tier(self):
         # GitHub Models free tier allows 8,000 input tokens; ~4 chars per token.
         self.assertLess(len(json.dumps(narrate.compact(self.report))) / 4, 3000)
