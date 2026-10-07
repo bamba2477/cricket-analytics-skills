@@ -252,7 +252,10 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Add AI-written stories to match reports.")
     ap.add_argument("reports_dir", type=Path)
     ap.add_argument("--limit", type=int, default=15, help="max reports to narrate per run")
+    ap.add_argument("--time-budget", type=float, default=600,
+                    help="stop starting new stories after this many seconds (default 600)")
     args = ap.parse_args(argv)
+    started = time.monotonic()
 
     providers = pick_providers()
     if not providers:
@@ -261,11 +264,20 @@ def main(argv=None) -> int:
     name, model, call, delay = providers.pop(0)
     print(f"Writing stories with {name} ({model})")
 
+    pending = [j for j in sorted(args.reports_dir.glob("*.json"), reverse=True)
+               if j.with_suffix(".md").exists()
+               and MARKER not in j.with_suffix(".md").read_text(encoding="utf-8")]
+    print(f"{len(pending)} report(s) without a story; writing up to {args.limit}")
+
     done, rejected, written_any = 0, 0, False
-    for j in sorted(args.reports_dir.glob("*.json"), reverse=True):
+    for n, j in enumerate(pending, 1):
         md = j.with_suffix(".md")
-        if not md.exists() or MARKER in md.read_text(encoding="utf-8"):
-            continue
+        elapsed = time.monotonic() - started
+        if elapsed > args.time_budget:
+            print(f"  Time budget of {args.time_budget:.0f}s used; "
+                  "remaining reports will get stories on the next run.")
+            break
+        print(f"  [{n}/{min(len(pending), args.limit)}] {md.name} ({elapsed:.0f}s elapsed)")
         report = json.loads(j.read_text(encoding="utf-8"))
         if report.get("checks"):
             print(f"  skip {md.name}: data consistency warnings")
