@@ -34,6 +34,8 @@
 - *Deccan Comets, wicket burst:* 2 wickets fell in over 16 (bowled by T Pillai, 2 credited to T Pillai)
 
 ## Monsoon Mavericks innings: 162/9 (20.0 ov)
+**Monsoon Mavericks batting**
+
 | Batter | Dismissal | R | B | 0s | 4s | 6s | SR |
 |---|---|--:|--:|--:|--:|--:|--:|
 | A Rao | b C Gill | 24 | 21 | 9 | 2 | 1 | 114.3 |
@@ -49,6 +51,8 @@
 | N Desai | not out | 39 | 15 | 3 | 4 | 2 | 260.0 |
 
 Extras: 6 (legbyes 2, byes 3, noballs 1)
+
+**Deccan Comets bowling**
 
 | Bowler | O | M | R | W | Econ | WD | NB |
 |---|--:|--:|--:|--:|--:|--:|--:|
@@ -69,6 +73,8 @@ Extras: 6 (legbyes 2, byes 3, noballs 1)
 **Best partnership:** 69 off 28 balls (N Desai & T Pillai)
 
 ## Deccan Comets innings: 163/8 (18.3 ov)
+**Deccan Comets batting**
+
 | Batter | Dismissal | R | B | 0s | 4s | 6s | SR |
 |---|---|--:|--:|--:|--:|--:|--:|
 | J Fernandes | c D Joshi b H Sethi | 46 | 34 | 13 | 1 | 3 | 135.3 |
@@ -83,6 +89,8 @@ Extras: 6 (legbyes 2, byes 3, noballs 1)
 | I Varma | not out | 0 | 1 | 1 | 0 | 0 | 0.0 |
 
 Extras: 10 (wides 2, byes 1, noballs 2, legbyes 5)
+
+**Monsoon Mavericks bowling**
 
 | Bowler | O | M | R | W | Econ | WD | NB |
 |---|--:|--:|--:|--:|--:|--:|--:|

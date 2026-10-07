@@ -5,6 +5,7 @@ whose correct scorecard is worked out by hand in the comments.
   python -m unittest discover tests
 """
 import json
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -127,6 +128,15 @@ class SampleMatch(unittest.TestCase):
             bowler_w = sum(b["wickets"] for b in inn["bowling"])
             run_outs = sum(1 for b in inn["batting"] if b["dismissal"].startswith("run out"))
             self.assertEqual(bowler_w + run_outs, inn["wickets"])
+            # Bowling side is the other team, and every bowler credited with a
+            # dismissal appears in this innings' bowling figures.
+            self.assertNotEqual(inn["bowling_team"], inn["batting_team"])
+            self.assertIn(inn["bowling_team"], data["info"]["teams"])
+            bowlers = {b["name"] for b in inn["bowling"]}
+            for b in inn["batting"]:
+                m = re.search(r"(?:^| )b (.+)$", b["dismissal"])
+                if m:
+                    self.assertIn(m.group(1), bowlers)
 
 
 if __name__ == "__main__":

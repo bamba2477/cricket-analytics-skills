@@ -41,8 +41,10 @@ or "fill in" a stat the script didn't produce.
    - the required rate climbing or falling in a chase (`required_rate`)
    - a match-defining partnership (the largest entry in `partnerships`)
 
-   In `turning_points`, `team` is the **batting** side for that innings; the
-   bowler named belongs to the other team.
+   Each innings is named after its **batting** side (`team` /
+   `batting_team`). Its bowling figures belong to `bowling_team`, the other
+   side. The same holds in `turning_points`: the bowler named there bowls for
+   the team that is *not* `team`.
 
 4. **Write the report** in this order:
    1. Headline: one sentence with the result and the deciding factor.
@@ -61,6 +63,10 @@ or "fill in" a stat the script didn't produce.
   fabricated because it disagrees with what you remember. Only question a file
   if the script's consistency checks fail or the JSON is malformed, and then
   say exactly which check failed.
+- Before reporting any other mismatch (e.g. a dismissal's bowler missing from
+  a bowling table), confirm you're comparing within the same innings: a
+  dismissal in Team A's innings is credited to a bowler in Team B's bowling
+  figures for that innings.
 - Don't add facts from memory either (career records, previous meetings,
   who "usually" plays where). Everything in the report comes from the file.
 - Quote figures exactly as computed: `4/31`, `46 (34)`, `RR 8.81`.

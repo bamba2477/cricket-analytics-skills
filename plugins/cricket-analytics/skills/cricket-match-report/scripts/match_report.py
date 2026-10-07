@@ -428,10 +428,14 @@ def build_report(data: dict) -> dict:
         "turning_points": turning_points(innings, match_type),
         "checks": [],
     }
+    teams = info.get("teams", [])
     for inn in innings:
+        others = [t for t in teams if t != inn.team]
         report["innings"].append({
             "number": inn.number,
             "team": inn.team,
+            "batting_team": inn.team,
+            "bowling_team": others[0] if len(others) == 1 else None,
             "super_over": inn.super_over,
             "total": inn.total,
             "wickets": inn.wickets,
@@ -527,6 +531,7 @@ def to_markdown(r: dict) -> str:
     for inn in r["innings"]:
         so = " — super over" if inn["super_over"] else ""
         L.append(f"## {inn['team']} innings{so}: {inn['total']}/{inn['wickets']} ({inn['overs']} ov)")
+        L.append(f"**{inn['team']} batting**\n")
         L.append("| Batter | Dismissal | R | B | 0s | 4s | 6s | SR |\n"
                  "|---|---|--:|--:|--:|--:|--:|--:|")
         for b in inn["batting"]:
@@ -537,6 +542,7 @@ def to_markdown(r: dict) -> str:
         ex = inn["extras"]
         ex_str = ", ".join(f"{k} {v}" for k, v in ex.items()) or "none"
         L.append(f"\nExtras: {sum(ex.values())} ({ex_str})\n")
+        L.append(f"**{inn['bowling_team'] or 'Opposition'} bowling**\n")
         L.append("| Bowler | O | M | R | W | Econ | WD | NB |\n"
                  "|---|--:|--:|--:|--:|--:|--:|--:|")
         for b in inn["bowling"]:
