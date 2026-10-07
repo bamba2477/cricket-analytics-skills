@@ -1,0 +1,3173 @@
+{
+ "match": {
+  "teams": [
+   "Yorkshire",
+   "Essex"
+  ],
+  "dates": [
+   "2026-09-08",
+   "2026-09-09",
+   "2026-09-10"
+  ],
+  "venue": "Headingley, Leeds",
+  "city": "Leeds",
+  "event": "County Championship",
+  "match_number": 57,
+  "match_type": "MDM",
+  "overs": null,
+  "toss": {
+   "decision": "bat",
+   "winner": "Yorkshire"
+  },
+  "player_of_match": [],
+  "result": "Yorkshire won by 106 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Yorkshire",
+   "batting_team": "Yorkshire",
+   "bowling_team": "Essex",
+   "super_over": false,
+   "total": 390,
+   "wickets": 10,
+   "overs": "118.0",
+   "run_rate": 3.31,
+   "target": null,
+   "extras": {
+    "byes": 19,
+    "legbyes": 18,
+    "wides": 2
+   },
+   "batting": [
+    {
+     "name": "A Lyth",
+     "dismissal": "lbw b S Snater",
+     "runs": 62,
+     "balls": 114,
+     "dots": 89,
+     "fours": 11,
+     "sixes": 0,
+     "strike_rate": 54.4
+    },
+    {
+     "name": "W Luxton",
+     "dismissal": "b JA Porter",
+     "runs": 50,
+     "balls": 82,
+     "dots": 64,
+     "fours": 10,
+     "sixes": 0,
+     "strike_rate": 61.0
+    },
+    {
+     "name": "SM Whiteman",
+     "dismissal": "c JA Porter b MJJ Critchley",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JH Wharton",
+     "dismissal": "c D Elgar b MJJ Critchley",
+     "runs": 3,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.0
+    },
+    {
+     "name": "ML Revis",
+     "dismissal": "lbw b MJ Killeen",
+     "runs": 61,
+     "balls": 96,
+     "dots": 69,
+     "fours": 10,
+     "sixes": 0,
+     "strike_rate": 63.5
+    },
+    {
+     "name": "JM Bairstow",
+     "dismissal": "lbw b S Snater",
+     "runs": 5,
+     "balls": 10,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "GCH Hill",
+     "dismissal": "c & b S Snater",
+     "runs": 40,
+     "balls": 135,
+     "dots": 110,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 29.6
+    },
+    {
+     "name": "DM Bess",
+     "dismissal": "not out",
+     "runs": 80,
+     "balls": 137,
+     "dots": 86,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 58.4
+    },
+    {
+     "name": "Kuldeep Yadav",
+     "dismissal": "c & b MJJ Critchley",
+     "runs": 36,
+     "balls": 94,
+     "dots": 71,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 38.3
+    },
+    {
+     "name": "BM Cliff",
+     "dismissal": "c MJ Killeen b MJJ Critchley",
+     "runs": 14,
+     "balls": 24,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 58.3
+    },
+    {
+     "name": "CJ White",
+     "dismissal": "lbw b MJJ Critchley",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JA Porter",
+     "overs": "20.5",
+     "maidens": 2,
+     "runs": 76,
+     "wickets": 1,
+     "economy": 3.65,
+     "dots": 95,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Snater",
+     "overs": "28.0",
+     "maidens": 5,
+     "runs": 82,
+     "wickets": 3,
+     "economy": 2.93,
+     "dots": 127,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Zaman Akhter",
+     "overs": "18.0",
+     "maidens": 3,
+     "runs": 53,
+     "wickets": 0,
+     "economy": 2.94,
+     "dots": 83,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Killeen",
+     "overs": "17.1",
+     "maidens": 5,
+     "runs": 43,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 82,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MJJ Critchley",
+     "overs": "30.0",
+     "maidens": 3,
+     "runs": 85,
+     "wickets": 5,
+     "economy": 2.83,
+     "dots": 127,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "T Westley",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 3.5,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 121,
+     "player": "W Luxton",
+     "over": "30.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 126,
+     "player": "SM Whiteman",
+     "over": "31.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 130,
+     "player": "A Lyth",
+     "over": "34.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 132,
+     "player": "JH Wharton",
+     "over": "35.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 139,
+     "player": "JM Bairstow",
+     "over": "38.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 233,
+     "player": "ML Revis",
+     "over": "64.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 281,
+     "player": "GCH Hill",
+     "over": "85.6",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 364,
+     "player": "Kuldeep Yadav",
+     "over": "111.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 390,
+     "player": "BM Cliff",
+     "over": "117.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 390,
+     "player": "CJ White",
+     "over": "117.6",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 121,
+     "balls": 184,
+     "batters": [
+      "A Lyth",
+      "W Luxton"
+     ],
+     "contributions": {
+      "A Lyth": 59,
+      "W Luxton": 50
+     },
+     "ended_by": "W Luxton (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 6,
+     "batters": [
+      "SM Whiteman",
+      "A Lyth"
+     ],
+     "contributions": {
+      "SM Whiteman": 0,
+      "A Lyth": 1
+     },
+     "ended_by": "SM Whiteman (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 4,
+     "balls": 16,
+     "batters": [
+      "JH Wharton",
+      "A Lyth"
+     ],
+     "contributions": {
+      "JH Wharton": 2,
+      "A Lyth": 2
+     },
+     "ended_by": "A Lyth (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 2,
+     "balls": 10,
+     "batters": [
+      "ML Revis",
+      "JH Wharton"
+     ],
+     "contributions": {
+      "ML Revis": 1,
+      "JH Wharton": 1
+     },
+     "ended_by": "JH Wharton (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 7,
+     "balls": 18,
+     "batters": [
+      "ML Revis",
+      "JM Bairstow"
+     ],
+     "contributions": {
+      "ML Revis": 2,
+      "JM Bairstow": 5
+     },
+     "ended_by": "JM Bairstow (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 94,
+     "balls": 154,
+     "batters": [
+      "ML Revis",
+      "GCH Hill"
+     ],
+     "contributions": {
+      "ML Revis": 58,
+      "GCH Hill": 24
+     },
+     "ended_by": "ML Revis (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 48,
+     "balls": 128,
+     "batters": [
+      "DM Bess",
+      "GCH Hill"
+     ],
+     "contributions": {
+      "DM Bess": 29,
+      "GCH Hill": 16
+     },
+     "ended_by": "GCH Hill (caught and bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 83,
+     "balls": 155,
+     "batters": [
+      "DM Bess",
+      "Kuldeep Yadav"
+     ],
+     "contributions": {
+      "DM Bess": 39,
+      "Kuldeep Yadav": 36
+     },
+     "ended_by": "Kuldeep Yadav (caught and bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 26,
+     "balls": 36,
+     "batters": [
+      "BM Cliff",
+      "DM Bess"
+     ],
+     "contributions": {
+      "BM Cliff": 14,
+      "DM Bess": 12
+     },
+     "ended_by": "BM Cliff (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "CJ White",
+      "DM Bess"
+     ],
+     "contributions": {
+      "CJ White": 0,
+      "DM Bess": 0
+     },
+     "ended_by": "CJ White (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Westley",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Porter",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 99,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 100,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 101,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 102,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 103,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 104,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 105,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 106,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 107,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 108,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 109,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zaman Akhter",
+     "legal_balls": 6
+    },
+    {
+     "over": 110,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Snater",
+     "legal_balls": 6
+    },
+    {
+     "over": 111,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Westley",
+     "legal_balls": 6
+    },
+    {
+     "over": 112,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 113,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Westley",
+     "legal_balls": 6
+    },
+    {
+     "over": 114,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 115,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Westley",
+     "legal_balls": 6
+    },
+    {
+     "over": 116,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    },
+    {
+     "over": 117,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Killeen",
+     "legal_balls": 6
+    },
+    {
+     "over": 118,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MJJ Critchley",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Essex",
+   "batting_team": "Essex",
+   "bowling_team": "Yorkshire",
+   "super_over": false,
+   "total": 171,
+   "wickets": 10,
+   "overs": "69.4",
+   "run_rate": 2.45,
+   "target": null,
+   "extras": {
+    "noballs": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "D Elgar",
+     "dismissal": "lbw b DM Bess",
+     "runs": 34,
+     "balls": 111,
+     "dots": 97,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 30.6
+    },
+    {
+     "name": "PI Walter",
+     "dismissal": "lbw b Kuldeep Yadav",
+     "runs": 4,
+     "balls": 31,
+     "dots": 28,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.9
+    },
+    {
+     "name": "T Westley",
+     "dismissal": "b Kuldeep Yadav",
+     "runs": 0,
+     "balls": 7,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "CWJ Allison",
+     "dismissal": "lbw b Kuldeep Yadav",
+     "runs": 15,
+     "balls": 12,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "MJJ Critchley",
+     "dismissal": "lbw b GCH Hill",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "LM Benkenstein",
+     "dismissal": "lbw b DM Bess",
+     "runs": 10,
+     "balls": 44,
+     "dots": 40,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 22.7
+    },
+    {
+     "name": "GJ Bell",
+     "dismissal": "not out",
+     "runs": 64,
+     "balls": 118,
+     "dots": 84,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 54.2
+    },
+    {
+     "name": "S Snater",
+     "dismissal": "b DM Bess",
+     "runs": 10,
+     "balls": 20,
+     "dots": 14,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Zaman Akhter",
+     "dismissal": "c JM Bairstow b GCH Hill",
+     "runs": 29,
+     "balls": 67,
+     "dots": 52,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 43.3
+    },
+    {
+     "name": "MJ Killeen",
+     "dismissal": "b Kuldeep Yadav",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "SJ Cook",
+     "dismissal": "b GCH Hill",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "CJ White",
+     "overs": "13.0",
+     "maidens": 6,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 2.15,
+     "dots": 67,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "BM Cliff",
+     "overs": "9.0",
+     "maidens": 4,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 46,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Kuldeep Yadav",
+     "overs": "23.0",
+     "maidens": 6,
+     "runs": 70,
+     "wickets": 4,
+     "economy": 3.04,
+     "dots": 104,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DM Bess",
+     "overs": "12.0",
+     "maidens": 2,
+     "runs": 36,
+     "wickets": 3,
+     "economy": 3.0,
+     "dots": 56,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GCH Hill",
+     "overs": "9.4",
+     "maidens": 6,
+     "runs": 12,
+     "wickets": 3,
+     "economy": 1.24,
+     "dots": 50,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Lyth",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 15,
+     "player": "PI Walter",
+     "over": "10.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 15,
+     "player": "T Westley",
+     "over": "12.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 31,
+     "player": "CWJ Allison",
+     "over": "16.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 32,
+     "player": "MJJ Critchley",
+     "over": "17.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 66,
+     "player": "LM Benkenstein",
+     "over": "33.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 75,
+     "player": "D Elgar",
+     "over": "35.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 97,
+     "player": "S Snater",
+     "over": "43.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 165,
+     "player": "Zaman Akhter",
+     "over": "67.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 168,
+     "player": "MJ Killeen",
+     "over": "68.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 171,
+     "player": "SJ Cook",
+     "over": "69.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 15,
+     "balls": 64,
+     "batters": [
+      "D Elgar",
+      "PI Walter"
+     ],
+     "contributions": {
+      "D Elgar": 11,
+      "PI Walter": 4
+     },
+     "ended_by": "PI Walter (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 13,
+     "batters": [
+      "T Westley",
+      "D Elgar"
+     ],
+     "contributions": {
+      "T Westley": 0,
+      "D Elgar": 0
+     },
+     "ended_by": "T Westley (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 16,
+     "balls": 22,
+     "batters": [
+      "CWJ Allison",
+      "D Elgar"
+     ],
+     "contributions": {
+      "CWJ Allison": 15,
+      "D Elgar": 1
+     },
+     "ended_by": "CWJ Allison (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 5,
+     "batters": [
+      "MJJ Critchley",
+      "D Elgar"
+     ],
+     "contributions": {
+      "MJJ Critchley": 1,
+      "D Elgar": 0
+     },
+     "ended_by": "MJJ Critchley (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 34,
+     "balls": 95,
+     "batters": [
+      "LM Benkenstein",
+      "D Elgar"
+     ],
+     "contributions": {
+      "LM Benkenstein": 10,
+      "D Elgar": 22
+     },
+     "ended_by": "LM Benkenstein (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 9,
+     "balls": 17,
+     "batters": [
+      "GJ Bell",
+      "D Elgar"
+     ],
+     "contributions": {
+      "GJ Bell": 9,
+      "D Elgar": 0
+     },
+     "ended_by": "D Elgar (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 22,
+     "balls": 44,
+     "batters": [
+      "GJ Bell",
+      "S Snater"
+     ],
+     "contributions": {
+      "GJ Bell": 12,
+      "S Snater": 10
+     },
+     "ended_by": "S Snater (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 68,
+     "balls": 146,
+     "batters": [
+      "Zaman Akhter",
+      "GJ Bell"
+     ],
+     "contributions": {
+      "Zaman Akhter": 29,
+      "GJ Bell": 38
+     },
+     "ended_by": "Zaman Akhter (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 3,
+     "balls": 8,
+     "batters": [
+      "MJ Killeen",
+      "GJ Bell"
+     ],
+     "contributions": {
+      "MJ Killeen": 1,
+      "GJ Bell": 2
+     },
+     "ended_by": "MJ Killeen (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "GJ Bell",
+      "SJ Cook"
+     ],
+     "contributions": {
+      "GJ Bell": 3,
+      "SJ Cook": 0
+     },
+     "ended_by": "SJ Cook (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Lyth",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Lyth",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Lyth",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Cliff",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GCH Hill",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Essex",
+   "batting_team": "Essex",
+   "bowling_team": "Yorkshire",
+   "super_over": false,
+   "total": 113,
+   "wickets": 10,
+   "overs": "40.0",
+   "run_rate": 2.83,
+   "target": null,
+   "extras": {
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "PI Walter",
+     "dismissal": "st JM Bairstow b DM Bess",
+     "runs": 48,
+     "balls": 104,
+     "dots": 87,
+     "fours": 7,
+     "sixes": 1,
+     "strike_rate": 46.2
+    },
+    {
+     "name": "D Elgar",
+     "dismissal": "c JM Bairstow b GCH Hill",
+     "runs": 4,
+     "balls": 18,
+     "dots": 17,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 22.2
+    },
+    {
+     "name": "T Westley",
+     "dismissal": "lbw b GCH Hill",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "CWJ Allison",
+     "dismissal": "c JH Wharton b Kuldeep Yadav",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "MJJ Critchley",
+     "dismissal": "b Kuldeep Yadav",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "LM Benkenstein",
+     "dismissal": "c GCH Hill b Kuldeep Yadav",
+     "runs": 4,
+     "balls": 6,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "GJ Bell",
+     "dismissal": "c JM Bairstow b Kuldeep Yadav",
+     "runs": 28,
+     "balls": 40,
+     "dots": 26,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 70.0
+    },
+    {
+     "name": "S Snater",
+     "dismissal": "lbw b DM Bess",
+     "runs": 4,
+     "balls": 8,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Zaman Akhter",
+     "dismissal": "b Kuldeep Yadav",
+     "runs": 7,
+     "balls": 8,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 87.5
+    },
+    {
+     "name": "MJ Killeen",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 23,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 52.2
+    },
+    {
+     "name": "SJ Cook",
+     "dismissal": "b Kuldeep Yadav",
+     "runs": 1,
+     "balls": 16,
+     "dots": 15,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 6.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "GCH Hill",
+     "overs": "6.0",
+     "maidens": 4,
+     "runs": 2,
+     "wickets": 2,
+     "economy": 0.33,
+     "dots": 34,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "CJ White",
+     "overs": "4.0",
+     "maidens": 2,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Kuldeep Yadav",
+     "overs": "16.0",
+     "maidens": 3,
+     "runs": 50,
+     "wickets": 6,
+     "economy": 3.12,
+     "dots": 71,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "ML Revis",
+     "overs": "4.0",
+     "maidens": 2,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 3.25,
+     "dots": 20,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DM Bess",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 32,
+     "wickets": 2,
+     "economy": 3.2,
+     "dots": 45,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "D Elgar",
+     "over": "6.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 13,
+     "player": "T Westley",
+     "over": "8.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 14,
+     "player": "CWJ Allison",
+     "over": "11.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 14,
+     "player": "MJJ Critchley",
+     "over": "11.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 26,
+     "player": "LM Benkenstein",
+     "over": "13.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 66,
+     "player": "GJ Bell",
+     "over": "27.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 71,
+     "player": "S Snater",
+     "over": "28.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 84,
+     "player": "Zaman Akhter",
+     "over": "31.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 106,
+     "player": "PI Walter",
+     "over": "34.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 10,
+     "score": 113,
+     "player": "SJ Cook",
+     "over": "39.6",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 38,
+     "batters": [
+      "PI Walter",
+      "D Elgar"
+     ],
+     "contributions": {
+      "PI Walter": 9,
+      "D Elgar": 4
+     },
+     "ended_by": "D Elgar (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 16,
+     "batters": [
+      "T Westley",
+      "PI Walter"
+     ],
+     "contributions": {
+      "T Westley": 0,
+      "PI Walter": 0
+     },
+     "ended_by": "T Westley (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 17,
+     "batters": [
+      "PI Walter",
+      "CWJ Allison"
+     ],
+     "contributions": {
+      "PI Walter": 0,
+      "CWJ Allison": 1
+     },
+     "ended_by": "CWJ Allison (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "MJJ Critchley",
+      "PI Walter"
+     ],
+     "contributions": {
+      "MJJ Critchley": 0,
+      "PI Walter": 0
+     },
+     "ended_by": "MJJ Critchley (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 12,
+     "balls": 12,
+     "batters": [
+      "PI Walter",
+      "LM Benkenstein"
+     ],
+     "contributions": {
+      "PI Walter": 8,
+      "LM Benkenstein": 4
+     },
+     "ended_by": "LM Benkenstein (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 40,
+     "balls": 79,
+     "batters": [
+      "PI Walter",
+      "GJ Bell"
+     ],
+     "contributions": {
+      "PI Walter": 12,
+      "GJ Bell": 28
+     },
+     "ended_by": "GJ Bell (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 11,
+     "batters": [
+      "S Snater",
+      "PI Walter"
+     ],
+     "contributions": {
+      "S Snater": 4,
+      "PI Walter": 1
+     },
+     "ended_by": "S Snater (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 13,
+     "balls": 16,
+     "batters": [
+      "PI Walter",
+      "Zaman Akhter"
+     ],
+     "contributions": {
+      "PI Walter": 6,
+      "Zaman Akhter": 7
+     },
+     "ended_by": "Zaman Akhter (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 22,
+     "balls": 18,
+     "batters": [
+      "MJ Killeen",
+      "PI Walter"
+     ],
+     "contributions": {
+      "MJ Killeen": 6,
+      "PI Walter": 12
+     },
+     "ended_by": "PI Walter (stumped)"
+    },
+    {
+     "wicket": 10,
+     "runs": 7,
+     "balls": 32,
+     "batters": [
+      "SJ Cook",
+      "MJ Killeen"
+     ],
+     "contributions": {
+      "SJ Cook": 1,
+      "MJ Killeen": 6
+     },
+     "ended_by": "SJ Cook (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ White",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GCH Hill",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Revis",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Revis",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Revis",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Revis",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Bess",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Kuldeep Yadav",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DM Bess",
+    "runs": 80,
+    "balls": 137,
+    "strike_rate": 58.4
+   },
+   {
+    "name": "GJ Bell",
+    "runs": 64,
+    "balls": 118,
+    "strike_rate": 54.2
+   },
+   {
+    "name": "A Lyth",
+    "runs": 62,
+    "balls": 114,
+    "strike_rate": 54.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Kuldeep Yadav",
+    "figures": "6/50",
+    "overs": "16.0",
+    "economy": 3.12
+   },
+   {
+    "name": "MJJ Critchley",
+    "figures": "5/85",
+    "overs": "30.0",
+    "economy": 2.83
+   },
+   {
+    "name": "Kuldeep Yadav",
+    "figures": "4/70",
+    "overs": "23.0",
+    "economy": 3.04
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Yorkshire",
+   "type": "big_over",
+   "over": 17,
+   "detail": "Over 17 (Zaman Akhter) went for 12 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Yorkshire",
+   "type": "big_over",
+   "over": 46,
+   "detail": "Over 46 (JA Porter) went for 12 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Yorkshire",
+   "type": "wicket_burst",
+   "over": 118,
+   "detail": "2 wickets fell in over 118 (bowled by MJJ Critchley, 2 credited to MJJ Critchley)"
+  },
+  {
+   "innings": 2,
+   "team": "Essex",
+   "type": "big_over",
+   "over": 53,
+   "detail": "Over 53 (Kuldeep Yadav) went for 12 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Essex",
+   "type": "collapse",
+   "over": 68,
+   "detail": "3 wickets fell between overs 68 and 70"
+  },
+  {
+   "innings": 3,
+   "team": "Essex",
+   "type": "wicket_burst",
+   "over": 12,
+   "detail": "2 wickets fell in over 12 (bowled by Kuldeep Yadav, 2 credited to Kuldeep Yadav)"
+  },
+  {
+   "innings": 3,
+   "team": "Essex",
+   "type": "big_over",
+   "over": 34,
+   "detail": "Over 34 (Kuldeep Yadav) went for 12 runs"
+  }
+ ],
+ "checks": []
+}

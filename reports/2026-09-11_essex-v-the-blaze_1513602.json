@@ -1,0 +1,1222 @@
+{
+ "match": {
+  "teams": [
+   "Essex",
+   "The Blaze"
+  ],
+  "dates": [
+   "2026-09-11"
+  ],
+  "venue": "Queen's Park, Chesterfield",
+  "city": "Chesterfield",
+  "event": "ECB Women's One-Day Cup",
+  "match_number": 69,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "The Blaze"
+  },
+  "player_of_match": [],
+  "result": "The Blaze won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Essex",
+   "batting_team": "Essex",
+   "bowling_team": "The Blaze",
+   "super_over": false,
+   "total": 159,
+   "wickets": 10,
+   "overs": "45.4",
+   "run_rate": 3.48,
+   "target": null,
+   "extras": {
+    "wides": 11,
+    "byes": 1,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "B Gillgrass",
+     "dismissal": "lbw b CM McCarthy",
+     "runs": 19,
+     "balls": 21,
+     "dots": 13,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 90.5
+    },
+    {
+     "name": "G Scrivens",
+     "dismissal": "b KL Gordon",
+     "runs": 70,
+     "balls": 116,
+     "dots": 68,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 60.3
+    },
+    {
+     "name": "J Grewcock",
+     "dismissal": "c LF Higham b CM McCarthy",
+     "runs": 5,
+     "balls": 15,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Sophia Smale",
+     "dismissal": "lbw b LF Higham",
+     "runs": 20,
+     "balls": 27,
+     "dots": 18,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 74.1
+    },
+    {
+     "name": "J Gardner",
+     "dismissal": "c G Ballinger b LF Higham",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "MAB Adams",
+     "dismissal": "lbw b KL Gordon",
+     "runs": 3,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 42.9
+    },
+    {
+     "name": "L Heap",
+     "dismissal": "b KE Bryce",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "S Munro",
+     "dismissal": "run out (E Jones, TT Beaumont, SJ Bryce)",
+     "runs": 10,
+     "balls": 39,
+     "dots": 29,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.6
+    },
+    {
+     "name": "EI MacGregor",
+     "dismissal": "c & b KL Gordon",
+     "runs": 13,
+     "balls": 20,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "CA Thaker",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "AH Maqsood",
+     "dismissal": "c CM McCarthy b KE Bryce",
+     "runs": 3,
+     "balls": 7,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 42.9
+    }
+   ],
+   "bowling": [
+    {
+     "name": "G Ballinger",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 0,
+     "economy": 3.29,
+     "dots": 29,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "CN Phillips",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 4.8,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "CM McCarthy",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 44,
+     "wickets": 2,
+     "economy": 6.29,
+     "dots": 22,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "LF Higham",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 28,
+     "wickets": 2,
+     "economy": 2.8,
+     "dots": 39,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "KE Bryce",
+     "overs": "7.4",
+     "maidens": 2,
+     "runs": 14,
+     "wickets": 2,
+     "economy": 1.83,
+     "dots": 35,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "KL Gordon",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 3,
+     "economy": 2.78,
+     "dots": 37,
+     "wides": 3,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 44,
+     "wickets": 1,
+     "run_rate": 4.4
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 93,
+     "wickets": 6,
+     "run_rate": 3.1
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "5.4",
+     "runs": 22,
+     "wickets": 3,
+     "run_rate": 3.88
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 34,
+     "player": "B Gillgrass",
+     "over": "7.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 50,
+     "player": "J Grewcock",
+     "over": "11.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 80,
+     "player": "Sophia Smale",
+     "over": "18.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 82,
+     "player": "J Gardner",
+     "over": "20.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 86,
+     "player": "MAB Adams",
+     "over": "22.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 89,
+     "player": "L Heap",
+     "over": "23.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 130,
+     "player": "S Munro",
+     "over": "37.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 8,
+     "score": 150,
+     "player": "EI MacGregor",
+     "over": "42.4",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 156,
+     "player": "G Scrivens",
+     "over": "44.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 159,
+     "player": "AH Maqsood",
+     "over": "45.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 34,
+     "balls": 45,
+     "batters": [
+      "B Gillgrass",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "B Gillgrass": 19,
+      "G Scrivens": 14
+     },
+     "ended_by": "B Gillgrass (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 16,
+     "balls": 27,
+     "batters": [
+      "J Grewcock",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "J Grewcock": 5,
+      "G Scrivens": 9
+     },
+     "ended_by": "J Grewcock (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 30,
+     "balls": 39,
+     "batters": [
+      "G Scrivens",
+      "Sophia Smale"
+     ],
+     "contributions": {
+      "G Scrivens": 6,
+      "Sophia Smale": 20
+     },
+     "ended_by": "Sophia Smale (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 2,
+     "balls": 11,
+     "batters": [
+      "J Gardner",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "J Gardner": 1,
+      "G Scrivens": 1
+     },
+     "ended_by": "J Gardner (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 4,
+     "balls": 11,
+     "batters": [
+      "MAB Adams",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "MAB Adams": 3,
+      "G Scrivens": 1
+     },
+     "ended_by": "MAB Adams (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 3,
+     "balls": 10,
+     "batters": [
+      "L Heap",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "L Heap": 1,
+      "G Scrivens": 2
+     },
+     "ended_by": "L Heap (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 41,
+     "balls": 84,
+     "batters": [
+      "S Munro",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "S Munro": 10,
+      "G Scrivens": 28
+     },
+     "ended_by": "S Munro (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 20,
+     "balls": 29,
+     "batters": [
+      "EI MacGregor",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "EI MacGregor": 13,
+      "G Scrivens": 6
+     },
+     "ended_by": "EI MacGregor (caught and bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 6,
+     "balls": 9,
+     "batters": [
+      "CA Thaker",
+      "G Scrivens"
+     ],
+     "contributions": {
+      "CA Thaker": 1,
+      "G Scrivens": 3
+     },
+     "ended_by": "G Scrivens (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 3,
+     "balls": 9,
+     "batters": [
+      "AH Maqsood",
+      "CA Thaker"
+     ],
+     "contributions": {
+      "AH Maqsood": 3,
+      "CA Thaker": 0
+     },
+     "ended_by": "AH Maqsood (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Phillips",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Phillips",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Phillips",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KE Bryce",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ballinger",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "CN Phillips",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Phillips",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LF Higham",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CM McCarthy",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KL Gordon",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KE Bryce",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "The Blaze",
+   "batting_team": "The Blaze",
+   "bowling_team": "Essex",
+   "super_over": false,
+   "total": 162,
+   "wickets": 1,
+   "overs": "19.1",
+   "run_rate": 8.45,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "wides": 16
+   },
+   "batting": [
+    {
+     "name": "SJ Bryce",
+     "dismissal": "not out",
+     "runs": 70,
+     "balls": 52,
+     "dots": 21,
+     "fours": 10,
+     "sixes": 0,
+     "strike_rate": 134.6
+    },
+    {
+     "name": "TT Beaumont",
+     "dismissal": "b EI MacGregor",
+     "runs": 7,
+     "balls": 17,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 41.2
+    },
+    {
+     "name": "KE Bryce",
+     "dismissal": "not out",
+     "runs": 67,
+     "balls": 46,
+     "dots": 23,
+     "fours": 12,
+     "sixes": 1,
+     "strike_rate": 145.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "EI MacGregor",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 1,
+     "economy": 8.75,
+     "dots": 12,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "CA Thaker",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 4.33,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "S Munro",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sophia Smale",
+     "overs": "4.1",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 8.64,
+     "dots": 14,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "AH Maqsood",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Grewcock",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 9.67,
+     "dots": 7,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "B Gillgrass",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 76,
+     "wickets": 1,
+     "run_rate": 7.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "9.1",
+     "runs": 86,
+     "wickets": 0,
+     "run_rate": 9.38
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 30,
+     "player": "TT Beaumont",
+     "over": "4.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 30,
+     "balls": 29,
+     "batters": [
+      "SJ Bryce",
+      "TT Beaumont"
+     ],
+     "contributions": {
+      "SJ Bryce": 17,
+      "TT Beaumont": 7
+     },
+     "ended_by": "TT Beaumont (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 132,
+     "balls": 86,
+     "batters": [
+      "KE Bryce",
+      "SJ Bryce"
+     ],
+     "contributions": {
+      "KE Bryce": 67,
+      "SJ Bryce": 53
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "EI MacGregor",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CA Thaker",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "EI MacGregor",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CA Thaker",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "EI MacGregor",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CA Thaker",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "EI MacGregor",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Munro",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sophia Smale",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Munro",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sophia Smale",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AH Maqsood",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Grewcock",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AH Maqsood",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Grewcock",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sophia Smale",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Grewcock",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sophia Smale",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Gillgrass",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sophia Smale",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "SJ Bryce",
+    "runs": 70,
+    "balls": 52,
+    "strike_rate": 134.6
+   },
+   {
+    "name": "G Scrivens",
+    "runs": 70,
+    "balls": 116,
+    "strike_rate": 60.3
+   },
+   {
+    "name": "KE Bryce",
+    "runs": 67,
+    "balls": 46,
+    "strike_rate": 145.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "KL Gordon",
+    "figures": "3/25",
+    "overs": "9.0",
+    "economy": 2.78
+   },
+   {
+    "name": "KE Bryce",
+    "figures": "2/14",
+    "overs": "7.4",
+    "economy": 1.83
+   },
+   {
+    "name": "LF Higham",
+    "figures": "2/28",
+    "overs": "10.0",
+    "economy": 2.8
+   }
+  ]
+ },
+ "turning_points": [],
+ "checks": []
+}

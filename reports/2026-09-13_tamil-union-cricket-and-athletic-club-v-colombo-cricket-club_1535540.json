@@ -1,0 +1,1352 @@
+{
+ "match": {
+  "teams": [
+   "Tamil Union Cricket and Athletic Club",
+   "Colombo Cricket Club"
+  ],
+  "dates": [
+   "2026-09-13"
+  ],
+  "venue": "Sinhalese Sports Club Ground, Colombo",
+  "city": "Colombo",
+  "event": "Major Clubs T20 Tournament",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Colombo Cricket Club"
+  },
+  "player_of_match": [],
+  "result": "Tie"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Tamil Union Cricket and Athletic Club",
+   "batting_team": "Tamil Union Cricket and Athletic Club",
+   "bowling_team": "Colombo Cricket Club",
+   "super_over": false,
+   "total": 193,
+   "wickets": 6,
+   "overs": "20.0",
+   "run_rate": 9.65,
+   "target": null,
+   "extras": {
+    "wides": 7,
+    "legbyes": 1,
+    "noballs": 1,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "PTM Dabare",
+     "dismissal": "c D Ranatunga b L Croospulle",
+     "runs": 42,
+     "balls": 17,
+     "dots": 3,
+     "fours": 6,
+     "sixes": 2,
+     "strike_rate": 247.1
+    },
+    {
+     "name": "Sineth Jayawardena",
+     "dismissal": "lbw b MVT Fernando",
+     "runs": 17,
+     "balls": 12,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 141.7
+    },
+    {
+     "name": "ND Paranavithana",
+     "dismissal": "c D Sigera b D Ranatunga",
+     "runs": 5,
+     "balls": 3,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 166.7
+    },
+    {
+     "name": "M Bhanuka",
+     "dismissal": "c MVT Fernando b L Croospulle",
+     "runs": 6,
+     "balls": 13,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.2
+    },
+    {
+     "name": "S Shanmuganathan",
+     "dismissal": "not out",
+     "runs": 36,
+     "balls": 27,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "STS Senarathne",
+     "dismissal": "b D Ranatunga",
+     "runs": 33,
+     "balls": 25,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 3,
+     "strike_rate": 132.0
+    },
+    {
+     "name": "S Jayathilake",
+     "dismissal": "c GS Dinusha b MVT Fernando",
+     "runs": 32,
+     "balls": 20,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 160.0
+    },
+    {
+     "name": "SMLD Samarakoon",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 4,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 300.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MVT Fernando",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 49,
+     "wickets": 2,
+     "economy": 12.25,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "D Ranatunga",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 48,
+     "wickets": 2,
+     "economy": 12.0,
+     "dots": 6,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "A Daniel",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 12.5,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "L Croospulle",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "C Wijesinghe",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 8.25,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "GS Dinusha",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 4.33,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sanvidu Dissanayake",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 13.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 69,
+     "wickets": 2,
+     "run_rate": 11.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 59,
+     "wickets": 3,
+     "run_rate": 6.56
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 65,
+     "wickets": 1,
+     "run_rate": 13.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 48,
+     "player": "Sineth Jayawardena",
+     "over": "3.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 53,
+     "player": "ND Paranavithana",
+     "over": "4.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 69,
+     "player": "PTM Dabare",
+     "over": "6.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 76,
+     "player": "M Bhanuka",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 121,
+     "player": "STS Senarathne",
+     "over": "13.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 180,
+     "player": "S Jayathilake",
+     "over": "19.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 48,
+     "balls": 22,
+     "batters": [
+      "PTM Dabare",
+      "Sineth Jayawardena"
+     ],
+     "contributions": {
+      "PTM Dabare": 29,
+      "Sineth Jayawardena": 17
+     },
+     "ended_by": "Sineth Jayawardena (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 3,
+     "batters": [
+      "ND Paranavithana",
+      "PTM Dabare"
+     ],
+     "contributions": {
+      "ND Paranavithana": 5,
+      "PTM Dabare": 0
+     },
+     "ended_by": "ND Paranavithana (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 16,
+     "balls": 12,
+     "batters": [
+      "M Bhanuka",
+      "PTM Dabare"
+     ],
+     "contributions": {
+      "M Bhanuka": 2,
+      "PTM Dabare": 13
+     },
+     "ended_by": "PTM Dabare (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 7,
+     "balls": 12,
+     "batters": [
+      "S Shanmuganathan",
+      "M Bhanuka"
+     ],
+     "contributions": {
+      "S Shanmuganathan": 3,
+      "M Bhanuka": 4
+     },
+     "ended_by": "M Bhanuka (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 45,
+     "balls": 34,
+     "batters": [
+      "STS Senarathne",
+      "S Shanmuganathan"
+     ],
+     "contributions": {
+      "STS Senarathne": 33,
+      "S Shanmuganathan": 9
+     },
+     "ended_by": "STS Senarathne (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 59,
+     "balls": 33,
+     "batters": [
+      "S Jayathilake",
+      "S Shanmuganathan"
+     ],
+     "contributions": {
+      "S Jayathilake": 32,
+      "S Shanmuganathan": 24
+     },
+     "ended_by": "S Jayathilake (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 13,
+     "balls": 4,
+     "batters": [
+      "SMLD Samarakoon",
+      "S Shanmuganathan"
+     ],
+     "contributions": {
+      "SMLD Samarakoon": 12,
+      "S Shanmuganathan": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MVT Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Ranatunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Daniel",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MVT Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Ranatunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Daniel",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "L Croospulle",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Wijesinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "L Croospulle",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GS Dinusha",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Wijesinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sanvidu Dissanayake",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GS Dinusha",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Ranatunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GS Dinusha",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Wijesinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MVT Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Wijesinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Ranatunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MVT Fernando",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Colombo Cricket Club",
+   "batting_team": "Colombo Cricket Club",
+   "bowling_team": "Tamil Union Cricket and Athletic Club",
+   "super_over": false,
+   "total": 193,
+   "wickets": 6,
+   "overs": "20.0",
+   "run_rate": 9.65,
+   "target": 194,
+   "extras": {
+    "wides": 5,
+    "legbyes": 4,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "KNM Fernando",
+     "dismissal": "not out",
+     "runs": 109,
+     "balls": 65,
+     "dots": 16,
+     "fours": 7,
+     "sixes": 6,
+     "strike_rate": 167.7
+    },
+    {
+     "name": "L Croospulle",
+     "dismissal": "c S Shanmuganathan b B Fernando",
+     "runs": 20,
+     "balls": 10,
+     "dots": 2,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "D Sigera",
+     "dismissal": "c M Bhanuka b PTM Dabare",
+     "runs": 31,
+     "balls": 18,
+     "dots": 5,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 172.2
+    },
+    {
+     "name": "GS Dinusha",
+     "dismissal": "c V Thewmika b V Viyaskanth",
+     "runs": 7,
+     "balls": 10,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 70.0
+    },
+    {
+     "name": "KNA Bandara",
+     "dismissal": "lbw b S Jayathilake",
+     "runs": 7,
+     "balls": 5,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "S Kosala",
+     "dismissal": "c Sineth Jayawardena b B Fernando",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "C Wijesinghe",
+     "dismissal": "c PTM Dabare b B Fernando",
+     "runs": 6,
+     "balls": 7,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 85.7
+    },
+    {
+     "name": "D Ranatunga",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "B Fernando",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 3,
+     "economy": 7.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SMLD Samarakoon",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 47,
+     "wickets": 0,
+     "economy": 11.75,
+     "dots": 4,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "ND Paranavithana",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "V Viyaskanth",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 8.25,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PTM Dabare",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 14.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Jayathilake",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 70,
+     "wickets": 1,
+     "run_rate": 11.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 80,
+     "wickets": 3,
+     "run_rate": 8.89
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 43,
+     "wickets": 2,
+     "run_rate": 8.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 36,
+     "player": "L Croospulle",
+     "over": "2.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 100,
+     "player": "D Sigera",
+     "over": "9.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 139,
+     "player": "GS Dinusha",
+     "over": "13.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 150,
+     "player": "KNA Bandara",
+     "over": "14.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 164,
+     "player": "S Kosala",
+     "over": "16.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 180,
+     "player": "C Wijesinghe",
+     "over": "19.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 36,
+     "balls": 18,
+     "batters": [
+      "KNM Fernando",
+      "L Croospulle"
+     ],
+     "contributions": {
+      "KNM Fernando": 15,
+      "L Croospulle": 20
+     },
+     "ended_by": "L Croospulle (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 64,
+     "balls": 37,
+     "batters": [
+      "KNM Fernando",
+      "D Sigera"
+     ],
+     "contributions": {
+      "KNM Fernando": 29,
+      "D Sigera": 31
+     },
+     "ended_by": "D Sigera (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 39,
+     "balls": 27,
+     "batters": [
+      "GS Dinusha",
+      "KNM Fernando"
+     ],
+     "contributions": {
+      "GS Dinusha": 7,
+      "KNM Fernando": 29
+     },
+     "ended_by": "GS Dinusha (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 11,
+     "balls": 8,
+     "batters": [
+      "KNA Bandara",
+      "KNM Fernando"
+     ],
+     "contributions": {
+      "KNA Bandara": 7,
+      "KNM Fernando": 4
+     },
+     "ended_by": "KNA Bandara (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 9,
+     "batters": [
+      "KNM Fernando",
+      "S Kosala"
+     ],
+     "contributions": {
+      "KNM Fernando": 11,
+      "S Kosala": 2
+     },
+     "ended_by": "S Kosala (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 16,
+     "balls": 16,
+     "batters": [
+      "C Wijesinghe",
+      "KNM Fernando"
+     ],
+     "contributions": {
+      "C Wijesinghe": 6,
+      "KNM Fernando": 9
+     },
+     "ended_by": "C Wijesinghe (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 13,
+     "balls": 5,
+     "batters": [
+      "D Ranatunga",
+      "KNM Fernando"
+     ],
+     "contributions": {
+      "D Ranatunga": 0,
+      "KNM Fernando": 12
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 21,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SMLD Samarakoon",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ND Paranavithana",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "V Viyaskanth",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ND Paranavithana",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "V Viyaskanth",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PTM Dabare",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Jayathilake",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "PTM Dabare",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Jayathilake",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SMLD Samarakoon",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Jayathilake",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "V Viyaskanth",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Jayathilake",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SMLD Samarakoon",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "V Viyaskanth",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SMLD Samarakoon",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Fernando",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Colombo Cricket Club",
+   "batting_team": "Colombo Cricket Club",
+   "bowling_team": "Tamil Union Cricket and Athletic Club",
+   "super_over": true,
+   "total": 0,
+   "wickets": 2,
+   "overs": "0.2",
+   "run_rate": 0.0,
+   "target": null,
+   "extras": {},
+   "batting": [
+    {
+     "name": "KNM Fernando",
+     "dismissal": "c PTM Dabare b B Fernando",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "KNA Bandara",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    },
+    {
+     "name": "D Sigera",
+     "dismissal": "c V Thewmika b B Fernando",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "B Fernando",
+     "overs": "0.2",
+     "maidens": 0,
+     "runs": 0,
+     "wickets": 2,
+     "economy": 0.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "KNM Fernando",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 0,
+     "player": "D Sigera",
+     "over": "0.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "KNM Fernando",
+      "KNA Bandara"
+     ],
+     "contributions": {
+      "KNM Fernando": 0,
+      "KNA Bandara": 0
+     },
+     "ended_by": "KNM Fernando (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "D Sigera",
+      "KNA Bandara"
+     ],
+     "contributions": {
+      "D Sigera": 0,
+      "KNA Bandara": 0
+     },
+     "ended_by": "D Sigera (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "B Fernando",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "team": "Tamil Union Cricket and Athletic Club",
+   "batting_team": "Tamil Union Cricket and Athletic Club",
+   "bowling_team": "Colombo Cricket Club",
+   "super_over": true,
+   "total": 6,
+   "wickets": 1,
+   "overs": "0.4",
+   "run_rate": 9.0,
+   "target": null,
+   "extras": {},
+   "batting": [
+    {
+     "name": "PTM Dabare",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "Sineth Jayawardena",
+     "dismissal": "run out (L Croospulle)",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    },
+    {
+     "name": "S Jayathilake",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    }
+   ],
+   "bowling": [
+    {
+     "name": "A Daniel",
+     "overs": "0.4",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "Sineth Jayawardena",
+     "over": "0.2",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "PTM Dabare",
+      "Sineth Jayawardena"
+     ],
+     "contributions": {
+      "PTM Dabare": 0,
+      "Sineth Jayawardena": 0
+     },
+     "ended_by": "Sineth Jayawardena (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 6,
+     "balls": 2,
+     "batters": [
+      "PTM Dabare",
+      "S Jayathilake"
+     ],
+     "contributions": {
+      "PTM Dabare": 6,
+      "S Jayathilake": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "A Daniel",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "KNM Fernando",
+    "runs": 109,
+    "balls": 65,
+    "strike_rate": 167.7
+   },
+   {
+    "name": "PTM Dabare",
+    "runs": 42,
+    "balls": 17,
+    "strike_rate": 247.1
+   },
+   {
+    "name": "S Shanmuganathan",
+    "runs": 36,
+    "balls": 27,
+    "strike_rate": 133.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "B Fernando",
+    "figures": "3/30",
+    "overs": "4.0",
+    "economy": 7.5
+   },
+   {
+    "name": "L Croospulle",
+    "figures": "2/10",
+    "overs": "2.0",
+    "economy": 5.0
+   },
+   {
+    "name": "D Ranatunga",
+    "figures": "2/48",
+    "overs": "4.0",
+    "economy": 12.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Tamil Union Cricket and Athletic Club",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (A Daniel) went for 16 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Tamil Union Cricket and Athletic Club",
+   "type": "big_over",
+   "over": 19,
+   "detail": "Over 19 (D Ranatunga) went for 17 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Colombo Cricket Club",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (SMLD Samarakoon) went for 21 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Colombo Cricket Club",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (ND Paranavithana) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Colombo Cricket Club",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 70 scored, needed 124 from 14 overs (RRR 8.86)"
+  },
+  {
+   "innings": 2,
+   "team": "Colombo Cricket Club",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 114 scored, needed 80 from 10 overs (RRR 8.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Colombo Cricket Club",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 150 scored, needed 44 from 5 overs (RRR 8.8)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1031 @@
+{
+ "match": {
+  "teams": [
+   "Sierra Leone",
+   "Rwanda"
+  ],
+  "dates": [
+   "2026-09-16"
+  ],
+  "venue": "Gahanga International Cricket Stadium, Rwanda",
+  "city": "Kigali City",
+  "event": "Africa Continental Cup",
+  "match_number": 16,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Sierra Leone"
+  },
+  "player_of_match": [
+   "E Kubwimana"
+  ],
+  "result": "Rwanda won by 6 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Sierra Leone",
+   "batting_team": "Sierra Leone",
+   "bowling_team": "Rwanda",
+   "super_over": false,
+   "total": 87,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 4.35,
+   "target": null,
+   "extras": {
+    "wides": 5,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "A Turay",
+     "dismissal": "c D Ndikubwimana b E Kubwimana",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "R Coker",
+     "dismissal": "b E Kubwimana",
+     "runs": 9,
+     "balls": 12,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "AB Kamara",
+     "dismissal": "b E Rukiriza",
+     "runs": 34,
+     "balls": 36,
+     "dots": 17,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 94.4
+    },
+    {
+     "name": "Aliya Kamara",
+     "dismissal": "b E Kubwimana",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "EM Turay",
+     "dismissal": "b E Kubwimana",
+     "runs": 0,
+     "balls": 8,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "L Lamin",
+     "dismissal": "lbw b Muhammad Nadir",
+     "runs": 14,
+     "balls": 15,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 93.3
+    },
+    {
+     "name": "G Sesay",
+     "dismissal": "b Muhammad Nadir",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Brima Ansumana",
+     "dismissal": "c I Niyomugabo b Muhammad Nadir",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "S Williams",
+     "dismissal": "not out",
+     "runs": 18,
+     "balls": 15,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 120.0
+    },
+    {
+     "name": "S Conteh",
+     "dismissal": "c & b M Akayezu",
+     "runs": 2,
+     "balls": 11,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 18.2
+    },
+    {
+     "name": "Mohamed Turay",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Z Bimenyimana",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "E Kubwimana",
+     "overs": "4.0",
+     "maidens": 2,
+     "runs": 8,
+     "wickets": 4,
+     "economy": 2.0,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Akayezu",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 1,
+     "economy": 5.25,
+     "dots": 16,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "E Rukiriza",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 1,
+     "economy": 5.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Nadir",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 3,
+     "economy": 2.75,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 23,
+     "wickets": 3,
+     "run_rate": 3.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 42,
+     "wickets": 4,
+     "run_rate": 4.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 22,
+     "wickets": 2,
+     "run_rate": 4.4
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "A Turay",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 15,
+     "player": "R Coker",
+     "over": "3.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 23,
+     "player": "Aliya Kamara",
+     "over": "5.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 31,
+     "player": "EM Turay",
+     "over": "7.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 56,
+     "player": "L Lamin",
+     "over": "11.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 60,
+     "player": "G Sesay",
+     "over": "13.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 64,
+     "player": "AB Kamara",
+     "over": "14.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 66,
+     "player": "Brima Ansumana",
+     "over": "15.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 70,
+     "player": "S Conteh",
+     "over": "17.6",
+     "kind": "caught and bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 8,
+     "batters": [
+      "A Turay",
+      "R Coker"
+     ],
+     "contributions": {
+      "A Turay": 1,
+      "R Coker": 4
+     },
+     "ended_by": "A Turay (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 9,
+     "balls": 14,
+     "batters": [
+      "AB Kamara",
+      "R Coker"
+     ],
+     "contributions": {
+      "AB Kamara": 4,
+      "R Coker": 5
+     },
+     "ended_by": "R Coker (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 8,
+     "balls": 12,
+     "batters": [
+      "Aliya Kamara",
+      "AB Kamara"
+     ],
+     "contributions": {
+      "Aliya Kamara": 0,
+      "AB Kamara": 6
+     },
+     "ended_by": "Aliya Kamara (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 8,
+     "balls": 14,
+     "batters": [
+      "EM Turay",
+      "AB Kamara"
+     ],
+     "contributions": {
+      "EM Turay": 0,
+      "AB Kamara": 8
+     },
+     "ended_by": "EM Turay (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 25,
+     "balls": 24,
+     "batters": [
+      "AB Kamara",
+      "L Lamin"
+     ],
+     "contributions": {
+      "AB Kamara": 10,
+      "L Lamin": 14
+     },
+     "ended_by": "L Lamin (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 4,
+     "balls": 8,
+     "batters": [
+      "AB Kamara",
+      "G Sesay"
+     ],
+     "contributions": {
+      "AB Kamara": 3,
+      "G Sesay": 1
+     },
+     "ended_by": "G Sesay (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 9,
+     "batters": [
+      "Brima Ansumana",
+      "AB Kamara"
+     ],
+     "contributions": {
+      "Brima Ansumana": 1,
+      "AB Kamara": 3
+     },
+     "ended_by": "AB Kamara (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "S Williams",
+      "Brima Ansumana"
+     ],
+     "contributions": {
+      "S Williams": 2,
+      "Brima Ansumana": 0
+     },
+     "ended_by": "Brima Ansumana (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 4,
+     "balls": 15,
+     "batters": [
+      "S Conteh",
+      "S Williams"
+     ],
+     "contributions": {
+      "S Conteh": 2,
+      "S Williams": 2
+     },
+     "ended_by": "S Conteh (caught and bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 17,
+     "balls": 12,
+     "batters": [
+      "S Williams",
+      "Mohamed Turay"
+     ],
+     "contributions": {
+      "S Williams": 14,
+      "Mohamed Turay": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Z Bimenyimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Z Bimenyimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Z Bimenyimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Z Bimenyimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Rwanda",
+   "batting_team": "Rwanda",
+   "bowling_team": "Sierra Leone",
+   "super_over": false,
+   "total": 91,
+   "wickets": 4,
+   "overs": "12.5",
+   "run_rate": 7.09,
+   "target": 88,
+   "extras": {
+    "wides": 10,
+    "noballs": 1,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "D Ndikubwimana",
+     "dismissal": "b G Sesay",
+     "runs": 18,
+     "balls": 18,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Hamza Khan",
+     "dismissal": "c L Lamin b G Sesay",
+     "runs": 11,
+     "balls": 6,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 183.3
+    },
+    {
+     "name": "I Niyomugabo",
+     "dismissal": "run out (EM Turay, G Sesay)",
+     "runs": 12,
+     "balls": 15,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "D Gumyusenge",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 23,
+     "dots": 16,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "Yves Cyusa",
+     "dismissal": "c EM Turay b Mohamed Turay",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "D Uwimana",
+     "dismissal": "not out",
+     "runs": 24,
+     "balls": 9,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 266.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "G Sesay",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 2,
+     "economy": 9.0,
+     "dots": 15,
+     "wides": 8,
+     "noballs": 1
+    },
+    {
+     "name": "R Coker",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Conteh",
+     "overs": "2.5",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 10.59,
+     "dots": 7,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Mohamed Turay",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 1,
+     "wickets": 1,
+     "economy": 0.5,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 42,
+     "wickets": 2,
+     "run_rate": 7.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "6.5",
+     "runs": 49,
+     "wickets": 2,
+     "run_rate": 7.17
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 25,
+     "player": "Hamza Khan",
+     "over": "2.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 34,
+     "player": "D Ndikubwimana",
+     "over": "4.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 53,
+     "player": "I Niyomugabo",
+     "over": "7.2",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 63,
+     "player": "Yves Cyusa",
+     "over": "9.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 25,
+     "balls": 17,
+     "batters": [
+      "D Ndikubwimana",
+      "Hamza Khan"
+     ],
+     "contributions": {
+      "D Ndikubwimana": 10,
+      "Hamza Khan": 11
+     },
+     "ended_by": "Hamza Khan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 9,
+     "balls": 12,
+     "batters": [
+      "I Niyomugabo",
+      "D Ndikubwimana"
+     ],
+     "contributions": {
+      "I Niyomugabo": 1,
+      "D Ndikubwimana": 8
+     },
+     "ended_by": "D Ndikubwimana (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 15,
+     "batters": [
+      "D Gumyusenge",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "D Gumyusenge": 3,
+      "I Niyomugabo": 11
+     },
+     "ended_by": "I Niyomugabo (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 10,
+     "balls": 16,
+     "batters": [
+      "Yves Cyusa",
+      "D Gumyusenge"
+     ],
+     "contributions": {
+      "Yves Cyusa": 4,
+      "D Gumyusenge": 2
+     },
+     "ended_by": "Yves Cyusa (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 28,
+     "balls": 17,
+     "batters": [
+      "D Gumyusenge",
+      "D Uwimana"
+     ],
+     "contributions": {
+      "D Gumyusenge": 2,
+      "D Uwimana": 24
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Conteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mohamed Turay",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Conteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohamed Turay",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Conteh",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "AB Kamara",
+    "runs": 34,
+    "balls": 36,
+    "strike_rate": 94.4
+   },
+   {
+    "name": "D Uwimana",
+    "runs": 24,
+    "balls": 9,
+    "strike_rate": 266.7
+   },
+   {
+    "name": "S Williams",
+    "runs": 18,
+    "balls": 15,
+    "strike_rate": 120.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "E Kubwimana",
+    "figures": "4/8",
+    "overs": "4.0",
+    "economy": 2.0
+   },
+   {
+    "name": "Muhammad Nadir",
+    "figures": "3/11",
+    "overs": "4.0",
+    "economy": 2.75
+   },
+   {
+    "name": "G Sesay",
+    "figures": "2/36",
+    "overs": "4.0",
+    "economy": 9.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Sierra Leone",
+   "type": "collapse",
+   "over": 14,
+   "detail": "3 wickets fell between overs 14 and 16"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 42 scored, needed 46 from 14 overs (RRR 3.29)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 63 scored, needed 25 from 10 overs (RRR 2.5)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "big_over",
+   "over": 11,
+   "detail": "Over 11 (S Conteh) went for 18 runs"
+  }
+ ],
+ "checks": []
+}

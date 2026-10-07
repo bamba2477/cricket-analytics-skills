@@ -1,0 +1,918 @@
+{
+ "match": {
+  "teams": [
+   "Sierra Leone",
+   "Uganda"
+  ],
+  "dates": [
+   "2026-09-15"
+  ],
+  "venue": "Gahanga International Cricket Stadium, Rwanda",
+  "city": "Kigali City",
+  "event": "Africa Continental Cup",
+  "match_number": 13,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Sierra Leone"
+  },
+  "player_of_match": [
+   "Olipa Gerald"
+  ],
+  "result": "Uganda won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Sierra Leone",
+   "batting_team": "Sierra Leone",
+   "bowling_team": "Uganda",
+   "super_over": false,
+   "total": 55,
+   "wickets": 10,
+   "overs": "17.4",
+   "run_rate": 3.11,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "R Coker",
+     "dismissal": "b K Waiswa",
+     "runs": 14,
+     "balls": 27,
+     "dots": 20,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 51.9
+    },
+    {
+     "name": "A Turay",
+     "dismissal": "c Riazat Ali Shah b E Kasaija",
+     "runs": 5,
+     "balls": 9,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "AB Kamara",
+     "dismissal": "b E Kasaija",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Aliya Kamara",
+     "dismissal": "c Olipa Gerald b K Waiswa",
+     "runs": 11,
+     "balls": 9,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 122.2
+    },
+    {
+     "name": "EM Turay",
+     "dismissal": "b J Baguma",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Y Jalloh",
+     "dismissal": "c CN Kakuru b M Musinguzi",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "L Lamin",
+     "dismissal": "b J Baguma",
+     "runs": 6,
+     "balls": 4,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "G Sesay",
+     "dismissal": "b Olipa Gerald",
+     "runs": 5,
+     "balls": 13,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 38.5
+    },
+    {
+     "name": "Brima Ansumana",
+     "dismissal": "b Olipa Gerald",
+     "runs": 7,
+     "balls": 29,
+     "dots": 24,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 24.1
+    },
+    {
+     "name": "S Conteh",
+     "dismissal": "c Riazat Ali Shah b Olipa Gerald",
+     "runs": 0,
+     "balls": 7,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Mohamed Turay",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "M Musinguzi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 2.75,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Kasaija",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 2,
+     "economy": 2.67,
+     "dots": 15,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Riazat Ali Shah",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Waiswa",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 2,
+     "economy": 4.0,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "J Baguma",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 2,
+     "economy": 2.75,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Olipa Gerald",
+     "overs": "2.4",
+     "maidens": 1,
+     "runs": 1,
+     "wickets": 3,
+     "economy": 0.38,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 18,
+     "wickets": 2,
+     "run_rate": 3.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 33,
+     "wickets": 6,
+     "run_rate": 3.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "2.4",
+     "runs": 4,
+     "wickets": 2,
+     "run_rate": 1.5
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "A Turay",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 13,
+     "player": "AB Kamara",
+     "over": "3.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 32,
+     "player": "Aliya Kamara",
+     "over": "7.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 33,
+     "player": "R Coker",
+     "over": "7.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 33,
+     "player": "EM Turay",
+     "over": "8.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 39,
+     "player": "L Lamin",
+     "over": "8.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 39,
+     "player": "Y Jalloh",
+     "over": "9.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 50,
+     "player": "G Sesay",
+     "over": "13.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 52,
+     "player": "S Conteh",
+     "over": "15.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 55,
+     "player": "Brima Ansumana",
+     "over": "17.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 20,
+     "batters": [
+      "R Coker",
+      "A Turay"
+     ],
+     "contributions": {
+      "R Coker": 7,
+      "A Turay": 5
+     },
+     "ended_by": "A Turay (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "AB Kamara",
+      "R Coker"
+     ],
+     "contributions": {
+      "AB Kamara": 0,
+      "R Coker": 0
+     },
+     "ended_by": "AB Kamara (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 23,
+     "batters": [
+      "Aliya Kamara",
+      "R Coker"
+     ],
+     "contributions": {
+      "Aliya Kamara": 11,
+      "R Coker": 7
+     },
+     "ended_by": "Aliya Kamara (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "EM Turay",
+      "R Coker"
+     ],
+     "contributions": {
+      "EM Turay": 1,
+      "R Coker": 0
+     },
+     "ended_by": "R Coker (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "EM Turay",
+      "Y Jalloh"
+     ],
+     "contributions": {
+      "EM Turay": 0,
+      "Y Jalloh": 0
+     },
+     "ended_by": "EM Turay (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 6,
+     "balls": 4,
+     "batters": [
+      "L Lamin",
+      "Y Jalloh"
+     ],
+     "contributions": {
+      "L Lamin": 6,
+      "Y Jalloh": 0
+     },
+     "ended_by": "L Lamin (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Y Jalloh",
+      "G Sesay"
+     ],
+     "contributions": {
+      "Y Jalloh": 0,
+      "G Sesay": 0
+     },
+     "ended_by": "Y Jalloh (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 11,
+     "balls": 27,
+     "batters": [
+      "Brima Ansumana",
+      "G Sesay"
+     ],
+     "contributions": {
+      "Brima Ansumana": 2,
+      "G Sesay": 5
+     },
+     "ended_by": "G Sesay (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 13,
+     "batters": [
+      "S Conteh",
+      "Brima Ansumana"
+     ],
+     "contributions": {
+      "S Conteh": 0,
+      "Brima Ansumana": 2
+     },
+     "ended_by": "S Conteh (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 3,
+     "balls": 11,
+     "batters": [
+      "Mohamed Turay",
+      "Brima Ansumana"
+     ],
+     "contributions": {
+      "Mohamed Turay": 0,
+      "Brima Ansumana": 3
+     },
+     "ended_by": "Brima Ansumana (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Riazat Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Riazat Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Uganda",
+   "batting_team": "Uganda",
+   "bowling_team": "Sierra Leone",
+   "super_over": false,
+   "total": 56,
+   "wickets": 2,
+   "overs": "7.0",
+   "run_rate": 8.0,
+   "target": 56,
+   "extras": {
+    "wides": 4,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Anas Baig",
+     "dismissal": "c EM Turay b G Sesay",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "R Obuya",
+     "dismissal": "not out",
+     "runs": 20,
+     "balls": 22,
+     "dots": 12,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 90.9
+    },
+    {
+     "name": "F Mutagana",
+     "dismissal": "c EM Turay b R Coker",
+     "runs": 10,
+     "balls": 10,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Olipa Gerald",
+     "dismissal": "not out",
+     "runs": 21,
+     "balls": 9,
+     "dots": 2,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 233.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "G Sesay",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 10.0,
+     "dots": 9,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "R Coker",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Conteh",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 49,
+     "wickets": 2,
+     "run_rate": 8.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.0",
+     "runs": 7,
+     "wickets": 0,
+     "run_rate": 7.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "Anas Baig",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 21,
+     "player": "F Mutagana",
+     "over": "3.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "Anas Baig",
+      "R Obuya"
+     ],
+     "contributions": {
+      "Anas Baig": 0,
+      "R Obuya": 0
+     },
+     "ended_by": "Anas Baig (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 20,
+     "balls": 18,
+     "batters": [
+      "F Mutagana",
+      "R Obuya"
+     ],
+     "contributions": {
+      "F Mutagana": 10,
+      "R Obuya": 7
+     },
+     "ended_by": "F Mutagana (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 35,
+     "balls": 23,
+     "batters": [
+      "Olipa Gerald",
+      "R Obuya"
+     ],
+     "contributions": {
+      "Olipa Gerald": 21,
+      "R Obuya": 13
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Sesay",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Coker",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Conteh",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Olipa Gerald",
+    "runs": 21,
+    "balls": 9,
+    "strike_rate": 233.3
+   },
+   {
+    "name": "R Obuya",
+    "runs": 20,
+    "balls": 22,
+    "strike_rate": 90.9
+   },
+   {
+    "name": "R Coker",
+    "runs": 14,
+    "balls": 27,
+    "strike_rate": 51.9
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Olipa Gerald",
+    "figures": "3/1",
+    "overs": "2.4",
+    "economy": 0.38
+   },
+   {
+    "name": "E Kasaija",
+    "figures": "2/8",
+    "overs": "3.0",
+    "economy": 2.67
+   },
+   {
+    "name": "K Waiswa",
+    "figures": "2/8",
+    "overs": "2.0",
+    "economy": 4.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Sierra Leone",
+   "type": "wicket_burst",
+   "over": 4,
+   "detail": "2 wickets fell in over 4 (bowled by E Kasaija, 2 credited to E Kasaija)"
+  },
+  {
+   "innings": 1,
+   "team": "Sierra Leone",
+   "type": "wicket_burst",
+   "over": 8,
+   "detail": "2 wickets fell in over 8 (bowled by K Waiswa, 2 credited to K Waiswa)"
+  },
+  {
+   "innings": 1,
+   "team": "Sierra Leone",
+   "type": "wicket_burst",
+   "over": 9,
+   "detail": "2 wickets fell in over 9 (bowled by J Baguma, 2 credited to J Baguma)"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (G Sesay) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 49 scored, needed 7 from 14 overs (RRR 0.5)"
+  }
+ ],
+ "checks": []
+}

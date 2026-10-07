@@ -1,0 +1,1576 @@
+{
+ "match": {
+  "teams": [
+   "Nepal",
+   "Oman"
+  ],
+  "dates": [
+   "2026-09-10"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ACC Men's Premier Cup",
+  "match_number": null,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Oman"
+  },
+  "player_of_match": [
+   "DS Airee"
+  ],
+  "result": "Nepal won by 87 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Nepal",
+   "batting_team": "Nepal",
+   "bowling_team": "Oman",
+   "super_over": false,
+   "total": 147,
+   "wickets": 10,
+   "overs": "45.4",
+   "run_rate": 3.22,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "wides": 4,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "D Khanal",
+     "dismissal": "c Hasnain Ul Wahab b Muhammed Imran",
+     "runs": 13,
+     "balls": 19,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 68.4
+    },
+    {
+     "name": "Aasif Sheikh",
+     "dismissal": "c V Shukla b Muhammed Imran",
+     "runs": 11,
+     "balls": 21,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 52.4
+    },
+    {
+     "name": "I Pandey",
+     "dismissal": "c Jatinder Singh b Jay Odedra",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "RK Paudel",
+     "dismissal": "lbw b Hassnain Shah",
+     "runs": 3,
+     "balls": 8,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "Basir Ahamad",
+     "dismissal": "c V Shukla b Mujibur Ali",
+     "runs": 47,
+     "balls": 88,
+     "dots": 58,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 53.4
+    },
+    {
+     "name": "DS Airee",
+     "dismissal": "b Jay Odedra",
+     "runs": 51,
+     "balls": 76,
+     "dots": 40,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 67.1
+    },
+    {
+     "name": "Gulsan Jha",
+     "dismissal": "c Hassnain Shah b Jay Odedra",
+     "runs": 7,
+     "balls": 23,
+     "dots": 16,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "Karan KC",
+     "dismissal": "lbw b Hassnain Shah",
+     "runs": 5,
+     "balls": 10,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "S Lamichhane",
+     "dismissal": "c J Ramanandi b Shakeel Ahmed",
+     "runs": 3,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.0
+    },
+    {
+     "name": "S Malla",
+     "dismissal": "c Jay Odedra b Hassnain Shah",
+     "runs": 0,
+     "balls": 9,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "LN Rajbanshi",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shakeel Ahmed",
+     "overs": "7.0",
+     "maidens": 1,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 4.29,
+     "dots": 27,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammed Imran",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 2,
+     "economy": 3.25,
+     "dots": 36,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "Jay Odedra",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 26,
+     "wickets": 3,
+     "economy": 2.6,
+     "dots": 42,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Hassnain Shah",
+     "overs": "8.4",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 3,
+     "economy": 3.23,
+     "dots": 31,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "K Sonavale",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 3.33,
+     "dots": 20,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mujibur Ali",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 2.67,
+     "dots": 22,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 33,
+     "wickets": 3,
+     "run_rate": 3.3
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 103,
+     "wickets": 3,
+     "run_rate": 3.43
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "5.4",
+     "runs": 11,
+     "wickets": 4,
+     "run_rate": 1.94
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 23,
+     "player": "Aasif Sheikh",
+     "over": "5.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 26,
+     "player": "D Khanal",
+     "over": "7.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 26,
+     "player": "I Pandey",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 36,
+     "player": "RK Paudel",
+     "over": "11.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 129,
+     "player": "Basir Ahamad",
+     "over": "35.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 130,
+     "player": "DS Airee",
+     "over": "37.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 142,
+     "player": "Karan KC",
+     "over": "40.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 146,
+     "player": "Gulsan Jha",
+     "over": "43.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 146,
+     "player": "S Lamichhane",
+     "over": "44.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 147,
+     "player": "S Malla",
+     "over": "45.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 23,
+     "balls": 35,
+     "batters": [
+      "D Khanal",
+      "Aasif Sheikh"
+     ],
+     "contributions": {
+      "D Khanal": 11,
+      "Aasif Sheikh": 11
+     },
+     "ended_by": "Aasif Sheikh (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 11,
+     "batters": [
+      "I Pandey",
+      "D Khanal"
+     ],
+     "contributions": {
+      "I Pandey": 1,
+      "D Khanal": 2
+     },
+     "ended_by": "D Khanal (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "RK Paudel",
+      "I Pandey"
+     ],
+     "contributions": {
+      "RK Paudel": 0,
+      "I Pandey": 0
+     },
+     "ended_by": "I Pandey (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 10,
+     "balls": 19,
+     "batters": [
+      "Basir Ahamad",
+      "RK Paudel"
+     ],
+     "contributions": {
+      "Basir Ahamad": 5,
+      "RK Paudel": 3
+     },
+     "ended_by": "RK Paudel (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 93,
+     "balls": 147,
+     "batters": [
+      "DS Airee",
+      "Basir Ahamad"
+     ],
+     "contributions": {
+      "DS Airee": 50,
+      "Basir Ahamad": 42
+     },
+     "ended_by": "Basir Ahamad (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 9,
+     "batters": [
+      "Gulsan Jha",
+      "DS Airee"
+     ],
+     "contributions": {
+      "Gulsan Jha": 0,
+      "DS Airee": 1
+     },
+     "ended_by": "DS Airee (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 12,
+     "balls": 22,
+     "batters": [
+      "Karan KC",
+      "Gulsan Jha"
+     ],
+     "contributions": {
+      "Karan KC": 5,
+      "Gulsan Jha": 6
+     },
+     "ended_by": "Karan KC (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 4,
+     "balls": 13,
+     "batters": [
+      "Gulsan Jha",
+      "S Lamichhane"
+     ],
+     "contributions": {
+      "Gulsan Jha": 1,
+      "S Lamichhane": 3
+     },
+     "ended_by": "Gulsan Jha (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 8,
+     "batters": [
+      "S Malla",
+      "S Lamichhane"
+     ],
+     "contributions": {
+      "S Malla": 0,
+      "S Lamichhane": 0
+     },
+     "ended_by": "S Lamichhane (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "LN Rajbanshi",
+      "S Malla"
+     ],
+     "contributions": {
+      "LN Rajbanshi": 0,
+      "S Malla": 0
+     },
+     "ended_by": "S Malla (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammed Imran",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Jay Odedra",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Oman",
+   "batting_team": "Oman",
+   "bowling_team": "Nepal",
+   "super_over": false,
+   "total": 60,
+   "wickets": 10,
+   "overs": "28.1",
+   "run_rate": 2.13,
+   "target": 148,
+   "extras": {
+    "legbyes": 3,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "Jatinder Singh",
+     "dismissal": "b S Lamichhane",
+     "runs": 25,
+     "balls": 41,
+     "dots": 26,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 61.0
+    },
+    {
+     "name": "Hasnain Ul Wahab",
+     "dismissal": "st Aasif Sheikh b LN Rajbanshi",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Sonavale",
+     "dismissal": "c D Khanal b LN Rajbanshi",
+     "runs": 3,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "Hammad Mirza",
+     "dismissal": "b S Lamichhane",
+     "runs": 5,
+     "balls": 42,
+     "dots": 37,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 11.9
+    },
+    {
+     "name": "J Ramanandi",
+     "dismissal": "b RK Paudel",
+     "runs": 13,
+     "balls": 42,
+     "dots": 29,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 31.0
+    },
+    {
+     "name": "V Shukla",
+     "dismissal": "c & b DS Airee",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Mujibur Ali",
+     "dismissal": "c DS Airee b RK Paudel",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Jay Odedra",
+     "dismissal": "lbw b S Lamichhane",
+     "runs": 4,
+     "balls": 7,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Shakeel Ahmed",
+     "dismissal": "c D Khanal b DS Airee",
+     "runs": 4,
+     "balls": 15,
+     "dots": 14,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 26.7
+    },
+    {
+     "name": "Hassnain Shah",
+     "dismissal": "c Aasif Sheikh b DS Airee",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Muhammed Imran",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "LN Rajbanshi",
+     "overs": "5.0",
+     "maidens": 2,
+     "runs": 12,
+     "wickets": 2,
+     "economy": 2.4,
+     "dots": 24,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Karan KC",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 2.6,
+     "dots": 23,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Lamichhane",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 9,
+     "wickets": 3,
+     "economy": 1.5,
+     "dots": 30,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Malla",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DS Airee",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 3,
+     "economy": 1.83,
+     "dots": 26,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "RK Paudel",
+     "overs": "4.1",
+     "maidens": 1,
+     "runs": 7,
+     "wickets": 2,
+     "economy": 1.68,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 27,
+     "wickets": 2,
+     "run_rate": 2.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "18.1",
+     "runs": 33,
+     "wickets": 8,
+     "run_rate": 1.82
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 5,
+     "player": "Hasnain Ul Wahab",
+     "over": "0.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 2,
+     "score": 9,
+     "player": "K Sonavale",
+     "over": "2.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 29,
+     "player": "Hammad Mirza",
+     "over": "12.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 43,
+     "player": "Jatinder Singh",
+     "over": "18.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 44,
+     "player": "V Shukla",
+     "over": "19.1",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 45,
+     "player": "Mujibur Ali",
+     "over": "20.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 50,
+     "player": "Jay Odedra",
+     "over": "21.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 58,
+     "player": "Shakeel Ahmed",
+     "over": "25.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 60,
+     "player": "Hassnain Shah",
+     "over": "27.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 60,
+     "player": "J Ramanandi",
+     "over": "28.1",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 5,
+     "balls": 4,
+     "batters": [
+      "Jatinder Singh",
+      "Hasnain Ul Wahab"
+     ],
+     "contributions": {
+      "Jatinder Singh": 5,
+      "Hasnain Ul Wahab": 0
+     },
+     "ended_by": "Hasnain Ul Wahab (stumped)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 10,
+     "batters": [
+      "K Sonavale",
+      "Jatinder Singh"
+     ],
+     "contributions": {
+      "K Sonavale": 3,
+      "Jatinder Singh": 1
+     },
+     "ended_by": "K Sonavale (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 20,
+     "balls": 60,
+     "batters": [
+      "Hammad Mirza",
+      "Jatinder Singh"
+     ],
+     "contributions": {
+      "Hammad Mirza": 5,
+      "Jatinder Singh": 13
+     },
+     "ended_by": "Hammad Mirza (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 14,
+     "balls": 35,
+     "batters": [
+      "J Ramanandi",
+      "Jatinder Singh"
+     ],
+     "contributions": {
+      "J Ramanandi": 7,
+      "Jatinder Singh": 6
+     },
+     "ended_by": "Jatinder Singh (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "V Shukla",
+      "J Ramanandi"
+     ],
+     "contributions": {
+      "V Shukla": 1,
+      "J Ramanandi": 0
+     },
+     "ended_by": "V Shukla (caught and bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "Mujibur Ali",
+      "J Ramanandi"
+     ],
+     "contributions": {
+      "Mujibur Ali": 1,
+      "J Ramanandi": 0
+     },
+     "ended_by": "Mujibur Ali (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 7,
+     "batters": [
+      "Jay Odedra",
+      "J Ramanandi"
+     ],
+     "contributions": {
+      "Jay Odedra": 4,
+      "J Ramanandi": 0
+     },
+     "ended_by": "Jay Odedra (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 8,
+     "balls": 28,
+     "batters": [
+      "Shakeel Ahmed",
+      "J Ramanandi"
+     ],
+     "contributions": {
+      "Shakeel Ahmed": 4,
+      "J Ramanandi": 4
+     },
+     "ended_by": "Shakeel Ahmed (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 11,
+     "batters": [
+      "J Ramanandi",
+      "Hassnain Shah"
+     ],
+     "contributions": {
+      "J Ramanandi": 2,
+      "Hassnain Shah": 0
+     },
+     "ended_by": "Hassnain Shah (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Muhammed Imran",
+      "J Ramanandi"
+     ],
+     "contributions": {
+      "Muhammed Imran": 0,
+      "J Ramanandi": 0
+     },
+     "ended_by": "J Ramanandi (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RK Paudel",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RK Paudel",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RK Paudel",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RK Paudel",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RK Paudel",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DS Airee",
+    "runs": 51,
+    "balls": 76,
+    "strike_rate": 67.1
+   },
+   {
+    "name": "Basir Ahamad",
+    "runs": 47,
+    "balls": 88,
+    "strike_rate": 53.4
+   },
+   {
+    "name": "Jatinder Singh",
+    "runs": 25,
+    "balls": 41,
+    "strike_rate": 61.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "S Lamichhane",
+    "figures": "3/9",
+    "overs": "6.0",
+    "economy": 1.5
+   },
+   {
+    "name": "DS Airee",
+    "figures": "3/11",
+    "overs": "6.0",
+    "economy": 1.83
+   },
+   {
+    "name": "Jay Odedra",
+    "figures": "3/26",
+    "overs": "10.0",
+    "economy": 2.6
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Nepal",
+   "type": "collapse",
+   "over": 44,
+   "detail": "3 wickets fell between overs 44 and 46"
+  },
+  {
+   "innings": 2,
+   "team": "Oman",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 17 scored, needed 131 from 44 overs (RRR 2.98)"
+  },
+  {
+   "innings": 2,
+   "team": "Oman",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 27 scored, needed 121 from 40 overs (RRR 3.02)"
+  },
+  {
+   "innings": 2,
+   "team": "Oman",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 34 scored, needed 114 from 35 overs (RRR 3.26)"
+  },
+  {
+   "innings": 2,
+   "team": "Oman",
+   "type": "collapse",
+   "over": 19,
+   "detail": "3 wickets fell between overs 19 and 21"
+  }
+ ],
+ "checks": []
+}

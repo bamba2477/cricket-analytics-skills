@@ -1,0 +1,971 @@
+{
+ "match": {
+  "teams": [
+   "United Arab Emirates",
+   "Malaysia"
+  ],
+  "dates": [
+   "2026-09-17"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "United Arab Emirates tour of Malaysia",
+  "match_number": 3,
+  "match_type": "T20",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Malaysia"
+  },
+  "player_of_match": [
+   "Adeeb Usmani"
+  ],
+  "result": "United Arab Emirates won by 59 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "United Arab Emirates",
+   "batting_team": "United Arab Emirates",
+   "bowling_team": "Malaysia",
+   "super_over": false,
+   "total": 216,
+   "wickets": 3,
+   "overs": "20.0",
+   "run_rate": 10.8,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "byes": 4,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "A Sharafu",
+     "dismissal": "c Azri Azhar b Virandeep Singh",
+     "runs": 58,
+     "balls": 33,
+     "dots": 15,
+     "fours": 5,
+     "sixes": 5,
+     "strike_rate": 175.8
+    },
+    {
+     "name": "Adeeb Usmani",
+     "dismissal": "not out",
+     "runs": 96,
+     "balls": 53,
+     "dots": 11,
+     "fours": 5,
+     "sixes": 6,
+     "strike_rate": 181.1
+    },
+    {
+     "name": "Shoaib Khan",
+     "dismissal": "c Virandeep Singh b Azri Azhar",
+     "runs": 30,
+     "balls": 23,
+     "dots": 8,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 130.4
+    },
+    {
+     "name": "Khuzaima Tanveer",
+     "dismissal": "b Syed Aziz",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "AD Nath",
+     "dismissal": "not out",
+     "runs": 23,
+     "balls": 8,
+     "dots": 2,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 287.5
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Syed Aziz",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 45,
+     "wickets": 1,
+     "economy": 11.25,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Wafiq",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 10.67,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "Pavandeep Singh",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 40,
+     "wickets": 0,
+     "economy": 13.33,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Virandeep Singh",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 9.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Azri Azhar",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 1,
+     "economy": 9.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Muniandy",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 76,
+     "wickets": 0,
+     "run_rate": 12.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 77,
+     "wickets": 1,
+     "run_rate": 8.56
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 63,
+     "wickets": 2,
+     "run_rate": 12.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 111,
+     "player": "A Sharafu",
+     "over": "10.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 173,
+     "player": "Shoaib Khan",
+     "over": "16.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 180,
+     "player": "Khuzaima Tanveer",
+     "over": "17.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 111,
+     "balls": 61,
+     "batters": [
+      "A Sharafu",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "A Sharafu": 58,
+      "Adeeb Usmani": 52
+     },
+     "ended_by": "A Sharafu (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 62,
+     "balls": 39,
+     "batters": [
+      "Shoaib Khan",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "Shoaib Khan": 30,
+      "Adeeb Usmani": 26
+     },
+     "ended_by": "Shoaib Khan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 6,
+     "batters": [
+      "Khuzaima Tanveer",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "Khuzaima Tanveer": 2,
+      "Adeeb Usmani": 5
+     },
+     "ended_by": "Khuzaima Tanveer (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 36,
+     "balls": 14,
+     "batters": [
+      "AD Nath",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "AD Nath": 23,
+      "Adeeb Usmani": 13
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Wafiq",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Wafiq",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 23,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azri Azhar",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azri Azhar",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Muniandy",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Muniandy",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Wafiq",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azri Azhar",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Azri Azhar",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Malaysia",
+   "batting_team": "Malaysia",
+   "bowling_team": "United Arab Emirates",
+   "super_over": false,
+   "total": 157,
+   "wickets": 5,
+   "overs": "20.0",
+   "run_rate": 7.85,
+   "target": 217,
+   "extras": {
+    "legbyes": 4,
+    "wides": 7,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Muhammad Haziq Aiman",
+     "dismissal": "c A Sharma b Khuzaima Tanveer",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Aslam Khan",
+     "dismissal": "c Shoaib Khan b Khuzaima Tanveer",
+     "runs": 14,
+     "balls": 12,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 116.7
+    },
+    {
+     "name": "Syed Aziz",
+     "dismissal": "b Ibrar Ahmad",
+     "runs": 57,
+     "balls": 46,
+     "dots": 15,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 123.9
+    },
+    {
+     "name": "Virandeep Singh",
+     "dismissal": "not out",
+     "runs": 73,
+     "balls": 52,
+     "dots": 14,
+     "fours": 8,
+     "sixes": 2,
+     "strike_rate": 140.4
+    },
+    {
+     "name": "Nazmus Sakib",
+     "dismissal": "run out (Khuzaima Tanveer)",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "S Muniandy",
+     "dismissal": "b Khuzaima Tanveer",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Khuzaima Tanveer",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 29,
+     "wickets": 3,
+     "economy": 7.25,
+     "dots": 14,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Ibrar Ahmad",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Mohsin",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 10,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Haider Ali",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Aayan Afzal Khan",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 4,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Shoaib Khan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 37,
+     "wickets": 2,
+     "run_rate": 6.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 88,
+     "wickets": 0,
+     "run_rate": 9.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 32,
+     "wickets": 3,
+     "run_rate": 6.4
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "Muhammad Haziq Aiman",
+     "over": "0.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 17,
+     "player": "Aslam Khan",
+     "over": "2.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 138,
+     "player": "Syed Aziz",
+     "over": "16.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 151,
+     "player": "Nazmus Sakib",
+     "over": "19.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 157,
+     "player": "S Muniandy",
+     "over": "19.6",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Muhammad Haziq Aiman",
+      "Aslam Khan"
+     ],
+     "contributions": {
+      "Muhammad Haziq Aiman": 0,
+      "Aslam Khan": 0
+     },
+     "ended_by": "Muhammad Haziq Aiman (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 17,
+     "balls": 15,
+     "batters": [
+      "Syed Aziz",
+      "Aslam Khan"
+     ],
+     "contributions": {
+      "Syed Aziz": 1,
+      "Aslam Khan": 14
+     },
+     "ended_by": "Aslam Khan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 121,
+     "balls": 85,
+     "batters": [
+      "Virandeep Singh",
+      "Syed Aziz"
+     ],
+     "contributions": {
+      "Virandeep Singh": 58,
+      "Syed Aziz": 56
+     },
+     "ended_by": "Syed Aziz (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 15,
+     "batters": [
+      "Virandeep Singh",
+      "Nazmus Sakib"
+     ],
+     "contributions": {
+      "Virandeep Singh": 10,
+      "Nazmus Sakib": 1
+     },
+     "ended_by": "Nazmus Sakib (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 6,
+     "balls": 3,
+     "batters": [
+      "Virandeep Singh",
+      "S Muniandy"
+     ],
+     "contributions": {
+      "Virandeep Singh": 5,
+      "S Muniandy": 0
+     },
+     "ended_by": "S Muniandy (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrar Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrar Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Mohsin",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haider Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Mohsin",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haider Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haider Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Mohsin",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haider Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ibrar Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Mohsin",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrar Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Adeeb Usmani",
+    "runs": 96,
+    "balls": 53,
+    "strike_rate": 181.1
+   },
+   {
+    "name": "Virandeep Singh",
+    "runs": 73,
+    "balls": 52,
+    "strike_rate": 140.4
+   },
+   {
+    "name": "A Sharafu",
+    "runs": 58,
+    "balls": 33,
+    "strike_rate": 175.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Khuzaima Tanveer",
+    "figures": "3/29",
+    "overs": "4.0",
+    "economy": 7.25
+   },
+   {
+    "name": "Ibrar Ahmad",
+    "figures": "1/26",
+    "overs": "4.0",
+    "economy": 6.5
+   },
+   {
+    "name": "Azri Azhar",
+    "figures": "1/36",
+    "overs": "4.0",
+    "economy": 9.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "United Arab Emirates",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (Pavandeep Singh) went for 23 runs"
+  },
+  {
+   "innings": 1,
+   "team": "United Arab Emirates",
+   "type": "big_over",
+   "over": 13,
+   "detail": "Over 13 (Muhammad Wafiq) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 37 scored, needed 180 from 14 overs (RRR 12.86)"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "big_over",
+   "over": 7,
+   "detail": "Over 7 (Muhammad Mohsin) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 84 scored, needed 133 from 10 overs (RRR 13.3)"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 125 scored, needed 92 from 5 overs (RRR 18.4)"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "wicket_burst",
+   "over": 20,
+   "detail": "2 wickets fell in over 20 (bowled by Khuzaima Tanveer, 1 credited to Khuzaima Tanveer)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1087 @@
+{
+ "match": {
+  "teams": [
+   "Rotterdam Dockers",
+   "Edinburgh Castle Rockers"
+  ],
+  "dates": [
+   "2026-09-15"
+  ],
+  "venue": "The Village, Malahide, Dublin",
+  "city": "Dublin",
+  "event": "European T20 Premier League",
+  "match_number": 27,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Rotterdam Dockers"
+  },
+  "player_of_match": [
+   "Shubham Ranjane"
+  ],
+  "result": "Rotterdam Dockers won by 5 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Rotterdam Dockers",
+   "batting_team": "Rotterdam Dockers",
+   "bowling_team": "Edinburgh Castle Rockers",
+   "super_over": false,
+   "total": 181,
+   "wickets": 6,
+   "overs": "20.0",
+   "run_rate": 9.05,
+   "target": null,
+   "extras": {
+    "wides": 5,
+    "legbyes": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "C Munro",
+     "dismissal": "c GJ Delany b J Jarvis",
+     "runs": 26,
+     "balls": 18,
+     "dots": 10,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 144.4
+    },
+    {
+     "name": "F du Plessis",
+     "dismissal": "c BJ McMullen b TK Curran",
+     "runs": 54,
+     "balls": 35,
+     "dots": 9,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 154.3
+    },
+    {
+     "name": "M Levitt",
+     "dismissal": "c JT Smuts b TK Curran",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Vikramjit Singh",
+     "dismissal": "c GJ Delany b BJ McMullen",
+     "runs": 9,
+     "balls": 10,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 90.0
+    },
+    {
+     "name": "H Klaasen",
+     "dismissal": "c BJ McMullen b RJW Topley",
+     "runs": 47,
+     "balls": 27,
+     "dots": 8,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 174.1
+    },
+    {
+     "name": "Shubham Ranjane",
+     "dismissal": "c FDW McCreath b RJW Topley",
+     "runs": 15,
+     "balls": 14,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 107.1
+    },
+    {
+     "name": "D Wiese",
+     "dismissal": "not out",
+     "runs": 17,
+     "balls": 8,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 212.5
+    },
+    {
+     "name": "LV van Beek",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 5,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "RJW Topley",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 2,
+     "economy": 9.0,
+     "dots": 10,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "TK Curran",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 2,
+     "economy": 9.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Jarvis",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 1,
+     "economy": 11.5,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MRJ Watt",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Santner",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "BJ McMullen",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 54,
+     "wickets": 2,
+     "run_rate": 9.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 78,
+     "wickets": 2,
+     "run_rate": 8.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 49,
+     "wickets": 2,
+     "run_rate": 9.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 35,
+     "player": "C Munro",
+     "over": "3.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 53,
+     "player": "M Levitt",
+     "over": "5.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 66,
+     "player": "Vikramjit Singh",
+     "over": "7.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 132,
+     "player": "F du Plessis",
+     "over": "14.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 145,
+     "player": "H Klaasen",
+     "over": "16.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 163,
+     "player": "Shubham Ranjane",
+     "over": "18.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 35,
+     "balls": 23,
+     "batters": [
+      "C Munro",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "C Munro": 26,
+      "F du Plessis": 7
+     },
+     "ended_by": "C Munro (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 18,
+     "balls": 10,
+     "batters": [
+      "M Levitt",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "M Levitt": 0,
+      "F du Plessis": 18
+     },
+     "ended_by": "M Levitt (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 13,
+     "balls": 14,
+     "batters": [
+      "Vikramjit Singh",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "Vikramjit Singh": 9,
+      "F du Plessis": 3
+     },
+     "ended_by": "Vikramjit Singh (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 66,
+     "balls": 42,
+     "batters": [
+      "H Klaasen",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "H Klaasen": 39,
+      "F du Plessis": 26
+     },
+     "ended_by": "F du Plessis (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 13,
+     "balls": 8,
+     "batters": [
+      "Shubham Ranjane",
+      "H Klaasen"
+     ],
+     "contributions": {
+      "Shubham Ranjane": 3,
+      "H Klaasen": 8
+     },
+     "ended_by": "H Klaasen (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 18,
+     "balls": 14,
+     "batters": [
+      "D Wiese",
+      "Shubham Ranjane"
+     ],
+     "contributions": {
+      "D Wiese": 4,
+      "Shubham Ranjane": 12
+     },
+     "ended_by": "Shubham Ranjane (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 18,
+     "balls": 9,
+     "batters": [
+      "LV van Beek",
+      "D Wiese"
+     ],
+     "contributions": {
+      "LV van Beek": 5,
+      "D Wiese": 13
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RJW Topley",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RJW Topley",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ McMullen",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ McMullen",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 15,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RJW Topley",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RJW Topley",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Edinburgh Castle Rockers",
+   "batting_team": "Edinburgh Castle Rockers",
+   "bowling_team": "Rotterdam Dockers",
+   "super_over": false,
+   "total": 176,
+   "wickets": 5,
+   "overs": "20.0",
+   "run_rate": 8.8,
+   "target": 182,
+   "extras": {
+    "legbyes": 1,
+    "wides": 6
+   },
+   "batting": [
+    {
+     "name": "JT Smuts",
+     "dismissal": "c LV van Beek b Shubham Ranjane",
+     "runs": 25,
+     "balls": 21,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 119.0
+    },
+    {
+     "name": "AGS Gous",
+     "dismissal": "b JJ Davidson",
+     "runs": 6,
+     "balls": 4,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "BJ McMullen",
+     "dismissal": "c M Levitt b JJ Davidson",
+     "runs": 47,
+     "balls": 30,
+     "dots": 13,
+     "fours": 5,
+     "sixes": 3,
+     "strike_rate": 156.7
+    },
+    {
+     "name": "LJ Evans",
+     "dismissal": "c M Levitt b Shubham Ranjane",
+     "runs": 14,
+     "balls": 10,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "MJ Santner",
+     "dismissal": "not out",
+     "runs": 39,
+     "balls": 31,
+     "dots": 12,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 125.8
+    },
+    {
+     "name": "GJ Delany",
+     "dismissal": "c JJ Davidson b Shubham Ranjane",
+     "runs": 5,
+     "balls": 6,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "TK Curran",
+     "dismissal": "not out",
+     "runs": 33,
+     "balls": 18,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 3,
+     "strike_rate": 183.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "D Wiese",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 7.25,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JJ Davidson",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 42,
+     "wickets": 2,
+     "economy": 14.0,
+     "dots": 6,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "A Nortje",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 6.75,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "LV van Beek",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 43,
+     "wickets": 0,
+     "economy": 10.75,
+     "dots": 6,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "RE van der Merwe",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shubham Ranjane",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 3,
+     "economy": 5.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 51,
+     "wickets": 1,
+     "run_rate": 8.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 68,
+     "wickets": 4,
+     "run_rate": 7.56
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 57,
+     "wickets": 0,
+     "run_rate": 11.4
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 8,
+     "player": "AGS Gous",
+     "over": "1.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 73,
+     "player": "JT Smuts",
+     "over": "8.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 84,
+     "player": "BJ McMullen",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 112,
+     "player": "LJ Evans",
+     "over": "12.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 118,
+     "player": "GJ Delany",
+     "over": "14.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 8,
+     "balls": 8,
+     "batters": [
+      "JT Smuts",
+      "AGS Gous"
+     ],
+     "contributions": {
+      "JT Smuts": 2,
+      "AGS Gous": 6
+     },
+     "ended_by": "AGS Gous (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 65,
+     "balls": 43,
+     "batters": [
+      "BJ McMullen",
+      "JT Smuts"
+     ],
+     "contributions": {
+      "BJ McMullen": 40,
+      "JT Smuts": 23
+     },
+     "ended_by": "JT Smuts (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 11,
+     "balls": 6,
+     "batters": [
+      "LJ Evans",
+      "BJ McMullen"
+     ],
+     "contributions": {
+      "LJ Evans": 3,
+      "BJ McMullen": 7
+     },
+     "ended_by": "BJ McMullen (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 28,
+     "balls": 20,
+     "batters": [
+      "MJ Santner",
+      "LJ Evans"
+     ],
+     "contributions": {
+      "MJ Santner": 15,
+      "LJ Evans": 11
+     },
+     "ended_by": "LJ Evans (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 6,
+     "balls": 12,
+     "batters": [
+      "GJ Delany",
+      "MJ Santner"
+     ],
+     "contributions": {
+      "GJ Delany": 5,
+      "MJ Santner": 1
+     },
+     "ended_by": "GJ Delany (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 58,
+     "balls": 31,
+     "batters": [
+      "TK Curran",
+      "MJ Santner"
+     ],
+     "contributions": {
+      "TK Curran": 33,
+      "MJ Santner": 23
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "F du Plessis",
+    "runs": 54,
+    "balls": 35,
+    "strike_rate": 154.3
+   },
+   {
+    "name": "H Klaasen",
+    "runs": 47,
+    "balls": 27,
+    "strike_rate": 174.1
+   },
+   {
+    "name": "BJ McMullen",
+    "runs": 47,
+    "balls": 30,
+    "strike_rate": 156.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Shubham Ranjane",
+    "figures": "3/22",
+    "overs": "4.0",
+    "economy": 5.5
+   },
+   {
+    "name": "RJW Topley",
+    "figures": "2/36",
+    "overs": "4.0",
+    "economy": 9.0
+   },
+   {
+    "name": "TK Curran",
+    "figures": "2/38",
+    "overs": "4.0",
+    "economy": 9.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 13,
+   "detail": "Over 13 (J Jarvis) went for 16 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (TK Curran) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Edinburgh Castle Rockers",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (JJ Davidson) went for 17 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Edinburgh Castle Rockers",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 51 scored, needed 131 from 14 overs (RRR 9.36)"
+  },
+  {
+   "innings": 2,
+   "team": "Edinburgh Castle Rockers",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 89 scored, needed 93 from 10 overs (RRR 9.3)"
+  },
+  {
+   "innings": 2,
+   "team": "Edinburgh Castle Rockers",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 119 scored, needed 63 from 5 overs (RRR 12.6)"
+  },
+  {
+   "innings": 2,
+   "team": "Edinburgh Castle Rockers",
+   "type": "big_over",
+   "over": 19,
+   "detail": "Over 19 (D Wiese) went for 17 runs"
+  }
+ ],
+ "checks": []
+}

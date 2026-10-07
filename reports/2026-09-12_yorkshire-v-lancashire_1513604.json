@@ -1,0 +1,1438 @@
+{
+ "match": {
+  "teams": [
+   "Yorkshire",
+   "Lancashire"
+  ],
+  "dates": [
+   "2026-09-12"
+  ],
+  "venue": "Headingley, Leeds",
+  "city": "Leeds",
+  "event": "ECB Women's One-Day Cup",
+  "match_number": 71,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Lancashire"
+  },
+  "player_of_match": [],
+  "result": "Lancashire won by 7 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Yorkshire",
+   "batting_team": "Yorkshire",
+   "bowling_team": "Lancashire",
+   "super_over": false,
+   "total": 210,
+   "wickets": 10,
+   "overs": "45.0",
+   "run_rate": 4.67,
+   "target": null,
+   "extras": {
+    "legbyes": 8,
+    "wides": 7
+   },
+   "batting": [
+    {
+     "name": "L Winfield-Hill",
+     "dismissal": "c & b TG Norris",
+     "runs": 90,
+     "balls": 101,
+     "dots": 47,
+     "fours": 7,
+     "sixes": 2,
+     "strike_rate": 89.1
+    },
+    {
+     "name": "R Duckworth",
+     "dismissal": "b KL Cross",
+     "runs": 6,
+     "balls": 27,
+     "dots": 24,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 22.2
+    },
+    {
+     "name": "JL Jonassen",
+     "dismissal": "c E Threlkeld b TG Norris",
+     "runs": 7,
+     "balls": 15,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.7
+    },
+    {
+     "name": "SL Kalis",
+     "dismissal": "b FMK Morris",
+     "runs": 21,
+     "balls": 28,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "EG Thomas",
+     "dismissal": "c TG Norris b S Morris",
+     "runs": 19,
+     "balls": 37,
+     "dots": 27,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 51.4
+    },
+    {
+     "name": "A Campbell",
+     "dismissal": "c TG Norris b KL Cross",
+     "runs": 26,
+     "balls": 14,
+     "dots": 5,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 185.7
+    },
+    {
+     "name": "S Glenn",
+     "dismissal": "b FMK Morris",
+     "runs": 2,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "BA Langston",
+     "dismissal": "st E Threlkeld b FMK Morris",
+     "runs": 5,
+     "balls": 14,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 35.7
+    },
+    {
+     "name": "CAR Cooper",
+     "dismissal": "lbw b S Morris",
+     "runs": 8,
+     "balls": 7,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 114.3
+    },
+    {
+     "name": "JA Woolston",
+     "dismissal": "b G Potts",
+     "runs": 4,
+     "balls": 9,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 44.4
+    },
+    {
+     "name": "HRA Rainey",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 12,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 58.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KL Cross",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 54,
+     "wickets": 2,
+     "economy": 6.0,
+     "dots": 32,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "G Potts",
+     "overs": "8.0",
+     "maidens": 1,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 3.0,
+     "dots": 34,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "TG Norris",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 2,
+     "economy": 4.75,
+     "dots": 25,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "S Morris",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 50,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 30,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "FMK Morris",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 36,
+     "wickets": 3,
+     "economy": 3.6,
+     "dots": 34,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 38,
+     "wickets": 1,
+     "run_rate": 3.8
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 154,
+     "wickets": 6,
+     "run_rate": 5.13
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "5.0",
+     "runs": 18,
+     "wickets": 3,
+     "run_rate": 3.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 32,
+     "player": "R Duckworth",
+     "over": "8.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 53,
+     "player": "JL Jonassen",
+     "over": "14.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 95,
+     "player": "SL Kalis",
+     "over": "21.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 144,
+     "player": "EG Thomas",
+     "over": "32.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 179,
+     "player": "A Campbell",
+     "over": "35.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 185,
+     "player": "S Glenn",
+     "over": "37.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 187,
+     "player": "L Winfield-Hill",
+     "over": "38.3",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 199,
+     "player": "BA Langston",
+     "over": "41.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 9,
+     "score": 199,
+     "player": "CAR Cooper",
+     "over": "42.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 210,
+     "player": "JA Woolston",
+     "over": "44.6",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 32,
+     "balls": 53,
+     "batters": [
+      "L Winfield-Hill",
+      "R Duckworth"
+     ],
+     "contributions": {
+      "L Winfield-Hill": 24,
+      "R Duckworth": 6
+     },
+     "ended_by": "R Duckworth (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 21,
+     "balls": 33,
+     "batters": [
+      "JL Jonassen",
+      "L Winfield-Hill"
+     ],
+     "contributions": {
+      "JL Jonassen": 7,
+      "L Winfield-Hill": 7
+     },
+     "ended_by": "JL Jonassen (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 42,
+     "balls": 46,
+     "batters": [
+      "SL Kalis",
+      "L Winfield-Hill"
+     ],
+     "contributions": {
+      "SL Kalis": 21,
+      "L Winfield-Hill": 20
+     },
+     "ended_by": "SL Kalis (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 49,
+     "balls": 64,
+     "batters": [
+      "L Winfield-Hill",
+      "EG Thomas"
+     ],
+     "contributions": {
+      "L Winfield-Hill": 27,
+      "EG Thomas": 19
+     },
+     "ended_by": "EG Thomas (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 35,
+     "balls": 20,
+     "batters": [
+      "A Campbell",
+      "L Winfield-Hill"
+     ],
+     "contributions": {
+      "A Campbell": 26,
+      "L Winfield-Hill": 7
+     },
+     "ended_by": "A Campbell (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 6,
+     "balls": 10,
+     "batters": [
+      "L Winfield-Hill",
+      "S Glenn"
+     ],
+     "contributions": {
+      "L Winfield-Hill": 4,
+      "S Glenn": 2
+     },
+     "ended_by": "S Glenn (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "BA Langston",
+      "L Winfield-Hill"
+     ],
+     "contributions": {
+      "BA Langston": 1,
+      "L Winfield-Hill": 1
+     },
+     "ended_by": "L Winfield-Hill (caught and bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 12,
+     "balls": 17,
+     "batters": [
+      "CAR Cooper",
+      "BA Langston"
+     ],
+     "contributions": {
+      "CAR Cooper": 8,
+      "BA Langston": 4
+     },
+     "ended_by": "BA Langston (stumped)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "JA Woolston",
+      "CAR Cooper"
+     ],
+     "contributions": {
+      "JA Woolston": 0,
+      "CAR Cooper": 0
+     },
+     "ended_by": "CAR Cooper (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 11,
+     "balls": 17,
+     "batters": [
+      "HRA Rainey",
+      "JA Woolston"
+     ],
+     "contributions": {
+      "HRA Rainey": 7,
+      "JA Woolston": 4
+     },
+     "ended_by": "JA Woolston (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TG Norris",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FMK Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Morris",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KL Cross",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Potts",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Lancashire",
+   "batting_team": "Lancashire",
+   "bowling_team": "Yorkshire",
+   "super_over": false,
+   "total": 211,
+   "wickets": 3,
+   "overs": "41.2",
+   "run_rate": 5.1,
+   "target": null,
+   "extras": {
+    "wides": 15,
+    "legbyes": 2,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "E Jones",
+     "dismissal": "b CAR Cooper",
+     "runs": 77,
+     "balls": 97,
+     "dots": 57,
+     "fours": 8,
+     "sixes": 1,
+     "strike_rate": 79.4
+    },
+    {
+     "name": "GH Lewis",
+     "dismissal": "b S Glenn",
+     "runs": 25,
+     "balls": 37,
+     "dots": 25,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 67.6
+    },
+    {
+     "name": "TN Kesteven",
+     "dismissal": "c A Campbell b HRA Rainey",
+     "runs": 47,
+     "balls": 76,
+     "dots": 48,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 61.8
+    },
+    {
+     "name": "E Threlkeld",
+     "dismissal": "not out",
+     "runs": 31,
+     "balls": 34,
+     "dots": 17,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 91.2
+    },
+    {
+     "name": "FMK Morris",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 4,
+     "dots": 1,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 300.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "HRA Rainey",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 39,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JA Woolston",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 45,
+     "wickets": 0,
+     "economy": 5.62,
+     "dots": 33,
+     "wides": 8,
+     "noballs": 0
+    },
+    {
+     "name": "BA Langston",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 6.67,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "JL Jonassen",
+     "overs": "9.2",
+     "maidens": 1,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 3.86,
+     "dots": 34,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Glenn",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 39,
+     "wickets": 1,
+     "economy": 4.88,
+     "dots": 26,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "CAR Cooper",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 23,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 49,
+     "wickets": 0,
+     "run_rate": 4.9
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 149,
+     "wickets": 2,
+     "run_rate": 4.97
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "1.2",
+     "runs": 13,
+     "wickets": 1,
+     "run_rate": 9.75
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 83,
+     "player": "GH Lewis",
+     "over": "16.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 132,
+     "player": "E Jones",
+     "over": "27.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 198,
+     "player": "TN Kesteven",
+     "over": "40.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 83,
+     "balls": 98,
+     "batters": [
+      "E Jones",
+      "GH Lewis"
+     ],
+     "contributions": {
+      "E Jones": 45,
+      "GH Lewis": 25
+     },
+     "ended_by": "GH Lewis (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 49,
+     "balls": 69,
+     "batters": [
+      "TN Kesteven",
+      "E Jones"
+     ],
+     "contributions": {
+      "TN Kesteven": 12,
+      "E Jones": 32
+     },
+     "ended_by": "E Jones (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 66,
+     "balls": 75,
+     "batters": [
+      "E Threlkeld",
+      "TN Kesteven"
+     ],
+     "contributions": {
+      "E Threlkeld": 30,
+      "TN Kesteven": 35
+     },
+     "ended_by": "TN Kesteven (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 6,
+     "batters": [
+      "FMK Morris",
+      "E Threlkeld"
+     ],
+     "contributions": {
+      "FMK Morris": 12,
+      "E Threlkeld": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Langston",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Langston",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Langston",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Woolston",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Glenn",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CAR Cooper",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HRA Rainey",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JL Jonassen",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "L Winfield-Hill",
+    "runs": 90,
+    "balls": 101,
+    "strike_rate": 89.1
+   },
+   {
+    "name": "E Jones",
+    "runs": 77,
+    "balls": 97,
+    "strike_rate": 79.4
+   },
+   {
+    "name": "TN Kesteven",
+    "runs": 47,
+    "balls": 76,
+    "strike_rate": 61.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "FMK Morris",
+    "figures": "3/36",
+    "overs": "10.0",
+    "economy": 3.6
+   },
+   {
+    "name": "TG Norris",
+    "figures": "2/38",
+    "overs": "8.0",
+    "economy": 4.75
+   },
+   {
+    "name": "S Morris",
+    "figures": "2/50",
+    "overs": "10.0",
+    "economy": 5.0
+   }
+  ]
+ },
+ "turning_points": [],
+ "checks": []
+}

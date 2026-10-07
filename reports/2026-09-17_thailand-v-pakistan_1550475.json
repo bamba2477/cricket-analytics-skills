@@ -1,0 +1,892 @@
+{
+ "match": {
+  "teams": [
+   "Thailand",
+   "Pakistan"
+  ],
+  "dates": [
+   "2026-09-17"
+  ],
+  "venue": "Korogi Sports Park, Nisshin",
+  "city": "Nisshin",
+  "event": "Asian Games Women's Cricket Competition",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Pakistan"
+  },
+  "player_of_match": [],
+  "result": "Pakistan won by 3 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Thailand",
+   "batting_team": "Thailand",
+   "bowling_team": "Pakistan",
+   "super_over": false,
+   "total": 91,
+   "wickets": 4,
+   "overs": "11.0",
+   "run_rate": 8.27,
+   "target": null,
+   "extras": {
+    "wides": 5,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "N Chantam",
+     "dismissal": "c Ayesha Zafar b Fatima Sana",
+     "runs": 6,
+     "balls": 5,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 120.0
+    },
+    {
+     "name": "P Maya",
+     "dismissal": "retired out",
+     "runs": 15,
+     "balls": 16,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 93.8
+    },
+    {
+     "name": "N Koncharoenkai",
+     "dismissal": "lbw b Fatima Sana",
+     "runs": 49,
+     "balls": 38,
+     "dots": 13,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 128.9
+    },
+    {
+     "name": "N Chaiwai",
+     "dismissal": "c Fatima Sana b Nashra Sandhu",
+     "runs": 10,
+     "balls": 3,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 333.3
+    },
+    {
+     "name": "C Sutthiruang",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "A Suwanchonrathi",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Tasmia Rubab",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Fatima Sana",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 2,
+     "economy": 7.33,
+     "dots": 8,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Nashra Sandhu",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 9.5,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Tuba Hassan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Umm-e-Hani",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 41,
+     "wickets": 1,
+     "run_rate": 6.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "5.0",
+     "runs": 50,
+     "wickets": 3,
+     "run_rate": 10.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "N Chantam",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 72,
+     "player": "P Maya",
+     "over": "8.6",
+     "kind": "retired out"
+    },
+    {
+     "wicket": 3,
+     "score": 82,
+     "player": "N Chaiwai",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 88,
+     "player": "N Koncharoenkai",
+     "over": "10.4",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 8,
+     "batters": [
+      "N Chantam",
+      "P Maya"
+     ],
+     "contributions": {
+      "N Chantam": 6,
+      "P Maya": 1
+     },
+     "ended_by": "N Chantam (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 65,
+     "balls": 46,
+     "batters": [
+      "N Koncharoenkai",
+      "P Maya"
+     ],
+     "contributions": {
+      "N Koncharoenkai": 44,
+      "P Maya": 14
+     },
+     "ended_by": "P Maya (retired out)"
+    },
+    {
+     "wicket": 3,
+     "runs": 10,
+     "balls": 3,
+     "batters": [
+      "N Chaiwai",
+      "N Koncharoenkai"
+     ],
+     "contributions": {
+      "N Chaiwai": 10,
+      "N Koncharoenkai": 0
+     },
+     "ended_by": "N Chaiwai (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 6,
+     "balls": 7,
+     "batters": [
+      "C Sutthiruang",
+      "N Koncharoenkai"
+     ],
+     "contributions": {
+      "C Sutthiruang": 1,
+      "N Koncharoenkai": 5
+     },
+     "ended_by": "N Koncharoenkai (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 2,
+     "batters": [
+      "A Suwanchonrathi",
+      "C Sutthiruang"
+     ],
+     "contributions": {
+      "A Suwanchonrathi": 1,
+      "C Sutthiruang": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tasmia Rubab",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Sana",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tasmia Rubab",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nashra Sandhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tuba Hassan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umm-e-Hani",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tuba Hassan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umm-e-Hani",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Fatima Sana",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nashra Sandhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Sana",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Pakistan",
+   "batting_team": "Pakistan",
+   "bowling_team": "Thailand",
+   "super_over": false,
+   "total": 92,
+   "wickets": 7,
+   "overs": "10.4",
+   "run_rate": 8.62,
+   "target": 92,
+   "extras": {},
+   "batting": [
+    {
+     "name": "Gull Feroza",
+     "dismissal": "st N Koncharoenkai b O Kamchomphu",
+     "runs": 16,
+     "balls": 13,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 123.1
+    },
+    {
+     "name": "Shawaal Zulfiqar",
+     "dismissal": "c & b O Kamchomphu",
+     "runs": 25,
+     "balls": 14,
+     "dots": 4,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 178.6
+    },
+    {
+     "name": "Ayesha Zafar",
+     "dismissal": "c P Maya b S Laomi",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Fatima Sana",
+     "dismissal": "c A Suwanchonrathi b P Maya",
+     "runs": 21,
+     "balls": 13,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 161.5
+    },
+    {
+     "name": "Aliya Riaz",
+     "dismissal": "c N Chantam b O Kamchomphu",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "Eyman Fatima",
+     "dismissal": "c P Maya b S Chaturongrattana",
+     "runs": 7,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "Tuba Hassan",
+     "dismissal": "c A Suwanchonrathi b S Chaturongrattana",
+     "runs": 13,
+     "balls": 7,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 185.7
+    },
+    {
+     "name": "Eman Naseer",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 3,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Umm-e-Hani",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "T Putthawong",
+     "overs": "1.4",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 9.6,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "P Maya",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Chaturongrattana",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 2,
+     "economy": 11.5,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "O Kamchomphu",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 37,
+     "wickets": 3,
+     "economy": 12.33,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Laomi",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 1,
+     "economy": 1.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 47,
+     "wickets": 4,
+     "run_rate": 7.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "4.4",
+     "runs": 45,
+     "wickets": 3,
+     "run_rate": 9.64
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 36,
+     "player": "Shawaal Zulfiqar",
+     "over": "3.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 37,
+     "player": "Ayesha Zafar",
+     "over": "4.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 43,
+     "player": "Gull Feroza",
+     "over": "5.3",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 4,
+     "score": 47,
+     "player": "Aliya Riaz",
+     "over": "5.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 73,
+     "player": "Fatima Sana",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 77,
+     "player": "Eyman Fatima",
+     "over": "9.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 88,
+     "player": "Tuba Hassan",
+     "over": "9.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 36,
+     "balls": 23,
+     "batters": [
+      "Gull Feroza",
+      "Shawaal Zulfiqar"
+     ],
+     "contributions": {
+      "Gull Feroza": 11,
+      "Shawaal Zulfiqar": 25
+     },
+     "ended_by": "Shawaal Zulfiqar (caught and bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "Ayesha Zafar",
+      "Gull Feroza"
+     ],
+     "contributions": {
+      "Ayesha Zafar": 1,
+      "Gull Feroza": 0
+     },
+     "ended_by": "Ayesha Zafar (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 6,
+     "balls": 6,
+     "batters": [
+      "Fatima Sana",
+      "Gull Feroza"
+     ],
+     "contributions": {
+      "Fatima Sana": 1,
+      "Gull Feroza": 5
+     },
+     "ended_by": "Gull Feroza (stumped)"
+    },
+    {
+     "wicket": 4,
+     "runs": 4,
+     "balls": 3,
+     "batters": [
+      "Aliya Riaz",
+      "Fatima Sana"
+     ],
+     "contributions": {
+      "Aliya Riaz": 4,
+      "Fatima Sana": 0
+     },
+     "ended_by": "Aliya Riaz (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 26,
+     "balls": 13,
+     "batters": [
+      "Fatima Sana",
+      "Eyman Fatima"
+     ],
+     "contributions": {
+      "Fatima Sana": 20,
+      "Eyman Fatima": 6
+     },
+     "ended_by": "Fatima Sana (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 4,
+     "balls": 7,
+     "batters": [
+      "Tuba Hassan",
+      "Eyman Fatima"
+     ],
+     "contributions": {
+      "Tuba Hassan": 3,
+      "Eyman Fatima": 1
+     },
+     "ended_by": "Eyman Fatima (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 11,
+     "balls": 4,
+     "batters": [
+      "Eman Naseer",
+      "Tuba Hassan"
+     ],
+     "contributions": {
+      "Eman Naseer": 1,
+      "Tuba Hassan": 10
+     },
+     "ended_by": "Tuba Hassan (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "Eman Naseer",
+      "Umm-e-Hani"
+     ],
+     "contributions": {
+      "Eman Naseer": 2,
+      "Umm-e-Hani": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 25,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "N Koncharoenkai",
+    "runs": 49,
+    "balls": 38,
+    "strike_rate": 128.9
+   },
+   {
+    "name": "Shawaal Zulfiqar",
+    "runs": 25,
+    "balls": 14,
+    "strike_rate": 178.6
+   },
+   {
+    "name": "Fatima Sana",
+    "runs": 21,
+    "balls": 13,
+    "strike_rate": 161.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "O Kamchomphu",
+    "figures": "3/37",
+    "overs": "3.0",
+    "economy": 12.33
+   },
+   {
+    "name": "Fatima Sana",
+    "figures": "2/22",
+    "overs": "3.0",
+    "economy": 7.33
+   },
+   {
+    "name": "S Chaturongrattana",
+    "figures": "2/23",
+    "overs": "2.0",
+    "economy": 11.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "collapse",
+   "over": 9,
+   "detail": "3 wickets fell between overs 9 and 11"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "wicket_burst",
+   "over": 6,
+   "detail": "2 wickets fell in over 6 (bowled by O Kamchomphu, 2 credited to O Kamchomphu)"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 47 scored, needed 45 from 5 overs (RRR 9.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "big_over",
+   "over": 8,
+   "detail": "Over 8 (O Kamchomphu) went for 25 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by S Chaturongrattana, 2 credited to S Chaturongrattana)"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 88 scored, needed 4 from 1 overs (RRR 4.0)"
+  }
+ ],
+ "checks": []
+}

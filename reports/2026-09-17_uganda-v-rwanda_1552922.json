@@ -1,0 +1,1089 @@
+{
+ "match": {
+  "teams": [
+   "Uganda",
+   "Rwanda"
+  ],
+  "dates": [
+   "2026-09-17"
+  ],
+  "venue": "Gahanga International Cricket Stadium, Rwanda",
+  "city": "Kigali City",
+  "event": "Africa Continental Cup",
+  "match_number": 17,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Uganda"
+  },
+  "player_of_match": [
+   "R Obuya"
+  ],
+  "result": "Uganda won by 72 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Uganda",
+   "batting_team": "Uganda",
+   "bowling_team": "Rwanda",
+   "super_over": false,
+   "total": 188,
+   "wickets": 2,
+   "overs": "20.0",
+   "run_rate": 9.4,
+   "target": null,
+   "extras": {
+    "wides": 4,
+    "byes": 1,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "R Obuya",
+     "dismissal": "not out",
+     "runs": 118,
+     "balls": 70,
+     "dots": 23,
+     "fours": 8,
+     "sixes": 8,
+     "strike_rate": 168.6
+    },
+    {
+     "name": "Anas Baig",
+     "dismissal": "c D Uwimana b E Rukiriza",
+     "runs": 19,
+     "balls": 18,
+     "dots": 9,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 105.6
+    },
+    {
+     "name": "C Musemez",
+     "dismissal": "c E Rukiriza b Yves Cyusa",
+     "runs": 9,
+     "balls": 13,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 69.2
+    },
+    {
+     "name": "Olipa Gerald",
+     "dismissal": "not out",
+     "runs": 35,
+     "balls": 19,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 184.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "M Akayezu",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 12,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "E Kubwimana",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 47,
+     "wickets": 0,
+     "economy": 15.67,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "I Ntirenganya",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 8.25,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Nadir",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 4.75,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Rukiriza",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 11,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Yves Cyusa",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 20.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 63,
+     "wickets": 0,
+     "run_rate": 10.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 76,
+     "wickets": 2,
+     "run_rate": 8.44
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 49,
+     "wickets": 0,
+     "run_rate": 9.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 88,
+     "player": "Anas Baig",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 125,
+     "player": "C Musemez",
+     "over": "14.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 88,
+     "balls": 53,
+     "batters": [
+      "R Obuya",
+      "Anas Baig"
+     ],
+     "contributions": {
+      "R Obuya": 67,
+      "Anas Baig": 19
+     },
+     "ended_by": "Anas Baig (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 37,
+     "balls": 33,
+     "batters": [
+      "C Musemez",
+      "R Obuya"
+     ],
+     "contributions": {
+      "C Musemez": 9,
+      "R Obuya": 27
+     },
+     "ended_by": "C Musemez (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 63,
+     "balls": 34,
+     "batters": [
+      "Olipa Gerald",
+      "R Obuya"
+     ],
+     "contributions": {
+      "Olipa Gerald": 35,
+      "R Obuya": 24
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ntirenganya",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Nadir",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ntirenganya",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Rukiriza",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 20,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yves Cyusa",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ntirenganya",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Akayezu",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ntirenganya",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kubwimana",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Rwanda",
+   "batting_team": "Rwanda",
+   "bowling_team": "Uganda",
+   "super_over": false,
+   "total": 116,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 5.8,
+   "target": 189,
+   "extras": {
+    "legbyes": 2,
+    "wides": 13,
+    "byes": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "D Ndikubwimana",
+     "dismissal": "c J Baguma b J Miyaji",
+     "runs": 4,
+     "balls": 4,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Hamza Khan",
+     "dismissal": "b C Kyewuta",
+     "runs": 3,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.0
+    },
+    {
+     "name": "I Niyomugabo",
+     "dismissal": "not out",
+     "runs": 52,
+     "balls": 52,
+     "dots": 22,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "D Gumyusenge",
+     "dismissal": "b C Kyewuta",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Yves Cyusa",
+     "dismissal": "b J Miyaji",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "D Uwimana",
+     "dismissal": "c Olipa Gerald b M Musinguzi",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "E Rukiriza",
+     "dismissal": "b J Baguma",
+     "runs": 6,
+     "balls": 10,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "M Akayezu",
+     "dismissal": "b J Baguma",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "E Kubwimana",
+     "dismissal": "b J Baguma",
+     "runs": 6,
+     "balls": 13,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.2
+    },
+    {
+     "name": "Muhammad Nadir",
+     "dismissal": "c J Baguma b C Kyewuta",
+     "runs": 19,
+     "balls": 11,
+     "dots": 4,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 172.7
+    },
+    {
+     "name": "I Ntirenganya",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 9,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 77.8
+    }
+   ],
+   "bowling": [
+    {
+     "name": "J Miyaji",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 2,
+     "economy": 2.67,
+     "dots": 14,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "C Kyewuta",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 3,
+     "economy": 8.0,
+     "dots": 11,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "M Musinguzi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 4.25,
+     "dots": 14,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "J Baguma",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 22,
+     "wickets": 3,
+     "economy": 5.5,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "Olipa Gerald",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 5.25,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Waiswa",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 30,
+     "wickets": 5,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 52,
+     "wickets": 3,
+     "run_rate": 5.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 34,
+     "wickets": 1,
+     "run_rate": 6.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "D Ndikubwimana",
+     "over": "0.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 18,
+     "player": "Hamza Khan",
+     "over": "3.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 19,
+     "player": "D Gumyusenge",
+     "over": "3.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 24,
+     "player": "Yves Cyusa",
+     "over": "4.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 25,
+     "player": "D Uwimana",
+     "over": "5.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 45,
+     "player": "E Rukiriza",
+     "over": "8.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 45,
+     "player": "M Akayezu",
+     "over": "8.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 58,
+     "player": "E Kubwimana",
+     "over": "12.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 97,
+     "player": "Muhammad Nadir",
+     "over": "16.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "D Ndikubwimana",
+      "Hamza Khan"
+     ],
+     "contributions": {
+      "D Ndikubwimana": 4,
+      "Hamza Khan": 0
+     },
+     "ended_by": "D Ndikubwimana (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 14,
+     "balls": 18,
+     "batters": [
+      "I Niyomugabo",
+      "Hamza Khan"
+     ],
+     "contributions": {
+      "I Niyomugabo": 10,
+      "Hamza Khan": 3
+     },
+     "ended_by": "Hamza Khan (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "D Gumyusenge",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "D Gumyusenge": 0,
+      "I Niyomugabo": 0
+     },
+     "ended_by": "D Gumyusenge (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 5,
+     "balls": 3,
+     "batters": [
+      "Yves Cyusa",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "Yves Cyusa": 0,
+      "I Niyomugabo": 2
+     },
+     "ended_by": "Yves Cyusa (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "D Uwimana",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "D Uwimana": 1,
+      "I Niyomugabo": 0
+     },
+     "ended_by": "D Uwimana (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 20,
+     "balls": 16,
+     "batters": [
+      "E Rukiriza",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "E Rukiriza": 6,
+      "I Niyomugabo": 5
+     },
+     "ended_by": "E Rukiriza (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "M Akayezu",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "M Akayezu": 0,
+      "I Niyomugabo": 0
+     },
+     "ended_by": "M Akayezu (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 13,
+     "balls": 22,
+     "batters": [
+      "I Niyomugabo",
+      "E Kubwimana"
+     ],
+     "contributions": {
+      "I Niyomugabo": 6,
+      "E Kubwimana": 6
+     },
+     "ended_by": "E Kubwimana (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 39,
+     "balls": 25,
+     "batters": [
+      "Muhammad Nadir",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "Muhammad Nadir": 19,
+      "I Niyomugabo": 18
+     },
+     "ended_by": "Muhammad Nadir (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 19,
+     "balls": 19,
+     "batters": [
+      "I Ntirenganya",
+      "I Niyomugabo"
+     ],
+     "contributions": {
+      "I Ntirenganya": 7,
+      "I Niyomugabo": 11
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Kyewuta",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "C Kyewuta",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Musinguzi",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Kyewuta",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Kyewuta",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Olipa Gerald",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "R Obuya",
+    "runs": 118,
+    "balls": 70,
+    "strike_rate": 168.6
+   },
+   {
+    "name": "I Niyomugabo",
+    "runs": 52,
+    "balls": 52,
+    "strike_rate": 100.0
+   },
+   {
+    "name": "Olipa Gerald",
+    "runs": 35,
+    "balls": 19,
+    "strike_rate": 184.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "J Baguma",
+    "figures": "3/22",
+    "overs": "4.0",
+    "economy": 5.5
+   },
+   {
+    "name": "C Kyewuta",
+    "figures": "3/32",
+    "overs": "4.0",
+    "economy": 8.0
+   },
+   {
+    "name": "J Miyaji",
+    "figures": "2/8",
+    "overs": "3.0",
+    "economy": 2.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (Yves Cyusa) went for 20 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 20,
+   "detail": "Over 20 (E Kubwimana) went for 22 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "wicket_burst",
+   "over": 4,
+   "detail": "2 wickets fell in over 4 (bowled by C Kyewuta, 2 credited to C Kyewuta)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 30 scored, needed 159 from 14 overs (RRR 11.36)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "wicket_burst",
+   "over": 9,
+   "detail": "2 wickets fell in over 9 (bowled by J Baguma, 2 credited to J Baguma)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 51 scored, needed 138 from 10 overs (RRR 13.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Rwanda",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 82 scored, needed 107 from 5 overs (RRR 21.4)"
+  }
+ ],
+ "checks": []
+}

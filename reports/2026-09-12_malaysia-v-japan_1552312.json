@@ -1,0 +1,1053 @@
+{
+ "match": {
+  "teams": [
+   "Malaysia",
+   "Japan"
+  ],
+  "dates": [
+   "2026-09-12"
+  ],
+  "venue": "Sano International Cricket Ground",
+  "city": "Sano",
+  "event": "Malaysia Women tour of Japan",
+  "match_number": 2,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Japan"
+  },
+  "player_of_match": [
+   "Ainna Hamizah Hashim"
+  ],
+  "result": "Malaysia won by 18 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Malaysia",
+   "batting_team": "Malaysia",
+   "bowling_team": "Japan",
+   "super_over": false,
+   "total": 100,
+   "wickets": 4,
+   "overs": "20.0",
+   "run_rate": 5.0,
+   "target": null,
+   "extras": {
+    "wides": 6,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "Ainna Hamizah Hashim",
+     "dismissal": "c K Ota b A Fujikawa",
+     "runs": 32,
+     "balls": 46,
+     "dots": 27,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 69.6
+    },
+    {
+     "name": "Wan Julia",
+     "dismissal": "run out (A Chandel)",
+     "runs": 37,
+     "balls": 49,
+     "dots": 20,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.5
+    },
+    {
+     "name": "Mahirah Izzati Ismail",
+     "dismissal": "c A Chandel b A Fujikawa",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Mas Elysa",
+     "dismissal": "c H Iwasaki b S Kato",
+     "runs": 17,
+     "balls": 16,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 106.2
+    },
+    {
+     "name": "Nurin Imanina",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Nur Dania Syuhada",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "A Chandel",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 12,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Nonoha Yasumoto",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 3.33,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "E Kusuda-Nairn",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Kato",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "A Fujikawa",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 2,
+     "economy": 4.5,
+     "dots": 11,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "K Ota",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 3.67,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 32,
+     "wickets": 0,
+     "run_rate": 5.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 35,
+     "wickets": 2,
+     "run_rate": 3.89
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 33,
+     "wickets": 2,
+     "run_rate": 6.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 62,
+     "player": "Ainna Hamizah Hashim",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 64,
+     "player": "Mahirah Izzati Ismail",
+     "over": "13.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 95,
+     "player": "Mas Elysa",
+     "over": "18.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 98,
+     "player": "Wan Julia",
+     "over": "19.2",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 62,
+     "balls": 80,
+     "batters": [
+      "Ainna Hamizah Hashim",
+      "Wan Julia"
+     ],
+     "contributions": {
+      "Ainna Hamizah Hashim": 32,
+      "Wan Julia": 27
+     },
+     "ended_by": "Ainna Hamizah Hashim (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "Mahirah Izzati Ismail",
+      "Wan Julia"
+     ],
+     "contributions": {
+      "Mahirah Izzati Ismail": 2,
+      "Wan Julia": 0
+     },
+     "ended_by": "Mahirah Izzati Ismail (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 31,
+     "balls": 29,
+     "batters": [
+      "Mas Elysa",
+      "Wan Julia"
+     ],
+     "contributions": {
+      "Mas Elysa": 17,
+      "Wan Julia": 10
+     },
+     "ended_by": "Mas Elysa (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "Nurin Imanina",
+      "Wan Julia"
+     ],
+     "contributions": {
+      "Nurin Imanina": 3,
+      "Wan Julia": 0
+     },
+     "ended_by": "Wan Julia (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "Nurin Imanina",
+      "Nur Dania Syuhada"
+     ],
+     "contributions": {
+      "Nurin Imanina": 1,
+      "Nur Dania Syuhada": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Chandel",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nonoha Yasumoto",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Chandel",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nonoha Yasumoto",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kusuda-Nairn",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nonoha Yasumoto",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Kato",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Fujikawa",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Kato",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Fujikawa",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Kato",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Fujikawa",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Ota",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "A Fujikawa",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Ota",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kusuda-Nairn",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Ota",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Chandel",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Kato",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "A Chandel",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Japan",
+   "batting_team": "Japan",
+   "bowling_team": "Malaysia",
+   "super_over": false,
+   "total": 82,
+   "wickets": 6,
+   "overs": "20.0",
+   "run_rate": 4.1,
+   "target": 101,
+   "extras": {
+    "wides": 6,
+    "legbyes": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "H Iwasaki",
+     "dismissal": "c Nurin Imanina b Aisya Eleesa",
+     "runs": 4,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "A Kano",
+     "dismissal": "lbw b Nur Dania Syuhada",
+     "runs": 7,
+     "balls": 16,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 43.8
+    },
+    {
+     "name": "M Yanagida",
+     "dismissal": "c Aina Najwa b Aisya Eleesa",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "S Kato",
+     "dismissal": "run out (WA Duraisingam)",
+     "runs": 16,
+     "balls": 20,
+     "dots": 10,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Erika Oda",
+     "dismissal": "run out (Mas Elysa)",
+     "runs": 20,
+     "balls": 34,
+     "dots": 18,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 58.8
+    },
+    {
+     "name": "H Goto",
+     "dismissal": "c Aina Najwa b WA Duraisingam",
+     "runs": 14,
+     "balls": 23,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 60.9
+    },
+    {
+     "name": "A Chandel",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 6,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "K Ota",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 9,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Aisya Eleesa",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 2,
+     "economy": 3.0,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Nur Dania Syuhada",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 3.25,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Ainna Hamizah Hashim",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Mahirah Izzati Ismail",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Nurin Imanina",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "WA Duraisingam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 4.75,
+     "dots": 10,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "SM Dhanusri",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 3.67,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 19,
+     "wickets": 3,
+     "run_rate": 3.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 43,
+     "wickets": 1,
+     "run_rate": 4.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 20,
+     "wickets": 2,
+     "run_rate": 4.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "H Iwasaki",
+     "over": "0.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 14,
+     "player": "M Yanagida",
+     "over": "4.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 16,
+     "player": "A Kano",
+     "over": "5.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 39,
+     "player": "S Kato",
+     "over": "10.2",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 70,
+     "player": "H Goto",
+     "over": "17.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 71,
+     "player": "Erika Oda",
+     "over": "17.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "H Iwasaki",
+      "A Kano"
+     ],
+     "contributions": {
+      "H Iwasaki": 4,
+      "A Kano": 0
+     },
+     "ended_by": "H Iwasaki (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 10,
+     "balls": 21,
+     "batters": [
+      "A Kano",
+      "M Yanagida"
+     ],
+     "contributions": {
+      "A Kano": 6,
+      "M Yanagida": 1
+     },
+     "ended_by": "M Yanagida (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "S Kato",
+      "A Kano"
+     ],
+     "contributions": {
+      "S Kato": 1,
+      "A Kano": 1
+     },
+     "ended_by": "A Kano (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 23,
+     "balls": 31,
+     "batters": [
+      "Erika Oda",
+      "S Kato"
+     ],
+     "contributions": {
+      "Erika Oda": 5,
+      "S Kato": 15
+     },
+     "ended_by": "S Kato (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 31,
+     "balls": 41,
+     "batters": [
+      "H Goto",
+      "Erika Oda"
+     ],
+     "contributions": {
+      "H Goto": 14,
+      "Erika Oda": 15
+     },
+     "ended_by": "H Goto (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "A Chandel",
+      "Erika Oda"
+     ],
+     "contributions": {
+      "A Chandel": 1,
+      "Erika Oda": 0
+     },
+     "ended_by": "Erika Oda (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 11,
+     "balls": 14,
+     "batters": [
+      "K Ota",
+      "A Chandel"
+     ],
+     "contributions": {
+      "K Ota": 6,
+      "A Chandel": 4
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Aisya Eleesa",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aisya Eleesa",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Aisya Eleesa",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ainna Hamizah Hashim",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahirah Izzati Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ainna Hamizah Hashim",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahirah Izzati Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Nurin Imanina",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nurin Imanina",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Dhanusri",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Dhanusri",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Dhanusri",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Wan Julia",
+    "runs": 37,
+    "balls": 49,
+    "strike_rate": 75.5
+   },
+   {
+    "name": "Ainna Hamizah Hashim",
+    "runs": 32,
+    "balls": 46,
+    "strike_rate": 69.6
+   },
+   {
+    "name": "Erika Oda",
+    "runs": 20,
+    "balls": 34,
+    "strike_rate": 58.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Aisya Eleesa",
+    "figures": "2/9",
+    "overs": "3.0",
+    "economy": 3.0
+   },
+   {
+    "name": "A Fujikawa",
+    "figures": "2/18",
+    "overs": "4.0",
+    "economy": 4.5
+   },
+   {
+    "name": "Nur Dania Syuhada",
+    "figures": "1/13",
+    "overs": "4.0",
+    "economy": 3.25
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Malaysia",
+   "type": "wicket_burst",
+   "over": 14,
+   "detail": "2 wickets fell in over 14 (bowled by A Fujikawa, 2 credited to A Fujikawa)"
+  },
+  {
+   "innings": 2,
+   "team": "Japan",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 19 scored, needed 82 from 14 overs (RRR 5.86)"
+  },
+  {
+   "innings": 2,
+   "team": "Japan",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 38 scored, needed 63 from 10 overs (RRR 6.3)"
+  },
+  {
+   "innings": 2,
+   "team": "Japan",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 62 scored, needed 39 from 5 overs (RRR 7.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Japan",
+   "type": "wicket_burst",
+   "over": 18,
+   "detail": "2 wickets fell in over 18 (bowled by WA Duraisingam, 1 credited to WA Duraisingam)"
+  }
+ ],
+ "checks": []
+}

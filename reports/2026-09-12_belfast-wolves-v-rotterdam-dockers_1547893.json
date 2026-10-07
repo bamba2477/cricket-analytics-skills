@@ -1,0 +1,1008 @@
+{
+ "match": {
+  "teams": [
+   "Belfast Wolves",
+   "Rotterdam Dockers"
+  ],
+  "dates": [
+   "2026-09-12"
+  ],
+  "venue": "The Village, Malahide, Dublin",
+  "city": "Dublin",
+  "event": "European T20 Premier League",
+  "match_number": 22,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Rotterdam Dockers"
+  },
+  "player_of_match": [
+   "H Klaasen"
+  ],
+  "result": "Rotterdam Dockers won by 7 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Belfast Wolves",
+   "batting_team": "Belfast Wolves",
+   "bowling_team": "Rotterdam Dockers",
+   "super_over": false,
+   "total": 161,
+   "wickets": 6,
+   "overs": "20.0",
+   "run_rate": 8.05,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "PR Stirling",
+     "dismissal": "c LV van Beek b D Wiese",
+     "runs": 12,
+     "balls": 9,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "HJ Manenti",
+     "dismissal": "c F du Plessis b Shubham Ranjane",
+     "runs": 24,
+     "balls": 24,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "L Tucker",
+     "dismissal": "b A Nortje",
+     "runs": 58,
+     "balls": 42,
+     "dots": 11,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 138.1
+    },
+    {
+     "name": "MS Chapman",
+     "dismissal": "c RE van der Merwe b LV van Beek",
+     "runs": 11,
+     "balls": 10,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 110.0
+    },
+    {
+     "name": "DA Miller",
+     "dismissal": "c RE van der Merwe b LV van Beek",
+     "runs": 40,
+     "balls": 26,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 153.8
+    },
+    {
+     "name": "GJ Maxwell",
+     "dismissal": "c H Klaasen b A Nortje",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "CJ Jordan",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 7,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "MR Adair",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "J Moondra",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "D Wiese",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Nortje",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 37,
+     "wickets": 2,
+     "economy": 9.25,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "LV van Beek",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 41,
+     "wickets": 2,
+     "economy": 10.25,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RE van der Merwe",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 6.5,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shubham Ranjane",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 1,
+     "economy": 6.25,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 49,
+     "wickets": 1,
+     "run_rate": 8.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 66,
+     "wickets": 2,
+     "run_rate": 7.33
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 46,
+     "wickets": 3,
+     "run_rate": 9.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "PR Stirling",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 66,
+     "player": "HJ Manenti",
+     "over": "9.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 96,
+     "player": "MS Chapman",
+     "over": "12.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 120,
+     "player": "L Tucker",
+     "over": "15.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 120,
+     "player": "GJ Maxwell",
+     "over": "15.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 159,
+     "player": "DA Miller",
+     "over": "19.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 11,
+     "batters": [
+      "PR Stirling",
+      "HJ Manenti"
+     ],
+     "contributions": {
+      "PR Stirling": 12,
+      "HJ Manenti": 1
+     },
+     "ended_by": "PR Stirling (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 53,
+     "balls": 44,
+     "batters": [
+      "L Tucker",
+      "HJ Manenti"
+     ],
+     "contributions": {
+      "L Tucker": 28,
+      "HJ Manenti": 23
+     },
+     "ended_by": "HJ Manenti (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 30,
+     "balls": 21,
+     "batters": [
+      "MS Chapman",
+      "L Tucker"
+     ],
+     "contributions": {
+      "MS Chapman": 11,
+      "L Tucker": 18
+     },
+     "ended_by": "MS Chapman (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 24,
+     "balls": 19,
+     "batters": [
+      "DA Miller",
+      "L Tucker"
+     ],
+     "contributions": {
+      "DA Miller": 12,
+      "L Tucker": 12
+     },
+     "ended_by": "L Tucker (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "GJ Maxwell",
+      "DA Miller"
+     ],
+     "contributions": {
+      "GJ Maxwell": 0,
+      "DA Miller": 0
+     },
+     "ended_by": "GJ Maxwell (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 39,
+     "balls": 23,
+     "batters": [
+      "DA Miller",
+      "CJ Jordan"
+     ],
+     "contributions": {
+      "DA Miller": 28,
+      "CJ Jordan": 11
+     },
+     "ended_by": "DA Miller (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 1,
+     "batters": [
+      "MR Adair",
+      "CJ Jordan"
+     ],
+     "contributions": {
+      "MR Adair": 2,
+      "CJ Jordan": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Rotterdam Dockers",
+   "batting_team": "Rotterdam Dockers",
+   "bowling_team": "Belfast Wolves",
+   "super_over": false,
+   "total": 162,
+   "wickets": 3,
+   "overs": "18.0",
+   "run_rate": 9.0,
+   "target": 162,
+   "extras": {
+    "noballs": 3,
+    "wides": 2
+   },
+   "batting": [
+    {
+     "name": "HE van der Dussen",
+     "dismissal": "c CJ Jordan b MR Adair",
+     "runs": 6,
+     "balls": 9,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "F du Plessis",
+     "dismissal": "c DA Miller b HJ Manenti",
+     "runs": 31,
+     "balls": 26,
+     "dots": 11,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 119.2
+    },
+    {
+     "name": "M Levitt",
+     "dismissal": "c MS Chapman b MJ Humphreys",
+     "runs": 44,
+     "balls": 34,
+     "dots": 11,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 129.4
+    },
+    {
+     "name": "H Klaasen",
+     "dismissal": "not out",
+     "runs": 47,
+     "balls": 26,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 180.8
+    },
+    {
+     "name": "Shubham Ranjane",
+     "dismissal": "not out",
+     "runs": 29,
+     "balls": 16,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 181.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MR Adair",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 40,
+     "wickets": 1,
+     "economy": 10.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SN Netravalkar",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 37,
+     "wickets": 0,
+     "economy": 12.33,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 2
+    },
+    {
+     "name": "FJ Klaassen",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 5.67,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Humphreys",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 39,
+     "wickets": 1,
+     "economy": 9.75,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "CJ Jordan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "HJ Manenti",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 44,
+     "wickets": 1,
+     "run_rate": 7.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 75,
+     "wickets": 2,
+     "run_rate": 8.33
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "3.0",
+     "runs": 43,
+     "wickets": 0,
+     "run_rate": 14.33
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "HE van der Dussen",
+     "over": "2.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 75,
+     "player": "F du Plessis",
+     "over": "10.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 87,
+     "player": "M Levitt",
+     "over": "11.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 14,
+     "batters": [
+      "HE van der Dussen",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "HE van der Dussen": 6,
+      "F du Plessis": 2
+     },
+     "ended_by": "HE van der Dussen (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 66,
+     "balls": 48,
+     "batters": [
+      "M Levitt",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "M Levitt": 36,
+      "F du Plessis": 29
+     },
+     "ended_by": "F du Plessis (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 12,
+     "balls": 10,
+     "batters": [
+      "H Klaasen",
+      "M Levitt"
+     ],
+     "contributions": {
+      "H Klaasen": 4,
+      "M Levitt": 8
+     },
+     "ended_by": "M Levitt (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 75,
+     "balls": 36,
+     "batters": [
+      "H Klaasen",
+      "Shubham Ranjane"
+     ],
+     "contributions": {
+      "H Klaasen": 43,
+      "Shubham Ranjane": 29
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ Jordan",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HJ Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HJ Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ Jordan",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 21,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "L Tucker",
+    "runs": 58,
+    "balls": 42,
+    "strike_rate": 138.1
+   },
+   {
+    "name": "H Klaasen",
+    "runs": 47,
+    "balls": 26,
+    "strike_rate": 180.8
+   },
+   {
+    "name": "M Levitt",
+    "runs": 44,
+    "balls": 34,
+    "strike_rate": 129.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "A Nortje",
+    "figures": "2/37",
+    "overs": "4.0",
+    "economy": 9.25
+   },
+   {
+    "name": "LV van Beek",
+    "figures": "2/41",
+    "overs": "4.0",
+    "economy": 10.25
+   },
+   {
+    "name": "HJ Manenti",
+    "figures": "1/12",
+    "overs": "2.0",
+    "economy": 6.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Belfast Wolves",
+   "type": "wicket_burst",
+   "over": 16,
+   "detail": "2 wickets fell in over 16 (bowled by A Nortje, 2 credited to A Nortje)"
+  },
+  {
+   "innings": 1,
+   "team": "Belfast Wolves",
+   "type": "big_over",
+   "over": 19,
+   "detail": "Over 19 (A Nortje) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Rotterdam Dockers",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 44 scored, needed 118 from 14 overs (RRR 8.43)"
+  },
+  {
+   "innings": 2,
+   "team": "Rotterdam Dockers",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 73 scored, needed 89 from 10 overs (RRR 8.9)"
+  },
+  {
+   "innings": 2,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (MJ Humphreys) went for 17 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Rotterdam Dockers",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 119 scored, needed 43 from 5 overs (RRR 8.6)"
+  },
+  {
+   "innings": 2,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 18,
+   "detail": "Over 18 (MR Adair) went for 21 runs"
+  }
+ ],
+ "checks": []
+}

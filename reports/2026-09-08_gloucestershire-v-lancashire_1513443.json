@@ -1,0 +1,3491 @@
+{
+ "match": {
+  "teams": [
+   "Gloucestershire",
+   "Lancashire"
+  ],
+  "dates": [
+   "2026-09-08",
+   "2026-09-09",
+   "2026-09-10",
+   "2026-09-11"
+  ],
+  "venue": "Old Trafford, Manchester",
+  "city": "Manchester",
+  "event": "County Championship",
+  "match_number": 48,
+  "match_type": "MDM",
+  "overs": null,
+  "toss": {
+   "decision": "bat",
+   "winner": "Gloucestershire"
+  },
+  "player_of_match": [],
+  "result": "Gloucestershire won by 105 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Gloucestershire",
+   "batting_team": "Gloucestershire",
+   "bowling_team": "Lancashire",
+   "super_over": false,
+   "total": 212,
+   "wickets": 10,
+   "overs": "80.2",
+   "run_rate": 2.64,
+   "target": null,
+   "extras": {
+    "legbyes": 10,
+    "noballs": 6
+   },
+   "batting": [
+    {
+     "name": "EWO Middleton",
+     "dismissal": "c MF Hurst b JM Anderson",
+     "runs": 2,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "JP Phillips",
+     "dismissal": "b GP Balderson",
+     "runs": 8,
+     "balls": 49,
+     "dots": 42,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.3
+    },
+    {
+     "name": "OJ Price",
+     "dismissal": "c MF Hurst b GP Balderson",
+     "runs": 29,
+     "balls": 65,
+     "dots": 51,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 44.6
+    },
+    {
+     "name": "Miles Hammond",
+     "dismissal": "run out (GP Balderson)",
+     "runs": 19,
+     "balls": 67,
+     "dots": 55,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 28.4
+    },
+    {
+     "name": "James Bracey",
+     "dismissal": "c MF Hurst b GP Balderson",
+     "runs": 21,
+     "balls": 31,
+     "dots": 20,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 67.7
+    },
+    {
+     "name": "KS Dhariwal",
+     "dismissal": "c MF Hurst b JM Anderson",
+     "runs": 20,
+     "balls": 35,
+     "dots": 28,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "DJ Ahmed",
+     "dismissal": "c JM Anderson b AR Shetty",
+     "runs": 51,
+     "balls": 120,
+     "dots": 94,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 42.5
+    },
+    {
+     "name": "R Sai Kishore",
+     "dismissal": "b GP Balderson",
+     "runs": 20,
+     "balls": 66,
+     "dots": 54,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.3
+    },
+    {
+     "name": "WSA Williams",
+     "dismissal": "c JM Anderson b MT Stanley",
+     "runs": 4,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "MD Taylor",
+     "dismissal": "c KK Jennings b MT Stanley",
+     "runs": 18,
+     "balls": 33,
+     "dots": 26,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 54.5
+    },
+    {
+     "name": "JT Langridge",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 5,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JM Anderson",
+     "overs": "23.0",
+     "maidens": 8,
+     "runs": 41,
+     "wickets": 2,
+     "economy": 1.78,
+     "dots": 116,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MT Stanley",
+     "overs": "17.2",
+     "maidens": 0,
+     "runs": 54,
+     "wickets": 2,
+     "economy": 3.12,
+     "dots": 73,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GP Balderson",
+     "overs": "21.0",
+     "maidens": 6,
+     "runs": 44,
+     "wickets": 4,
+     "economy": 2.1,
+     "dots": 105,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BL Walkden",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 2.83,
+     "dots": 30,
+     "wides": 0,
+     "noballs": 4
+    },
+    {
+     "name": "Nauman Ali",
+     "overs": "11.0",
+     "maidens": 3,
+     "runs": 38,
+     "wickets": 0,
+     "economy": 3.45,
+     "dots": 49,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "AR Shetty",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 2,
+     "player": "EWO Middleton",
+     "over": "0.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 44,
+     "player": "JP Phillips",
+     "over": "19.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 45,
+     "player": "OJ Price",
+     "over": "19.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 69,
+     "player": "James Bracey",
+     "over": "27.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 106,
+     "player": "KS Dhariwal",
+     "over": "38.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 119,
+     "player": "Miles Hammond",
+     "over": "44.6",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 171,
+     "player": "R Sai Kishore",
+     "over": "65.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 182,
+     "player": "WSA Williams",
+     "over": "70.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 197,
+     "player": "DJ Ahmed",
+     "over": "78.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 212,
+     "player": "MD Taylor",
+     "over": "80.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 2,
+     "balls": 2,
+     "batters": [
+      "EWO Middleton",
+      "JP Phillips"
+     ],
+     "contributions": {
+      "EWO Middleton": 2,
+      "JP Phillips": 0
+     },
+     "ended_by": "EWO Middleton (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 42,
+     "balls": 113,
+     "batters": [
+      "OJ Price",
+      "JP Phillips"
+     ],
+     "contributions": {
+      "OJ Price": 29,
+      "JP Phillips": 8
+     },
+     "ended_by": "JP Phillips (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Miles Hammond",
+      "OJ Price"
+     ],
+     "contributions": {
+      "Miles Hammond": 0,
+      "OJ Price": 0
+     },
+     "ended_by": "OJ Price (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 24,
+     "balls": 49,
+     "batters": [
+      "James Bracey",
+      "Miles Hammond"
+     ],
+     "contributions": {
+      "James Bracey": 21,
+      "Miles Hammond": 3
+     },
+     "ended_by": "James Bracey (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 37,
+     "balls": 65,
+     "batters": [
+      "KS Dhariwal",
+      "Miles Hammond"
+     ],
+     "contributions": {
+      "KS Dhariwal": 20,
+      "Miles Hammond": 15
+     },
+     "ended_by": "KS Dhariwal (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 13,
+     "balls": 39,
+     "batters": [
+      "DJ Ahmed",
+      "Miles Hammond"
+     ],
+     "contributions": {
+      "DJ Ahmed": 10,
+      "Miles Hammond": 1
+     },
+     "ended_by": "Miles Hammond (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 52,
+     "balls": 126,
+     "batters": [
+      "R Sai Kishore",
+      "DJ Ahmed"
+     ],
+     "contributions": {
+      "R Sai Kishore": 20,
+      "DJ Ahmed": 30
+     },
+     "ended_by": "R Sai Kishore (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 11,
+     "balls": 27,
+     "batters": [
+      "DJ Ahmed",
+      "WSA Williams"
+     ],
+     "contributions": {
+      "DJ Ahmed": 3,
+      "WSA Williams": 4
+     },
+     "ended_by": "WSA Williams (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 15,
+     "balls": 46,
+     "batters": [
+      "MD Taylor",
+      "DJ Ahmed"
+     ],
+     "contributions": {
+      "MD Taylor": 7,
+      "DJ Ahmed": 8
+     },
+     "ended_by": "DJ Ahmed (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 15,
+     "balls": 13,
+     "batters": [
+      "JT Langridge",
+      "MD Taylor"
+     ],
+     "contributions": {
+      "JT Langridge": 4,
+      "MD Taylor": 11
+     },
+     "ended_by": "MD Taylor (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Shetty",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AR Shetty",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MT Stanley",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Lancashire",
+   "batting_team": "Lancashire",
+   "bowling_team": "Gloucestershire",
+   "super_over": false,
+   "total": 134,
+   "wickets": 10,
+   "overs": "35.5",
+   "run_rate": 3.74,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "legbyes": 5
+   },
+   "batting": [
+    {
+     "name": "KK Jennings",
+     "dismissal": "c Miles Hammond b WSA Williams",
+     "runs": 9,
+     "balls": 23,
+     "dots": 19,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 39.1
+    },
+    {
+     "name": "MF Hurst",
+     "dismissal": "c James Bracey b JT Langridge",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Harry Singh",
+     "dismissal": "lbw b JT Langridge",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MS Harris",
+     "dismissal": "b MD Taylor",
+     "runs": 19,
+     "balls": 27,
+     "dots": 19,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 70.4
+    },
+    {
+     "name": "R Flintoff",
+     "dismissal": "b WSA Williams",
+     "runs": 9,
+     "balls": 32,
+     "dots": 27,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 28.1
+    },
+    {
+     "name": "AR Shetty",
+     "dismissal": "c James Bracey b WSA Williams",
+     "runs": 31,
+     "balls": 47,
+     "dots": 33,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 66.0
+    },
+    {
+     "name": "BL Walkden",
+     "dismissal": "c James Bracey b WSA Williams",
+     "runs": 1,
+     "balls": 9,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 11.1
+    },
+    {
+     "name": "GP Balderson",
+     "dismissal": "c KS Dhariwal b DJ Ahmed",
+     "runs": 39,
+     "balls": 33,
+     "dots": 22,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 118.2
+    },
+    {
+     "name": "Nauman Ali",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 21,
+     "dots": 18,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 47.6
+    },
+    {
+     "name": "MT Stanley",
+     "dismissal": "b WSA Williams",
+     "runs": 8,
+     "balls": 8,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "JM Anderson",
+     "dismissal": "lbw b WSA Williams",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JT Langridge",
+     "overs": "9.0",
+     "maidens": 2,
+     "runs": 43,
+     "wickets": 2,
+     "economy": 4.78,
+     "dots": 38,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "WSA Williams",
+     "overs": "13.5",
+     "maidens": 5,
+     "runs": 24,
+     "wickets": 6,
+     "economy": 1.73,
+     "dots": 72,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MD Taylor",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 42,
+     "wickets": 1,
+     "economy": 4.67,
+     "dots": 36,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DJ Ahmed",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "MF Hurst",
+     "over": "2.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 12,
+     "player": "Harry Singh",
+     "over": "4.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 16,
+     "player": "KK Jennings",
+     "over": "7.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 40,
+     "player": "R Flintoff",
+     "over": "15.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 40,
+     "player": "MS Harris",
+     "over": "16.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 43,
+     "player": "BL Walkden",
+     "over": "19.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 109,
+     "player": "GP Balderson",
+     "over": "29.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 116,
+     "player": "AR Shetty",
+     "over": "33.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 134,
+     "player": "MT Stanley",
+     "over": "35.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 134,
+     "player": "JM Anderson",
+     "over": "35.5",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 13,
+     "batters": [
+      "KK Jennings",
+      "MF Hurst"
+     ],
+     "contributions": {
+      "KK Jennings": 3,
+      "MF Hurst": 2
+     },
+     "ended_by": "MF Hurst (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 6,
+     "balls": 16,
+     "batters": [
+      "Harry Singh",
+      "KK Jennings"
+     ],
+     "contributions": {
+      "Harry Singh": 0,
+      "KK Jennings": 6
+     },
+     "ended_by": "Harry Singh (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 4,
+     "balls": 15,
+     "batters": [
+      "MS Harris",
+      "KK Jennings"
+     ],
+     "contributions": {
+      "MS Harris": 4,
+      "KK Jennings": 0
+     },
+     "ended_by": "KK Jennings (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 24,
+     "balls": 51,
+     "batters": [
+      "R Flintoff",
+      "MS Harris"
+     ],
+     "contributions": {
+      "R Flintoff": 9,
+      "MS Harris": 15
+     },
+     "ended_by": "R Flintoff (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "AR Shetty",
+      "MS Harris"
+     ],
+     "contributions": {
+      "AR Shetty": 0,
+      "MS Harris": 0
+     },
+     "ended_by": "MS Harris (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 3,
+     "balls": 18,
+     "batters": [
+      "BL Walkden",
+      "AR Shetty"
+     ],
+     "contributions": {
+      "BL Walkden": 1,
+      "AR Shetty": 2
+     },
+     "ended_by": "BL Walkden (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 66,
+     "balls": 62,
+     "batters": [
+      "GP Balderson",
+      "AR Shetty"
+     ],
+     "contributions": {
+      "GP Balderson": 39,
+      "AR Shetty": 26
+     },
+     "ended_by": "GP Balderson (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 7,
+     "balls": 23,
+     "batters": [
+      "Nauman Ali",
+      "AR Shetty"
+     ],
+     "contributions": {
+      "Nauman Ali": 4,
+      "AR Shetty": 3
+     },
+     "ended_by": "AR Shetty (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 18,
+     "balls": 14,
+     "batters": [
+      "MT Stanley",
+      "Nauman Ali"
+     ],
+     "contributions": {
+      "MT Stanley": 8,
+      "Nauman Ali": 6
+     },
+     "ended_by": "MT Stanley (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "JM Anderson",
+      "Nauman Ali"
+     ],
+     "contributions": {
+      "JM Anderson": 0,
+      "Nauman Ali": 0
+     },
+     "ended_by": "JM Anderson (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DJ Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "WSA Williams",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Gloucestershire",
+   "batting_team": "Gloucestershire",
+   "bowling_team": "Lancashire",
+   "super_over": false,
+   "total": 169,
+   "wickets": 10,
+   "overs": "61.0",
+   "run_rate": 2.77,
+   "target": null,
+   "extras": {
+    "byes": 8,
+    "legbyes": 3
+   },
+   "batting": [
+    {
+     "name": "JP Phillips",
+     "dismissal": "b GP Balderson",
+     "runs": 16,
+     "balls": 28,
+     "dots": 23,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "EWO Middleton",
+     "dismissal": "c KK Jennings b GP Balderson",
+     "runs": 3,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 42.9
+    },
+    {
+     "name": "OJ Price",
+     "dismissal": "c JM Anderson b GP Balderson",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Miles Hammond",
+     "dismissal": "lbw b GP Balderson",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "James Bracey",
+     "dismissal": "c MF Hurst b MT Stanley",
+     "runs": 13,
+     "balls": 20,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "KS Dhariwal",
+     "dismissal": "c JM Anderson b MT Stanley",
+     "runs": 66,
+     "balls": 146,
+     "dots": 110,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 45.2
+    },
+    {
+     "name": "DJ Ahmed",
+     "dismissal": "c MT Stanley b BL Walkden",
+     "runs": 8,
+     "balls": 16,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "R Sai Kishore",
+     "dismissal": "c MT Stanley b BL Walkden",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "WSA Williams",
+     "dismissal": "c BL Walkden b JM Anderson",
+     "runs": 11,
+     "balls": 36,
+     "dots": 32,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 30.6
+    },
+    {
+     "name": "MD Taylor",
+     "dismissal": "c Harry Singh b MT Stanley",
+     "runs": 31,
+     "balls": 93,
+     "dots": 76,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "JT Langridge",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 14,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JM Anderson",
+     "overs": "12.0",
+     "maidens": 1,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 2.75,
+     "dots": 55,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GP Balderson",
+     "overs": "17.0",
+     "maidens": 6,
+     "runs": 31,
+     "wickets": 4,
+     "economy": 1.82,
+     "dots": 88,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MT Stanley",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 34,
+     "wickets": 3,
+     "economy": 3.4,
+     "dots": 45,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BL Walkden",
+     "overs": "10.0",
+     "maidens": 4,
+     "runs": 26,
+     "wickets": 2,
+     "economy": 2.6,
+     "dots": 49,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nauman Ali",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 2.7,
+     "dots": 46,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AR Shetty",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 3.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 10,
+     "player": "EWO Middleton",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 12,
+     "player": "OJ Price",
+     "over": "3.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 12,
+     "player": "Miles Hammond",
+     "over": "3.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 27,
+     "player": "JP Phillips",
+     "over": "7.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 43,
+     "player": "James Bracey",
+     "over": "10.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 63,
+     "player": "DJ Ahmed",
+     "over": "16.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 63,
+     "player": "R Sai Kishore",
+     "over": "18.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 86,
+     "player": "WSA Williams",
+     "over": "29.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 156,
+     "player": "KS Dhariwal",
+     "over": "56.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 169,
+     "player": "MD Taylor",
+     "over": "60.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 10,
+     "balls": 20,
+     "batters": [
+      "JP Phillips",
+      "EWO Middleton"
+     ],
+     "contributions": {
+      "JP Phillips": 3,
+      "EWO Middleton": 3
+     },
+     "ended_by": "EWO Middleton (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "OJ Price",
+      "JP Phillips"
+     ],
+     "contributions": {
+      "OJ Price": 2,
+      "JP Phillips": 0
+     },
+     "ended_by": "OJ Price (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Miles Hammond",
+      "JP Phillips"
+     ],
+     "contributions": {
+      "Miles Hammond": 0,
+      "JP Phillips": 0
+     },
+     "ended_by": "Miles Hammond (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 23,
+     "batters": [
+      "JP Phillips",
+      "James Bracey"
+     ],
+     "contributions": {
+      "JP Phillips": 13,
+      "James Bracey": 1
+     },
+     "ended_by": "JP Phillips (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 16,
+     "balls": 18,
+     "batters": [
+      "KS Dhariwal",
+      "James Bracey"
+     ],
+     "contributions": {
+      "KS Dhariwal": 4,
+      "James Bracey": 12
+     },
+     "ended_by": "James Bracey (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 20,
+     "balls": 36,
+     "batters": [
+      "DJ Ahmed",
+      "KS Dhariwal"
+     ],
+     "contributions": {
+      "DJ Ahmed": 8,
+      "KS Dhariwal": 10
+     },
+     "ended_by": "DJ Ahmed (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 8,
+     "batters": [
+      "R Sai Kishore",
+      "KS Dhariwal"
+     ],
+     "contributions": {
+      "R Sai Kishore": 0,
+      "KS Dhariwal": 0
+     },
+     "ended_by": "R Sai Kishore (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 23,
+     "balls": 69,
+     "batters": [
+      "WSA Williams",
+      "KS Dhariwal"
+     ],
+     "contributions": {
+      "WSA Williams": 11,
+      "KS Dhariwal": 12
+     },
+     "ended_by": "WSA Williams (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 70,
+     "balls": 162,
+     "batters": [
+      "MD Taylor",
+      "KS Dhariwal"
+     ],
+     "contributions": {
+      "MD Taylor": 26,
+      "KS Dhariwal": 40
+     },
+     "ended_by": "KS Dhariwal (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 13,
+     "balls": 26,
+     "batters": [
+      "JT Langridge",
+      "MD Taylor"
+     ],
+     "contributions": {
+      "JT Langridge": 8,
+      "MD Taylor": 5
+     },
+     "ended_by": "MD Taylor (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 3,
+     "bowler_wickets": 3,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BL Walkden",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Shetty",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Shetty",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GP Balderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Anderson",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nauman Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MT Stanley",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "team": "Lancashire",
+   "batting_team": "Lancashire",
+   "bowling_team": "Gloucestershire",
+   "super_over": false,
+   "total": 142,
+   "wickets": 10,
+   "overs": "41.4",
+   "run_rate": 3.41,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "legbyes": 2,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "KK Jennings",
+     "dismissal": "c Miles Hammond b JT Langridge",
+     "runs": 16,
+     "balls": 34,
+     "dots": 28,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 47.1
+    },
+    {
+     "name": "MF Hurst",
+     "dismissal": "b JT Langridge",
+     "runs": 0,
+     "balls": 7,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Harry Singh",
+     "dismissal": "c Miles Hammond b WSA Williams",
+     "runs": 6,
+     "balls": 9,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "MS Harris",
+     "dismissal": "c Miles Hammond b MD Taylor",
+     "runs": 9,
+     "balls": 32,
+     "dots": 26,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 28.1
+    },
+    {
+     "name": "R Flintoff",
+     "dismissal": "c MD Taylor b JT Langridge",
+     "runs": 65,
+     "balls": 79,
+     "dots": 50,
+     "fours": 10,
+     "sixes": 1,
+     "strike_rate": 82.3
+    },
+    {
+     "name": "AR Shetty",
+     "dismissal": "st James Bracey b R Sai Kishore",
+     "runs": 6,
+     "balls": 11,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 54.5
+    },
+    {
+     "name": "BL Walkden",
+     "dismissal": "c James Bracey b R Sai Kishore",
+     "runs": 24,
+     "balls": 53,
+     "dots": 41,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 45.3
+    },
+    {
+     "name": "GP Balderson",
+     "dismissal": "c OJ Price b JT Langridge",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Nauman Ali",
+     "dismissal": "lbw b JT Langridge",
+     "runs": 9,
+     "balls": 14,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 64.3
+    },
+    {
+     "name": "MT Stanley",
+     "dismissal": "c KS Dhariwal b R Sai Kishore",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JM Anderson",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JT Langridge",
+     "overs": "11.4",
+     "maidens": 2,
+     "runs": 51,
+     "wickets": 5,
+     "economy": 4.37,
+     "dots": 52,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "WSA Williams",
+     "overs": "11.0",
+     "maidens": 3,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 2.55,
+     "dots": 51,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "R Sai Kishore",
+     "overs": "13.0",
+     "maidens": 1,
+     "runs": 37,
+     "wickets": 3,
+     "economy": 2.85,
+     "dots": 57,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MD Taylor",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 3.33,
+     "dots": 28,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "MF Hurst",
+     "over": "4.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 19,
+     "player": "Harry Singh",
+     "over": "7.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 25,
+     "player": "KK Jennings",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 55,
+     "player": "MS Harris",
+     "over": "17.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 64,
+     "player": "AR Shetty",
+     "over": "20.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 6,
+     "score": 116,
+     "player": "BL Walkden",
+     "over": "34.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 121,
+     "player": "GP Balderson",
+     "over": "35.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 137,
+     "player": "Nauman Ali",
+     "over": "39.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 138,
+     "player": "MT Stanley",
+     "over": "40.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 142,
+     "player": "R Flintoff",
+     "over": "41.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 25,
+     "batters": [
+      "KK Jennings",
+      "MF Hurst"
+     ],
+     "contributions": {
+      "KK Jennings": 3,
+      "MF Hurst": 0
+     },
+     "ended_by": "MF Hurst (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 15,
+     "balls": 20,
+     "batters": [
+      "Harry Singh",
+      "KK Jennings"
+     ],
+     "contributions": {
+      "Harry Singh": 6,
+      "KK Jennings": 9
+     },
+     "ended_by": "Harry Singh (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 6,
+     "balls": 8,
+     "batters": [
+      "MS Harris",
+      "KK Jennings"
+     ],
+     "contributions": {
+      "MS Harris": 2,
+      "KK Jennings": 4
+     },
+     "ended_by": "KK Jennings (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 30,
+     "balls": 52,
+     "batters": [
+      "R Flintoff",
+      "MS Harris"
+     ],
+     "contributions": {
+      "R Flintoff": 22,
+      "MS Harris": 7
+     },
+     "ended_by": "MS Harris (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 9,
+     "balls": 19,
+     "batters": [
+      "AR Shetty",
+      "R Flintoff"
+     ],
+     "contributions": {
+      "AR Shetty": 6,
+      "R Flintoff": 3
+     },
+     "ended_by": "AR Shetty (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 52,
+     "balls": 85,
+     "batters": [
+      "BL Walkden",
+      "R Flintoff"
+     ],
+     "contributions": {
+      "BL Walkden": 24,
+      "R Flintoff": 28
+     },
+     "ended_by": "BL Walkden (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 7,
+     "batters": [
+      "GP Balderson",
+      "R Flintoff"
+     ],
+     "contributions": {
+      "GP Balderson": 0,
+      "R Flintoff": 5
+     },
+     "ended_by": "GP Balderson (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 16,
+     "balls": 20,
+     "batters": [
+      "R Flintoff",
+      "Nauman Ali"
+     ],
+     "contributions": {
+      "R Flintoff": 2,
+      "Nauman Ali": 9
+     },
+     "ended_by": "Nauman Ali (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "MT Stanley",
+      "R Flintoff"
+     ],
+     "contributions": {
+      "MT Stanley": 0,
+      "R Flintoff": 1
+     },
+     "ended_by": "MT Stanley (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "JM Anderson",
+      "R Flintoff"
+     ],
+     "contributions": {
+      "JM Anderson": 0,
+      "R Flintoff": 4
+     },
+     "ended_by": "R Flintoff (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MD Taylor",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WSA Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Sai Kishore",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Langridge",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "KS Dhariwal",
+    "runs": 66,
+    "balls": 146,
+    "strike_rate": 45.2
+   },
+   {
+    "name": "R Flintoff",
+    "runs": 65,
+    "balls": 79,
+    "strike_rate": 82.3
+   },
+   {
+    "name": "DJ Ahmed",
+    "runs": 51,
+    "balls": 120,
+    "strike_rate": 42.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "WSA Williams",
+    "figures": "6/24",
+    "overs": "13.5",
+    "economy": 1.73
+   },
+   {
+    "name": "JT Langridge",
+    "figures": "5/51",
+    "overs": "11.4",
+    "economy": 4.37
+   },
+   {
+    "name": "GP Balderson",
+    "figures": "4/31",
+    "overs": "17.0",
+    "economy": 1.82
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Gloucestershire",
+   "type": "wicket_burst",
+   "over": 20,
+   "detail": "2 wickets fell in over 20 (bowled by GP Balderson, 2 credited to GP Balderson)"
+  },
+  {
+   "innings": 2,
+   "team": "Lancashire",
+   "type": "big_over",
+   "over": 25,
+   "detail": "Over 25 (JT Langridge) went for 12 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Lancashire",
+   "type": "wicket_burst",
+   "over": 36,
+   "detail": "2 wickets fell in over 36 (bowled by WSA Williams, 2 credited to WSA Williams)"
+  },
+  {
+   "innings": 3,
+   "team": "Gloucestershire",
+   "type": "wicket_burst",
+   "over": 4,
+   "detail": "3 wickets fell in over 4 (bowled by GP Balderson, 3 credited to GP Balderson)"
+  },
+  {
+   "innings": 3,
+   "team": "Gloucestershire",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (BL Walkden) went for 13 runs"
+  },
+  {
+   "innings": 4,
+   "team": "Lancashire",
+   "type": "big_over",
+   "over": 39,
+   "detail": "Over 39 (R Sai Kishore) went for 13 runs"
+  },
+  {
+   "innings": 4,
+   "team": "Lancashire",
+   "type": "collapse",
+   "over": 40,
+   "detail": "3 wickets fell between overs 40 and 42"
+  }
+ ],
+ "checks": []
+}

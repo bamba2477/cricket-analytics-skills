@@ -1,0 +1,1183 @@
+{
+ "match": {
+  "teams": [
+   "Amsterdam Flames",
+   "Belfast Wolves"
+  ],
+  "dates": [
+   "2026-09-10"
+  ],
+  "venue": "The Village, Malahide, Dublin",
+  "city": "Dublin",
+  "event": "European T20 Premier League",
+  "match_number": 20,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Belfast Wolves"
+  },
+  "player_of_match": [
+   "MR Adair"
+  ],
+  "result": "Belfast Wolves won by 5 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Amsterdam Flames",
+   "batting_team": "Amsterdam Flames",
+   "bowling_team": "Belfast Wolves",
+   "super_over": false,
+   "total": 141,
+   "wickets": 10,
+   "overs": "20.0",
+   "run_rate": 7.05,
+   "target": null,
+   "extras": {
+    "wides": 4,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "YS Samra",
+     "dismissal": "c MS Chapman b SN Netravalkar",
+     "runs": 2,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "SPD Smith",
+     "dismissal": "c DA Miller b MR Adair",
+     "runs": 4,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "BFW de Leede",
+     "dismissal": "c MR Adair b CJ Jordan",
+     "runs": 39,
+     "balls": 20,
+     "dots": 7,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 195.0
+    },
+    {
+     "name": "C Campher",
+     "dismissal": "c CJ Jordan b MJ Humphreys",
+     "runs": 22,
+     "balls": 13,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 169.2
+    },
+    {
+     "name": "TH David",
+     "dismissal": "c FJ Klaassen b MJ Humphreys",
+     "runs": 17,
+     "balls": 10,
+     "dots": 5,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 170.0
+    },
+    {
+     "name": "SA Edwards",
+     "dismissal": "b MR Adair",
+     "runs": 20,
+     "balls": 18,
+     "dots": 5,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 111.1
+    },
+    {
+     "name": "MG Bracewell",
+     "dismissal": "lbw b FJ Klaassen",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "J Neill",
+     "dismissal": "c PR Stirling b FJ Klaassen",
+     "runs": 4,
+     "balls": 9,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 44.4
+    },
+    {
+     "name": "TJG Pringle",
+     "dismissal": "not out",
+     "runs": 15,
+     "balls": 19,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 78.9
+    },
+    {
+     "name": "A Dutt",
+     "dismissal": "c MJ Humphreys b SN Netravalkar",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "DA Payne",
+     "dismissal": "c MS Chapman b MR Adair",
+     "runs": 10,
+     "balls": 11,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 90.9
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MR Adair",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 3,
+     "economy": 6.25,
+     "dots": 10,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "SN Netravalkar",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 2,
+     "economy": 3.75,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "FJ Klaassen",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 2,
+     "economy": 4.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "CJ Jordan",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 44,
+     "wickets": 1,
+     "economy": 14.67,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Humphreys",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 2,
+     "economy": 8.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GJ Maxwell",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 56,
+     "wickets": 2,
+     "run_rate": 9.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 65,
+     "wickets": 5,
+     "run_rate": 7.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 20,
+     "wickets": 3,
+     "run_rate": 4.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "YS Samra",
+     "over": "1.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 9,
+     "player": "SPD Smith",
+     "over": "2.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 70,
+     "player": "C Campher",
+     "over": "6.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 77,
+     "player": "BFW de Leede",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 91,
+     "player": "TH David",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 94,
+     "player": "MG Bracewell",
+     "over": "10.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 102,
+     "player": "J Neill",
+     "over": "12.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 125,
+     "player": "SA Edwards",
+     "over": "16.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 127,
+     "player": "A Dutt",
+     "over": "17.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 141,
+     "player": "DA Payne",
+     "over": "19.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 10,
+     "batters": [
+      "YS Samra",
+      "SPD Smith"
+     ],
+     "contributions": {
+      "YS Samra": 2,
+      "SPD Smith": 3
+     },
+     "ended_by": "YS Samra (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "BFW de Leede",
+      "SPD Smith"
+     ],
+     "contributions": {
+      "BFW de Leede": 1,
+      "SPD Smith": 1
+     },
+     "ended_by": "SPD Smith (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 61,
+     "balls": 29,
+     "batters": [
+      "C Campher",
+      "BFW de Leede"
+     ],
+     "contributions": {
+      "C Campher": 22,
+      "BFW de Leede": 37
+     },
+     "ended_by": "C Campher (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 7,
+     "balls": 7,
+     "batters": [
+      "BFW de Leede",
+      "TH David"
+     ],
+     "contributions": {
+      "BFW de Leede": 1,
+      "TH David": 6
+     },
+     "ended_by": "BFW de Leede (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 8,
+     "batters": [
+      "SA Edwards",
+      "TH David"
+     ],
+     "contributions": {
+      "SA Edwards": 3,
+      "TH David": 11
+     },
+     "ended_by": "TH David (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "MG Bracewell",
+      "SA Edwards"
+     ],
+     "contributions": {
+      "MG Bracewell": 1,
+      "SA Edwards": 2
+     },
+     "ended_by": "MG Bracewell (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 8,
+     "balls": 15,
+     "batters": [
+      "J Neill",
+      "SA Edwards"
+     ],
+     "contributions": {
+      "J Neill": 4,
+      "SA Edwards": 3
+     },
+     "ended_by": "J Neill (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 23,
+     "balls": 23,
+     "batters": [
+      "TJG Pringle",
+      "SA Edwards"
+     ],
+     "contributions": {
+      "TJG Pringle": 11,
+      "SA Edwards": 12
+     },
+     "ended_by": "SA Edwards (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "A Dutt",
+      "TJG Pringle"
+     ],
+     "contributions": {
+      "A Dutt": 1,
+      "TJG Pringle": 0
+     },
+     "ended_by": "A Dutt (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 14,
+     "balls": 15,
+     "batters": [
+      "DA Payne",
+      "TJG Pringle"
+     ],
+     "contributions": {
+      "DA Payne": 10,
+      "TJG Pringle": 4
+     },
+     "ended_by": "DA Payne (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ Jordan",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GJ Maxwell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CJ Jordan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Humphreys",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CJ Jordan",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MR Adair",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Belfast Wolves",
+   "batting_team": "Belfast Wolves",
+   "bowling_team": "Amsterdam Flames",
+   "super_over": false,
+   "total": 144,
+   "wickets": 5,
+   "overs": "19.0",
+   "run_rate": 7.58,
+   "target": 142,
+   "extras": {
+    "legbyes": 1,
+    "byes": 1,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "PR Stirling",
+     "dismissal": "b J Neill",
+     "runs": 26,
+     "balls": 16,
+     "dots": 7,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 162.5
+    },
+    {
+     "name": "HJ Manenti",
+     "dismissal": "c TJG Pringle b MG Bracewell",
+     "runs": 33,
+     "balls": 34,
+     "dots": 12,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 97.1
+    },
+    {
+     "name": "L Tucker",
+     "dismissal": "c SPD Smith b TJG Pringle",
+     "runs": 16,
+     "balls": 12,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "MS Chapman",
+     "dismissal": "c MG Bracewell b A Dutt",
+     "runs": 14,
+     "balls": 14,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "DA Miller",
+     "dismissal": "not out",
+     "runs": 42,
+     "balls": 26,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 4,
+     "strike_rate": 161.5
+    },
+    {
+     "name": "GJ Maxwell",
+     "dismissal": "b MG Bracewell",
+     "runs": 6,
+     "balls": 9,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "CJ Jordan",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "DA Payne",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 6.33,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Dutt",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Neill",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 8.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BFW de Leede",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TJG Pringle",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 9.5,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MG Bracewell",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 2,
+     "economy": 6.67,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "C Campher",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 51,
+     "wickets": 1,
+     "run_rate": 8.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 57,
+     "wickets": 3,
+     "run_rate": 6.33
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.0",
+     "runs": 36,
+     "wickets": 1,
+     "run_rate": 9.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 35,
+     "player": "PR Stirling",
+     "over": "3.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 66,
+     "player": "L Tucker",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 85,
+     "player": "MS Chapman",
+     "over": "11.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 100,
+     "player": "HJ Manenti",
+     "over": "13.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 127,
+     "player": "GJ Maxwell",
+     "over": "17.6",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 35,
+     "balls": 24,
+     "batters": [
+      "PR Stirling",
+      "HJ Manenti"
+     ],
+     "contributions": {
+      "PR Stirling": 26,
+      "HJ Manenti": 8
+     },
+     "ended_by": "PR Stirling (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 31,
+     "balls": 29,
+     "batters": [
+      "HJ Manenti",
+      "L Tucker"
+     ],
+     "contributions": {
+      "HJ Manenti": 15,
+      "L Tucker": 16
+     },
+     "ended_by": "L Tucker (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 19,
+     "batters": [
+      "MS Chapman",
+      "HJ Manenti"
+     ],
+     "contributions": {
+      "MS Chapman": 14,
+      "HJ Manenti": 4
+     },
+     "ended_by": "MS Chapman (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 9,
+     "batters": [
+      "HJ Manenti",
+      "DA Miller"
+     ],
+     "contributions": {
+      "HJ Manenti": 6,
+      "DA Miller": 9
+     },
+     "ended_by": "HJ Manenti (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 27,
+     "balls": 27,
+     "batters": [
+      "GJ Maxwell",
+      "DA Miller"
+     ],
+     "contributions": {
+      "GJ Maxwell": 6,
+      "DA Miller": 20
+     },
+     "ended_by": "GJ Maxwell (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 17,
+     "balls": 6,
+     "batters": [
+      "DA Miller",
+      "CJ Jordan"
+     ],
+     "contributions": {
+      "DA Miller": 13,
+      "CJ Jordan": 4
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DA Payne",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DA Payne",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BFW de Leede",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TJG Pringle",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MG Bracewell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TJG Pringle",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BFW de Leede",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Campher",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MG Bracewell",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DA Payne",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TJG Pringle",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MG Bracewell",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TJG Pringle",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DA Miller",
+    "runs": 42,
+    "balls": 26,
+    "strike_rate": 161.5
+   },
+   {
+    "name": "BFW de Leede",
+    "runs": 39,
+    "balls": 20,
+    "strike_rate": 195.0
+   },
+   {
+    "name": "HJ Manenti",
+    "runs": 33,
+    "balls": 34,
+    "strike_rate": 97.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "MR Adair",
+    "figures": "3/25",
+    "overs": "4.0",
+    "economy": 6.25
+   },
+   {
+    "name": "SN Netravalkar",
+    "figures": "2/15",
+    "overs": "4.0",
+    "economy": 3.75
+   },
+   {
+    "name": "FJ Klaassen",
+    "figures": "2/16",
+    "overs": "4.0",
+    "economy": 4.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Amsterdam Flames",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (CJ Jordan) went for 24 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Amsterdam Flames",
+   "type": "collapse",
+   "over": 9,
+   "detail": "3 wickets fell between overs 9 and 11"
+  },
+  {
+   "innings": 2,
+   "team": "Belfast Wolves",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 51 scored, needed 91 from 14 overs (RRR 6.5)"
+  },
+  {
+   "innings": 2,
+   "team": "Belfast Wolves",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 72 scored, needed 70 from 10 overs (RRR 7.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Belfast Wolves",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 108 scored, needed 34 from 5 overs (RRR 6.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Belfast Wolves",
+   "type": "big_over",
+   "over": 19,
+   "detail": "Over 19 (TJG Pringle) went for 17 runs"
+  }
+ ],
+ "checks": []
+}

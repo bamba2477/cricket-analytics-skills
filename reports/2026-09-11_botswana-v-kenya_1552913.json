@@ -1,0 +1,875 @@
+{
+ "match": {
+  "teams": [
+   "Botswana",
+   "Kenya"
+  ],
+  "dates": [
+   "2026-09-11"
+  ],
+  "venue": "Gahanga B Ground, Rwanda",
+  "city": "Kigali City",
+  "event": "Africa Continental Cup",
+  "match_number": 8,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Botswana"
+  },
+  "player_of_match": [
+   "DM Gondaria"
+  ],
+  "result": "Kenya won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Botswana",
+   "batting_team": "Botswana",
+   "bowling_team": "Kenya",
+   "super_over": false,
+   "total": 108,
+   "wickets": 8,
+   "overs": "20.0",
+   "run_rate": 5.4,
+   "target": null,
+   "extras": {
+    "legbyes": 10,
+    "wides": 7,
+    "byes": 11
+   },
+   "batting": [
+    {
+     "name": "M Kasselman",
+     "dismissal": "c SO Ngoche b S Gill",
+     "runs": 4,
+     "balls": 4,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "V Balakrishnan",
+     "dismissal": "b GM Muthui",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "V Mbazo",
+     "dismissal": "c RN Patel b N Hirani",
+     "runs": 25,
+     "balls": 27,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 92.6
+    },
+    {
+     "name": "P Silas",
+     "dismissal": "run out (DM Gondaria, S Singh)",
+     "runs": 13,
+     "balls": 20,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "B Keganne",
+     "dismissal": "b DM Gondaria",
+     "runs": 12,
+     "balls": 21,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "T Tshose",
+     "dismissal": "c S Singh b F Mutua",
+     "runs": 7,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 70.0
+    },
+    {
+     "name": "K Piet",
+     "dismissal": "c S Gill b N Hirani",
+     "runs": 3,
+     "balls": 11,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.3
+    },
+    {
+     "name": "D Maisuria",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 12,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 58.3
+    },
+    {
+     "name": "M Mooketsi",
+     "dismissal": "c S Gill b DM Gondaria",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "B Kgosiemang",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Gill",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 5.33,
+     "dots": 11,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "GM Muthui",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 6.33,
+     "dots": 10,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "F Mutua",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 5.33,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "SO Ngoche",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 2.75,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Vishil Patel",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 4.5,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N Hirani",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DM Gondaria",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 2,
+     "economy": 2.0,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 47,
+     "wickets": 2,
+     "run_rate": 7.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 43,
+     "wickets": 3,
+     "run_rate": 4.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 18,
+     "wickets": 3,
+     "run_rate": 3.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "M Kasselman",
+     "over": "0.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "V Balakrishnan",
+     "over": "1.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 48,
+     "player": "P Silas",
+     "over": "6.6",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 67,
+     "player": "V Mbazo",
+     "over": "10.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 85,
+     "player": "T Tshose",
+     "over": "12.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 91,
+     "player": "B Keganne",
+     "over": "15.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 92,
+     "player": "K Piet",
+     "over": "16.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 95,
+     "player": "M Mooketsi",
+     "over": "17.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "M Kasselman",
+      "V Balakrishnan"
+     ],
+     "contributions": {
+      "M Kasselman": 4,
+      "V Balakrishnan": 0
+     },
+     "ended_by": "M Kasselman (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 12,
+     "balls": 5,
+     "batters": [
+      "V Mbazo",
+      "V Balakrishnan"
+     ],
+     "contributions": {
+      "V Mbazo": 0,
+      "V Balakrishnan": 4
+     },
+     "ended_by": "V Balakrishnan (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 32,
+     "balls": 33,
+     "batters": [
+      "P Silas",
+      "V Mbazo"
+     ],
+     "contributions": {
+      "P Silas": 13,
+      "V Mbazo": 12
+     },
+     "ended_by": "P Silas (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 19,
+     "balls": 19,
+     "batters": [
+      "V Mbazo",
+      "B Keganne"
+     ],
+     "contributions": {
+      "V Mbazo": 13,
+      "B Keganne": 3
+     },
+     "ended_by": "V Mbazo (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 18,
+     "balls": 15,
+     "batters": [
+      "T Tshose",
+      "B Keganne"
+     ],
+     "contributions": {
+      "T Tshose": 7,
+      "B Keganne": 7
+     },
+     "ended_by": "T Tshose (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 6,
+     "balls": 18,
+     "batters": [
+      "K Piet",
+      "B Keganne"
+     ],
+     "contributions": {
+      "K Piet": 3,
+      "B Keganne": 2
+     },
+     "ended_by": "B Keganne (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "D Maisuria",
+      "K Piet"
+     ],
+     "contributions": {
+      "D Maisuria": 0,
+      "K Piet": 0
+     },
+     "ended_by": "K Piet (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 3,
+     "balls": 7,
+     "batters": [
+      "M Mooketsi",
+      "D Maisuria"
+     ],
+     "contributions": {
+      "M Mooketsi": 1,
+      "D Maisuria": 2
+     },
+     "ended_by": "M Mooketsi (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 13,
+     "balls": 15,
+     "batters": [
+      "B Kgosiemang",
+      "D Maisuria"
+     ],
+     "contributions": {
+      "B Kgosiemang": 4,
+      "D Maisuria": 5
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GM Muthui",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GM Muthui",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GM Muthui",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Hirani",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Hirani",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Kenya",
+   "batting_team": "Kenya",
+   "bowling_team": "Botswana",
+   "super_over": false,
+   "total": 109,
+   "wickets": 0,
+   "overs": "8.1",
+   "run_rate": 13.35,
+   "target": 109,
+   "extras": {
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "RN Patel",
+     "dismissal": "not out",
+     "runs": 51,
+     "balls": 30,
+     "dots": 12,
+     "fours": 6,
+     "sixes": 3,
+     "strike_rate": 170.0
+    },
+    {
+     "name": "DM Gondaria",
+     "dismissal": "not out",
+     "runs": 57,
+     "balls": 20,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 6,
+     "strike_rate": 285.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "B Kgosiemang",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 22.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "M Mooketsi",
+     "overs": "3.1",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 6.95,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Piet",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "T Tshose",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "D Maisuria",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 0,
+     "economy": 34.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 87,
+     "wickets": 0,
+     "run_rate": 14.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "2.1",
+     "runs": 22,
+     "wickets": 0,
+     "run_rate": 10.15
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 109,
+     "balls": 49,
+     "batters": [
+      "RN Patel",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "RN Patel": 51,
+      "DM Gondaria": 57
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Kgosiemang",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mooketsi",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Piet",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Tshose",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mooketsi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 34,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Maisuria",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mooketsi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Piet",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mooketsi",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DM Gondaria",
+    "runs": 57,
+    "balls": 20,
+    "strike_rate": 285.0
+   },
+   {
+    "name": "RN Patel",
+    "runs": 51,
+    "balls": 30,
+    "strike_rate": 170.0
+   },
+   {
+    "name": "V Mbazo",
+    "runs": 25,
+    "balls": 27,
+    "strike_rate": 92.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "DM Gondaria",
+    "figures": "2/6",
+    "overs": "3.0",
+    "economy": 2.0
+   },
+   {
+    "name": "N Hirani",
+    "figures": "2/10",
+    "overs": "2.0",
+    "economy": 5.0
+   },
+   {
+    "name": "S Gill",
+    "figures": "1/16",
+    "overs": "3.0",
+    "economy": 5.33
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Botswana",
+   "type": "collapse",
+   "over": 16,
+   "detail": "3 wickets fell between overs 16 and 18"
+  },
+  {
+   "innings": 2,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (B Kgosiemang) went for 22 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (D Maisuria) went for 34 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kenya",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 87 scored, needed 22 from 14 overs (RRR 1.57)"
+  }
+ ],
+ "checks": []
+}

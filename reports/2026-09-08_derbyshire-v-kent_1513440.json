@@ -1,0 +1,4533 @@
+{
+ "match": {
+  "teams": [
+   "Derbyshire",
+   "Kent"
+  ],
+  "dates": [
+   "2026-09-08",
+   "2026-09-09",
+   "2026-09-10",
+   "2026-09-11"
+  ],
+  "venue": "County Ground, Derby",
+  "city": "Derby",
+  "event": "County Championship",
+  "match_number": 45,
+  "match_type": "MDM",
+  "overs": null,
+  "toss": {
+   "decision": "field",
+   "winner": "Kent"
+  },
+  "player_of_match": [],
+  "result": "Derbyshire won by 181 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Derbyshire",
+   "batting_team": "Derbyshire",
+   "bowling_team": "Kent",
+   "super_over": false,
+   "total": 300,
+   "wickets": 10,
+   "overs": "87.5",
+   "run_rate": 3.42,
+   "target": null,
+   "extras": {
+    "noballs": 10,
+    "legbyes": 14,
+    "byes": 18,
+    "penalty": 5
+   },
+   "batting": [
+    {
+     "name": "HRC Came",
+     "dismissal": "c Z Crawley b Hasan Mahmud",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MYB Naeem",
+     "dismissal": "lbw b Khaled Ahmed",
+     "runs": 12,
+     "balls": 40,
+     "dots": 32,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.0
+    },
+    {
+     "name": "M Montgomery",
+     "dismissal": "lbw b Hasan Mahmud",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "WL Madsen",
+     "dismissal": "lbw b Khaled Ahmed",
+     "runs": 29,
+     "balls": 63,
+     "dots": 51,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 46.0
+    },
+    {
+     "name": "MK Andersson",
+     "dismissal": "not out",
+     "runs": 129,
+     "balls": 190,
+     "dots": 116,
+     "fours": 15,
+     "sixes": 0,
+     "strike_rate": 67.9
+    },
+    {
+     "name": "LM Reece",
+     "dismissal": "c CG Benjamin b Ekansh Singh",
+     "runs": 32,
+     "balls": 111,
+     "dots": 92,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 28.8
+    },
+    {
+     "name": "BD Guest",
+     "dismissal": "lbw b Hasan Mahmud",
+     "runs": 11,
+     "balls": 26,
+     "dots": 20,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 42.3
+    },
+    {
+     "name": "BW Aitchison",
+     "dismissal": "b AM Foreman",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "BG Randell",
+     "dismissal": "c Ekansh Singh b AM Foreman",
+     "runs": 29,
+     "balls": 61,
+     "dots": 44,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 47.5
+    },
+    {
+     "name": "JP Morley",
+     "dismissal": "b Khaled Ahmed",
+     "runs": 10,
+     "balls": 31,
+     "dots": 25,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 32.3
+    },
+    {
+     "name": "Shoaib Bashir",
+     "dismissal": "lbw b Hasan Mahmud",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Hasan Mahmud",
+     "overs": "15.5",
+     "maidens": 4,
+     "runs": 30,
+     "wickets": 4,
+     "economy": 1.89,
+     "dots": 77,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "G Stewart",
+     "overs": "16.0",
+     "maidens": 4,
+     "runs": 39,
+     "wickets": 0,
+     "economy": 2.44,
+     "dots": 77,
+     "wides": 0,
+     "noballs": 6
+    },
+    {
+     "name": "Khaled Ahmed",
+     "overs": "18.0",
+     "maidens": 4,
+     "runs": 73,
+     "wickets": 3,
+     "economy": 4.06,
+     "dots": 73,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ekansh Singh",
+     "overs": "12.0",
+     "maidens": 2,
+     "runs": 51,
+     "wickets": 1,
+     "economy": 4.25,
+     "dots": 47,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "AM Foreman",
+     "overs": "24.0",
+     "maidens": 2,
+     "runs": 65,
+     "wickets": 2,
+     "economy": 2.71,
+     "dots": 103,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TS Muyeye",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "HRC Came",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 0,
+     "player": "M Montgomery",
+     "over": "0.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 43,
+     "player": "MYB Naeem",
+     "over": "14.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 64,
+     "player": "WL Madsen",
+     "over": "18.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 155,
+     "player": "LM Reece",
+     "over": "50.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 171,
+     "player": "BD Guest",
+     "over": "58.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 172,
+     "player": "BW Aitchison",
+     "over": "59.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 256,
+     "player": "BG Randell",
+     "over": "77.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 283,
+     "player": "JP Morley",
+     "over": "84.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 300,
+     "player": "Shoaib Bashir",
+     "over": "87.5",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "HRC Came",
+      "MYB Naeem"
+     ],
+     "contributions": {
+      "HRC Came": 0,
+      "MYB Naeem": 0
+     },
+     "ended_by": "HRC Came (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "M Montgomery",
+      "MYB Naeem"
+     ],
+     "contributions": {
+      "M Montgomery": 0,
+      "MYB Naeem": 0
+     },
+     "ended_by": "M Montgomery (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 43,
+     "balls": 85,
+     "batters": [
+      "WL Madsen",
+      "MYB Naeem"
+     ],
+     "contributions": {
+      "WL Madsen": 20,
+      "MYB Naeem": 12
+     },
+     "ended_by": "MYB Naeem (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 21,
+     "balls": 27,
+     "batters": [
+      "MK Andersson",
+      "WL Madsen"
+     ],
+     "contributions": {
+      "MK Andersson": 8,
+      "WL Madsen": 9
+     },
+     "ended_by": "WL Madsen (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 91,
+     "balls": 191,
+     "batters": [
+      "MK Andersson",
+      "LM Reece"
+     ],
+     "contributions": {
+      "MK Andersson": 42,
+      "LM Reece": 32
+     },
+     "ended_by": "LM Reece (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 16,
+     "balls": 44,
+     "batters": [
+      "BD Guest",
+      "MK Andersson"
+     ],
+     "contributions": {
+      "BD Guest": 11,
+      "MK Andersson": 4
+     },
+     "ended_by": "BD Guest (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "BW Aitchison",
+      "MK Andersson"
+     ],
+     "contributions": {
+      "BW Aitchison": 1,
+      "MK Andersson": 0
+     },
+     "ended_by": "BW Aitchison (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 84,
+     "balls": 111,
+     "batters": [
+      "BG Randell",
+      "MK Andersson"
+     ],
+     "contributions": {
+      "BG Randell": 29,
+      "MK Andersson": 48
+     },
+     "ended_by": "BG Randell (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 27,
+     "balls": 44,
+     "batters": [
+      "JP Morley",
+      "MK Andersson"
+     ],
+     "contributions": {
+      "JP Morley": 10,
+      "MK Andersson": 14
+     },
+     "ended_by": "JP Morley (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 17,
+     "balls": 17,
+     "batters": [
+      "MK Andersson",
+      "Shoaib Bashir"
+     ],
+     "contributions": {
+      "MK Andersson": 13,
+      "Shoaib Bashir": 0
+     },
+     "ended_by": "Shoaib Bashir (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Kent",
+   "batting_team": "Kent",
+   "bowling_team": "Derbyshire",
+   "super_over": false,
+   "total": 219,
+   "wickets": 10,
+   "overs": "73.2",
+   "run_rate": 2.99,
+   "target": null,
+   "extras": {
+    "legbyes": 3,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "BG Compton",
+     "dismissal": "c Shoaib Bashir b BW Aitchison",
+     "runs": 4,
+     "balls": 5,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Z Crawley",
+     "dismissal": "c LM Reece b BW Aitchison",
+     "runs": 6,
+     "balls": 29,
+     "dots": 24,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.7
+    },
+    {
+     "name": "AM Foreman",
+     "dismissal": "lbw b BW Aitchison",
+     "runs": 49,
+     "balls": 87,
+     "dots": 61,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 56.3
+    },
+    {
+     "name": "SA Northeast",
+     "dismissal": "lbw b BG Randell",
+     "runs": 4,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "TS Muyeye",
+     "dismissal": "lbw b BG Randell",
+     "runs": 34,
+     "balls": 72,
+     "dots": 47,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 47.2
+    },
+    {
+     "name": "DJ Bell-Drummond",
+     "dismissal": "b BW Aitchison",
+     "runs": 34,
+     "balls": 72,
+     "dots": 57,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 47.2
+    },
+    {
+     "name": "CG Benjamin",
+     "dismissal": "b BG Randell",
+     "runs": 3,
+     "balls": 11,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.3
+    },
+    {
+     "name": "Ekansh Singh",
+     "dismissal": "c WL Madsen b MK Andersson",
+     "runs": 16,
+     "balls": 56,
+     "dots": 44,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 28.6
+    },
+    {
+     "name": "G Stewart",
+     "dismissal": "b MK Andersson",
+     "runs": 48,
+     "balls": 64,
+     "dots": 43,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "Hasan Mahmud",
+     "dismissal": "c WL Madsen b MK Andersson",
+     "runs": 4,
+     "balls": 7,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Khaled Ahmed",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 27,
+     "dots": 23,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 37.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "BW Aitchison",
+     "overs": "21.0",
+     "maidens": 5,
+     "runs": 58,
+     "wickets": 4,
+     "economy": 2.76,
+     "dots": 99,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BG Randell",
+     "overs": "17.0",
+     "maidens": 3,
+     "runs": 36,
+     "wickets": 3,
+     "economy": 2.12,
+     "dots": 82,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MK Andersson",
+     "overs": "10.2",
+     "maidens": 2,
+     "runs": 39,
+     "wickets": 3,
+     "economy": 3.77,
+     "dots": 44,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shoaib Bashir",
+     "overs": "20.0",
+     "maidens": 1,
+     "runs": 57,
+     "wickets": 0,
+     "economy": 2.85,
+     "dots": 82,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JP Morley",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 4.4,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "BG Compton",
+     "over": "0.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 21,
+     "player": "Z Crawley",
+     "over": "10.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 34,
+     "player": "SA Northeast",
+     "over": "13.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 93,
+     "player": "AM Foreman",
+     "over": "29.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 120,
+     "player": "TS Muyeye",
+     "over": "39.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 130,
+     "player": "CG Benjamin",
+     "over": "43.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 149,
+     "player": "DJ Bell-Drummond",
+     "over": "53.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 174,
+     "player": "Ekansh Singh",
+     "over": "59.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 182,
+     "player": "Hasan Mahmud",
+     "over": "61.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 219,
+     "player": "G Stewart",
+     "over": "73.2",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "BG Compton",
+      "Z Crawley"
+     ],
+     "contributions": {
+      "BG Compton": 4,
+      "Z Crawley": 0
+     },
+     "ended_by": "BG Compton (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 17,
+     "balls": 57,
+     "batters": [
+      "AM Foreman",
+      "Z Crawley"
+     ],
+     "contributions": {
+      "AM Foreman": 10,
+      "Z Crawley": 6
+     },
+     "ended_by": "Z Crawley (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 13,
+     "balls": 18,
+     "batters": [
+      "SA Northeast",
+      "AM Foreman"
+     ],
+     "contributions": {
+      "SA Northeast": 4,
+      "AM Foreman": 5
+     },
+     "ended_by": "SA Northeast (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 59,
+     "balls": 96,
+     "batters": [
+      "TS Muyeye",
+      "AM Foreman"
+     ],
+     "contributions": {
+      "TS Muyeye": 24,
+      "AM Foreman": 34
+     },
+     "ended_by": "AM Foreman (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 27,
+     "balls": 64,
+     "batters": [
+      "DJ Bell-Drummond",
+      "TS Muyeye"
+     ],
+     "contributions": {
+      "DJ Bell-Drummond": 17,
+      "TS Muyeye": 10
+     },
+     "ended_by": "TS Muyeye (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 10,
+     "balls": 20,
+     "batters": [
+      "DJ Bell-Drummond",
+      "CG Benjamin"
+     ],
+     "contributions": {
+      "DJ Bell-Drummond": 7,
+      "CG Benjamin": 3
+     },
+     "ended_by": "CG Benjamin (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 19,
+     "balls": 63,
+     "batters": [
+      "Ekansh Singh",
+      "DJ Bell-Drummond"
+     ],
+     "contributions": {
+      "Ekansh Singh": 9,
+      "DJ Bell-Drummond": 10
+     },
+     "ended_by": "DJ Bell-Drummond (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 25,
+     "balls": 36,
+     "batters": [
+      "G Stewart",
+      "Ekansh Singh"
+     ],
+     "contributions": {
+      "G Stewart": 17,
+      "Ekansh Singh": 7
+     },
+     "ended_by": "Ekansh Singh (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 8,
+     "balls": 13,
+     "batters": [
+      "Hasan Mahmud",
+      "G Stewart"
+     ],
+     "contributions": {
+      "Hasan Mahmud": 4,
+      "G Stewart": 4
+     },
+     "ended_by": "Hasan Mahmud (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 37,
+     "balls": 68,
+     "batters": [
+      "G Stewart",
+      "Khaled Ahmed"
+     ],
+     "contributions": {
+      "G Stewart": 27,
+      "Khaled Ahmed": 10
+     },
+     "ended_by": "G Stewart (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MK Andersson",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Derbyshire",
+   "batting_team": "Derbyshire",
+   "bowling_team": "Kent",
+   "super_over": false,
+   "total": 352,
+   "wickets": 8,
+   "overs": "90.4",
+   "run_rate": 3.88,
+   "target": null,
+   "extras": {
+    "legbyes": 11,
+    "byes": 14,
+    "wides": 8
+   },
+   "batting": [
+    {
+     "name": "HRC Came",
+     "dismissal": "c BG Compton b AM Foreman",
+     "runs": 51,
+     "balls": 108,
+     "dots": 80,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 47.2
+    },
+    {
+     "name": "MYB Naeem",
+     "dismissal": "c CG Benjamin b Hasan Mahmud",
+     "runs": 6,
+     "balls": 17,
+     "dots": 15,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 35.3
+    },
+    {
+     "name": "M Montgomery",
+     "dismissal": "c CG Benjamin b Hasan Mahmud",
+     "runs": 46,
+     "balls": 86,
+     "dots": 63,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 53.5
+    },
+    {
+     "name": "WL Madsen",
+     "dismissal": "c Ekansh Singh b Hasan Mahmud",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MK Andersson",
+     "dismissal": "lbw b Ekansh Singh",
+     "runs": 50,
+     "balls": 63,
+     "dots": 43,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 79.4
+    },
+    {
+     "name": "LM Reece",
+     "dismissal": "c sub b Ekansh Singh",
+     "runs": 53,
+     "balls": 107,
+     "dots": 73,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 49.5
+    },
+    {
+     "name": "BD Guest",
+     "dismissal": "not out",
+     "runs": 75,
+     "balls": 95,
+     "dots": 48,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 78.9
+    },
+    {
+     "name": "BW Aitchison",
+     "dismissal": "c & b AM Foreman",
+     "runs": 29,
+     "balls": 48,
+     "dots": 31,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 60.4
+    },
+    {
+     "name": "BG Randell",
+     "dismissal": "c Khaled Ahmed b TS Muyeye",
+     "runs": 2,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "JP Morley",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 7,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Hasan Mahmud",
+     "overs": "16.0",
+     "maidens": 3,
+     "runs": 32,
+     "wickets": 3,
+     "economy": 2.0,
+     "dots": 76,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "G Stewart",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 3.6,
+     "dots": 44,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AM Foreman",
+     "overs": "29.0",
+     "maidens": 3,
+     "runs": 122,
+     "wickets": 2,
+     "economy": 4.21,
+     "dots": 109,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "Khaled Ahmed",
+     "overs": "18.4",
+     "maidens": 3,
+     "runs": 64,
+     "wickets": 0,
+     "economy": 3.43,
+     "dots": 80,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ekansh Singh",
+     "overs": "13.0",
+     "maidens": 1,
+     "runs": 59,
+     "wickets": 2,
+     "economy": 4.54,
+     "dots": 48,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "TS Muyeye",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 3.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 11,
+     "player": "MYB Naeem",
+     "over": "4.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 110,
+     "player": "M Montgomery",
+     "over": "30.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 114,
+     "player": "WL Madsen",
+     "over": "34.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 146,
+     "player": "HRC Came",
+     "over": "41.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 200,
+     "player": "MK Andersson",
+     "over": "54.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 275,
+     "player": "LM Reece",
+     "over": "72.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 328,
+     "player": "BW Aitchison",
+     "over": "87.1",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 333,
+     "player": "BG Randell",
+     "over": "88.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 11,
+     "balls": 30,
+     "batters": [
+      "HRC Came",
+      "MYB Naeem"
+     ],
+     "contributions": {
+      "HRC Came": 5,
+      "MYB Naeem": 6
+     },
+     "ended_by": "MYB Naeem (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 99,
+     "balls": 156,
+     "batters": [
+      "HRC Came",
+      "M Montgomery"
+     ],
+     "contributions": {
+      "HRC Came": 35,
+      "M Montgomery": 46
+     },
+     "ended_by": "M Montgomery (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 4,
+     "balls": 21,
+     "batters": [
+      "HRC Came",
+      "WL Madsen"
+     ],
+     "contributions": {
+      "HRC Came": 4,
+      "WL Madsen": 0
+     },
+     "ended_by": "WL Madsen (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 32,
+     "balls": 42,
+     "batters": [
+      "MK Andersson",
+      "HRC Came"
+     ],
+     "contributions": {
+      "MK Andersson": 20,
+      "HRC Came": 7
+     },
+     "ended_by": "HRC Came (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 54,
+     "balls": 79,
+     "batters": [
+      "LM Reece",
+      "MK Andersson"
+     ],
+     "contributions": {
+      "LM Reece": 19,
+      "MK Andersson": 30
+     },
+     "ended_by": "MK Andersson (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 75,
+     "balls": 110,
+     "batters": [
+      "BD Guest",
+      "LM Reece"
+     ],
+     "contributions": {
+      "BD Guest": 37,
+      "LM Reece": 34
+     },
+     "ended_by": "LM Reece (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 53,
+     "balls": 85,
+     "batters": [
+      "BD Guest",
+      "BW Aitchison"
+     ],
+     "contributions": {
+      "BD Guest": 24,
+      "BW Aitchison": 29
+     },
+     "ended_by": "BW Aitchison (caught and bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 5,
+     "balls": 7,
+     "batters": [
+      "BG Randell",
+      "BD Guest"
+     ],
+     "contributions": {
+      "BG Randell": 2,
+      "BD Guest": 3
+     },
+     "ended_by": "BG Randell (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 19,
+     "balls": 14,
+     "batters": [
+      "JP Morley",
+      "BD Guest"
+     ],
+     "contributions": {
+      "JP Morley": 7,
+      "BD Guest": 11
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Stewart",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AM Foreman",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TS Muyeye",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ekansh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khaled Ahmed",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "team": "Kent",
+   "batting_team": "Kent",
+   "bowling_team": "Derbyshire",
+   "super_over": false,
+   "total": 252,
+   "wickets": 10,
+   "overs": "95.3",
+   "run_rate": 2.64,
+   "target": null,
+   "extras": {
+    "legbyes": 5,
+    "byes": 8,
+    "wides": 1,
+    "noballs": 2
+   },
+   "batting": [
+    {
+     "name": "Z Crawley",
+     "dismissal": "c MK Andersson b BW Aitchison",
+     "runs": 4,
+     "balls": 15,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 26.7
+    },
+    {
+     "name": "BG Compton",
+     "dismissal": "c BD Guest b BW Aitchison",
+     "runs": 4,
+     "balls": 18,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 22.2
+    },
+    {
+     "name": "SA Northeast",
+     "dismissal": "c BD Guest b BW Aitchison",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "TS Muyeye",
+     "dismissal": "c M Montgomery b BW Aitchison",
+     "runs": 11,
+     "balls": 12,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 91.7
+    },
+    {
+     "name": "DJ Bell-Drummond",
+     "dismissal": "c LM Reece b BW Aitchison",
+     "runs": 12,
+     "balls": 15,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "CG Benjamin",
+     "dismissal": "b BG Randell",
+     "runs": 32,
+     "balls": 115,
+     "dots": 96,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 27.8
+    },
+    {
+     "name": "Ekansh Singh",
+     "dismissal": "c MK Andersson b BG Randell",
+     "runs": 59,
+     "balls": 86,
+     "dots": 54,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 68.6
+    },
+    {
+     "name": "G Stewart",
+     "dismissal": "lbw b MK Andersson",
+     "runs": 65,
+     "balls": 104,
+     "dots": 72,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 62.5
+    },
+    {
+     "name": "AM Foreman",
+     "dismissal": "lbw b Shoaib Bashir",
+     "runs": 38,
+     "balls": 148,
+     "dots": 128,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 25.7
+    },
+    {
+     "name": "Hasan Mahmud",
+     "dismissal": "c BD Guest b BG Randell",
+     "runs": 9,
+     "balls": 48,
+     "dots": 45,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 18.8
+    },
+    {
+     "name": "Khaled Ahmed",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shoaib Bashir",
+     "overs": "27.0",
+     "maidens": 5,
+     "runs": 60,
+     "wickets": 1,
+     "economy": 2.22,
+     "dots": 125,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JP Morley",
+     "overs": "22.0",
+     "maidens": 3,
+     "runs": 59,
+     "wickets": 0,
+     "economy": 2.68,
+     "dots": 101,
+     "wides": 1,
+     "noballs": 2
+    },
+    {
+     "name": "BW Aitchison",
+     "overs": "20.0",
+     "maidens": 6,
+     "runs": 44,
+     "wickets": 5,
+     "economy": 2.2,
+     "dots": 100,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BG Randell",
+     "overs": "14.3",
+     "maidens": 4,
+     "runs": 39,
+     "wickets": 3,
+     "economy": 2.69,
+     "dots": 68,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MK Andersson",
+     "overs": "6.0",
+     "maidens": 2,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 2.17,
+     "dots": 29,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Montgomery",
+     "overs": "5.0",
+     "maidens": 1,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 23,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "LM Reece",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 8,
+     "player": "Z Crawley",
+     "over": "4.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 11,
+     "player": "BG Compton",
+     "over": "6.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 12,
+     "player": "SA Northeast",
+     "over": "6.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 27,
+     "player": "TS Muyeye",
+     "over": "10.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 38,
+     "player": "DJ Bell-Drummond",
+     "over": "12.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 129,
+     "player": "Ekansh Singh",
+     "over": "41.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 144,
+     "player": "CG Benjamin",
+     "over": "47.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 218,
+     "player": "G Stewart",
+     "over": "75.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 251,
+     "player": "AM Foreman",
+     "over": "93.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 252,
+     "player": "Hasan Mahmud",
+     "over": "95.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 8,
+     "balls": 28,
+     "batters": [
+      "Z Crawley",
+      "BG Compton"
+     ],
+     "contributions": {
+      "Z Crawley": 4,
+      "BG Compton": 2
+     },
+     "ended_by": "Z Crawley (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 9,
+     "batters": [
+      "SA Northeast",
+      "BG Compton"
+     ],
+     "contributions": {
+      "SA Northeast": 1,
+      "BG Compton": 2
+     },
+     "ended_by": "BG Compton (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 5,
+     "batters": [
+      "TS Muyeye",
+      "SA Northeast"
+     ],
+     "contributions": {
+      "TS Muyeye": 0,
+      "SA Northeast": 0
+     },
+     "ended_by": "SA Northeast (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 20,
+     "batters": [
+      "TS Muyeye",
+      "DJ Bell-Drummond"
+     ],
+     "contributions": {
+      "TS Muyeye": 11,
+      "DJ Bell-Drummond": 4
+     },
+     "ended_by": "TS Muyeye (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 11,
+     "balls": 15,
+     "batters": [
+      "CG Benjamin",
+      "DJ Bell-Drummond"
+     ],
+     "contributions": {
+      "CG Benjamin": 2,
+      "DJ Bell-Drummond": 8
+     },
+     "ended_by": "DJ Bell-Drummond (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 91,
+     "balls": 175,
+     "batters": [
+      "Ekansh Singh",
+      "CG Benjamin"
+     ],
+     "contributions": {
+      "Ekansh Singh": 59,
+      "CG Benjamin": 28
+     },
+     "ended_by": "Ekansh Singh (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 15,
+     "balls": 35,
+     "batters": [
+      "CG Benjamin",
+      "G Stewart"
+     ],
+     "contributions": {
+      "CG Benjamin": 2,
+      "G Stewart": 13
+     },
+     "ended_by": "CG Benjamin (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 74,
+     "balls": 169,
+     "batters": [
+      "AM Foreman",
+      "G Stewart"
+     ],
+     "contributions": {
+      "AM Foreman": 16,
+      "G Stewart": 52
+     },
+     "ended_by": "G Stewart (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 33,
+     "balls": 105,
+     "batters": [
+      "AM Foreman",
+      "Hasan Mahmud"
+     ],
+     "contributions": {
+      "AM Foreman": 22,
+      "Hasan Mahmud": 9
+     },
+     "ended_by": "AM Foreman (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 12,
+     "batters": [
+      "Khaled Ahmed",
+      "Hasan Mahmud"
+     ],
+     "contributions": {
+      "Khaled Ahmed": 1,
+      "Hasan Mahmud": 0
+     },
+     "ended_by": "Hasan Mahmud (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LM Reece",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BG Randell",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Morley",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Andersson",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shoaib Bashir",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BW Aitchison",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BG Randell",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "MK Andersson",
+    "runs": 129,
+    "balls": 190,
+    "strike_rate": 67.9
+   },
+   {
+    "name": "BD Guest",
+    "runs": 75,
+    "balls": 95,
+    "strike_rate": 78.9
+   },
+   {
+    "name": "G Stewart",
+    "runs": 65,
+    "balls": 104,
+    "strike_rate": 62.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "BW Aitchison",
+    "figures": "5/44",
+    "overs": "20.0",
+    "economy": 2.2
+   },
+   {
+    "name": "Hasan Mahmud",
+    "figures": "4/30",
+    "overs": "15.5",
+    "economy": 1.89
+   },
+   {
+    "name": "BW Aitchison",
+    "figures": "4/58",
+    "overs": "21.0",
+    "economy": 2.76
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Derbyshire",
+   "type": "wicket_burst",
+   "over": 1,
+   "detail": "2 wickets fell in over 1 (bowled by Hasan Mahmud, 2 credited to Hasan Mahmud)"
+  },
+  {
+   "innings": 1,
+   "team": "Derbyshire",
+   "type": "big_over",
+   "over": 32,
+   "detail": "Over 32 (Khaled Ahmed) went for 14 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Derbyshire",
+   "type": "big_over",
+   "over": 87,
+   "detail": "Over 87 (Khaled Ahmed) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kent",
+   "type": "big_over",
+   "over": 60,
+   "detail": "Over 60 (MK Andersson) went for 14 runs"
+  },
+  {
+   "innings": 3,
+   "team": "Derbyshire",
+   "type": "big_over",
+   "over": 23,
+   "detail": "Over 23 (Ekansh Singh) went for 14 runs"
+  },
+  {
+   "innings": 3,
+   "team": "Derbyshire",
+   "type": "big_over",
+   "over": 64,
+   "detail": "Over 64 (AM Foreman) went for 12 runs"
+  },
+  {
+   "innings": 4,
+   "team": "Kent",
+   "type": "wicket_burst",
+   "over": 7,
+   "detail": "2 wickets fell in over 7 (bowled by BW Aitchison, 2 credited to BW Aitchison)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1103 @@
+{
+ "match": {
+  "teams": [
+   "Edinburgh Castle Rockers",
+   "Dublin Guardians"
+  ],
+  "dates": [
+   "2026-09-11"
+  ],
+  "venue": "The Village, Malahide, Dublin",
+  "city": "Dublin",
+  "event": "European T20 Premier League",
+  "match_number": 21,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Dublin Guardians"
+  },
+  "player_of_match": [
+   "BJ McMullen"
+  ],
+  "result": "Edinburgh Castle Rockers won by 12 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Edinburgh Castle Rockers",
+   "batting_team": "Edinburgh Castle Rockers",
+   "bowling_team": "Dublin Guardians",
+   "super_over": false,
+   "total": 174,
+   "wickets": 4,
+   "overs": "20.0",
+   "run_rate": 8.7,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "byes": 3
+   },
+   "batting": [
+    {
+     "name": "GR Adair",
+     "dismissal": "c MK Hollard b DJ Willey",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JT Smuts",
+     "dismissal": "c DJ Willey b CA Young",
+     "runs": 9,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 128.6
+    },
+    {
+     "name": "AGS Gous",
+     "dismissal": "c BF Calitz b CA Young",
+     "runs": 50,
+     "balls": 40,
+     "dots": 19,
+     "fours": 6,
+     "sixes": 2,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "BJ McMullen",
+     "dismissal": "not out",
+     "runs": 69,
+     "balls": 49,
+     "dots": 18,
+     "fours": 5,
+     "sixes": 4,
+     "strike_rate": 140.8
+    },
+    {
+     "name": "LJ Evans",
+     "dismissal": "c HT Tector b CA Young",
+     "runs": 14,
+     "balls": 8,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 175.0
+    },
+    {
+     "name": "MJ Santner",
+     "dismissal": "not out",
+     "runs": 27,
+     "balls": 15,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 180.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "DJ Willey",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MK Hollard",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 10.67,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "CA Young",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 42,
+     "wickets": 3,
+     "economy": 10.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "R Ashwin",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 4.25,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GH Dockrell",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Little",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 0,
+     "economy": 11.33,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 47,
+     "wickets": 2,
+     "run_rate": 7.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 73,
+     "wickets": 1,
+     "run_rate": 8.11
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 54,
+     "wickets": 1,
+     "run_rate": 10.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "GR Adair",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 30,
+     "player": "JT Smuts",
+     "over": "3.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 111,
+     "player": "AGS Gous",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 133,
+     "player": "LJ Evans",
+     "over": "15.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "GR Adair",
+      "JT Smuts"
+     ],
+     "contributions": {
+      "GR Adair": 0,
+      "JT Smuts": 0
+     },
+     "ended_by": "GR Adair (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 30,
+     "balls": 23,
+     "batters": [
+      "AGS Gous",
+      "JT Smuts"
+     ],
+     "contributions": {
+      "AGS Gous": 20,
+      "JT Smuts": 9
+     },
+     "ended_by": "JT Smuts (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 81,
+     "balls": 56,
+     "batters": [
+      "AGS Gous",
+      "BJ McMullen"
+     ],
+     "contributions": {
+      "AGS Gous": 30,
+      "BJ McMullen": 48
+     },
+     "ended_by": "AGS Gous (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 22,
+     "balls": 15,
+     "batters": [
+      "LJ Evans",
+      "BJ McMullen"
+     ],
+     "contributions": {
+      "LJ Evans": 14,
+      "BJ McMullen": 8
+     },
+     "ended_by": "LJ Evans (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 41,
+     "balls": 25,
+     "batters": [
+      "MJ Santner",
+      "BJ McMullen"
+     ],
+     "contributions": {
+      "MJ Santner": 27,
+      "BJ McMullen": 13
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DJ Willey",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Hollard",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Willey",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CA Young",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Willey",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CA Young",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Ashwin",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GH Dockrell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Ashwin",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Little",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Ashwin",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GH Dockrell",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Little",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CA Young",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Ashwin",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CA Young",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Little",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Hollard",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJ Willey",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Hollard",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Dublin Guardians",
+   "batting_team": "Dublin Guardians",
+   "bowling_team": "Edinburgh Castle Rockers",
+   "super_over": false,
+   "total": 162,
+   "wickets": 8,
+   "overs": "20.0",
+   "run_rate": 8.1,
+   "target": 175,
+   "extras": {
+    "byes": 4,
+    "wides": 5
+   },
+   "batting": [
+    {
+     "name": "JM Vince",
+     "dismissal": "c BJ McMullen b J Jarvis",
+     "runs": 17,
+     "balls": 13,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 130.8
+    },
+    {
+     "name": "DJ Willey",
+     "dismissal": "c LJ Evans b J Jarvis",
+     "runs": 33,
+     "balls": 30,
+     "dots": 19,
+     "fours": 0,
+     "sixes": 4,
+     "strike_rate": 110.0
+    },
+    {
+     "name": "HT Tector",
+     "dismissal": "c TA Boult b BJ McMullen",
+     "runs": 45,
+     "balls": 29,
+     "dots": 4,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 155.2
+    },
+    {
+     "name": "DJ Mitchell",
+     "dismissal": "c GR Adair b TK Curran",
+     "runs": 18,
+     "balls": 16,
+     "dots": 5,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 112.5
+    },
+    {
+     "name": "BF Calitz",
+     "dismissal": "c GR Adair b BJ McMullen",
+     "runs": 3,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "SP Krishnamurthi",
+     "dismissal": "c BJ McMullen b J Jarvis",
+     "runs": 13,
+     "balls": 10,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 130.0
+    },
+    {
+     "name": "GH Dockrell",
+     "dismissal": "c J Jarvis b TK Curran",
+     "runs": 19,
+     "balls": 10,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 190.0
+    },
+    {
+     "name": "R Ashwin",
+     "dismissal": "c MJ Santner b J Jarvis",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MK Hollard",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "J Little",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 150.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "TA Boult",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 12,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "TK Curran",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 2,
+     "economy": 8.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Jarvis",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 4,
+     "economy": 8.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Santner",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 8.25,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MRJ Watt",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BJ McMullen",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 2,
+     "economy": 5.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 54,
+     "wickets": 1,
+     "run_rate": 9.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 65,
+     "wickets": 3,
+     "run_rate": 7.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 43,
+     "wickets": 4,
+     "run_rate": 8.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 32,
+     "player": "JM Vince",
+     "over": "3.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 67,
+     "player": "DJ Willey",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 108,
+     "player": "DJ Mitchell",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 119,
+     "player": "BF Calitz",
+     "over": "14.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 128,
+     "player": "HT Tector",
+     "over": "16.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 145,
+     "player": "SP Krishnamurthi",
+     "over": "18.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 145,
+     "player": "R Ashwin",
+     "over": "18.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 158,
+     "player": "GH Dockrell",
+     "over": "19.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 32,
+     "balls": 21,
+     "batters": [
+      "JM Vince",
+      "DJ Willey"
+     ],
+     "contributions": {
+      "JM Vince": 17,
+      "DJ Willey": 10
+     },
+     "ended_by": "JM Vince (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 35,
+     "balls": 32,
+     "batters": [
+      "HT Tector",
+      "DJ Willey"
+     ],
+     "contributions": {
+      "HT Tector": 11,
+      "DJ Willey": 23
+     },
+     "ended_by": "DJ Willey (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 41,
+     "balls": 27,
+     "batters": [
+      "DJ Mitchell",
+      "HT Tector"
+     ],
+     "contributions": {
+      "DJ Mitchell": 18,
+      "HT Tector": 23
+     },
+     "ended_by": "DJ Mitchell (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 11,
+     "balls": 9,
+     "batters": [
+      "BF Calitz",
+      "HT Tector"
+     ],
+     "contributions": {
+      "BF Calitz": 3,
+      "HT Tector": 8
+     },
+     "ended_by": "BF Calitz (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 9,
+     "balls": 8,
+     "batters": [
+      "SP Krishnamurthi",
+      "HT Tector"
+     ],
+     "contributions": {
+      "SP Krishnamurthi": 6,
+      "HT Tector": 3
+     },
+     "ended_by": "HT Tector (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 17,
+     "balls": 12,
+     "batters": [
+      "GH Dockrell",
+      "SP Krishnamurthi"
+     ],
+     "contributions": {
+      "GH Dockrell": 8,
+      "SP Krishnamurthi": 7
+     },
+     "ended_by": "SP Krishnamurthi (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "R Ashwin",
+      "GH Dockrell"
+     ],
+     "contributions": {
+      "R Ashwin": 0,
+      "GH Dockrell": 0
+     },
+     "ended_by": "R Ashwin (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 13,
+     "balls": 5,
+     "batters": [
+      "MK Hollard",
+      "GH Dockrell"
+     ],
+     "contributions": {
+      "MK Hollard": 1,
+      "GH Dockrell": 11
+     },
+     "ended_by": "GH Dockrell (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "J Little",
+      "MK Hollard"
+     ],
+     "contributions": {
+      "J Little": 3,
+      "MK Hollard": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TA Boult",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 21,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TA Boult",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TA Boult",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ McMullen",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Santner",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ McMullen",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TA Boult",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 13,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "J Jarvis",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TK Curran",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "BJ McMullen",
+    "runs": 69,
+    "balls": 49,
+    "strike_rate": 140.8
+   },
+   {
+    "name": "AGS Gous",
+    "runs": 50,
+    "balls": 40,
+    "strike_rate": 125.0
+   },
+   {
+    "name": "HT Tector",
+    "runs": 45,
+    "balls": 29,
+    "strike_rate": 155.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "J Jarvis",
+    "figures": "4/34",
+    "overs": "4.0",
+    "economy": 8.5
+   },
+   {
+    "name": "CA Young",
+    "figures": "3/42",
+    "overs": "4.0",
+    "economy": 10.5
+   },
+   {
+    "name": "BJ McMullen",
+    "figures": "2/11",
+    "overs": "2.0",
+    "economy": 5.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "Dublin Guardians",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (TK Curran) went for 21 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Dublin Guardians",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 54 scored, needed 121 from 14 overs (RRR 8.64)"
+  },
+  {
+   "innings": 2,
+   "team": "Dublin Guardians",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 77 scored, needed 98 from 10 overs (RRR 9.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Dublin Guardians",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 119 scored, needed 56 from 5 overs (RRR 11.2)"
+  },
+  {
+   "innings": 2,
+   "team": "Dublin Guardians",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "2 wickets fell in over 19 (bowled by J Jarvis, 2 credited to J Jarvis)"
+  }
+ ],
+ "checks": []
+}

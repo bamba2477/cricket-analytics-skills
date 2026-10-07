@@ -1,0 +1,1122 @@
+{
+ "match": {
+  "teams": [
+   "Rotterdam Dockers",
+   "Glasgow Cosmic"
+  ],
+  "dates": [
+   "2026-09-10"
+  ],
+  "venue": "The Village, Malahide, Dublin",
+  "city": "Dublin",
+  "event": "European T20 Premier League",
+  "match_number": 19,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Glasgow Cosmic"
+  },
+  "player_of_match": [
+   "F du Plessis"
+  ],
+  "result": "Rotterdam Dockers won by 31 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Rotterdam Dockers",
+   "batting_team": "Rotterdam Dockers",
+   "bowling_team": "Glasgow Cosmic",
+   "super_over": false,
+   "total": 172,
+   "wickets": 4,
+   "overs": "19.0",
+   "run_rate": 9.05,
+   "target": null,
+   "extras": {
+    "wides": 10,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "HE van der Dussen",
+     "dismissal": "lbw b TS Mills",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "F du Plessis",
+     "dismissal": "c RD Berrington b TS Mills",
+     "runs": 71,
+     "balls": 42,
+     "dots": 11,
+     "fours": 7,
+     "sixes": 3,
+     "strike_rate": 169.0
+    },
+    {
+     "name": "M Levitt",
+     "dismissal": "c JJ Roy b O Davidson",
+     "runs": 19,
+     "balls": 28,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 67.9
+    },
+    {
+     "name": "Vikramjit Singh",
+     "dismissal": "b LS Livingstone",
+     "runs": 33,
+     "balls": 25,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 132.0
+    },
+    {
+     "name": "H Klaasen",
+     "dismissal": "not out",
+     "runs": 30,
+     "balls": 15,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 3,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "D Wiese",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 3,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 266.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "TS Mills",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 8.75,
+     "dots": 12,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "PA van Meekeren",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 6,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "Ali Khan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "JDS Neesham",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "O Davidson",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "LS Livingstone",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 9.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 44,
+     "wickets": 1,
+     "run_rate": 7.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 76,
+     "wickets": 2,
+     "run_rate": 8.44
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.0",
+     "runs": 52,
+     "wickets": 1,
+     "run_rate": 13.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "HE van der Dussen",
+     "over": "0.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 59,
+     "player": "M Levitt",
+     "over": "7.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 116,
+     "player": "Vikramjit Singh",
+     "over": "13.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 157,
+     "player": "F du Plessis",
+     "over": "18.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "HE van der Dussen",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "HE van der Dussen": 0,
+      "F du Plessis": 0
+     },
+     "ended_by": "HE van der Dussen (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 59,
+     "balls": 47,
+     "batters": [
+      "M Levitt",
+      "F du Plessis"
+     ],
+     "contributions": {
+      "M Levitt": 19,
+      "F du Plessis": 32
+     },
+     "ended_by": "M Levitt (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 57,
+     "balls": 36,
+     "batters": [
+      "F du Plessis",
+      "Vikramjit Singh"
+     ],
+     "contributions": {
+      "F du Plessis": 22,
+      "Vikramjit Singh": 33
+     },
+     "ended_by": "Vikramjit Singh (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 41,
+     "balls": 25,
+     "batters": [
+      "F du Plessis",
+      "H Klaasen"
+     ],
+     "contributions": {
+      "F du Plessis": 17,
+      "H Klaasen": 23
+     },
+     "ended_by": "F du Plessis (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 15,
+     "balls": 5,
+     "batters": [
+      "D Wiese",
+      "H Klaasen"
+     ],
+     "contributions": {
+      "D Wiese": 8,
+      "H Klaasen": 7
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TS Mills",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PA van Meekeren",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Mills",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PA van Meekeren",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JDS Neesham",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "O Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JDS Neesham",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LS Livingstone",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JDS Neesham",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LS Livingstone",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LS Livingstone",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LS Livingstone",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Mills",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davidson",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 15,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TS Mills",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Glasgow Cosmic",
+   "batting_team": "Glasgow Cosmic",
+   "bowling_team": "Rotterdam Dockers",
+   "super_over": false,
+   "total": 141,
+   "wickets": 9,
+   "overs": "19.0",
+   "run_rate": 7.42,
+   "target": 173,
+   "extras": {
+    "wides": 4,
+    "byes": 2,
+    "noballs": 2
+   },
+   "batting": [
+    {
+     "name": "HG Munsey",
+     "dismissal": "b D Wiese",
+     "runs": 4,
+     "balls": 6,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "JJ Roy",
+     "dismissal": "c Vikramjit Singh b LV van Beek",
+     "runs": 23,
+     "balls": 11,
+     "dots": 2,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 209.1
+    },
+    {
+     "name": "MC Henriques",
+     "dismissal": "c H Klaasen b A Nortje",
+     "runs": 26,
+     "balls": 13,
+     "dots": 5,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "LS Livingstone",
+     "dismissal": "c H Klaasen b A Nortje",
+     "runs": 9,
+     "balls": 7,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 128.6
+    },
+    {
+     "name": "RD Berrington",
+     "dismissal": "c H Klaasen b J Moondra",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "JDS Neesham",
+     "dismissal": "c F du Plessis b D Wiese",
+     "runs": 28,
+     "balls": 17,
+     "dots": 4,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 164.7
+    },
+    {
+     "name": "MH Cross",
+     "dismissal": "c LV van Beek b A Nortje",
+     "runs": 16,
+     "balls": 12,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "O Davidson",
+     "dismissal": "c RE van der Merwe b LV van Beek",
+     "runs": 7,
+     "balls": 16,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 43.8
+    },
+    {
+     "name": "PA van Meekeren",
+     "dismissal": "not out",
+     "runs": 17,
+     "balls": 18,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 94.4
+    },
+    {
+     "name": "TS Mills",
+     "dismissal": "c HE van der Dussen b LV van Beek",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Ali Khan",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "J Moondra",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 10,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "D Wiese",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 2,
+     "economy": 7.75,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "LV van Beek",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 3,
+     "economy": 4.75,
+     "dots": 15,
+     "wides": 2,
+     "noballs": 2
+    },
+    {
+     "name": "A Nortje",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 3,
+     "economy": 6.5,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RE van der Merwe",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 10.33,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 54,
+     "wickets": 3,
+     "run_rate": 9.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 65,
+     "wickets": 4,
+     "run_rate": 7.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.0",
+     "runs": 22,
+     "wickets": 2,
+     "run_rate": 5.5
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 25,
+     "player": "JJ Roy",
+     "over": "2.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 43,
+     "player": "HG Munsey",
+     "over": "3.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 53,
+     "player": "MC Henriques",
+     "over": "4.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 62,
+     "player": "LS Livingstone",
+     "over": "6.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 66,
+     "player": "RD Berrington",
+     "over": "7.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 94,
+     "player": "JDS Neesham",
+     "over": "11.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 109,
+     "player": "MH Cross",
+     "over": "13.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 128,
+     "player": "O Davidson",
+     "over": "16.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 139,
+     "player": "TS Mills",
+     "over": "18.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 25,
+     "balls": 14,
+     "batters": [
+      "HG Munsey",
+      "JJ Roy"
+     ],
+     "contributions": {
+      "HG Munsey": 2,
+      "JJ Roy": 23
+     },
+     "ended_by": "JJ Roy (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 18,
+     "balls": 10,
+     "batters": [
+      "MC Henriques",
+      "HG Munsey"
+     ],
+     "contributions": {
+      "MC Henriques": 16,
+      "HG Munsey": 2
+     },
+     "ended_by": "HG Munsey (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 10,
+     "balls": 6,
+     "batters": [
+      "MC Henriques",
+      "LS Livingstone"
+     ],
+     "contributions": {
+      "MC Henriques": 10,
+      "LS Livingstone": 0
+     },
+     "ended_by": "MC Henriques (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 9,
+     "balls": 10,
+     "batters": [
+      "LS Livingstone",
+      "RD Berrington"
+     ],
+     "contributions": {
+      "LS Livingstone": 9,
+      "RD Berrington": 0
+     },
+     "ended_by": "LS Livingstone (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 4,
+     "balls": 8,
+     "batters": [
+      "JDS Neesham",
+      "RD Berrington"
+     ],
+     "contributions": {
+      "JDS Neesham": 3,
+      "RD Berrington": 1
+     },
+     "ended_by": "RD Berrington (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 28,
+     "balls": 19,
+     "batters": [
+      "JDS Neesham",
+      "MH Cross"
+     ],
+     "contributions": {
+      "JDS Neesham": 25,
+      "MH Cross": 2
+     },
+     "ended_by": "JDS Neesham (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 15,
+     "balls": 12,
+     "batters": [
+      "O Davidson",
+      "MH Cross"
+     ],
+     "contributions": {
+      "O Davidson": 1,
+      "MH Cross": 14
+     },
+     "ended_by": "MH Cross (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 19,
+     "balls": 20,
+     "batters": [
+      "PA van Meekeren",
+      "O Davidson"
+     ],
+     "contributions": {
+      "PA van Meekeren": 8,
+      "O Davidson": 6
+     },
+     "ended_by": "O Davidson (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 11,
+     "balls": 10,
+     "batters": [
+      "TS Mills",
+      "PA van Meekeren"
+     ],
+     "contributions": {
+      "TS Mills": 1,
+      "PA van Meekeren": 9
+     },
+     "ended_by": "TS Mills (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "Ali Khan",
+      "PA van Meekeren"
+     ],
+     "contributions": {
+      "Ali Khan": 1,
+      "PA van Meekeren": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RE van der Merwe",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Moondra",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nortje",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Wiese",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LV van Beek",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "F du Plessis",
+    "runs": 71,
+    "balls": 42,
+    "strike_rate": 169.0
+   },
+   {
+    "name": "Vikramjit Singh",
+    "runs": 33,
+    "balls": 25,
+    "strike_rate": 132.0
+   },
+   {
+    "name": "H Klaasen",
+    "runs": 30,
+    "balls": 15,
+    "strike_rate": 200.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "LV van Beek",
+    "figures": "3/19",
+    "overs": "4.0",
+    "economy": 4.75
+   },
+   {
+    "name": "A Nortje",
+    "figures": "3/26",
+    "overs": "4.0",
+    "economy": 6.5
+   },
+   {
+    "name": "D Wiese",
+    "figures": "2/31",
+    "overs": "4.0",
+    "economy": 7.75
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 11,
+   "detail": "Over 11 (JDS Neesham) went for 18 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Rotterdam Dockers",
+   "type": "big_over",
+   "over": 17,
+   "detail": "Over 17 (TS Mills) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Glasgow Cosmic",
+   "type": "collapse",
+   "over": 3,
+   "detail": "3 wickets fell between overs 3 and 5"
+  },
+  {
+   "innings": 2,
+   "team": "Glasgow Cosmic",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 54 scored, needed 119 from 13 overs (RRR 9.15)"
+  },
+  {
+   "innings": 2,
+   "team": "Glasgow Cosmic",
+   "type": "big_over",
+   "over": 9,
+   "detail": "Over 9 (RE van der Merwe) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Glasgow Cosmic",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 91 scored, needed 82 from 9 overs (RRR 9.11)"
+  },
+  {
+   "innings": 2,
+   "team": "Glasgow Cosmic",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 119 scored, needed 54 from 4 overs (RRR 13.5)"
+  }
+ ],
+ "checks": []
+}

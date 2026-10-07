@@ -1,0 +1,685 @@
+{
+ "match": {
+  "teams": [
+   "Barbados Tridents",
+   "Guyana Amazon Warriors"
+  ],
+  "dates": [
+   "2026-09-16"
+  ],
+  "venue": "Kensington Oval, Bridgetown, Barbados",
+  "city": "Bridgetown",
+  "event": "Women's Caribbean Premier League",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Guyana Amazon Warriors"
+  },
+  "player_of_match": [
+   "T Brits"
+  ],
+  "result": "Guyana Amazon Warriors won by 7 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Barbados Tridents",
+   "batting_team": "Barbados Tridents",
+   "bowling_team": "Guyana Amazon Warriors",
+   "super_over": false,
+   "total": 69,
+   "wickets": 4,
+   "overs": "8.0",
+   "run_rate": 8.62,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "noballs": 2
+   },
+   "batting": [
+    {
+     "name": "Q Joseph",
+     "dismissal": "retired out",
+     "runs": 3,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "HK Matthews",
+     "dismissal": "run out (SA Campbelle, RMAU Grimmond)",
+     "runs": 22,
+     "balls": 14,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "KP Navgire",
+     "dismissal": "st SA Campbelle b EA Burns",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "ML Green",
+     "dismissal": "not out",
+     "runs": 30,
+     "balls": 16,
+     "dots": 3,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 187.5
+    },
+    {
+     "name": "SW Bates",
+     "dismissal": "c SS Grimmond b SS Connell",
+     "runs": 9,
+     "balls": 5,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 180.0
+    },
+    {
+     "name": "P Vastrakar",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Ismail",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SS Connell",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 8.5,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "SS Grimmond",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 13.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "EA Burns",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 5.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 45,
+     "wickets": 3,
+     "run_rate": 7.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "2.0",
+     "runs": 24,
+     "wickets": 1,
+     "run_rate": 12.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 16,
+     "player": "Q Joseph",
+     "over": "2.6",
+     "kind": "retired out"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "KP Navgire",
+     "over": "3.1",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 3,
+     "score": 40,
+     "player": "HK Matthews",
+     "over": "5.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 53,
+     "player": "SW Bates",
+     "over": "6.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 16,
+     "balls": 18,
+     "batters": [
+      "Q Joseph",
+      "HK Matthews"
+     ],
+     "contributions": {
+      "Q Joseph": 3,
+      "HK Matthews": 12
+     },
+     "ended_by": "Q Joseph (retired out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "KP Navgire",
+      "HK Matthews"
+     ],
+     "contributions": {
+      "KP Navgire": 0,
+      "HK Matthews": 0
+     },
+     "ended_by": "KP Navgire (stumped)"
+    },
+    {
+     "wicket": 3,
+     "runs": 24,
+     "balls": 12,
+     "batters": [
+      "ML Green",
+      "HK Matthews"
+     ],
+     "contributions": {
+      "ML Green": 12,
+      "HK Matthews": 10
+     },
+     "ended_by": "HK Matthews (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 9,
+     "batters": [
+      "SW Bates",
+      "ML Green"
+     ],
+     "contributions": {
+      "SW Bates": 9,
+      "ML Green": 4
+     },
+     "ended_by": "SW Bates (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 16,
+     "balls": 8,
+     "batters": [
+      "P Vastrakar",
+      "ML Green"
+     ],
+     "contributions": {
+      "P Vastrakar": 2,
+      "ML Green": 14
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SS Connell",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SS Grimmond",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "EA Burns",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SS Grimmond",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "EA Burns",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SS Connell",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Ismail",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Guyana Amazon Warriors",
+   "batting_team": "Guyana Amazon Warriors",
+   "bowling_team": "Barbados Tridents",
+   "super_over": false,
+   "total": 75,
+   "wickets": 3,
+   "overs": "7.2",
+   "run_rate": 10.23,
+   "target": 70,
+   "extras": {
+    "wides": 6
+   },
+   "batting": [
+    {
+     "name": "E Brathwaite",
+     "dismissal": "c H Deol b S Hector",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "T Brits",
+     "dismissal": "not out",
+     "runs": 35,
+     "balls": 23,
+     "dots": 8,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 152.2
+    },
+    {
+     "name": "SA Campbelle",
+     "dismissal": "c M Mangru b Q Joseph",
+     "runs": 22,
+     "balls": 12,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 183.3
+    },
+    {
+     "name": "N de Klerk",
+     "dismissal": "b SW Bates",
+     "runs": 4,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "CL Tryon",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 600.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Hector",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "HK Matthews",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "ASS Fletcher",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 6,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "SW Bates",
+     "overs": "1.2",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 15.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Q Joseph",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 61,
+     "wickets": 2,
+     "run_rate": 10.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.2",
+     "runs": 14,
+     "wickets": 1,
+     "run_rate": 10.5
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 3,
+     "player": "E Brathwaite",
+     "over": "0.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 54,
+     "player": "SA Campbelle",
+     "over": "4.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 69,
+     "player": "N de Klerk",
+     "over": "7.1",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 3,
+     "balls": 3,
+     "batters": [
+      "E Brathwaite",
+      "T Brits"
+     ],
+     "contributions": {
+      "E Brathwaite": 2,
+      "T Brits": 0
+     },
+     "ended_by": "E Brathwaite (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 51,
+     "balls": 27,
+     "batters": [
+      "SA Campbelle",
+      "T Brits"
+     ],
+     "contributions": {
+      "SA Campbelle": 22,
+      "T Brits": 26
+     },
+     "ended_by": "SA Campbelle (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 15,
+     "balls": 13,
+     "batters": [
+      "T Brits",
+      "N de Klerk"
+     ],
+     "contributions": {
+      "T Brits": 9,
+      "N de Klerk": 4
+     },
+     "ended_by": "N de Klerk (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 6,
+     "balls": 1,
+     "batters": [
+      "CL Tryon",
+      "T Brits"
+     ],
+     "contributions": {
+      "CL Tryon": 6,
+      "T Brits": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Hector",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HK Matthews",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ASS Fletcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SW Bates",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Q Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HK Matthews",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ASS Fletcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SW Bates",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "T Brits",
+    "runs": 35,
+    "balls": 23,
+    "strike_rate": 152.2
+   },
+   {
+    "name": "ML Green",
+    "runs": 30,
+    "balls": 16,
+    "strike_rate": 187.5
+   },
+   {
+    "name": "SA Campbelle",
+    "runs": 22,
+    "balls": 12,
+    "strike_rate": 183.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "S Hector",
+    "figures": "1/6",
+    "overs": "1.0",
+    "economy": 6.0
+   },
+   {
+    "name": "Q Joseph",
+    "figures": "1/8",
+    "overs": "1.0",
+    "economy": 8.0
+   },
+   {
+    "name": "EA Burns",
+    "figures": "1/11",
+    "overs": "2.0",
+    "economy": 5.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Barbados Tridents",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (SS Grimmond) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Guyana Amazon Warriors",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 61 scored, needed 9 from 2 overs (RRR 4.5)"
+  }
+ ],
+ "checks": []
+}

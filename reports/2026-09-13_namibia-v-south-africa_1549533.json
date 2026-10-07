@@ -1,0 +1,1185 @@
+{
+ "match": {
+  "teams": [
+   "Namibia",
+   "South Africa"
+  ],
+  "dates": [
+   "2026-09-13"
+  ],
+  "venue": "Namibia Cricket Ground, Windhoek",
+  "city": "Windhoek",
+  "event": "South Africa tour of Namibia",
+  "match_number": 3,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Namibia"
+  },
+  "player_of_match": [
+   "BC Fortuin"
+  ],
+  "result": "South Africa won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Namibia",
+   "batting_team": "Namibia",
+   "bowling_team": "South Africa",
+   "super_over": false,
+   "total": 156,
+   "wickets": 10,
+   "overs": "36.2",
+   "run_rate": 4.29,
+   "target": null,
+   "extras": {
+    "wides": 13,
+    "legbyes": 3,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "M van Lingen",
+     "dismissal": "c KT Maphaka b C Bosch",
+     "runs": 2,
+     "balls": 9,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 22.2
+    },
+    {
+     "name": "A Busing-Volschenk",
+     "dismissal": "run out (N Mokoena)",
+     "runs": 31,
+     "balls": 68,
+     "dots": 52,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 45.6
+    },
+    {
+     "name": "JN Frylinck",
+     "dismissal": "b KT Maphaka",
+     "runs": 2,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "L Steenkamp",
+     "dismissal": "b BC Fortuin",
+     "runs": 23,
+     "balls": 36,
+     "dots": 23,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 63.9
+    },
+    {
+     "name": "MG Erasmus",
+     "dismissal": "c N Mokoena b BC Fortuin",
+     "runs": 3,
+     "balls": 4,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "JN Loftie-Eaton",
+     "dismissal": "lbw b BC Fortuin",
+     "runs": 4,
+     "balls": 11,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 36.4
+    },
+    {
+     "name": "ZE Green",
+     "dismissal": "c BC Fortuin b KT Maphaka",
+     "runs": 33,
+     "balls": 42,
+     "dots": 23,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 78.6
+    },
+    {
+     "name": "R Trumpelmann",
+     "dismissal": "c E Bosch b N Peter",
+     "runs": 13,
+     "balls": 13,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "W Smith",
+     "dismissal": "b BC Fortuin",
+     "runs": 2,
+     "balls": 11,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 18.2
+    },
+    {
+     "name": "JT Brassell",
+     "dismissal": "c C Esterhuizen b N Peter",
+     "runs": 3,
+     "balls": 8,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "M Heingo",
+     "dismissal": "not out",
+     "runs": 20,
+     "balls": 6,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 333.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KT Maphaka",
+     "overs": "5.2",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 2,
+     "economy": 3.38,
+     "dots": 26,
+     "wides": 11,
+     "noballs": 0
+    },
+    {
+     "name": "C Bosch",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 26,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "N Mokoena",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 22,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BC Fortuin",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 4,
+     "economy": 3.3,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Bosch",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N Peter",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 39,
+     "wickets": 2,
+     "economy": 7.8,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 39,
+     "wickets": 2,
+     "run_rate": 3.9
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "26.2",
+     "runs": 117,
+     "wickets": 8,
+     "run_rate": 4.44
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "M van Lingen",
+     "over": "3.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 19,
+     "player": "JN Frylinck",
+     "over": "6.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 72,
+     "player": "L Steenkamp",
+     "over": "20.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 73,
+     "player": "A Busing-Volschenk",
+     "over": "20.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 79,
+     "player": "MG Erasmus",
+     "over": "22.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 90,
+     "player": "JN Loftie-Eaton",
+     "over": "24.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 107,
+     "player": "R Trumpelmann",
+     "over": "27.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 112,
+     "player": "W Smith",
+     "over": "30.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 125,
+     "player": "JT Brassell",
+     "over": "33.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 156,
+     "player": "ZE Green",
+     "over": "36.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 22,
+     "batters": [
+      "M van Lingen",
+      "A Busing-Volschenk"
+     ],
+     "contributions": {
+      "M van Lingen": 2,
+      "A Busing-Volschenk": 2
+     },
+     "ended_by": "M van Lingen (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 12,
+     "balls": 18,
+     "batters": [
+      "JN Frylinck",
+      "A Busing-Volschenk"
+     ],
+     "contributions": {
+      "JN Frylinck": 2,
+      "A Busing-Volschenk": 9
+     },
+     "ended_by": "JN Frylinck (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 53,
+     "balls": 83,
+     "batters": [
+      "L Steenkamp",
+      "A Busing-Volschenk"
+     ],
+     "contributions": {
+      "L Steenkamp": 23,
+      "A Busing-Volschenk": 20
+     },
+     "ended_by": "L Steenkamp (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "MG Erasmus",
+      "A Busing-Volschenk"
+     ],
+     "contributions": {
+      "MG Erasmus": 1,
+      "A Busing-Volschenk": 0
+     },
+     "ended_by": "A Busing-Volschenk (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 6,
+     "balls": 9,
+     "batters": [
+      "MG Erasmus",
+      "JN Loftie-Eaton"
+     ],
+     "contributions": {
+      "MG Erasmus": 2,
+      "JN Loftie-Eaton": 4
+     },
+     "ended_by": "MG Erasmus (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 11,
+     "balls": 15,
+     "batters": [
+      "ZE Green",
+      "JN Loftie-Eaton"
+     ],
+     "contributions": {
+      "ZE Green": 7,
+      "JN Loftie-Eaton": 0
+     },
+     "ended_by": "JN Loftie-Eaton (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 17,
+     "balls": 20,
+     "batters": [
+      "R Trumpelmann",
+      "ZE Green"
+     ],
+     "contributions": {
+      "R Trumpelmann": 13,
+      "ZE Green": 4
+     },
+     "ended_by": "R Trumpelmann (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 5,
+     "balls": 17,
+     "batters": [
+      "ZE Green",
+      "W Smith"
+     ],
+     "contributions": {
+      "ZE Green": 3,
+      "W Smith": 2
+     },
+     "ended_by": "W Smith (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 13,
+     "balls": 16,
+     "batters": [
+      "JT Brassell",
+      "ZE Green"
+     ],
+     "contributions": {
+      "JT Brassell": 3,
+      "ZE Green": 10
+     },
+     "ended_by": "JT Brassell (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 31,
+     "balls": 17,
+     "batters": [
+      "M Heingo",
+      "ZE Green"
+     ],
+     "contributions": {
+      "M Heingo": 20,
+      "ZE Green": 9
+     },
+     "ended_by": "ZE Green (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KT Maphaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KT Maphaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KT Maphaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KT Maphaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KT Maphaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Peter",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Peter",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Peter",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Peter",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 19,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Peter",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KT Maphaka",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "South Africa",
+   "batting_team": "South Africa",
+   "bowling_team": "Namibia",
+   "super_over": false,
+   "total": 157,
+   "wickets": 1,
+   "overs": "21.3",
+   "run_rate": 7.3,
+   "target": 157,
+   "extras": {
+    "wides": 2,
+    "legbyes": 4
+   },
+   "batting": [
+    {
+     "name": "J Hermann",
+     "dismissal": "b W Smith",
+     "runs": 77,
+     "balls": 59,
+     "dots": 27,
+     "fours": 13,
+     "sixes": 0,
+     "strike_rate": 130.5
+    },
+    {
+     "name": "C Esterhuizen",
+     "dismissal": "not out",
+     "runs": 68,
+     "balls": 68,
+     "dots": 35,
+     "fours": 4,
+     "sixes": 3,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "D Brevis",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 300.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "R Trumpelmann",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JT Brassell",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 20,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "MG Erasmus",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 0,
+     "economy": 7.67,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Heingo",
+     "overs": "4.3",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 7.11,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JN Loftie-Eaton",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "W Smith",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 9.67,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 62,
+     "wickets": 0,
+     "run_rate": 6.2
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "11.3",
+     "runs": 95,
+     "wickets": 1,
+     "run_rate": 8.26
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 150,
+     "player": "J Hermann",
+     "over": "20.6",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 150,
+     "balls": 126,
+     "batters": [
+      "J Hermann",
+      "C Esterhuizen"
+     ],
+     "contributions": {
+      "J Hermann": 77,
+      "C Esterhuizen": 67
+     },
+     "ended_by": "J Hermann (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 7,
+     "balls": 3,
+     "batters": [
+      "C Esterhuizen",
+      "D Brevis"
+     ],
+     "contributions": {
+      "C Esterhuizen": 1,
+      "D Brevis": 6
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MG Erasmus",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MG Erasmus",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MG Erasmus",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Heingo",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Loftie-Eaton",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Heingo",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Smith",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Heingo",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Smith",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Heingo",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "W Smith",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Heingo",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "J Hermann",
+    "runs": 77,
+    "balls": 59,
+    "strike_rate": 130.5
+   },
+   {
+    "name": "C Esterhuizen",
+    "runs": 68,
+    "balls": 68,
+    "strike_rate": 100.0
+   },
+   {
+    "name": "ZE Green",
+    "runs": 33,
+    "balls": 42,
+    "strike_rate": 78.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "BC Fortuin",
+    "figures": "4/33",
+    "overs": "10.0",
+    "economy": 3.3
+   },
+   {
+    "name": "KT Maphaka",
+    "figures": "2/18",
+    "overs": "5.2",
+    "economy": 3.38
+   },
+   {
+    "name": "N Peter",
+    "figures": "2/39",
+    "overs": "5.0",
+    "economy": 7.8
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Namibia",
+   "type": "wicket_burst",
+   "over": 21,
+   "detail": "2 wickets fell in over 21 (bowled by BC Fortuin, 1 credited to BC Fortuin)"
+  },
+  {
+   "innings": 1,
+   "team": "Namibia",
+   "type": "big_over",
+   "over": 34,
+   "detail": "Over 34 (N Peter) went for 19 runs"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 44 scored, needed 113 from 44 overs (RRR 2.57)"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 62 scored, needed 95 from 40 overs (RRR 2.38)"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 103 scored, needed 54 from 35 overs (RRR 1.54)"
+  }
+ ],
+ "checks": []
+}
