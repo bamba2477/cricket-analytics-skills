@@ -1,0 +1,14 @@
+{
+  "name": "cricket-analytics-skills",
+  "description": "Claude skills and automations for cricket data analysis, built on Cricsheet ball-by-ball data",
+  "owner": {
+    "name": "YOUR_NAME"
+  },
+  "plugins": [
+    {
+      "name": "cricket-analytics",
+      "source": "./plugins/cricket-analytics",
+      "description": "Accurate match reports, scorecards and turning-point analysis from Cricsheet data"
+    }
+  ]
+}

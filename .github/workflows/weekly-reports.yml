@@ -1,0 +1,60 @@
+# Every Monday: download the last week's matches from Cricsheet, generate a
+# report for each, optionally add an AI-written story, and commit the results
+# to reports/. Run it by hand any time from the Actions tab.
+#
+# Optional: add an ANTHROPIC_API_KEY repository secret to enable narratives.
+# Without it, you still get full stats reports.
+
+name: Weekly match reports
+
+on:
+  schedule:
+    - cron: "30 0 * * 1"   # 00:30 UTC Monday = 06:00 IST
+  workflow_dispatch:
+    inputs:
+      dataset:
+        description: "Cricsheet dataset (e.g. recently_added_7, ipl, t20s)"
+        default: "recently_added_7"
+      match_type:
+        description: "Only this format (T20, ODI, Test); blank for all"
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  reports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download matches
+        run: |
+          python plugins/cricket-analytics/skills/cricket-match-report/scripts/fetch_cricsheet.py \
+            "${{ github.event.inputs.dataset || 'recently_added_7' }}" -o data/
+
+      - name: Generate reports
+        run: |
+          MT="${{ github.event.inputs.match_type }}"
+          python automation/batch_reports.py data/ -o reports/ ${MT:+--match-type "$MT"}
+
+      - name: Add narratives (if API key configured)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python automation/narrate.py reports/ --limit 15
+
+      - name: Commit new reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898237+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No new reports."
+          else
+            git commit -m "Match reports: $(date -u +%Y-%m-%d)"
+            git push
+          fi
