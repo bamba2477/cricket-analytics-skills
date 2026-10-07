@@ -2,7 +2,7 @@
   "name": "cricket-analytics-skills",
   "description": "Claude skills and automations for cricket data analysis, built on Cricsheet ball-by-ball data",
   "owner": {
-    "name": "YOUR_NAME"
+    "name": "bamba2477"
   },
   "plugins": [
     {

@@ -24,7 +24,7 @@ narrative written on top of it.
 
 **Claude Code**
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/cricket-analytics-skills
+/plugin marketplace add bamba2477/cricket-analytics-skills
 /plugin install cricket-analytics@cricket-analytics-skills
 ```
 Then try: *"Download the latest IPL matches and write a report on the final."*
