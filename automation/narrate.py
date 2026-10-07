@@ -35,6 +35,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -121,19 +122,48 @@ class NarratorError(RuntimeError):
     """The model service answered, but not with a usable reply."""
 
 
+class _NoRedirect(urllib.request.HTTPRedirectHandler):
+    """urllib turns a redirected POST into a GET and drops the body. Surface
+    redirects instead, so _post can re-send the POST itself (like curl -L -X POST)."""
+    def redirect_request(self, *args, **kwargs):
+        return None
+
+
+_OPENER = urllib.request.build_opener(_NoRedirect)
+_TRUSTED_HOSTS = ("github.ai", "github.com", "anthropic.com")
+
+
 def _post(url: str, body: dict, headers: dict) -> dict:
-    req = urllib.request.Request(url, data=json.dumps(body).encode(), method="POST",
-                                 headers={"Content-Type": "application/json", **headers})
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        raw = resp.read()
-        status, ctype = resp.status, resp.headers.get("Content-Type", "?")
-        if resp.headers.get("Content-Encoding") == "gzip":
-            raw = gzip.decompress(raw)
+    data = json.dumps(body).encode()
+    hops = []
+    for _ in range(5):
+        req = urllib.request.Request(url, data=data, method="POST",
+                                     headers={"Content-Type": "application/json", **headers})
+        try:
+            with _OPENER.open(req, timeout=120) as resp:
+                raw = resp.read()
+                status, ctype = resp.status, resp.headers.get("Content-Type", "?")
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    raw = gzip.decompress(raw)
+            break
+        except urllib.error.HTTPError as e:
+            location = e.headers.get("Location") if e.code in (301, 302, 303, 307, 308) else None
+            if not location:
+                raise
+            nxt = urllib.parse.urljoin(url, location)
+            hops.append(f"{e.code} -> {nxt}")
+            host = urllib.parse.urlparse(nxt).hostname or ""
+            if not host.endswith(_TRUSTED_HOSTS):  # never send credentials elsewhere
+                raise NarratorError(f"redirected to untrusted host {host}; not following") from None
+            url = nxt
+    else:
+        raise NarratorError(f"too many redirects: {'; '.join(hops)}")
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
-        snippet = raw[:200].decode("utf-8", errors="replace") or "(empty body)"
-        raise NarratorError(f"HTTP {status}, {ctype}, {len(raw)} bytes: {snippet}") from None
+        snippet = raw[:200].decode("utf-8", errors="replace").strip() or "(empty body)"
+        via = f" after redirects [{'; '.join(hops)}]" if hops else ""
+        raise NarratorError(f"HTTP {status}, {ctype}, {len(raw)} bytes{via}: {snippet}") from None
 
 
 def call_github(messages: list, model: str, token: str) -> str:
