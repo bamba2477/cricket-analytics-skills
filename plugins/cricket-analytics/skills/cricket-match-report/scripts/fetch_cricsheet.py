@@ -43,6 +43,18 @@ def fetch(name: str, out_dir: Path, since: str | None, match_type: str | None) -
     req = urllib.request.Request(url, headers={"User-Agent": "cricket-analytics-skills/0.1"})
     with urllib.request.urlopen(req, timeout=120) as resp:
         payload = resp.read()
+        final_url, ctype, status = resp.geturl(), resp.headers.get("Content-Type", "?"), resp.status
+
+    if not zipfile.is_zipfile(io.BytesIO(payload)):
+        snippet = payload[:300].decode("utf-8", errors="replace").replace("\n", " ")
+        hint = ("The dataset name may be wrong; run with --list or check "
+                "https://cricsheet.org/downloads/."
+                if final_url.rstrip("/") != url.rstrip("/") or b"404" in payload[:2000]
+                else "Cricsheet may be blocking automated downloads from this network "
+                     "(common for cloud servers such as GitHub Actions).")
+        raise RuntimeError(
+            f"expected a zip file but got {len(payload)} bytes of {ctype} "
+            f"(HTTP {status}, from {final_url}).\n  Start of response: {snippet[:200]}\n  {hint}")
 
     out_dir.mkdir(parents=True, exist_ok=True)
     kept = 0
