@@ -5,6 +5,15 @@
 **Toss:** South Africa chose to bat  
 **Player of the match:** L Wolvaardt  
 
+<!-- narrative -->
+**South Africa win by 80 runs as L Wolvaardt blasts 126**  
+
+South Africa’s innings exploded from the start, posting 53/1 in the Powerplay (overs 1‑6) and adding 72 runs without loss through the Middle phase (overs 7‑15). A massive 173‑run partnership off 103 balls between L Wolvaardt (126 off 62) and K Meso (50 off 51) carried the side to 200/1 in the full 20.0 overs at a run rate of 10.0, with the death overs (16‑20) contributing another 75 runs without a wicket.  
+
+Zimbabwe’s chase unraveled early, slipping to 29/4 in their Powerplay (overs 1‑6) and never recovering. Two wickets fell in over 5, both credited to A Dercksen, who later returned figures of 5/15 in 4.0 overs at an economy of 3.75. The middle phase (overs 7‑15) added only 46 runs for three wickets, and despite a brief surge of 45 runs in the death overs, the side was all out for 120 runs in 19.3 overs at a run rate of 6.15. Turning points such as over 16 (N Sibanda went for 26 runs) and over 20 (T Makusha went for 17 runs) could not close the gap, leaving Zimbabwe 80 runs short of the target.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **South Africa**: 200/1 in 20.0 overs (RR 10.0)
 - **Zimbabwe**: 120/10 in 19.3 overs (RR 6.15, chasing 201)

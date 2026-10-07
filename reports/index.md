@@ -80,5 +80,48 @@
 | 2026-09-08 | [Gloucestershire vs Lancashire](2026-09-08_gloucestershire-v-lancashire_1513443.md) | MDM | County Championship | Gloucestershire won by 105 runs |
 | 2026-09-08 | [Durham vs Middlesex](2026-09-08_durham-v-middlesex_1513442.md) | MDM | County Championship | Durham won by 93 runs |
 | 2026-09-08 | [Derbyshire vs Kent](2026-09-08_derbyshire-v-kent_1513440.md) | MDM | County Championship | Derbyshire won by 181 runs |
+| 2026-06-08 | [Oman vs Malaysia](2026-06-08_oman-v-malaysia_1538454.md) | T20 | Asian Games Men's Qualifier | Malaysia won by 8 wickets |
+| 2026-06-08 | [Hong Kong vs Nepal](2026-06-08_hong-kong-v-nepal_1538455.md) | T20 | Asian Games Men's Qualifier | Nepal won by 19 runs (D/L) |
+| 2026-06-07 | [Oman vs Nepal](2026-06-07_oman-v-nepal_1538452.md) | T20 | Asian Games Men's Qualifier | Nepal won by 8 wickets |
+| 2026-06-07 | [Malaysia vs Hong Kong](2026-06-07_malaysia-v-hong-kong_1538453.md) | T20 | Asian Games Men's Qualifier | Hong Kong won by 6 wickets |
+| 2026-06-05 | [Hong Kong vs Oman](2026-06-05_hong-kong-v-oman_1538451.md) | T20 | Asian Games Men's Qualifier | Hong Kong won by 154 runs |
+| 2026-06-05 | [Bahrain vs Singapore](2026-06-05_bahrain-v-singapore_1538450.md) | T20 | Asian Games Men's Qualifier | Bahrain won by 2 runs |
+| 2026-06-04 | [Nepal vs Malaysia](2026-06-04_nepal-v-malaysia_1538449.md) | T20 | Asian Games Men's Qualifier | Nepal won by 167 runs |
+| 2026-06-03 | [Singapore vs Hong Kong](2026-06-03_singapore-v-hong-kong_1538447.md) | T20 | Asian Games Men's Qualifier | Hong Kong won by 9 wickets |
+| 2026-06-03 | [Oman vs Bahrain](2026-06-03_oman-v-bahrain_1538446.md) | T20 | Asian Games Men's Qualifier | Oman won by 20 runs |
+| 2026-06-02 | [China vs Malaysia](2026-06-02_china-v-malaysia_1538445.md) | T20 | Asian Games Men's Qualifier | Malaysia won by 9 wickets |
+| 2026-06-01 | [Oman vs Singapore](2026-06-01_oman-v-singapore_1538442.md) | T20 | Asian Games Men's Qualifier | Oman won by 7 runs (D/L) |
+| 2026-06-01 | [Bahrain vs Hong Kong](2026-06-01_bahrain-v-hong-kong_1538443.md) | T20 | Asian Games Men's Qualifier | Hong Kong won by 8 wickets |
+| 2026-05-31 | [Nepal vs China](2026-05-31_nepal-v-china_1538440.md) | T20 | Asian Games Men's Qualifier | Nepal won by 221 runs |
+| 2026-05-31 | [Nepal vs China](2026-05-31_nepal-v-china_1536407.md) | T20 | Asian Games Women's Qualifier | China won by 5 wickets (D/L) |
+| 2026-05-31 | [Malaysia vs Thailand](2026-05-31_malaysia-v-thailand_1536408.md) | T20 | Asian Games Women's Qualifier | Thailand won by 9 wickets |
+| 2026-05-30 | [Thailand vs China](2026-05-30_thailand-v-china_1536405.md) | T20 | Asian Games Women's Qualifier | Thailand won by 83 runs |
+| 2026-05-30 | [Nepal vs Malaysia](2026-05-30_nepal-v-malaysia_1536406.md) | T20 | Asian Games Women's Qualifier | Malaysia won by 2 wickets |
+| 2026-05-28 | [Malaysia vs Hong Kong](2026-05-28_malaysia-v-hong-kong_1536403.md) | T20 | Asian Games Women's Qualifier | Malaysia won by 34 runs |
+| 2026-05-28 | [Indonesia vs Nepal](2026-05-28_indonesia-v-nepal_1536404.md) | T20 | Asian Games Women's Qualifier | Nepal won by 4 wickets |
+| 2026-05-27 | [Nepal vs China](2026-05-27_nepal-v-china_1536402.md) | T20 | Asian Games Women's Qualifier | Nepal won by 19 runs |
+| 2026-05-27 | [Malaysia vs Thailand](2026-05-27_malaysia-v-thailand_1536401.md) | T20 | Asian Games Women's Qualifier | Thailand won by 7 wickets |
+| 2026-05-26 | [Thailand vs Hong Kong](2026-05-26_thailand-v-hong-kong_1536399.md) | T20 | Asian Games Women's Qualifier | Thailand won by 89 runs |
+| 2026-05-26 | [Indonesia vs China](2026-05-26_indonesia-v-china_1536400.md) | T20 | Asian Games Women's Qualifier | China won by 3 wickets |
+| 2023-10-07 | [Pakistan vs Bangladesh](2023-10-07_pakistan-v-bangladesh_1399119.md) | T20 | Asian Games Men's Cricket Competition | Bangladesh won by 6 wickets (D/L) |
+| 2023-10-06 | [Bangladesh vs India](2023-10-06_bangladesh-v-india_1399117.md) | T20 | Asian Games Men's Cricket Competition | India won by 9 wickets |
+| 2023-10-04 | [Bangladesh vs Malaysia](2023-10-04_bangladesh-v-malaysia_1399116.md) | T20 | Asian Games Men's Cricket Competition | Bangladesh won by 2 runs |
+| 2023-10-03 | [Pakistan vs Hong Kong](2023-10-03_pakistan-v-hong-kong_1399114.md) | T20 | Asian Games Men's Cricket Competition | Pakistan won by 68 runs |
+| 2023-10-03 | [India vs Nepal](2023-10-03_india-v-nepal_1399113.md) | T20 | Asian Games Men's Cricket Competition | India won by 23 runs |
+| 2023-09-27 | [Nepal vs Mongolia](2023-09-27_nepal-v-mongolia_1399104.md) | T20 | Asian Games Men's Cricket Competition | Nepal won by 273 runs |
+| 2023-09-25 | [Pakistan vs Bangladesh](2023-09-25_pakistan-v-bangladesh_1399061.md) | T20 | Asian Games Women's Cricket Competition | Bangladesh won by 5 wickets |
+| 2023-09-25 | [India vs Sri Lanka](2023-09-25_india-v-sri-lanka_1399062.md) | T20 | Asian Games Women's Cricket Competition | India won by 19 runs |
+| 2023-09-24 | [Pakistan vs Sri Lanka](2023-09-24_pakistan-v-sri-lanka_1399060.md) | T20 | Asian Games Women's Cricket Competition | Sri Lanka won by 6 wickets |
+| 2023-09-24 | [Bangladesh vs India](2023-09-24_bangladesh-v-india_1399059.md) | T20 | Asian Games Women's Cricket Competition | India won by 8 wickets |
+| 2023-09-22 | [Thailand vs Sri Lanka](2023-09-22_thailand-v-sri-lanka_1399057.md) | T20 | Asian Games Women's Cricket Competition | Sri Lanka won by 8 wickets |
+| 2023-09-21 | [India vs Malaysia](2023-09-21_india-v-malaysia_1399055.md) | T20 | Asian Games Women's Cricket Competition | No result |
+| 2019-12-09 | [Nepal vs Maldives](2019-12-09_nepal-v-maldives_1208613.md) | T20 | South Asian Games Men's Cricket Competition | Nepal won by 5 wickets |
+| 2019-12-07 | [Nepal vs Maldives](2019-12-07_nepal-v-maldives_1208810.md) | T20 | South Asian Games Women's Cricket Competition | Nepal won by 10 wickets |
+| 2019-12-07 | [Bhutan vs Maldives](2019-12-07_bhutan-v-maldives_1208612.md) | T20 | South Asian Games Men's Cricket Competition | Maldives won by 8 wickets |
+| 2019-12-06 | [Nepal vs Maldives](2019-12-06_nepal-v-maldives_1208609.md) | T20 | South Asian Games Men's Cricket Competition | Nepal won by 84 runs |
+| 2019-12-05 | [Nepal vs Bhutan](2019-12-05_nepal-v-bhutan_1208606.md) | T20 | South Asian Games Men's Cricket Competition | Nepal won by 141 runs |
+| 2019-12-05 | [Bangladesh vs Maldives](2019-12-05_bangladesh-v-maldives_1208808.md) | T20 | South Asian Games Women's Cricket Competition | Bangladesh won by 249 runs |
+| 2019-12-04 | [Nepal vs Bangladesh](2019-12-04_nepal-v-bangladesh_1208806.md) | T20 | South Asian Games Women's Cricket Competition | Bangladesh won by 10 wickets |
+| 2019-12-02 | [Nepal vs Maldives](2019-12-02_nepal-v-maldives_1208804.md) | T20 | South Asian Games Women's Cricket Competition | Nepal won by 10 wickets |
 
 *Data: [Cricsheet](https://cricsheet.org) (ODC-By).*

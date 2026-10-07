@@ -5,6 +5,15 @@
 **Toss:** South Africa chose to bat  
 **Player of the match:** A Bosch  
 
+<!-- narrative -->
+**South Africa win by 64 runs as A Bosch’s 65‑run blast decides the match**
+
+South Africa’s innings surged after a solid Powerplay of 48/1 (RR 8.0) and a steady Middle phase of 78/2 (RR 8.67), before exploding in the Death overs with 67/0 (RR 13.4) to finish on 193/3 in 20.0 overs. A Bosch led the charge with 65 off 31 balls (SR 209.7) and a 64‑run partnership with N Shangase, while F Tunnicliffe added an unbeaten 52 off 34 balls. The 88‑run stand between A Dercksen and F Tunnicliffe (88 off 50 balls) capped the chase, and A Bosch also contributed with the ball, returning figures of 2/5 in 2.0 overs (econ 2.5).
+
+Zimbabwe’s reply began with a Powerplay of 42/2 (RR 7.0) but the middle overs stalled at 48/5 (RR 5.33). Key turning points came in overs 6, 8 and 9, which went for 18, 16 and 16 runs respectively, yet wickets fell regularly – six fell by the end of the 15th over, leaving 129/7 after 20.0 overs. C Mutasa top‑scored with 30 off 26 balls, but the bowling of A Bosch (2/5) and S Naidu (3/26) kept the run rate in check, and Zimbabwe could only manage 129/7, falling short of the 194 target.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **South Africa**: 193/3 in 20.0 overs (RR 9.65)
 - **Zimbabwe**: 129/7 in 20.0 overs (RR 6.45, chasing 194)

@@ -1,0 +1,792 @@
+{
+ "match": {
+  "teams": [
+   "Nepal",
+   "China"
+  ],
+  "dates": [
+   "2026-05-31"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "Asian Games Women's Qualifier",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "China"
+  },
+  "player_of_match": [
+   "M Zhu"
+  ],
+  "result": "China won by 5 wickets (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Nepal",
+   "batting_team": "Nepal",
+   "bowling_team": "China",
+   "super_over": false,
+   "total": 50,
+   "wickets": 5,
+   "overs": "7.0",
+   "run_rate": 7.14,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "Samjhana Khadka",
+     "dismissal": "b Ma Ruike",
+     "runs": 5,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 71.4
+    },
+    {
+     "name": "Puja Mahato",
+     "dismissal": "st J Chunquin b M Zhu",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "S Pakhrin",
+     "dismissal": "retired out",
+     "runs": 5,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 71.4
+    },
+    {
+     "name": "R Poddar",
+     "dismissal": "c M Zhu b Ma Ruike",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "I Barma",
+     "dismissal": "st J Chunquin b Zhao Yihan",
+     "runs": 11,
+     "balls": 8,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 137.5
+    },
+    {
+     "name": "K Kunwar",
+     "dismissal": "not out",
+     "runs": 22,
+     "balls": 10,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 220.0
+    },
+    {
+     "name": "RC Belbashi",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 4,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ma Ruike",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 2,
+     "economy": 2.5,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "M Zhu",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Wang Huiying",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Zhao Yihan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 11.0,
+     "dots": 0,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Jiaping Li",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 14.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 41,
+     "wickets": 5,
+     "run_rate": 6.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.0",
+     "runs": 9,
+     "wickets": 0,
+     "run_rate": 9.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "Puja Mahato",
+     "over": "1.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 2,
+     "score": 7,
+     "player": "Samjhana Khadka",
+     "over": "2.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 7,
+     "player": "R Poddar",
+     "over": "2.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 20,
+     "player": "I Barma",
+     "over": "4.1",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 26,
+     "player": "S Pakhrin",
+     "over": "4.6",
+     "kind": "retired out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 11,
+     "batters": [
+      "Samjhana Khadka",
+      "Puja Mahato"
+     ],
+     "contributions": {
+      "Samjhana Khadka": 5,
+      "Puja Mahato": 1
+     },
+     "ended_by": "Puja Mahato (stumped)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "S Pakhrin",
+      "Samjhana Khadka"
+     ],
+     "contributions": {
+      "S Pakhrin": 0,
+      "Samjhana Khadka": 0
+     },
+     "ended_by": "Samjhana Khadka (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "R Poddar",
+      "S Pakhrin"
+     ],
+     "contributions": {
+      "R Poddar": 0,
+      "S Pakhrin": 0
+     },
+     "ended_by": "R Poddar (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 11,
+     "batters": [
+      "I Barma",
+      "S Pakhrin"
+     ],
+     "contributions": {
+      "I Barma": 11,
+      "S Pakhrin": 1
+     },
+     "ended_by": "I Barma (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 6,
+     "balls": 5,
+     "batters": [
+      "K Kunwar",
+      "S Pakhrin"
+     ],
+     "contributions": {
+      "K Kunwar": 2,
+      "S Pakhrin": 4
+     },
+     "ended_by": "S Pakhrin (retired out)"
+    },
+    {
+     "wicket": 6,
+     "runs": 24,
+     "balls": 12,
+     "batters": [
+      "RC Belbashi",
+      "K Kunwar"
+     ],
+     "contributions": {
+      "RC Belbashi": 3,
+      "K Kunwar": 20
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wang Huiying",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "Zhao Yihan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jiaping Li",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "China",
+   "batting_team": "China",
+   "bowling_team": "Nepal",
+   "super_over": false,
+   "total": 45,
+   "wickets": 5,
+   "overs": "7.0",
+   "run_rate": 6.43,
+   "target": 43,
+   "extras": {
+    "wides": 2,
+    "byes": 2,
+    "legbyes": 3
+   },
+   "batting": [
+    {
+     "name": "M Zhu",
+     "dismissal": "c I Barma b Riya Sharma",
+     "runs": 18,
+     "balls": 13,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 138.5
+    },
+    {
+     "name": "Wang Huiying",
+     "dismissal": "c & b Riya Sharma",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Gong Yuting",
+     "dismissal": "run out (Riya Sharma)",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Jiaping Li",
+     "dismissal": "run out (I Barma)",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Cai Yuzhi",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 13,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 84.6
+    },
+    {
+     "name": "Wei Haiting",
+     "dismissal": "st R Poddar b S Magar",
+     "runs": 5,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 71.4
+    },
+    {
+     "name": "Chen Xinyu",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "M Upadhayay",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "K Kunwar",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Riya Sharma",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 2,
+     "economy": 1.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Magar",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 36,
+     "wickets": 4,
+     "run_rate": 6.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.0",
+     "runs": 9,
+     "wickets": 1,
+     "run_rate": 9.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 24,
+     "player": "Wang Huiying",
+     "over": "2.4",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 24,
+     "player": "Gong Yuting",
+     "over": "2.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 3,
+     "score": 24,
+     "player": "M Zhu",
+     "over": "2.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 27,
+     "player": "Jiaping Li",
+     "over": "3.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 40,
+     "player": "Wei Haiting",
+     "over": "6.4",
+     "kind": "stumped"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 24,
+     "balls": 16,
+     "batters": [
+      "M Zhu",
+      "Wang Huiying"
+     ],
+     "contributions": {
+      "M Zhu": 18,
+      "Wang Huiying": 2
+     },
+     "ended_by": "Wang Huiying (caught and bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Gong Yuting",
+      "M Zhu"
+     ],
+     "contributions": {
+      "Gong Yuting": 0,
+      "M Zhu": 0
+     },
+     "ended_by": "Gong Yuting (run out)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "M Zhu",
+      "Jiaping Li"
+     ],
+     "contributions": {
+      "M Zhu": 0,
+      "Jiaping Li": 0
+     },
+     "ended_by": "M Zhu (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "Jiaping Li",
+      "Cai Yuzhi"
+     ],
+     "contributions": {
+      "Jiaping Li": 1,
+      "Cai Yuzhi": 2
+     },
+     "ended_by": "Jiaping Li (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 13,
+     "balls": 17,
+     "batters": [
+      "Cai Yuzhi",
+      "Wei Haiting"
+     ],
+     "contributions": {
+      "Cai Yuzhi": 5,
+      "Wei Haiting": 5
+     },
+     "ended_by": "Wei Haiting (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 5,
+     "balls": 2,
+     "batters": [
+      "Chen Xinyu",
+      "Cai Yuzhi"
+     ],
+     "contributions": {
+      "Chen Xinyu": 1,
+      "Cai Yuzhi": 4
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Upadhayay",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Kunwar",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 3,
+     "bowler_wickets": 2,
+     "bowler": "Riya Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "K Kunwar",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Riya Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Upadhayay",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Magar",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "K Kunwar",
+    "runs": 22,
+    "balls": 10,
+    "strike_rate": 220.0
+   },
+   {
+    "name": "M Zhu",
+    "runs": 18,
+    "balls": 13,
+    "strike_rate": 138.5
+   },
+   {
+    "name": "I Barma",
+    "runs": 11,
+    "balls": 8,
+    "strike_rate": 137.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Riya Sharma",
+    "figures": "2/3",
+    "overs": "2.0",
+    "economy": 1.5
+   },
+   {
+    "name": "Ma Ruike",
+    "figures": "2/5",
+    "overs": "2.0",
+    "economy": 2.5
+   },
+   {
+    "name": "S Magar",
+    "figures": "1/8",
+    "overs": "1.0",
+    "economy": 8.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Nepal",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "2 wickets fell in over 3 (bowled by Ma Ruike, 2 credited to Ma Ruike)"
+  },
+  {
+   "innings": 1,
+   "team": "Nepal",
+   "type": "wicket_burst",
+   "over": 5,
+   "detail": "2 wickets fell in over 5 (bowled by Zhao Yihan, 1 credited to Zhao Yihan)"
+  },
+  {
+   "innings": 1,
+   "team": "Nepal",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (Jiaping Li) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (M Upadhayay) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "3 wickets fell in over 3 (bowled by Riya Sharma, 2 credited to Riya Sharma)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 36 scored, needed 7 from 1 overs (RRR 7.0)"
+  }
+ ],
+ "checks": []
+}

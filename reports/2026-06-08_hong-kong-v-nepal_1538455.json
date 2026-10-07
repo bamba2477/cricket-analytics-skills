@@ -1,0 +1,923 @@
+{
+ "match": {
+  "teams": [
+   "Hong Kong",
+   "Nepal"
+  ],
+  "dates": [
+   "2026-06-08"
+  ],
+  "venue": "Singapore National Cricket Ground",
+  "city": "Singapore",
+  "event": "Asian Games Men's Qualifier",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Nepal"
+  },
+  "player_of_match": [
+   "S Malla"
+  ],
+  "result": "Nepal won by 19 runs (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Hong Kong",
+   "batting_team": "Hong Kong",
+   "bowling_team": "Nepal",
+   "super_over": false,
+   "total": 188,
+   "wickets": 7,
+   "overs": "20.0",
+   "run_rate": 9.4,
+   "target": null,
+   "extras": {
+    "wides": 4,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "Nizakat Khan",
+     "dismissal": "c Karan KC b S Malla",
+     "runs": 2,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Anshuman Rath",
+     "dismissal": "c Lokesh Bam b S Malla",
+     "runs": 80,
+     "balls": 45,
+     "dots": 13,
+     "fours": 6,
+     "sixes": 6,
+     "strike_rate": 177.8
+    },
+    {
+     "name": "Babar Hayat",
+     "dismissal": "c S Malla b Karan KC",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Mathur",
+     "dismissal": "b S Malla",
+     "runs": 26,
+     "balls": 21,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 123.8
+    },
+    {
+     "name": "Shahid Wasif",
+     "dismissal": "b S Malla",
+     "runs": 55,
+     "balls": 28,
+     "dots": 9,
+     "fours": 7,
+     "sixes": 3,
+     "strike_rate": 196.4
+    },
+    {
+     "name": "Yasim Murtaza",
+     "dismissal": "c Sompal Kami b Karan KC",
+     "runs": 9,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 128.6
+    },
+    {
+     "name": "Nasrulla Rana",
+     "dismissal": "lbw b S Lamichhane",
+     "runs": 8,
+     "balls": 5,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 160.0
+    },
+    {
+     "name": "Hassan Khan Mohammad",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Ehsan Khan",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Karan KC",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 45,
+     "wickets": 2,
+     "economy": 11.25,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Malla",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 4,
+     "economy": 8.0,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "DS Airee",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Sompal Kami",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 0,
+     "economy": 8.75,
+     "dots": 8,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "S Lamichhane",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 46,
+     "wickets": 1,
+     "economy": 11.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 42,
+     "wickets": 2,
+     "run_rate": 7.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 105,
+     "wickets": 1,
+     "run_rate": 11.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 41,
+     "wickets": 4,
+     "run_rate": 8.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "Nizakat Khan",
+     "over": "1.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 24,
+     "player": "Babar Hayat",
+     "over": "2.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 72,
+     "player": "S Mathur",
+     "over": "9.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 156,
+     "player": "Anshuman Rath",
+     "over": "15.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 178,
+     "player": "Shahid Wasif",
+     "over": "17.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 186,
+     "player": "Yasim Murtaza",
+     "over": "18.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 188,
+     "player": "Nasrulla Rana",
+     "over": "19.3",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 12,
+     "batters": [
+      "Nizakat Khan",
+      "Anshuman Rath"
+     ],
+     "contributions": {
+      "Nizakat Khan": 2,
+      "Anshuman Rath": 11
+     },
+     "ended_by": "Nizakat Khan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 11,
+     "balls": 6,
+     "batters": [
+      "Anshuman Rath",
+      "Babar Hayat"
+     ],
+     "contributions": {
+      "Anshuman Rath": 11,
+      "Babar Hayat": 0
+     },
+     "ended_by": "Babar Hayat (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 48,
+     "balls": 37,
+     "batters": [
+      "Anshuman Rath",
+      "S Mathur"
+     ],
+     "contributions": {
+      "Anshuman Rath": 21,
+      "S Mathur": 26
+     },
+     "ended_by": "S Mathur (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 84,
+     "balls": 39,
+     "batters": [
+      "Shahid Wasif",
+      "Anshuman Rath"
+     ],
+     "contributions": {
+      "Shahid Wasif": 45,
+      "Anshuman Rath": 37
+     },
+     "ended_by": "Anshuman Rath (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 22,
+     "balls": 13,
+     "batters": [
+      "Yasim Murtaza",
+      "Shahid Wasif"
+     ],
+     "contributions": {
+      "Yasim Murtaza": 9,
+      "Shahid Wasif": 10
+     },
+     "ended_by": "Shahid Wasif (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 8,
+     "balls": 5,
+     "batters": [
+      "Nasrulla Rana",
+      "Yasim Murtaza"
+     ],
+     "contributions": {
+      "Nasrulla Rana": 8,
+      "Yasim Murtaza": 0
+     },
+     "ended_by": "Yasim Murtaza (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "Hassan Khan Mohammad",
+      "Nasrulla Rana"
+     ],
+     "contributions": {
+      "Hassan Khan Mohammad": 2,
+      "Nasrulla Rana": 0
+     },
+     "ended_by": "Nasrulla Rana (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "Ehsan Khan",
+      "Hassan Khan Mohammad"
+     ],
+     "contributions": {
+      "Ehsan Khan": 0,
+      "Hassan Khan Mohammad": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Malla",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Karan KC",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Lamichhane",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Nepal",
+   "batting_team": "Nepal",
+   "bowling_team": "Hong Kong",
+   "super_over": false,
+   "total": 114,
+   "wickets": 2,
+   "overs": "11.3",
+   "run_rate": 9.91,
+   "target": 96,
+   "extras": {
+    "wides": 1,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "K Bhurtel",
+     "dismissal": "c Yasim Murtaza b Ehsan Khan",
+     "runs": 65,
+     "balls": 40,
+     "dots": 15,
+     "fours": 8,
+     "sixes": 3,
+     "strike_rate": 162.5
+    },
+    {
+     "name": "Aasif Sheikh",
+     "dismissal": "b A Shukla",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "RK Paudel",
+     "dismissal": "not out",
+     "runs": 35,
+     "balls": 24,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 145.8
+    },
+    {
+     "name": "DS Airee",
+     "dismissal": "not out",
+     "runs": 9,
+     "balls": 4,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 225.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "A Shukla",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 6.67,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Hassan Khan Mohammad",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 16.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Yasim Murtaza",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 5.67,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ehsan Khan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 12.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mohammad Ghazanfar",
+     "overs": "1.3",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 11.33,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 54,
+     "wickets": 1,
+     "run_rate": 9.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "5.3",
+     "runs": 60,
+     "wickets": 1,
+     "run_rate": 10.91
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 40,
+     "player": "Aasif Sheikh",
+     "over": "2.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 103,
+     "player": "K Bhurtel",
+     "over": "10.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 40,
+     "balls": 18,
+     "batters": [
+      "K Bhurtel",
+      "Aasif Sheikh"
+     ],
+     "contributions": {
+      "K Bhurtel": 35,
+      "Aasif Sheikh": 0
+     },
+     "ended_by": "Aasif Sheikh (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 63,
+     "balls": 46,
+     "batters": [
+      "K Bhurtel",
+      "RK Paudel"
+     ],
+     "contributions": {
+      "K Bhurtel": 30,
+      "RK Paudel": 33
+     },
+     "ended_by": "K Bhurtel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 11,
+     "balls": 5,
+     "batters": [
+      "DS Airee",
+      "RK Paudel"
+     ],
+     "contributions": {
+      "DS Airee": 9,
+      "RK Paudel": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Shukla",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 26,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan Mohammad",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Shukla",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasim Murtaza",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Shukla",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasim Murtaza",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan Mohammad",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasim Murtaza",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ehsan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohammad Ghazanfar",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ehsan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohammad Ghazanfar",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Anshuman Rath",
+    "runs": 80,
+    "balls": 45,
+    "strike_rate": 177.8
+   },
+   {
+    "name": "K Bhurtel",
+    "runs": 65,
+    "balls": 40,
+    "strike_rate": 162.5
+   },
+   {
+    "name": "Shahid Wasif",
+    "runs": 55,
+    "balls": 28,
+    "strike_rate": 196.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "S Malla",
+    "figures": "4/32",
+    "overs": "4.0",
+    "economy": 8.0
+   },
+   {
+    "name": "Karan KC",
+    "figures": "2/45",
+    "overs": "4.0",
+    "economy": 11.25
+   },
+   {
+    "name": "A Shukla",
+    "figures": "1/20",
+    "overs": "3.0",
+    "economy": 6.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Hong Kong",
+   "type": "big_over",
+   "over": 14,
+   "detail": "Over 14 (S Lamichhane) went for 18 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Hong Kong",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (Karan KC) went for 22 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Hong Kong",
+   "type": "collapse",
+   "over": 18,
+   "detail": "3 wickets fell between overs 18 and 20"
+  },
+  {
+   "innings": 2,
+   "team": "Nepal",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (Hassan Khan Mohammad) went for 26 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Nepal",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 54 scored, needed 42 from 5.300000000000001 overs (RRR 7.92)"
+  },
+  {
+   "innings": 2,
+   "team": "Nepal",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 96 scored, needed 0 from 1.3000000000000007 overs (RRR 0.0)"
+  }
+ ],
+ "checks": []
+}

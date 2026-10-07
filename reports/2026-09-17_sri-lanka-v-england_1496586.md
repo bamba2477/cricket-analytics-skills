@@ -5,6 +5,17 @@
 **Toss:** England chose to field  
 **Player of the match:** LA Dawson  
 
+<!-- narrative -->
+**England win by 6 wickets, T Banton’s 52 off 24 balls sealing the chase**  
+
+England’s chase began explosively, reaching 60/2 in the power‑play (overs 1‑6) at a run‑rate of 10.0. A 57‑run partnership (24 balls) between T Banton and JM Cox pushed the total to 86/2 by the end of the middle phase (overs 7‑15) with a run‑rate of 13.95. Banton’s unbeaten 52 from 24 balls carried England to 146/4 in 12.1 overs, the target set by Sri Lanka, with wickets falling at 51, 55, 79 and 136.  
+
+Sri Lanka’s innings stalled after a burst in the power‑play that produced 56/2 (run‑rate 9.33). Over 5, WG Jacks conceded 17 runs, and two wickets fell in over 6, both credited to LA Dawson, who finished with figures of 3/32. The middle phase added 59/3 (run‑rate 6.56) but three wickets fell between overs 5 and 7, and the death overs yielded 30/4 (run‑rate 6.0). The top partnership of 56 runs off 33 balls between P Nissanka (37) and LU Igalagamage (21) was the only bright spot before wickets fell regularly.  
+
+Key turning points came at over 16 when LA Dawson gave away 18 runs, and at over 20 when JC Archer claimed two wickets, reducing Sri Lanka to 139/6. The loss of wickets at 75, 89 and 95 after a solid start left Sri Lanka 145/9 after 20 overs, a run‑rate of 7.25, and set the stage for England’s decisive chase.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Sri Lanka**: 145/9 in 20.0 overs (RR 7.25)
 - **England**: 146/4 in 12.1 overs (RR 12.0, chasing 146)

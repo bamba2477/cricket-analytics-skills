@@ -1,0 +1,1090 @@
+{
+ "match": {
+  "teams": [
+   "Oman",
+   "Singapore"
+  ],
+  "dates": [
+   "2026-06-01"
+  ],
+  "venue": "Singapore National Cricket Ground",
+  "city": "Singapore",
+  "event": "Asian Games Men's Qualifier",
+  "match_number": 2,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Singapore"
+  },
+  "player_of_match": [
+   "Nawed Al Balushi"
+  ],
+  "result": "Oman won by 7 runs (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Oman",
+   "batting_team": "Oman",
+   "bowling_team": "Singapore",
+   "super_over": false,
+   "total": 149,
+   "wickets": 7,
+   "overs": "15.0",
+   "run_rate": 9.93,
+   "target": null,
+   "extras": {
+    "wides": 16,
+    "legbyes": 3,
+    "noballs": 3,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Mohammed Al Balushi",
+     "dismissal": "c K Venkatraman b H Bharadwaj",
+     "runs": 44,
+     "balls": 26,
+     "dots": 12,
+     "fours": 5,
+     "sixes": 3,
+     "strike_rate": 169.2
+    },
+    {
+     "name": "Shuaib Al Balushi",
+     "dismissal": "c VT Thiyanesh b NA Karnik",
+     "runs": 40,
+     "balls": 35,
+     "dots": 14,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 114.3
+    },
+    {
+     "name": "Sufyan Mehmood",
+     "dismissal": "c M Bhatia b J Santhanam",
+     "runs": 2,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Muzaffar Shiralkar",
+     "dismissal": "b J Santhanam",
+     "runs": 2,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Zubair Al Balushi",
+     "dismissal": "c H Bharadwaj b M Bhatia",
+     "runs": 19,
+     "balls": 10,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 190.0
+    },
+    {
+     "name": "Abdul Jalil",
+     "dismissal": "c G Gune b K Venkatraman",
+     "runs": 8,
+     "balls": 7,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 114.3
+    },
+    {
+     "name": "Sameer Othman",
+     "dismissal": "c NA Karnik b M Bhatia",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Nawed Al Balushi",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Wasim Al Balushi",
+     "dismissal": "not out",
+     "runs": 9,
+     "balls": 4,
+     "dots": 1,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 225.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Venkatraman",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 1,
+     "economy": 8.67,
+     "dots": 11,
+     "wides": 8,
+     "noballs": 0
+    },
+    {
+     "name": "J Santhanam",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 2,
+     "economy": 4.33,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "NA Karnik",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 45,
+     "wickets": 1,
+     "economy": 22.5,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 2
+    },
+    {
+     "name": "H Bharadwaj",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 1,
+     "economy": 8.67,
+     "dots": 8,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "VT Thiyanesh",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 10.33,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "M Bhatia",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 2,
+     "economy": 4.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 74,
+     "wickets": 0,
+     "run_rate": 12.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 75,
+     "wickets": 7,
+     "run_rate": 8.33
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 78,
+     "player": "Mohammed Al Balushi",
+     "over": "6.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 93,
+     "player": "Sufyan Mehmood",
+     "over": "8.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 107,
+     "player": "Muzaffar Shiralkar",
+     "over": "10.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 115,
+     "player": "Shuaib Al Balushi",
+     "over": "11.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 137,
+     "player": "Zubair Al Balushi",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 137,
+     "player": "Sameer Othman",
+     "over": "13.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 139,
+     "player": "Abdul Jalil",
+     "over": "14.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 78,
+     "balls": 42,
+     "batters": [
+      "Mohammed Al Balushi",
+      "Shuaib Al Balushi"
+     ],
+     "contributions": {
+      "Mohammed Al Balushi": 44,
+      "Shuaib Al Balushi": 17
+     },
+     "ended_by": "Mohammed Al Balushi (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 15,
+     "balls": 8,
+     "batters": [
+      "Shuaib Al Balushi",
+      "Sufyan Mehmood"
+     ],
+     "contributions": {
+      "Shuaib Al Balushi": 12,
+      "Sufyan Mehmood": 2
+     },
+     "ended_by": "Sufyan Mehmood (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 14,
+     "balls": 14,
+     "batters": [
+      "Muzaffar Shiralkar",
+      "Shuaib Al Balushi"
+     ],
+     "contributions": {
+      "Muzaffar Shiralkar": 2,
+      "Shuaib Al Balushi": 11
+     },
+     "ended_by": "Muzaffar Shiralkar (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 8,
+     "balls": 5,
+     "batters": [
+      "Zubair Al Balushi",
+      "Shuaib Al Balushi"
+     ],
+     "contributions": {
+      "Zubair Al Balushi": 7,
+      "Shuaib Al Balushi": 0
+     },
+     "ended_by": "Shuaib Al Balushi (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 22,
+     "balls": 11,
+     "batters": [
+      "Abdul Jalil",
+      "Zubair Al Balushi"
+     ],
+     "contributions": {
+      "Abdul Jalil": 7,
+      "Zubair Al Balushi": 12
+     },
+     "ended_by": "Zubair Al Balushi (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Sameer Othman",
+      "Abdul Jalil"
+     ],
+     "contributions": {
+      "Sameer Othman": 0,
+      "Abdul Jalil": 0
+     },
+     "ended_by": "Sameer Othman (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "Nawed Al Balushi",
+      "Abdul Jalil"
+     ],
+     "contributions": {
+      "Nawed Al Balushi": 1,
+      "Abdul Jalil": 1
+     },
+     "ended_by": "Abdul Jalil (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 10,
+     "balls": 5,
+     "batters": [
+      "Wasim Al Balushi",
+      "Nawed Al Balushi"
+     ],
+     "contributions": {
+      "Wasim Al Balushi": 9,
+      "Nawed Al Balushi": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Venkatraman",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Santhanam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Venkatraman",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 29,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NA Karnik",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Bharadwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "VT Thiyanesh",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Bharadwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "VT Thiyanesh",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Santhanam",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "VT Thiyanesh",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Santhanam",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 16,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NA Karnik",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Bharadwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "M Bhatia",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Venkatraman",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Singapore",
+   "batting_team": "Singapore",
+   "bowling_team": "Oman",
+   "super_over": false,
+   "total": 143,
+   "wickets": 6,
+   "overs": "15.0",
+   "run_rate": 9.53,
+   "target": 151,
+   "extras": {
+    "wides": 7,
+    "legbyes": 3
+   },
+   "batting": [
+    {
+     "name": "R Gaznavi",
+     "dismissal": "b Nawed Al Balushi",
+     "runs": 49,
+     "balls": 33,
+     "dots": 12,
+     "fours": 4,
+     "sixes": 3,
+     "strike_rate": 148.5
+    },
+    {
+     "name": "M Bhatia",
+     "dismissal": "b Shuaib Al Balushi",
+     "runs": 13,
+     "balls": 7,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 185.7
+    },
+    {
+     "name": "Aslan Jafri",
+     "dismissal": "c Zubair Al Balushi b Nawed Al Balushi",
+     "runs": 27,
+     "balls": 17,
+     "dots": 3,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 158.8
+    },
+    {
+     "name": "G Gune",
+     "dismissal": "c Muzaffar Shiralkar b Nawed Al Balushi",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Chamalka Fernando",
+     "dismissal": "c Shuaib Al Balushi b Nawed Al Balushi",
+     "runs": 9,
+     "balls": 11,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 81.8
+    },
+    {
+     "name": "H Bharadwaj",
+     "dismissal": "c Mohammed Al Balushi b Wasim Al Balushi",
+     "runs": 6,
+     "balls": 8,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "VT Thiyanesh",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 7,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "J Santhanam",
+     "dismissal": "not out",
+     "runs": 18,
+     "balls": 6,
+     "dots": 0,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 300.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Sameer Othman",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shuaib Al Balushi",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 10.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Zubair Al Balushi",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Ahmed Al Zadjali",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mohammed Al Balushi",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nawed Al Balushi",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 4,
+     "economy": 7.33,
+     "dots": 6,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Sufyan Mehmood",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 9.33,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Wasim Al Balushi",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 12.0,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 59,
+     "wickets": 1,
+     "run_rate": 9.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 84,
+     "wickets": 5,
+     "run_rate": 9.33
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 16,
+     "player": "M Bhatia",
+     "over": "1.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 80,
+     "player": "Aslan Jafri",
+     "over": "7.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 80,
+     "player": "G Gune",
+     "over": "7.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 104,
+     "player": "R Gaznavi",
+     "over": "11.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 107,
+     "player": "Chamalka Fernando",
+     "over": "11.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 124,
+     "player": "H Bharadwaj",
+     "over": "13.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 16,
+     "balls": 10,
+     "batters": [
+      "R Gaznavi",
+      "M Bhatia"
+     ],
+     "contributions": {
+      "R Gaznavi": 3,
+      "M Bhatia": 13
+     },
+     "ended_by": "M Bhatia (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 64,
+     "balls": 35,
+     "batters": [
+      "Aslan Jafri",
+      "R Gaznavi"
+     ],
+     "contributions": {
+      "Aslan Jafri": 27,
+      "R Gaznavi": 34
+     },
+     "ended_by": "Aslan Jafri (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "G Gune",
+      "R Gaznavi"
+     ],
+     "contributions": {
+      "G Gune": 0,
+      "R Gaznavi": 0
+     },
+     "ended_by": "G Gune (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 24,
+     "balls": 21,
+     "batters": [
+      "Chamalka Fernando",
+      "R Gaznavi"
+     ],
+     "contributions": {
+      "Chamalka Fernando": 8,
+      "R Gaznavi": 12
+     },
+     "ended_by": "R Gaznavi (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "H Bharadwaj",
+      "Chamalka Fernando"
+     ],
+     "contributions": {
+      "H Bharadwaj": 2,
+      "Chamalka Fernando": 1
+     },
+     "ended_by": "Chamalka Fernando (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 17,
+     "balls": 12,
+     "batters": [
+      "VT Thiyanesh",
+      "H Bharadwaj"
+     ],
+     "contributions": {
+      "VT Thiyanesh": 10,
+      "H Bharadwaj": 4
+     },
+     "ended_by": "H Bharadwaj (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 19,
+     "balls": 7,
+     "batters": [
+      "J Santhanam",
+      "VT Thiyanesh"
+     ],
+     "contributions": {
+      "J Santhanam": 18,
+      "VT Thiyanesh": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shuaib Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zubair Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shuaib Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zubair Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ahmed Al Zadjali",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohammed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Wasim Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "R Gaznavi",
+    "runs": 49,
+    "balls": 33,
+    "strike_rate": 148.5
+   },
+   {
+    "name": "Mohammed Al Balushi",
+    "runs": 44,
+    "balls": 26,
+    "strike_rate": 169.2
+   },
+   {
+    "name": "Shuaib Al Balushi",
+    "runs": 40,
+    "balls": 35,
+    "strike_rate": 114.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Nawed Al Balushi",
+    "figures": "4/22",
+    "overs": "3.0",
+    "economy": 7.33
+   },
+   {
+    "name": "M Bhatia",
+    "figures": "2/4",
+    "overs": "1.0",
+    "economy": 4.0
+   },
+   {
+    "name": "J Santhanam",
+    "figures": "2/13",
+    "overs": "3.0",
+    "economy": 4.33
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (NA Karnik) went for 29 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "big_over",
+   "over": 12,
+   "detail": "Over 12 (NA Karnik) went for 16 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "wicket_burst",
+   "over": 14,
+   "detail": "2 wickets fell in over 14 (bowled by M Bhatia, 2 credited to M Bhatia)"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 59 scored, needed 92 from 9 overs (RRR 10.22)"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "big_over",
+   "over": 7,
+   "detail": "Over 7 (Mohammed Al Balushi) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "wicket_burst",
+   "over": 8,
+   "detail": "2 wickets fell in over 8 (bowled by Nawed Al Balushi, 2 credited to Nawed Al Balushi)"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 98 scored, needed 53 from 5 overs (RRR 10.6)"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "wicket_burst",
+   "over": 12,
+   "detail": "2 wickets fell in over 12 (bowled by Nawed Al Balushi, 2 credited to Nawed Al Balushi)"
+  },
+  {
+   "innings": 2,
+   "team": "Singapore",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (Sufyan Mehmood) went for 18 runs"
+  }
+ ],
+ "checks": []
+}

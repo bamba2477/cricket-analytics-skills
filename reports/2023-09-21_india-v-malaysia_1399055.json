@@ -1,0 +1,506 @@
+{
+ "match": {
+  "teams": [
+   "India",
+   "Malaysia"
+  ],
+  "dates": [
+   "2023-09-21"
+  ],
+  "venue": "Zhejiang University of Technology Cricket Field",
+  "city": "Hangzhou",
+  "event": "Asian Games Women's Cricket Competition",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Malaysia"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "India",
+   "batting_team": "India",
+   "bowling_team": "Malaysia",
+   "super_over": false,
+   "total": 173,
+   "wickets": 2,
+   "overs": "15.0",
+   "run_rate": 11.53,
+   "target": null,
+   "extras": {
+    "wides": 10,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "S Mandhana",
+     "dismissal": "c Ainna Hamizah Hashim b Mahirah Izzati Ismail",
+     "runs": 27,
+     "balls": 16,
+     "dots": 5,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 168.8
+    },
+    {
+     "name": "Shafali Verma",
+     "dismissal": "lbw b Mas Elysa",
+     "runs": 67,
+     "balls": 39,
+     "dots": 11,
+     "fours": 4,
+     "sixes": 5,
+     "strike_rate": 171.8
+    },
+    {
+     "name": "JI Rodrigues",
+     "dismissal": "not out",
+     "runs": 47,
+     "balls": 29,
+     "dots": 5,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 162.1
+    },
+    {
+     "name": "RM Ghosh",
+     "dismissal": "not out",
+     "runs": 21,
+     "balls": 7,
+     "dots": 0,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 300.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ainna Hamizah Hashim",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mahirah Izzati Ismail",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 9.33,
+     "dots": 3,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "WA Duraisingam",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Aisya Eleesa",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 4,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "Nur Dania Syuhada",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 14.5,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nur Arianna Natsya",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Mas Elysa",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 1,
+     "economy": 13.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 62,
+     "wickets": 1,
+     "run_rate": 10.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 111,
+     "wickets": 1,
+     "run_rate": 12.33
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 57,
+     "player": "S Mandhana",
+     "over": "5.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 143,
+     "player": "Shafali Verma",
+     "over": "12.6",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 57,
+     "balls": 32,
+     "batters": [
+      "S Mandhana",
+      "Shafali Verma"
+     ],
+     "contributions": {
+      "S Mandhana": 27,
+      "Shafali Verma": 22
+     },
+     "ended_by": "S Mandhana (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 86,
+     "balls": 46,
+     "batters": [
+      "JI Rodrigues",
+      "Shafali Verma"
+     ],
+     "contributions": {
+      "JI Rodrigues": 38,
+      "Shafali Verma": 45
+     },
+     "ended_by": "Shafali Verma (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 30,
+     "balls": 12,
+     "batters": [
+      "JI Rodrigues",
+      "RM Ghosh"
+     ],
+     "contributions": {
+      "JI Rodrigues": 9,
+      "RM Ghosh": 21
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ainna Hamizah Hashim",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahirah Izzati Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ainna Hamizah Hashim",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aisya Eleesa",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mahirah Izzati Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Arianna Natsya",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Dania Syuhada",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nur Arianna Natsya",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WA Duraisingam",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aisya Eleesa",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mas Elysa",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahirah Izzati Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mas Elysa",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Malaysia",
+   "batting_team": "Malaysia",
+   "bowling_team": "India",
+   "super_over": false,
+   "total": 1,
+   "wickets": 0,
+   "overs": "0.2",
+   "run_rate": 3.0,
+   "target": 177,
+   "extras": {},
+   "batting": [
+    {
+     "name": "Ainna Hamizah Hashim",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "WA Duraisingam",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "P Vastrakar",
+     "overs": "0.2",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "0.2",
+     "runs": 1,
+     "wickets": 0,
+     "run_rate": 3.0
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Ainna Hamizah Hashim",
+      "WA Duraisingam"
+     ],
+     "contributions": {
+      "Ainna Hamizah Hashim": 1,
+      "WA Duraisingam": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Vastrakar",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Shafali Verma",
+    "runs": 67,
+    "balls": 39,
+    "strike_rate": 171.8
+   },
+   {
+    "name": "JI Rodrigues",
+    "runs": 47,
+    "balls": 29,
+    "strike_rate": 162.1
+   },
+   {
+    "name": "S Mandhana",
+    "runs": 27,
+    "balls": 16,
+    "strike_rate": 168.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Mas Elysa",
+    "figures": "1/26",
+    "overs": "2.0",
+    "economy": 13.0
+   },
+   {
+    "name": "Mahirah Izzati Ismail",
+    "figures": "1/28",
+    "overs": "3.0",
+    "economy": 9.33
+   },
+   {
+    "name": "P Vastrakar",
+    "figures": "0/1",
+    "overs": "0.2",
+    "economy": 3.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "India",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (WA Duraisingam) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "India",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (Mas Elysa) went for 20 runs"
+  }
+ ],
+ "checks": []
+}

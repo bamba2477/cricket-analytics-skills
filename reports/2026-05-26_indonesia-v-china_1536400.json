@@ -1,0 +1,1215 @@
+{
+ "match": {
+  "teams": [
+   "Indonesia",
+   "China"
+  ],
+  "dates": [
+   "2026-05-26"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "Asian Games Women's Qualifier",
+  "match_number": 2,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Indonesia"
+  },
+  "player_of_match": [
+   "M Zhu"
+  ],
+  "result": "China won by 3 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Indonesia",
+   "batting_team": "Indonesia",
+   "bowling_team": "China",
+   "super_over": false,
+   "total": 82,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 4.1,
+   "target": null,
+   "extras": {
+    "wides": 6
+   },
+   "batting": [
+    {
+     "name": "K Winda Prastini",
+     "dismissal": "b Ma Ruike",
+     "runs": 3,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "RD Pangestuti",
+     "dismissal": "b Ma Ruike",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "NLKWR Dewi",
+     "dismissal": "run out (M Zhu)",
+     "runs": 6,
+     "balls": 12,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "NPAN Sakarini",
+     "dismissal": "lbw b Jiaping Li",
+     "runs": 37,
+     "balls": 46,
+     "dots": 27,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 80.4
+    },
+    {
+     "name": "NMP Suwandewi",
+     "dismissal": "st J Chunquin b Zhao Yihan",
+     "runs": 15,
+     "balls": 12,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "NKF Rada Rani",
+     "dismissal": "run out (Ma Ruike)",
+     "runs": 4,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "D Wulandari",
+     "dismissal": "run out (Ma Ruike)",
+     "runs": 10,
+     "balls": 15,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "KS Kasse",
+     "dismissal": "b Wang Huiying",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "SAN Maypriani",
+     "dismissal": "c M Zhu b Wang Huiying",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "NK Ariani",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "DAL Paramitha",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ma Ruike",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 9,
+     "wickets": 2,
+     "economy": 2.25,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Zhu",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 2.75,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Wang Huiying",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 2,
+     "economy": 3.5,
+     "dots": 15,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Zhao Yihan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 4.5,
+     "dots": 13,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Jiaping Li",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 5.67,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Cai Yuzhi",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 13.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 15,
+     "wickets": 2,
+     "run_rate": 2.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 51,
+     "wickets": 3,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 16,
+     "wickets": 4,
+     "run_rate": 3.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "RD Pangestuti",
+     "over": "0.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 6,
+     "player": "K Winda Prastini",
+     "over": "2.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 16,
+     "player": "NLKWR Dewi",
+     "over": "6.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 64,
+     "player": "NPAN Sakarini",
+     "over": "13.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 64,
+     "player": "NMP Suwandewi",
+     "over": "14.1",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 6,
+     "score": 78,
+     "player": "NKF Rada Rani",
+     "over": "17.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 80,
+     "player": "KS Kasse",
+     "over": "18.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 81,
+     "player": "SAN Maypriani",
+     "over": "18.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 82,
+     "player": "D Wulandari",
+     "over": "19.5",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "K Winda Prastini",
+      "RD Pangestuti"
+     ],
+     "contributions": {
+      "K Winda Prastini": 1,
+      "RD Pangestuti": 0
+     },
+     "ended_by": "RD Pangestuti (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 15,
+     "batters": [
+      "NLKWR Dewi",
+      "K Winda Prastini"
+     ],
+     "contributions": {
+      "NLKWR Dewi": 3,
+      "K Winda Prastini": 2
+     },
+     "ended_by": "K Winda Prastini (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 10,
+     "balls": 22,
+     "batters": [
+      "NLKWR Dewi",
+      "NPAN Sakarini"
+     ],
+     "contributions": {
+      "NLKWR Dewi": 3,
+      "NPAN Sakarini": 7
+     },
+     "ended_by": "NLKWR Dewi (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 48,
+     "balls": 43,
+     "batters": [
+      "NPAN Sakarini",
+      "NMP Suwandewi"
+     ],
+     "contributions": {
+      "NPAN Sakarini": 30,
+      "NMP Suwandewi": 15
+     },
+     "ended_by": "NPAN Sakarini (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "NKF Rada Rani",
+      "NMP Suwandewi"
+     ],
+     "contributions": {
+      "NKF Rada Rani": 0,
+      "NMP Suwandewi": 0
+     },
+     "ended_by": "NMP Suwandewi (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 14,
+     "balls": 18,
+     "batters": [
+      "D Wulandari",
+      "NKF Rada Rani"
+     ],
+     "contributions": {
+      "D Wulandari": 8,
+      "NKF Rada Rani": 4
+     },
+     "ended_by": "NKF Rada Rani (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 7,
+     "batters": [
+      "D Wulandari",
+      "KS Kasse"
+     ],
+     "contributions": {
+      "D Wulandari": 1,
+      "KS Kasse": 1
+     },
+     "ended_by": "KS Kasse (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "SAN Maypriani",
+      "D Wulandari"
+     ],
+     "contributions": {
+      "SAN Maypriani": 0,
+      "D Wulandari": 0
+     },
+     "ended_by": "SAN Maypriani (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "NK Ariani",
+      "D Wulandari"
+     ],
+     "contributions": {
+      "NK Ariani": 0,
+      "D Wulandari": 1
+     },
+     "ended_by": "D Wulandari (run out)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "NK Ariani",
+      "DAL Paramitha"
+     ],
+     "contributions": {
+      "NK Ariani": 0,
+      "DAL Paramitha": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wang Huiying",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Zhao Yihan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wang Huiying",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zhao Yihan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jiaping Li",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Cai Yuzhi",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jiaping Li",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wang Huiying",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Jiaping Li",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Zhao Yihan",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zhao Yihan",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "M Zhu",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Wang Huiying",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Ma Ruike",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "China",
+   "batting_team": "China",
+   "bowling_team": "Indonesia",
+   "super_over": false,
+   "total": 83,
+   "wickets": 7,
+   "overs": "19.5",
+   "run_rate": 4.18,
+   "target": 83,
+   "extras": {
+    "wides": 12,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "Jiaping Li",
+     "dismissal": "run out (NLKWR Dewi)",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "Wei Haiting",
+     "dismissal": "c NLKWR Dewi b NMP Suwandewi",
+     "runs": 5,
+     "balls": 18,
+     "dots": 15,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.8
+    },
+    {
+     "name": "Cai Yuzhi",
+     "dismissal": "b NK Ariani",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Zhu",
+     "dismissal": "run out (D Wulandari)",
+     "runs": 32,
+     "balls": 38,
+     "dots": 17,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 84.2
+    },
+    {
+     "name": "Wang Huiying",
+     "dismissal": "b NKF Rada Rani",
+     "runs": 12,
+     "balls": 18,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Gong Yuting",
+     "dismissal": "c RD Pangestuti b SAN Maypriani",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "Ma Ruike",
+     "dismissal": "b NK Ariani",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Chen Xinyu",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 18,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 72.2
+    },
+    {
+     "name": "F Qian",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "NMP Suwandewi",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 3.5,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "DAL Paramitha",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 13,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "NK Ariani",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 2,
+     "economy": 3.5,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SAN Maypriani",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 4.5,
+     "dots": 17,
+     "wides": 8,
+     "noballs": 0
+    },
+    {
+     "name": "NKF Rada Rani",
+     "overs": "3.5",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 4.96,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 16,
+     "wickets": 3,
+     "run_rate": 2.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 38,
+     "wickets": 3,
+     "run_rate": 4.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.5",
+     "runs": 29,
+     "wickets": 1,
+     "run_rate": 6.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "Jiaping Li",
+     "over": "3.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 2,
+     "score": 10,
+     "player": "Wei Haiting",
+     "over": "4.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 10,
+     "player": "Cai Yuzhi",
+     "over": "5.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 41,
+     "player": "Wang Huiying",
+     "over": "11.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 42,
+     "player": "Gong Yuting",
+     "over": "12.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 52,
+     "player": "Ma Ruike",
+     "over": "14.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 81,
+     "player": "M Zhu",
+     "over": "19.3",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 22,
+     "batters": [
+      "Jiaping Li",
+      "Wei Haiting"
+     ],
+     "contributions": {
+      "Jiaping Li": 1,
+      "Wei Haiting": 5
+     },
+     "ended_by": "Jiaping Li (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "Cai Yuzhi",
+      "Wei Haiting"
+     ],
+     "contributions": {
+      "Cai Yuzhi": 0,
+      "Wei Haiting": 0
+     },
+     "ended_by": "Wei Haiting (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 6,
+     "batters": [
+      "M Zhu",
+      "Cai Yuzhi"
+     ],
+     "contributions": {
+      "M Zhu": 0,
+      "Cai Yuzhi": 0
+     },
+     "ended_by": "Cai Yuzhi (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 31,
+     "balls": 34,
+     "batters": [
+      "Wang Huiying",
+      "M Zhu"
+     ],
+     "contributions": {
+      "Wang Huiying": 12,
+      "M Zhu": 11
+     },
+     "ended_by": "Wang Huiying (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "Gong Yuting",
+      "M Zhu"
+     ],
+     "contributions": {
+      "Gong Yuting": 1,
+      "M Zhu": 0
+     },
+     "ended_by": "Gong Yuting (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 10,
+     "balls": 10,
+     "batters": [
+      "Ma Ruike",
+      "M Zhu"
+     ],
+     "contributions": {
+      "Ma Ruike": 4,
+      "M Zhu": 5
+     },
+     "ended_by": "Ma Ruike (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 29,
+     "balls": 32,
+     "batters": [
+      "Chen Xinyu",
+      "M Zhu"
+     ],
+     "contributions": {
+      "Chen Xinyu": 12,
+      "M Zhu": 16
+     },
+     "ended_by": "M Zhu (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 2,
+     "balls": 2,
+     "batters": [
+      "F Qian",
+      "Chen Xinyu"
+     ],
+     "contributions": {
+      "F Qian": 1,
+      "Chen Xinyu": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NMP Suwandewi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAL Paramitha",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NMP Suwandewi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "DAL Paramitha",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NMP Suwandewi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NK Ariani",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SAN Maypriani",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NK Ariani",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SAN Maypriani",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NKF Rada Rani",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SAN Maypriani",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NKF Rada Rani",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SAN Maypriani",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NKF Rada Rani",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NK Ariani",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAL Paramitha",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NK Ariani",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAL Paramitha",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NMP Suwandewi",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "NKF Rada Rani",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "NPAN Sakarini",
+    "runs": 37,
+    "balls": 46,
+    "strike_rate": 80.4
+   },
+   {
+    "name": "M Zhu",
+    "runs": 32,
+    "balls": 38,
+    "strike_rate": 84.2
+   },
+   {
+    "name": "NMP Suwandewi",
+    "runs": 15,
+    "balls": 12,
+    "strike_rate": 125.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Ma Ruike",
+    "figures": "2/9",
+    "overs": "4.0",
+    "economy": 2.25
+   },
+   {
+    "name": "Wang Huiying",
+    "figures": "2/14",
+    "overs": "4.0",
+    "economy": 3.5
+   },
+   {
+    "name": "NK Ariani",
+    "figures": "2/14",
+    "overs": "4.0",
+    "economy": 3.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Indonesia",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "2 wickets fell in over 19 (bowled by Wang Huiying, 2 credited to Wang Huiying)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "collapse",
+   "over": 4,
+   "detail": "3 wickets fell between overs 4 and 6"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 16 scored, needed 67 from 14 overs (RRR 4.79)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 35 scored, needed 48 from 10 overs (RRR 4.8)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 54 scored, needed 29 from 5 overs (RRR 5.8)"
+  }
+ ],
+ "checks": []
+}

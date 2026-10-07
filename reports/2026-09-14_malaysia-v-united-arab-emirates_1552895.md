@@ -5,6 +5,17 @@
 **Toss:** Malaysia chose to bat  
 **Player of the match:** Khuzaima Tanveer  
 
+<!-- narrative -->
+**United Arab Emirates clinched a six‑wicket victory, driven by Khuzaima Tanveer’s unbeaten 68 off 29 balls.**
+
+Malaysia surged to 60 for 1 in the power‑play (overs 1‑6) at a run rate of 10.0, but the middle overs (7‑15) slowed to 47 for 2 at 5.22, and the death overs added only 37 for 3 at 7.4. The turning points came early when over 3 (Haider Ali) yielded 15 runs and over 6 (Ibrar Ahmad) gave away 16 runs, leaving Malaysia at 52 after six overs and needing 93 from the remaining 14 overs (RRR 6.64). Wickets fell at 26‑1 (Nazmus Sakib, 3.1), 60‑2 (Muhammad Haziq Aiman, 6.1) and 75‑3 (Syed Aziz, 8.6), and the chase stalled at 131‑5 after 15 overs (RRR 2.8).
+
+United Arab Emirates began their chase strongly, posting 52 for 2 in the power‑play at a run rate of 8.67 and reaching 79 for 2 by the end of the middle overs at 8.78. The death overs added 19 runs without loss at 10.36, taking the total to 150 for 4 in 16.5 overs (run rate 8.91). Khuzaima Tanveer anchored the innings with 68 not out off 29 balls (strike rate 234.5), while a partnership of 83 runs off 45 balls with R Chopra set the platform for the win. Early wickets fell at 13‑1 (Adeeb Usmani, 0.5), 44‑2 (T Suri, 4.5) and 54‑3 (A Sharafu, 7.2), but the middle‑order steadied the chase.
+
+The decisive factor was Tanveer’s explosive finish, turning a modest target of 145 into a comfortable chase and sealing the UAE’s six‑wicket triumph.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Malaysia**: 144/6 in 20.0 overs (RR 7.2)
 - **United Arab Emirates**: 150/4 in 16.5 overs (RR 8.91, chasing 145)

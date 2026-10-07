@@ -1,0 +1,539 @@
+{
+ "match": {
+  "teams": [
+   "Pakistan",
+   "Bangladesh"
+  ],
+  "dates": [
+   "2023-10-07"
+  ],
+  "venue": "Zhejiang University of Technology Cricket Field",
+  "city": "Hangzhou",
+  "event": "Asian Games Men's Cricket Competition",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Bangladesh"
+  },
+  "player_of_match": [],
+  "result": "Bangladesh won by 6 wickets (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Pakistan",
+   "batting_team": "Pakistan",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 48,
+   "wickets": 1,
+   "overs": "5.0",
+   "run_rate": 9.6,
+   "target": null,
+   "extras": {
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "Mirza Baig",
+     "dismissal": "not out",
+     "runs": 32,
+     "balls": 18,
+     "dots": 8,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 177.8
+    },
+    {
+     "name": "Khushdil Shah",
+     "dismissal": "c Jaker Ali b Rakibul Hasan",
+     "runs": 14,
+     "balls": 10,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "Omair Yousuf",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "R Mondol",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Rakibul Hasan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Afif Hossain",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.0",
+     "runs": 48,
+     "wickets": 1,
+     "run_rate": 9.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 47,
+     "player": "Khushdil Shah",
+     "over": "4.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 47,
+     "balls": 28,
+     "batters": [
+      "Mirza Baig",
+      "Khushdil Shah"
+     ],
+     "contributions": {
+      "Mirza Baig": 32,
+      "Khushdil Shah": 14
+     },
+     "ended_by": "Khushdil Shah (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Omair Yousuf",
+      "Mirza Baig"
+     ],
+     "contributions": {
+      "Omair Yousuf": 1,
+      "Mirza Baig": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Mondol",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rakibul Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Afif Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Mondol",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rakibul Hasan",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "Pakistan",
+   "super_over": false,
+   "total": 65,
+   "wickets": 4,
+   "overs": "5.0",
+   "run_rate": 13.0,
+   "target": 65,
+   "extras": {
+    "wides": 2,
+    "byes": 4,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "Zakir Hasan",
+     "dismissal": "c Mirza Baig b Arshad Iqbal",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Afif Hossain",
+     "dismissal": "c Rohail Nazir b Arshad Iqbal",
+     "runs": 20,
+     "balls": 11,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 181.8
+    },
+    {
+     "name": "Saif Hassan",
+     "dismissal": "c Omair Yousuf b Arshad Iqbal",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Yasir Ali Chowdhury",
+     "dismissal": "b Sufiyan Muqeem",
+     "runs": 34,
+     "balls": 16,
+     "dots": 4,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 212.5
+    },
+    {
+     "name": "Jaker Ali",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    },
+    {
+     "name": "Rakibul Hasan",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 1,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 400.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Arshad Iqbal",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 3,
+     "economy": 7.0,
+     "dots": 8,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Arafat Minhas",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 15.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Sufiyan Muqeem",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 1,
+     "economy": 16.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.0",
+     "runs": 65,
+     "wickets": 4,
+     "run_rate": 13.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "Zakir Hasan",
+     "over": "0.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 1,
+     "player": "Saif Hassan",
+     "over": "0.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 45,
+     "player": "Afif Hossain",
+     "over": "3.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 61,
+     "player": "Yasir Ali Chowdhury",
+     "over": "4.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Zakir Hasan",
+      "Afif Hossain"
+     ],
+     "contributions": {
+      "Zakir Hasan": 0,
+      "Afif Hossain": 0
+     },
+     "ended_by": "Zakir Hasan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Saif Hassan",
+      "Afif Hossain"
+     ],
+     "contributions": {
+      "Saif Hassan": 0,
+      "Afif Hossain": 0
+     },
+     "ended_by": "Saif Hassan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 44,
+     "balls": 21,
+     "batters": [
+      "Yasir Ali Chowdhury",
+      "Afif Hossain"
+     ],
+     "contributions": {
+      "Yasir Ali Chowdhury": 18,
+      "Afif Hossain": 20
+     },
+     "ended_by": "Afif Hossain (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 16,
+     "balls": 5,
+     "batters": [
+      "Yasir Ali Chowdhury",
+      "Jaker Ali"
+     ],
+     "contributions": {
+      "Yasir Ali Chowdhury": 16,
+      "Jaker Ali": 0
+     },
+     "ended_by": "Yasir Ali Chowdhury (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 4,
+     "balls": 1,
+     "batters": [
+      "Rakibul Hasan",
+      "Jaker Ali"
+     ],
+     "contributions": {
+      "Rakibul Hasan": 4,
+      "Jaker Ali": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Arshad Iqbal",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 19,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arshad Iqbal",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 20,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Yasir Ali Chowdhury",
+    "runs": 34,
+    "balls": 16,
+    "strike_rate": 212.5
+   },
+   {
+    "name": "Mirza Baig",
+    "runs": 32,
+    "balls": 18,
+    "strike_rate": 177.8
+   },
+   {
+    "name": "Afif Hossain",
+    "runs": 20,
+    "balls": 11,
+    "strike_rate": 181.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Arshad Iqbal",
+    "figures": "3/14",
+    "overs": "2.0",
+    "economy": 7.0
+   },
+   {
+    "name": "Rakibul Hasan",
+    "figures": "1/12",
+    "overs": "2.0",
+    "economy": 6.0
+   },
+   {
+    "name": "Sufiyan Muqeem",
+    "figures": "1/32",
+    "overs": "2.0",
+    "economy": 16.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Pakistan",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (Afif Hossain) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 1,
+   "detail": "2 wickets fell in over 1 (bowled by Arshad Iqbal, 2 credited to Arshad Iqbal)"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (Arafat Minhas) went for 19 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (Sufiyan Muqeem) went for 20 runs"
+  }
+ ],
+ "checks": []
+}

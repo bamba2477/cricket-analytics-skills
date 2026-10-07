@@ -1,0 +1,706 @@
+{
+ "match": {
+  "teams": [
+   "Nepal",
+   "Maldives"
+  ],
+  "dates": [
+   "2019-12-02"
+  ],
+  "venue": "Pokhara Rangasala",
+  "city": "Pokhara",
+  "event": "South Asian Games Women's Cricket Competition",
+  "match_number": 1,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Maldives"
+  },
+  "player_of_match": [
+   "Anjali Chand"
+  ],
+  "result": "Nepal won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Maldives",
+   "batting_team": "Maldives",
+   "bowling_team": "Nepal",
+   "super_over": false,
+   "total": 16,
+   "wickets": 10,
+   "overs": "10.1",
+   "run_rate": 1.57,
+   "target": null,
+   "extras": {
+    "wides": 3
+   },
+   "batting": [
+    {
+     "name": "Hamza Niyaz",
+     "dismissal": "run out",
+     "runs": 9,
+     "balls": 11,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 81.8
+    },
+    {
+     "name": "Sajaa Fathimath",
+     "dismissal": "run out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Sumayya Abdul",
+     "dismissal": "c SR Magar b Karuna Bhandari",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Zoona Mariyam",
+     "dismissal": "c Karuna Bhandari b Anjali Chand",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Hafsaa Abdhulla",
+     "dismissal": "b Karuna Bhandari",
+     "runs": 4,
+     "balls": 10,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Aima Aishath",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 12,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Latsha Haleemath",
+     "dismissal": "c SR Magar b Anjali Chand",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Shaffaa Saleem",
+     "dismissal": "b Anjali Chand",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Eashal Ibrahim",
+     "dismissal": "c RC Belbashi b Anjali Chand",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Kinaanath Ismail",
+     "dismissal": "st MM Chaudhary b Anjali Chand",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Shamma Ali",
+     "dismissal": "b Anjali Chand",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Khadka",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SC Kumari",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 4,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "SR Magar",
+     "overs": "2.0",
+     "maidens": 2,
+     "runs": 0,
+     "wickets": 0,
+     "economy": 0.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Karuna Bhandari",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 4,
+     "wickets": 2,
+     "economy": 2.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Anjali Chand",
+     "overs": "2.1",
+     "maidens": 2,
+     "runs": 0,
+     "wickets": 6,
+     "economy": 0.0,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RC Belbashi",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 1,
+     "wickets": 0,
+     "economy": 0.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 15,
+     "wickets": 4,
+     "run_rate": 2.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "4.1",
+     "runs": 1,
+     "wickets": 6,
+     "run_rate": 0.24
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "Sajaa Fathimath",
+     "over": "1.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 2,
+     "score": 11,
+     "player": "Hamza Niyaz",
+     "over": "2.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 3,
+     "score": 11,
+     "player": "Sumayya Abdul",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 15,
+     "player": "Hafsaa Abdhulla",
+     "over": "5.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 15,
+     "player": "Zoona Mariyam",
+     "over": "6.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 15,
+     "player": "Latsha Haleemath",
+     "over": "6.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 15,
+     "player": "Shaffaa Saleem",
+     "over": "6.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 16,
+     "player": "Eashal Ibrahim",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 16,
+     "player": "Kinaanath Ismail",
+     "over": "8.6",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 10,
+     "score": 16,
+     "player": "Shamma Ali",
+     "over": "10.1",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 10,
+     "batters": [
+      "Hamza Niyaz",
+      "Sajaa Fathimath"
+     ],
+     "contributions": {
+      "Hamza Niyaz": 5,
+      "Sajaa Fathimath": 0
+     },
+     "ended_by": "Sajaa Fathimath (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "Hamza Niyaz",
+      "Sumayya Abdul"
+     ],
+     "contributions": {
+      "Hamza Niyaz": 4,
+      "Sumayya Abdul": 0
+     },
+     "ended_by": "Hamza Niyaz (run out)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "Zoona Mariyam",
+      "Sumayya Abdul"
+     ],
+     "contributions": {
+      "Zoona Mariyam": 0,
+      "Sumayya Abdul": 0
+     },
+     "ended_by": "Sumayya Abdul (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 4,
+     "balls": 16,
+     "batters": [
+      "Hafsaa Abdhulla",
+      "Zoona Mariyam"
+     ],
+     "contributions": {
+      "Hafsaa Abdhulla": 4,
+      "Zoona Mariyam": 0
+     },
+     "ended_by": "Hafsaa Abdhulla (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Zoona Mariyam",
+      "Aima Aishath"
+     ],
+     "contributions": {
+      "Zoona Mariyam": 0,
+      "Aima Aishath": 0
+     },
+     "ended_by": "Zoona Mariyam (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Latsha Haleemath",
+      "Aima Aishath"
+     ],
+     "contributions": {
+      "Latsha Haleemath": 0,
+      "Aima Aishath": 0
+     },
+     "ended_by": "Latsha Haleemath (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Shaffaa Saleem",
+      "Aima Aishath"
+     ],
+     "contributions": {
+      "Shaffaa Saleem": 0,
+      "Aima Aishath": 0
+     },
+     "ended_by": "Shaffaa Saleem (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 11,
+     "batters": [
+      "Aima Aishath",
+      "Eashal Ibrahim"
+     ],
+     "contributions": {
+      "Aima Aishath": 0,
+      "Eashal Ibrahim": 0
+     },
+     "ended_by": "Eashal Ibrahim (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Kinaanath Ismail",
+      "Aima Aishath"
+     ],
+     "contributions": {
+      "Kinaanath Ismail": 0,
+      "Aima Aishath": 0
+     },
+     "ended_by": "Kinaanath Ismail (stumped)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 7,
+     "batters": [
+      "Aima Aishath",
+      "Shamma Ali"
+     ],
+     "contributions": {
+      "Aima Aishath": 0,
+      "Shamma Ali": 0
+     },
+     "ended_by": "Shamma Ali (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Khadka",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SC Kumari",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SR Magar",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Karuna Bhandari",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Magar",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Karuna Bhandari",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 3,
+     "bowler_wickets": 3,
+     "bowler": "Anjali Chand",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RC Belbashi",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Anjali Chand",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RC Belbashi",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Anjali Chand",
+     "legal_balls": 1
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Nepal",
+   "batting_team": "Nepal",
+   "bowling_team": "Maldives",
+   "super_over": false,
+   "total": 17,
+   "wickets": 0,
+   "overs": "0.5",
+   "run_rate": 20.4,
+   "target": 17,
+   "extras": {
+    "noballs": 1,
+    "wides": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "K Shrestha",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 5,
+     "dots": 1,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 260.0
+    },
+    {
+     "name": "SR Magar",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shamma Ali",
+     "overs": "0.5",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 19.2,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "0.5",
+     "runs": 17,
+     "wickets": 0,
+     "run_rate": 20.4
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 17,
+     "balls": 5,
+     "batters": [
+      "K Shrestha",
+      "SR Magar"
+     ],
+     "contributions": {
+      "K Shrestha": 13,
+      "SR Magar": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shamma Ali",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "K Shrestha",
+    "runs": 13,
+    "balls": 5,
+    "strike_rate": 260.0
+   },
+   {
+    "name": "Hamza Niyaz",
+    "runs": 9,
+    "balls": 11,
+    "strike_rate": 81.8
+   },
+   {
+    "name": "Hafsaa Abdhulla",
+    "runs": 4,
+    "balls": 10,
+    "strike_rate": 40.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Anjali Chand",
+    "figures": "6/0",
+    "overs": "2.1",
+    "economy": 0.0
+   },
+   {
+    "name": "Karuna Bhandari",
+    "figures": "2/4",
+    "overs": "2.0",
+    "economy": 2.0
+   },
+   {
+    "name": "SR Magar",
+    "figures": "0/0",
+    "overs": "2.0",
+    "economy": 0.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "collapse",
+   "over": 2,
+   "detail": "3 wickets fell between overs 2 and 4"
+  },
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "wicket_burst",
+   "over": 7,
+   "detail": "3 wickets fell in over 7 (bowled by Anjali Chand, 3 credited to Anjali Chand)"
+  },
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "wicket_burst",
+   "over": 9,
+   "detail": "2 wickets fell in over 9 (bowled by Anjali Chand, 2 credited to Anjali Chand)"
+  },
+  {
+   "innings": 2,
+   "team": "Nepal",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (Shamma Ali) went for 17 runs"
+  }
+ ],
+ "checks": []
+}

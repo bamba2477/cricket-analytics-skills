@@ -5,6 +5,15 @@
 **Toss:** Sri Lanka chose to field  
 **Player of the match:** HC Brook  
 
+<!-- narrative -->
+**England win by 119 runs thanks to HC Brook’s unbeaten 114**
+
+England exploded in the powerplay, reaching 90/1 in the first six overs at a run‑rate of 15.0. A 128‑run partnership off 60 balls between HC Brook (114 off 49) and JC Buttler (80 off 44) carried the total through the middle overs to 101/1 at a run‑rate of 11.22. The death overs added 63/2 at a run‑rate of 12.6, taking the score to 254/4 after 20 overs.
+
+Sri Lanka’s chase stalled early. The powerplay produced just 32/3 at a run‑rate of 5.33, with wickets falling at 20‑1, 31‑2 and 32‑3. The middle overs added only 66/5 at a run‑rate of 7.33, and the death overs contributed 37/2 at a run‑rate of 9.25, leaving them 135 all out in 19 overs. S Baker’s spell of 3/12 in four overs (economy 3.0) and J Overton’s 2/20 in three overs (economy 6.67) kept the run‑rate in check, while the turning points – “Over 5 (DN Wellalage) went for 30 runs”, “Over 17 (MD Shanaka) went for 19 runs” and “2 wickets fell in over 6 (bowled by S Baker)” – underscored Sri Lanka’s inability to build momentum.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **England**: 254/4 in 20.0 overs (RR 12.7)
 - **Sri Lanka**: 135/10 in 19.0 overs (RR 7.11, chasing 255)

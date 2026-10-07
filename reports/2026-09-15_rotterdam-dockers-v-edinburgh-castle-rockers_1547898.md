@@ -5,6 +5,15 @@
 **Toss:** Rotterdam Dockers chose to bat  
 **Player of the match:** Shubham Ranjane  
 
+<!-- narrative -->
+**Rotterdam Dockers win by 5 runs, Shubham Ranjane’s 3/22 seals the chase**
+
+Rotterdam set a solid platform in the powerplay, reaching 54/2 with a run‑rate of 9.0, and added 78/2 by the end of the middle overs at a run‑rate of 8.67. F du Plessis anchored the innings with 54 off 35 balls and linked with H Klaasen for a 66‑run partnership off 42 balls, while Klaasen contributed 47 off 27. The death overs added 49/2 at a run‑rate of 9.8, taking the total to 181/6. Overs 13 and 15 proved costly for Edinburgh, with J Jarvis conceding 16 runs in over 13 and TK Curran yielding 15 runs in over 15, while over 5 saw JJ Davidson give away 17 runs.
+
+Edinburgh’s chase began steadily, 51/1 in the powerplay at a run‑rate of 8.5, but the middle phase slipped to 68/4 at 7.56, leaving them 112‑4 at 12.5 overs. After 6 overs they needed 131 from 14 overs (run‑rate 9.36), after 10 overs the requirement was 93 from 10 overs (run‑rate 9.3), and after 15 overs they required 63 from 5 overs (run‑rate 12.6). BJ McMullen’s 47 and MJ Santner’s unbeaten 39 kept them in contention, yet Shubham Ranjane’s disciplined spell of 3/22 in four overs (economy 5.5) restricted the flow, and the final over saw D Wiese concede 17 runs in over 19, leaving Edinburgh at 176/5, five runs short of the target.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Rotterdam Dockers**: 181/6 in 20.0 overs (RR 9.05)
 - **Edinburgh Castle Rockers**: 176/5 in 20.0 overs (RR 8.8, chasing 182)

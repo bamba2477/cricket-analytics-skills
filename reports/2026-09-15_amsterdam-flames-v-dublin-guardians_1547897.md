@@ -5,6 +5,15 @@
 **Toss:** Dublin Guardians chose to field  
 **Player of the match:** C Campher  
 
+<!-- narrative -->
+**Amsterdam Flames win by 59 runs, powered by C Campher’s 66 and MG Bracewell’s 3/14**
+
+Amsterdam Flames posted 214/5 in 20.0 overs, cruising through the Powerplay with 48/2 (RR 8.0) and accelerating in the middle overs to 102/2 (RR 11.33). A 115‑run stand between C Campher (66 off 31 balls, SR 212.9) and BFW de Leede (49 off 40 balls, SR 122.5) set the platform, while TH David added an unbeaten 48. The death overs added 64/1 (RR 12.8) despite over 11 conceding 17 runs and over 19 yielding 22 runs, and MG Bracewell’s tight 3/14 in his 4.0 overs capped the innings.
+
+Dublin Guardians could only muster 155/9 in reply. Their Powerplay stalled at 44/3 (RR 7.33) and the middle overs produced 71/2 (RR 7.89). Early breakthroughs – two wickets in over 1 by DA Payne and two in over 15 by CA Young – kept the chase under pressure, and MG Bracewell’s 3/14 in the death spell added two more wickets in over 18. C Campher’s 3/33 also dented the run‑flow, leaving the Guardians 59 runs short of the target.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Amsterdam Flames**: 214/5 in 20.0 overs (RR 10.7)
 - **Dublin Guardians**: 155/9 in 20.0 overs (RR 7.75, chasing 215)

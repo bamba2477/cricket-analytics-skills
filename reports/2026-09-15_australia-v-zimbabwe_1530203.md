@@ -5,6 +5,15 @@
 **Toss:** Australia chose to bat  
 **Player of the match:** MT Renshaw  
 
+<!-- narrative -->
+**Australia won by 59 runs, powered by MT Renshaw’s 109**  
+
+Australia’s 50‑over innings built steadily: 65/2 in the Powerplay (overs 1‑10), 163/3 by the end of the Middle phase (overs 11‑40) and a final burst of 66/3 in the Death overs to finish on 294/8 at a run rate of 5.88. The cornerstone was MT Renshaw’s 109 from 94 balls, supported by a 75‑run stand with OJ Peake (69 balls) and a 72‑run partnership with AT Carey (83 balls). NT Ellis’s early breakthrough of two wickets in over 9 helped keep Zimbabwe on the back foot.
+
+In reply, Zimbabwe slumped to 48/3 in the Powerplay and, despite a 98‑run partnership between Sikandar Raza and CR Ervine (102 balls) in the Middle phase, they were 201 for 4 after 40 overs, needing 94 from the last 10 overs (RRR 9.4). NT Ellis struck again with figures of 5/31, and three wickets fell between overs 44 and 46, leaving Zimbabwe all out for 235 in 45.1 overs, well short of the target 295.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Australia**: 294/8 in 50.0 overs (RR 5.88)
 - **Zimbabwe**: 235/10 in 45.1 overs (RR 5.2, chasing 295)

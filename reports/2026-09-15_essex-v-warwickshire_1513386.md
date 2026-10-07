@@ -4,6 +4,17 @@
 **Result:** Warwickshire won by 8 wickets  
 **Toss:** Essex chose to bat  
 
+<!-- narrative -->
+**Warwickshire won by 8 wickets, powered by SR Hain’s unbeaten 88**  
+
+Essex were bundled out for 134/10 in 44.0 overs (run‑rate 3.05). Early damage came from ER Bamber’s 6/26 in 15.0 overs, including two wickets in over 44. A burst in over 28 gave away 12 runs, and over 37 conceded 16 runs, leaving the side at 33‑7 by the fall of wickets. The tail added only a few runs, the final partnership contributing 33 runs before the last wicket fell.
+
+Warwickshire responded with 191/10 in 61.1 overs (run‑rate 3.12). SR Hain anchored the innings with an unbeaten 88 from 175 balls, supported by a 42‑run stand with VL Jani (72 balls) and a 41‑run partnership with OJ Hannon‑Dalby (79 balls). The bowlers MJ Suthar (5/75) and MJJ Critchley (4/54) kept the opposition in check.
+
+In the chase Warwickshire reached 138/2 in 25.3 overs (run‑rate 5.41). An opening partnership of 82 runs between RM Yates (33) and Z Malik (51) set the platform, and after the second wicket at 106 runs, SR Hain (22) and DR Mousley (26*) saw the side home, sealing an 8‑wicket victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Essex**: 134/10 in 44.0 overs (RR 3.05)
 - **Warwickshire**: 191/10 in 61.1 overs (RR 3.12)

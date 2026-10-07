@@ -5,6 +5,17 @@
 **Toss:** Guyana Amazon Warriors chose to field  
 **Player of the match:** T Brits  
 
+<!-- narrative -->
+**Guyana Amazon Warriors win by 7 wickets, powered by T Brits' 35 off 23**  
+
+Barbados Tridents managed 69/4 in 8.0 overs, with a solid Powerplay of 45/3 (RR 7.5) and a quick middle spell of 24/1 (RR 12.0). The breakthrough came in over 5 when SS Grimmond conceded 18 runs, and the fall of wickets at 16‑1 (Q Joseph, 2.6), 16‑2 (KP Navgire, 3.1), 40‑3 (HK Matthews, 5.1) and 53‑4 (SW Bates, 6.4) left them short of the target. ML Green finished unbeaten on 30, but the chase stalled at 69/4.
+
+Guyana Amazon Warriors responded with 75/3 in 7.2 overs, chasing a target of 70. Their Powerplay produced 61/2 (RR 10.17) and the middle overs added 14/1 (RR 10.5). After 6 overs the scoreboard read 61, “needed 9 from 2 overs (RRR 4.5)”, a pressure point the Warriors cleared with a 51‑run partnership off 27 balls between SA Campbelle (22 off 12) and T Brits (35 off 23). T Brits remained not out, guiding the side to the winning total.
+
+Key bowling figures included EA Burns 1/11 in 2.0 overs for Barbados and S Hector 1/6 in 1.0 over for Guyana, while Q Joseph contributed 1/8 in 1.0 over during the chase. The combination of the early run surge and the decisive partnership secured the Warriors’ victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Barbados Tridents**: 69/4 in 8.0 overs (RR 8.62)
 - **Guyana Amazon Warriors**: 75/3 in 7.2 overs (RR 10.23, chasing 70)

@@ -1,0 +1,970 @@
+{
+ "match": {
+  "teams": [
+   "Thailand",
+   "Hong Kong"
+  ],
+  "dates": [
+   "2026-05-26"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "Asian Games Women's Qualifier",
+  "match_number": 1,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Thailand"
+  },
+  "player_of_match": [
+   "N Chantam"
+  ],
+  "result": "Thailand won by 89 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Thailand",
+   "batting_team": "Thailand",
+   "bowling_team": "Hong Kong",
+   "super_over": false,
+   "total": 170,
+   "wickets": 1,
+   "overs": "20.0",
+   "run_rate": 8.5,
+   "target": null,
+   "extras": {
+    "byes": 1,
+    "wides": 9,
+    "noballs": 6,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "N Chantam",
+     "dismissal": "not out",
+     "runs": 98,
+     "balls": 65,
+     "dots": 17,
+     "fours": 13,
+     "sixes": 0,
+     "strike_rate": 150.8
+    },
+    {
+     "name": "A Suwanchonrathi",
+     "dismissal": "c A Cheung b KY Chan",
+     "runs": 3,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "N Koncharoenkai",
+     "dismissal": "not out",
+     "runs": 51,
+     "balls": 55,
+     "dots": 18,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 92.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KY Chan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 1,
+     "economy": 5.5,
+     "dots": 11,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "M Wai Siu",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Bibi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 7,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "A Cheung",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 0,
+     "economy": 9.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Chan Sau Har",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 22.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 5
+    },
+    {
+     "name": "WK Lai",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 10.67,
+     "dots": 5,
+     "wides": 3,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 31,
+     "wickets": 1,
+     "run_rate": 5.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 87,
+     "wickets": 0,
+     "run_rate": 9.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 52,
+     "wickets": 0,
+     "run_rate": 10.4
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "A Suwanchonrathi",
+     "over": "2.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 16,
+     "batters": [
+      "N Chantam",
+      "A Suwanchonrathi"
+     ],
+     "contributions": {
+      "N Chantam": 9,
+      "A Suwanchonrathi": 3
+     },
+     "ended_by": "A Suwanchonrathi (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 157,
+     "balls": 104,
+     "batters": [
+      "N Koncharoenkai",
+      "N Chantam"
+     ],
+     "contributions": {
+      "N Koncharoenkai": 51,
+      "N Chantam": 89
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KY Chan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Wai Siu",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KY Chan",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Wai Siu",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KY Chan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Wai Siu",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Bibi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Cheung",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Bibi",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Cheung",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Bibi",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Chan Sau Har",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WK Lai",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Cheung",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WK Lai",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Cheung",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WK Lai",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Wai Siu",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Bibi",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KY Chan",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Hong Kong",
+   "batting_team": "Hong Kong",
+   "bowling_team": "Thailand",
+   "super_over": false,
+   "total": 81,
+   "wickets": 7,
+   "overs": "20.0",
+   "run_rate": 4.05,
+   "target": 171,
+   "extras": {
+    "wides": 6,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "NT Miles",
+     "dismissal": "b S Chaturongrattana",
+     "runs": 5,
+     "balls": 12,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 41.7
+    },
+    {
+     "name": "Shanzeen Shahzad",
+     "dismissal": "c N Chantam b S Laomi",
+     "runs": 21,
+     "balls": 37,
+     "dots": 23,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 56.8
+    },
+    {
+     "name": "SYD Chan",
+     "dismissal": "c P Maya b O Kamchomphu",
+     "runs": 15,
+     "balls": 27,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "KY Chan",
+     "dismissal": "c A Suwanchonrathi b S Chaturongrattana",
+     "runs": 3,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "M Bibi",
+     "dismissal": "c P Maya b O Kamchomphu",
+     "runs": 8,
+     "balls": 13,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 61.5
+    },
+    {
+     "name": "A Cheung",
+     "dismissal": "b T Putthawong",
+     "runs": 4,
+     "balls": 6,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "WK Lai",
+     "dismissal": "run out (N Chaiwai)",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    },
+    {
+     "name": "Hiu Ying Cheung",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 12,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 91.7
+    },
+    {
+     "name": "M Wai Siu",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 8,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "P Maya",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 5.25,
+     "dots": 12,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "T Putthawong",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 4.25,
+     "dots": 14,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "S Chaturongrattana",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 2,
+     "economy": 2.75,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Laomi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 4.75,
+     "dots": 9,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "O Kamchomphu",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 2,
+     "economy": 2.75,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 20,
+     "wickets": 1,
+     "run_rate": 3.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 35,
+     "wickets": 2,
+     "run_rate": 3.89
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 26,
+     "wickets": 4,
+     "run_rate": 5.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 19,
+     "player": "NT Miles",
+     "over": "5.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 36,
+     "player": "Shanzeen Shahzad",
+     "over": "10.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 43,
+     "player": "KY Chan",
+     "over": "12.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 56,
+     "player": "M Bibi",
+     "over": "15.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 59,
+     "player": "SYD Chan",
+     "over": "15.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 59,
+     "player": "WK Lai",
+     "over": "16.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 62,
+     "player": "A Cheung",
+     "over": "17.2",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 19,
+     "balls": 34,
+     "batters": [
+      "NT Miles",
+      "Shanzeen Shahzad"
+     ],
+     "contributions": {
+      "NT Miles": 5,
+      "Shanzeen Shahzad": 14
+     },
+     "ended_by": "NT Miles (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 17,
+     "balls": 29,
+     "batters": [
+      "SYD Chan",
+      "Shanzeen Shahzad"
+     ],
+     "contributions": {
+      "SYD Chan": 7,
+      "Shanzeen Shahzad": 7
+     },
+     "ended_by": "Shanzeen Shahzad (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 11,
+     "batters": [
+      "KY Chan",
+      "SYD Chan"
+     ],
+     "contributions": {
+      "KY Chan": 3,
+      "SYD Chan": 3
+     },
+     "ended_by": "KY Chan (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 19,
+     "batters": [
+      "M Bibi",
+      "SYD Chan"
+     ],
+     "contributions": {
+      "M Bibi": 8,
+      "SYD Chan": 5
+     },
+     "ended_by": "M Bibi (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 3,
+     "batters": [
+      "A Cheung",
+      "SYD Chan"
+     ],
+     "contributions": {
+      "A Cheung": 3,
+      "SYD Chan": 0
+     },
+     "ended_by": "SYD Chan (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "A Cheung",
+      "WK Lai"
+     ],
+     "contributions": {
+      "A Cheung": 0,
+      "WK Lai": 0
+     },
+     "ended_by": "WK Lai (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 3,
+     "balls": 7,
+     "batters": [
+      "Hiu Ying Cheung",
+      "A Cheung"
+     ],
+     "contributions": {
+      "Hiu Ying Cheung": 1,
+      "A Cheung": 1
+     },
+     "ended_by": "A Cheung (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 19,
+     "balls": 16,
+     "batters": [
+      "M Wai Siu",
+      "Hiu Ying Cheung"
+     ],
+     "contributions": {
+      "M Wai Siu": 6,
+      "Hiu Ying Cheung": 10
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Laomi",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "S Chaturongrattana",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Maya",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "N Chantam",
+    "runs": 98,
+    "balls": 65,
+    "strike_rate": 150.8
+   },
+   {
+    "name": "N Koncharoenkai",
+    "runs": 51,
+    "balls": 55,
+    "strike_rate": 92.7
+   },
+   {
+    "name": "Shanzeen Shahzad",
+    "runs": 21,
+    "balls": 37,
+    "strike_rate": 56.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "S Chaturongrattana",
+    "figures": "2/11",
+    "overs": "4.0",
+    "economy": 2.75
+   },
+   {
+    "name": "O Kamchomphu",
+    "figures": "2/11",
+    "overs": "4.0",
+    "economy": 2.75
+   },
+   {
+    "name": "T Putthawong",
+    "figures": "1/17",
+    "overs": "4.0",
+    "economy": 4.25
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "big_over",
+   "over": 12,
+   "detail": "Over 12 (Chan Sau Har) went for 22 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Hong Kong",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 20 scored, needed 151 from 14 overs (RRR 10.79)"
+  },
+  {
+   "innings": 2,
+   "team": "Hong Kong",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 34 scored, needed 137 from 10 overs (RRR 13.7)"
+  },
+  {
+   "innings": 2,
+   "team": "Hong Kong",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 55 scored, needed 116 from 5 overs (RRR 23.2)"
+  },
+  {
+   "innings": 2,
+   "team": "Hong Kong",
+   "type": "wicket_burst",
+   "over": 16,
+   "detail": "2 wickets fell in over 16 (bowled by O Kamchomphu, 2 credited to O Kamchomphu)"
+  }
+ ],
+ "checks": []
+}

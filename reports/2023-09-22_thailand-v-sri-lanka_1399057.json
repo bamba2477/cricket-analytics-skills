@@ -1,0 +1,863 @@
+{
+ "match": {
+  "teams": [
+   "Thailand",
+   "Sri Lanka"
+  ],
+  "dates": [
+   "2023-09-22"
+  ],
+  "venue": "Zhejiang University of Technology Cricket Field",
+  "city": "Hangzhou",
+  "event": "Asian Games Women's Cricket Competition",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Sri Lanka"
+  },
+  "player_of_match": [],
+  "result": "Sri Lanka won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Thailand",
+   "batting_team": "Thailand",
+   "bowling_team": "Sri Lanka",
+   "super_over": false,
+   "total": 78,
+   "wickets": 7,
+   "overs": "15.0",
+   "run_rate": 5.2,
+   "target": null,
+   "extras": {
+    "wides": 8,
+    "legbyes": 1,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "S Khiaoto",
+     "dismissal": "c & b SIP Fernando",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "N Koncharoenkai",
+     "dismissal": "c KDU Prabodhani b SIP Fernando",
+     "runs": 8,
+     "balls": 10,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "N Chantam",
+     "dismissal": "c AC Jayangani b SIP Fernando",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Chaiwai",
+     "dismissal": "c & b SIP Fernando",
+     "runs": 7,
+     "balls": 8,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 87.5
+    },
+    {
+     "name": "R Kanoh",
+     "dismissal": "c & b BMSM Kumari",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Boochatham",
+     "dismissal": "c WK Dilhari b AC Jayangani",
+     "runs": 9,
+     "balls": 12,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "C Sutthiruang",
+     "dismissal": "not out",
+     "runs": 31,
+     "balls": 24,
+     "dots": 7,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 129.2
+    },
+    {
+     "name": "P Maya",
+     "dismissal": "c MAA Sanjeewani b WK Dilhari",
+     "runs": 8,
+     "balls": 19,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 42.1
+    },
+    {
+     "name": "S Tippoch",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 60.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KDU Prabodhani",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "SIP Fernando",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 4,
+     "economy": 3.33,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "BMSM Kumari",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 4.33,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AC Jayangani",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 5.5,
+     "dots": 6,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "I Ranaweera",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "WK Dilhari",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 27,
+     "wickets": 5,
+     "run_rate": 4.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 51,
+     "wickets": 2,
+     "run_rate": 5.67
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 3,
+     "player": "S Khiaoto",
+     "over": "1.3",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 3,
+     "player": "N Chantam",
+     "over": "1.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 15,
+     "player": "N Koncharoenkai",
+     "over": "3.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 17,
+     "player": "R Kanoh",
+     "over": "4.3",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 27,
+     "player": "N Chaiwai",
+     "over": "5.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 37,
+     "player": "N Boochatham",
+     "over": "7.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 66,
+     "player": "P Maya",
+     "over": "13.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 3,
+     "balls": 9,
+     "batters": [
+      "S Khiaoto",
+      "N Koncharoenkai"
+     ],
+     "contributions": {
+      "S Khiaoto": 1,
+      "N Koncharoenkai": 2
+     },
+     "ended_by": "S Khiaoto (caught and bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "N Chantam",
+      "N Koncharoenkai"
+     ],
+     "contributions": {
+      "N Chantam": 0,
+      "N Koncharoenkai": 0
+     },
+     "ended_by": "N Chantam (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 12,
+     "balls": 10,
+     "batters": [
+      "N Koncharoenkai",
+      "N Chaiwai"
+     ],
+     "contributions": {
+      "N Koncharoenkai": 6,
+      "N Chaiwai": 5
+     },
+     "ended_by": "N Koncharoenkai (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "R Kanoh",
+      "N Chaiwai"
+     ],
+     "contributions": {
+      "R Kanoh": 0,
+      "N Chaiwai": 1
+     },
+     "ended_by": "R Kanoh (caught and bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 10,
+     "balls": 8,
+     "batters": [
+      "N Boochatham",
+      "N Chaiwai"
+     ],
+     "contributions": {
+      "N Boochatham": 6,
+      "N Chaiwai": 1
+     },
+     "ended_by": "N Chaiwai (caught and bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 10,
+     "balls": 11,
+     "batters": [
+      "C Sutthiruang",
+      "N Boochatham"
+     ],
+     "contributions": {
+      "C Sutthiruang": 2,
+      "N Boochatham": 3
+     },
+     "ended_by": "N Boochatham (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 29,
+     "balls": 34,
+     "batters": [
+      "P Maya",
+      "C Sutthiruang"
+     ],
+     "contributions": {
+      "P Maya": 8,
+      "C Sutthiruang": 20
+     },
+     "ended_by": "P Maya (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 12,
+     "balls": 10,
+     "batters": [
+      "S Tippoch",
+      "C Sutthiruang"
+     ],
+     "contributions": {
+      "S Tippoch": 3,
+      "C Sutthiruang": 9
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KDU Prabodhani",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "SIP Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KDU Prabodhani",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SIP Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BMSM Kumari",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SIP Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BMSM Kumari",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AC Jayangani",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ranaweera",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WK Dilhari",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ranaweera",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AC Jayangani",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Ranaweera",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WK Dilhari",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BMSM Kumari",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sri Lanka",
+   "batting_team": "Sri Lanka",
+   "bowling_team": "Thailand",
+   "super_over": false,
+   "total": 84,
+   "wickets": 2,
+   "overs": "10.5",
+   "run_rate": 7.75,
+   "target": 79,
+   "extras": {
+    "wides": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "AC Jayangani",
+     "dismissal": "c N Chaiwai b T Putthawong",
+     "runs": 27,
+     "balls": 21,
+     "dots": 10,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 128.6
+    },
+    {
+     "name": "MAA Sanjeewani",
+     "dismissal": "c S Tippoch b T Putthawong",
+     "runs": 32,
+     "balls": 23,
+     "dots": 8,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 139.1
+    },
+    {
+     "name": "H Madavi",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 13,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 107.7
+    },
+    {
+     "name": "RMVD Gunaratne",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 8,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "N Boochatham",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 6.5,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "C Sutthiruang",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "T Putthawong",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 2,
+     "economy": 7.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "O Kamchomphu",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 5.67,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Tippoch",
+     "overs": "0.5",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 13.2,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 50,
+     "wickets": 0,
+     "run_rate": 8.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "4.5",
+     "runs": 34,
+     "wickets": 2,
+     "run_rate": 7.03
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 54,
+     "player": "AC Jayangani",
+     "over": "6.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 65,
+     "player": "MAA Sanjeewani",
+     "over": "8.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 54,
+     "balls": 38,
+     "batters": [
+      "AC Jayangani",
+      "MAA Sanjeewani"
+     ],
+     "contributions": {
+      "AC Jayangani": 27,
+      "MAA Sanjeewani": 24
+     },
+     "ended_by": "AC Jayangani (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 11,
+     "balls": 11,
+     "batters": [
+      "H Madavi",
+      "MAA Sanjeewani"
+     ],
+     "contributions": {
+      "H Madavi": 3,
+      "MAA Sanjeewani": 8
+     },
+     "ended_by": "MAA Sanjeewani (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 16,
+     "batters": [
+      "RMVD Gunaratne",
+      "H Madavi"
+     ],
+     "contributions": {
+      "RMVD Gunaratne": 8,
+      "H Madavi": 11
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Boochatham",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Sutthiruang",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Boochatham",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Sutthiruang",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Putthawong",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Kamchomphu",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Tippoch",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "MAA Sanjeewani",
+    "runs": 32,
+    "balls": 23,
+    "strike_rate": 139.1
+   },
+   {
+    "name": "C Sutthiruang",
+    "runs": 31,
+    "balls": 24,
+    "strike_rate": 129.2
+   },
+   {
+    "name": "AC Jayangani",
+    "runs": 27,
+    "balls": 21,
+    "strike_rate": 128.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "SIP Fernando",
+    "figures": "4/10",
+    "overs": "3.0",
+    "economy": 3.33
+   },
+   {
+    "name": "T Putthawong",
+    "figures": "2/21",
+    "overs": "3.0",
+    "economy": 7.0
+   },
+   {
+    "name": "AC Jayangani",
+    "figures": "1/11",
+    "overs": "2.0",
+    "economy": 5.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "wicket_burst",
+   "over": 2,
+   "detail": "2 wickets fell in over 2 (bowled by SIP Fernando, 2 credited to SIP Fernando)"
+  },
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "collapse",
+   "over": 4,
+   "detail": "3 wickets fell between overs 4 and 6"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 50 scored, needed 29 from 9 overs (RRR 3.22)"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 73 scored, needed 6 from 5 overs (RRR 1.2)"
+  }
+ ],
+ "checks": []
+}

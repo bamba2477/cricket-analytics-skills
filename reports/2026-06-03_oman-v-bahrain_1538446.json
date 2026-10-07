@@ -1,0 +1,1047 @@
+{
+ "match": {
+  "teams": [
+   "Oman",
+   "Bahrain"
+  ],
+  "dates": [
+   "2026-06-03"
+  ],
+  "venue": "Singapore National Cricket Ground",
+  "city": "Singapore",
+  "event": "Asian Games Men's Qualifier",
+  "match_number": 5,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Bahrain"
+  },
+  "player_of_match": [
+   "Mohammed Al Balushi"
+  ],
+  "result": "Oman won by 20 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Oman",
+   "batting_team": "Oman",
+   "bowling_team": "Bahrain",
+   "super_over": false,
+   "total": 184,
+   "wickets": 4,
+   "overs": "20.0",
+   "run_rate": 9.2,
+   "target": null,
+   "extras": {
+    "wides": 8,
+    "legbyes": 8
+   },
+   "batting": [
+    {
+     "name": "Mohammed Al Balushi",
+     "dismissal": "c Muhammad Adil b Sameer Yousuf",
+     "runs": 81,
+     "balls": 51,
+     "dots": 21,
+     "fours": 7,
+     "sixes": 6,
+     "strike_rate": 158.8
+    },
+    {
+     "name": "Shuaib Al Balushi",
+     "dismissal": "c Mohammed Sameer b Muhammad Adil",
+     "runs": 32,
+     "balls": 30,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 106.7
+    },
+    {
+     "name": "Sufyan Mehmood",
+     "dismissal": "not out",
+     "runs": 40,
+     "balls": 27,
+     "dots": 5,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 148.1
+    },
+    {
+     "name": "Zubair Al Balushi",
+     "dismissal": "lbw b Muhammad Adil",
+     "runs": 10,
+     "balls": 6,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 166.7
+    },
+    {
+     "name": "Muzaffar Shiralkar",
+     "dismissal": "lbw b Abid Ullah Shah",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Issa Al Balushi",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 5,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Abid Ullah Shah",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 11.0,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Shujaat Rasool",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 6.5,
+     "dots": 14,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Abdullah Mohd Yousaf",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 7,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Yousif Wali",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sameer Yousuf",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 8.25,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Adil",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 2,
+     "economy": 6.67,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Junaid Aziz",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 13.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 59,
+     "wickets": 0,
+     "run_rate": 9.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 72,
+     "wickets": 2,
+     "run_rate": 8.0
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 53,
+     "wickets": 2,
+     "run_rate": 10.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 101,
+     "player": "Shuaib Al Balushi",
+     "over": "11.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 131,
+     "player": "Mohammed Al Balushi",
+     "over": "14.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 163,
+     "player": "Zubair Al Balushi",
+     "over": "17.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 170,
+     "player": "Muzaffar Shiralkar",
+     "over": "18.5",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 101,
+     "balls": 70,
+     "batters": [
+      "Mohammed Al Balushi",
+      "Shuaib Al Balushi"
+     ],
+     "contributions": {
+      "Mohammed Al Balushi": 58,
+      "Shuaib Al Balushi": 32
+     },
+     "ended_by": "Shuaib Al Balushi (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 30,
+     "balls": 20,
+     "batters": [
+      "Sufyan Mehmood",
+      "Mohammed Al Balushi"
+     ],
+     "contributions": {
+      "Sufyan Mehmood": 7,
+      "Mohammed Al Balushi": 23
+     },
+     "ended_by": "Mohammed Al Balushi (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 32,
+     "balls": 18,
+     "batters": [
+      "Sufyan Mehmood",
+      "Zubair Al Balushi"
+     ],
+     "contributions": {
+      "Sufyan Mehmood": 21,
+      "Zubair Al Balushi": 10
+     },
+     "ended_by": "Zubair Al Balushi (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 7,
+     "balls": 5,
+     "batters": [
+      "Sufyan Mehmood",
+      "Muzaffar Shiralkar"
+     ],
+     "contributions": {
+      "Sufyan Mehmood": 7,
+      "Muzaffar Shiralkar": 0
+     },
+     "ended_by": "Muzaffar Shiralkar (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 7,
+     "batters": [
+      "Issa Al Balushi",
+      "Sufyan Mehmood"
+     ],
+     "contributions": {
+      "Issa Al Balushi": 5,
+      "Sufyan Mehmood": 5
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abid Ullah Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shujaat Rasool",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abid Ullah Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shujaat Rasool",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mohd Yousaf",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shujaat Rasool",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mohd Yousaf",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yousif Wali",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Yousuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yousif Wali",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Yousuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Adil",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Yousuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Adil",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 20,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sameer Yousuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Junaid Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mohd Yousaf",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Adil",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abid Ullah Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shujaat Rasool",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Bahrain",
+   "batting_team": "Bahrain",
+   "bowling_team": "Oman",
+   "super_over": false,
+   "total": 164,
+   "wickets": 5,
+   "overs": "20.0",
+   "run_rate": 8.2,
+   "target": 185,
+   "extras": {
+    "wides": 6,
+    "legbyes": 2,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "Numan Yousuf",
+     "dismissal": "c Mohammed Al Balushi b Shuaib Al Balushi",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Abdulla Pervaiz",
+     "dismissal": "c Rashad Al Balushi b Sameer Othman",
+     "runs": 27,
+     "balls": 24,
+     "dots": 14,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 112.5
+    },
+    {
+     "name": "Junaid Aziz",
+     "dismissal": "c Muzaffar Shiralkar b Sufyan Mehmood",
+     "runs": 46,
+     "balls": 36,
+     "dots": 12,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 127.8
+    },
+    {
+     "name": "Mohammed Sameer",
+     "dismissal": "c Nawed Al Balushi b Sameer Othman",
+     "runs": 43,
+     "balls": 24,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 3,
+     "strike_rate": 179.2
+    },
+    {
+     "name": "Shujaat Rasool",
+     "dismissal": "not out",
+     "runs": 24,
+     "balls": 17,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 141.2
+    },
+    {
+     "name": "Abid Ullah Shah",
+     "dismissal": "c & b Nawed Al Balushi",
+     "runs": 2,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Abdullah Mohd Yousaf",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 9,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 111.1
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shuaib Al Balushi",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Zubair Al Balushi",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 4.33,
+     "dots": 13,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Mohammed Al Balushi",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 16.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nawed Al Balushi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 1,
+     "economy": 8.75,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sameer Othman",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 2,
+     "economy": 8.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Wasim Al Balushi",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sufyan Mehmood",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 1,
+     "economy": 6.75,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 45,
+     "wickets": 1,
+     "run_rate": 7.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 85,
+     "wickets": 2,
+     "run_rate": 9.44
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 34,
+     "wickets": 2,
+     "run_rate": 6.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "Numan Yousuf",
+     "over": "0.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 50,
+     "player": "Abdulla Pervaiz",
+     "over": "7.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 115,
+     "player": "Mohammed Sameer",
+     "over": "13.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 132,
+     "player": "Junaid Aziz",
+     "over": "15.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 134,
+     "player": "Abid Ullah Shah",
+     "over": "16.2",
+     "kind": "caught and bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "Numan Yousuf",
+      "Abdulla Pervaiz"
+     ],
+     "contributions": {
+      "Numan Yousuf": 0,
+      "Abdulla Pervaiz": 0
+     },
+     "ended_by": "Numan Yousuf (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 50,
+     "balls": 40,
+     "batters": [
+      "Junaid Aziz",
+      "Abdulla Pervaiz"
+     ],
+     "contributions": {
+      "Junaid Aziz": 19,
+      "Abdulla Pervaiz": 27
+     },
+     "ended_by": "Abdulla Pervaiz (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 65,
+     "balls": 39,
+     "batters": [
+      "Mohammed Sameer",
+      "Junaid Aziz"
+     ],
+     "contributions": {
+      "Mohammed Sameer": 43,
+      "Junaid Aziz": 20
+     },
+     "ended_by": "Mohammed Sameer (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 17,
+     "balls": 9,
+     "batters": [
+      "Junaid Aziz",
+      "Shujaat Rasool"
+     ],
+     "contributions": {
+      "Junaid Aziz": 7,
+      "Shujaat Rasool": 10
+     },
+     "ended_by": "Junaid Aziz (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "Abid Ullah Shah",
+      "Shujaat Rasool"
+     ],
+     "contributions": {
+      "Abid Ullah Shah": 2,
+      "Shujaat Rasool": 0
+     },
+     "ended_by": "Abid Ullah Shah (caught and bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 30,
+     "balls": 22,
+     "batters": [
+      "Abdullah Mohd Yousaf",
+      "Shujaat Rasool"
+     ],
+     "contributions": {
+      "Abdullah Mohd Yousaf": 10,
+      "Shujaat Rasool": 14
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shuaib Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zubair Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shuaib Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zubair Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohammed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zubair Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wasim Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sameer Othman",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nawed Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Wasim Al Balushi",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufyan Mehmood",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Mohammed Al Balushi",
+    "runs": 81,
+    "balls": 51,
+    "strike_rate": 158.8
+   },
+   {
+    "name": "Junaid Aziz",
+    "runs": 46,
+    "balls": 36,
+    "strike_rate": 127.8
+   },
+   {
+    "name": "Mohammed Sameer",
+    "runs": 43,
+    "balls": 24,
+    "strike_rate": 179.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Muhammad Adil",
+    "figures": "2/20",
+    "overs": "3.0",
+    "economy": 6.67
+   },
+   {
+    "name": "Sameer Othman",
+    "figures": "2/34",
+    "overs": "4.0",
+    "economy": 8.5
+   },
+   {
+    "name": "Shuaib Al Balushi",
+    "figures": "1/16",
+    "overs": "2.0",
+    "economy": 8.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (Abid Ullah Shah) went for 20 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (Sameer Yousuf) went for 20 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Bahrain",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (Shuaib Al Balushi) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Bahrain",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 45 scored, needed 140 from 14 overs (RRR 10.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Bahrain",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 69 scored, needed 116 from 10 overs (RRR 11.6)"
+  },
+  {
+   "innings": 2,
+   "team": "Bahrain",
+   "type": "big_over",
+   "over": 14,
+   "detail": "Over 14 (Sameer Othman) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Bahrain",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 130 scored, needed 55 from 5 overs (RRR 11.0)"
+  }
+ ],
+ "checks": []
+}

@@ -4,6 +4,17 @@
 **Result:** Tie  
 **Toss:** Colombo Cricket Club chose to field  
 
+<!-- narrative -->
+**Tamil Union clinches victory in the super‑over as PTM Dabare’s six decides the tie**  
+
+Tamil Union set a formidable total of 193/6, cruising through the powerplay with 69/2 at a run rate of 11.5. The middle overs slowed to 59/3 as wickets fell at 48‑1, 53‑2 and 69‑3, but a late surge in the death overs added 65/1 at a run rate of 13.0, highlighted by a 59‑run partnership between S Jayathilake and S Shanmuganathan and a 48‑run stand between PTM Dabare and Sineth Jayawardena. The early on‑field pressure from Colombo’s bowlers was evident when Over 2 (SMLD Samarakoon) went for 21 runs, Over 3 (A Daniel) for 16 runs and Over 6 (ND Paranavithana) for 18 runs, leaving Tamil Union at 70 after 6 overs, 114 after 10 overs and 150 after 15 overs.  
+
+Chasing 194, Colombo matched the target with a steady flow of runs: 70/1 in the powerplay at a run rate of 11.67, 80/3 by the end of the middle overs at 8.89, and a final push of 43/2 in the death overs at 8.6. KNM Fernando anchored the innings with an unbeaten 109, supported by a 64‑run partnership with D Sigera. Colombo’s bowlers also felt the heat, conceding 17 runs in Over 19 (D Ranatunga) and 21 runs in Over 2 (SMLD Samarakoon), yet managed to keep the run rate in check throughout.  
+
+The match went to a super‑over, where Colombo lost both openers—KNM Fernando and D Sigera—caught and bowled by B Fernando for a combined 0. In contrast, Tamil Union’s PTM Dabare struck a six off four balls, taking the super‑over to 6/1 and securing the win.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Tamil Union Cricket and Athletic Club**: 193/6 in 20.0 overs (RR 9.65)
 - **Colombo Cricket Club**: 193/6 in 20.0 overs (RR 9.65, chasing 194)

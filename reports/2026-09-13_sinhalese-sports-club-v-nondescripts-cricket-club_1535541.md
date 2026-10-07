@@ -4,6 +4,17 @@
 **Result:** Sinhalese Sports Club won by 46 runs  
 **Toss:** Nondescripts Cricket Club chose to field  
 
+<!-- narrative -->
+**Sinhalese Sports Club win by 46 runs, powered by twin 50‑run knocks**  
+
+Sinhalese Sports Club posted 191/4 in 20.0 overs, cruising through the Powerplay with 59/1 (RR 9.83) and adding 87/1 by the end of the middle overs (RR 9.67). A 64‑run partnership off 39 balls between MNK Fernando (50 off 30) and BKG Mendis (50 off 35) pushed the total past 150, and a further 57‑run stand off 34 balls from Vishad Randika (35 off 27) and WIA Fernando (36 off 17) set a solid platform. The innings lost wickets at 57‑1, 86‑2, 150‑3 and 188‑4, but the run‑rate of 9.55 held steady to the death overs (45/2, RR 9.0).
+
+Nondescripts Cricket Club began their chase at 56/2 after 6 overs (RR 9.33) but the middle phase stalled at 68/4 by 15 overs (RR 7.56). Turning points came when Over 12 (C Gunasekara) went for 15 runs and Over 15 (K Pathiratne) went for 21 runs, yet the breakthrough came with two wickets in Over 15 credited to K Nadeeshan and another two in Over 16 to Malsha Fernando. After 15 overs the score was 124, needing 73 from 5 overs (RRR 14.6), but the death overs yielded only 26/3 (RR 6.5), leaving them 150/9 in 19.0 overs, 46 runs short of the target.
+
+The decisive edge lay in SSC’s twin half‑centuries and the disciplined bowling spell of Malsha Fernando (3/22, econ 5.5) and K Nadeeshan (3/25, econ 6.25), which curbed the run‑rate when it mattered most and secured the 46‑run victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Sinhalese Sports Club**: 191/4 in 20.0 overs (RR 9.55)
 - **Nondescripts Cricket Club**: 150/9 in 19.0 overs (RR 7.89, chasing 197)

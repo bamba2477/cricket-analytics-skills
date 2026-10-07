@@ -5,6 +5,17 @@
 **Toss:** Sierra Leone chose to bat  
 **Player of the match:** Olipa Gerald  
 
+<!-- narrative -->
+**Uganda chase down 56 with Olipa Gerald’s 21 off 9 and a 3/1 spell to win by 8 wickets**  
+
+Sierra Leone’s innings stalled early as E Kasaija took two wickets in over 4 and K Waiswa added two more in over 8, leaving the score at 18/2 after the Powerplay. The middle overs added only 33 runs for six wickets, with a further two wickets falling in over 9 by J Baguma, and the Death overs produced just four runs for two wickets. Olipa Gerald’s tight spell of 3/1 in 2.4 overs (economy 0.38) could not prevent Sierra Leone from being bowled out for 55/10 in 17.4 overs at a run rate of 3.11.  
+
+Uganda’s chase began explosively, reaching 49/2 in the Powerplay (overs 1‑6) at a run rate of 8.17. After 6 overs the turning point note read “49 scored, needed 7 from 14 overs (RRR 0.5)”. Olipa Gerald, promoted to the crease, smashed 21 runs from 9 balls while R Obuya contributed 20 from 22, their 35‑run partnership coming off 23 balls. Uganda passed the target of 56 in just 7.0 overs, finishing on 56/2 with a run rate of 8.0.  
+
+The decisive bowling burst and rapid batting from Olipa Gerald earned him Player of the Match as Uganda secured an 8‑wicket victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Sierra Leone**: 55/10 in 17.4 overs (RR 3.11)
 - **Uganda**: 56/2 in 7.0 overs (RR 8.0, chasing 56)
