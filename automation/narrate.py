@@ -44,6 +44,9 @@ from pathlib import Path
 
 MARKER = "<!-- narrative -->"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+# Name the client explicitly: Cloudflare (in front of Groq) rejects urllib's
+# default "Python-urllib/x.y" signature with error 1010.
+USER_AGENT = "cricket-analytics-skills/0.3 (+https://github.com/bamba2477/cricket-analytics-skills)"
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 
 SYSTEM = """You write short, vivid cricket match reports from computed statistics.
@@ -141,7 +144,8 @@ def _post(url: str, body: dict, headers: dict) -> dict:
     hops = []
     for _ in range(5):
         req = urllib.request.Request(url, data=data, method="POST",
-                                     headers={"Content-Type": "application/json", **headers})
+                                     headers={"Content-Type": "application/json",
+                                              "User-Agent": USER_AGENT, **headers})
         try:
             with _OPENER.open(req, timeout=120) as resp:
                 raw = resp.read()
