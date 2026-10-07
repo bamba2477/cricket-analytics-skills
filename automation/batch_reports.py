@@ -7,6 +7,7 @@ GitHub Actions workflow, and handy locally:
 
   python automation/batch_reports.py data/ -o reports/
   python automation/batch_reports.py data/ -o reports/ --since 2026-09-01 --match-type T20
+  python automation/batch_reports.py data/ -o reports/ --event "Asian Games"
 
 Writes one markdown report per match plus reports/index.md, newest first.
 Matches whose report already exists are skipped, so reruns are cheap.
@@ -35,6 +36,7 @@ def main(argv=None) -> int:
     ap.add_argument("-o", "--out", type=Path, default=Path("reports"))
     ap.add_argument("--since", help="only matches starting on/after YYYY-MM-DD")
     ap.add_argument("--match-type", help="only this match_type (T20, ODI, Test, ...)")
+    ap.add_argument("--event", help='only matches whose event name contains this, e.g. "Asian Games"')
     ap.add_argument("--force", action="store_true", help="regenerate existing reports")
     args = ap.parse_args(argv)
 
@@ -50,6 +52,10 @@ def main(argv=None) -> int:
         if args.since and date < args.since:
             continue
         if args.match_type and info.get("match_type") != args.match_type:
+            continue
+        ev = info.get("event")
+        ev_name = ev.get("name", "") if isinstance(ev, dict) else str(ev or "")
+        if args.event and args.event.lower() not in ev_name.lower():
             continue
         name = f"{date}_{slug(' v '.join(info.get('teams', [f.stem])))}_{f.stem}"
         md_path = args.out / f"{name}.md"

@@ -46,6 +46,9 @@ python plugins/cricket-analytics/skills/cricket-match-report/scripts/fetch_crics
 # One match
 python plugins/cricket-analytics/skills/cricket-match-report/scripts/match_report.py data/1234567.json
 
+# One tournament from an international archive
+python plugins/cricket-analytics/skills/cricket-match-report/scripts/fetch_cricsheet.py t20s --event "Asian Games" -o data/asian-games
+
 # A whole folder, with an index
 python automation/batch_reports.py data/ -o reports/ --match-type T20
 ```
@@ -62,7 +65,9 @@ python automation/batch_reports.py data/ -o reports/ --match-type T20
 
    Without a key, the workflow still produces full stats reports.
 3. Run it now from the **Actions** tab → *Weekly match reports* → *Run workflow*.
-   You can pick any Cricsheet dataset (e.g. `ipl`, `t20s`) and format.
+   You can pick any Cricsheet dataset (e.g. `ipl`, `t20s`) and format. For an
+   international tournament, pick the format's dataset and fill in **Event**:
+   dataset `t20s`, event `Asian Games`.
 
 ## How accuracy is enforced
 

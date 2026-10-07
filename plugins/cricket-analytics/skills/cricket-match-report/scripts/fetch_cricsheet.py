@@ -10,6 +10,11 @@ Usage:
   python fetch_cricsheet.py recently_added_7 -o data/   # last 7 days, all formats
   python fetch_cricsheet.py ipl -o data/ipl
   python fetch_cricsheet.py t20s --since 2026-01-01 -o data/t20i
+  python fetch_cricsheet.py t20s --event "Asian Games" -o data/asian-games
+
+There's no download per tournament for international events such as the
+Asian Games or a World Cup; download the format's archive and use --event,
+which keeps matches whose event name contains that text (any case).
 
 Datasets are zip archives named <dataset>_json.zip on Cricsheet's downloads
 page; any name listed there works, not only the ones below.
@@ -30,14 +35,23 @@ KNOWN = {
     "recently_added_7": "Matches added in the last 7 days (all formats)",
     "recently_added_30": "Matches added in the last 30 days (all formats)",
     "ipl": "Indian Premier League",
-    "t20s": "Men's T20 internationals",
-    "odis": "Men's ODIs",
-    "tests": "Men's Tests",
+    "t20s": "T20 internationals, men's and women's",
+    "t20s_male": "Men's T20 internationals",
+    "t20s_female": "Women's T20 internationals",
+    "odis": "One-day internationals",
+    "tests": "Test matches",
     "wpl": "Women's Premier League",
+    "all": "Every match on Cricsheet (large download)",
 }
 
 
-def fetch(name: str, out_dir: Path, since: str | None, match_type: str | None) -> int:
+def event_name(info: dict) -> str:
+    ev = info.get("event")
+    return (ev.get("name", "") if isinstance(ev, dict) else str(ev or ""))
+
+
+def fetch(name: str, out_dir: Path, since: str | None, match_type: str | None,
+          event: str | None = None) -> int:
     url = BASE.format(name=name)
     print(f"Downloading {url} ...", file=sys.stderr)
     req = urllib.request.Request(url, headers={"User-Agent": "cricket-analytics-skills/0.1"})
@@ -64,7 +78,7 @@ def fetch(name: str, out_dir: Path, since: str | None, match_type: str | None) -
             if not member.endswith(".json") or "/" in member or "\\" in member:
                 continue
             raw = zf.read(member)
-            if since or match_type:
+            if since or match_type or event:
                 try:
                     info = json.loads(raw).get("info", {})
                 except json.JSONDecodeError:
@@ -73,6 +87,8 @@ def fetch(name: str, out_dir: Path, since: str | None, match_type: str | None) -
                 if since and first_date < since:
                     continue
                 if match_type and info.get("match_type") != match_type:
+                    continue
+                if event and event.lower() not in event_name(info).lower():
                     continue
             (out_dir / member).write_bytes(raw)
             kept += 1
@@ -86,6 +102,7 @@ def main(argv=None) -> int:
     ap.add_argument("-o", "--out", type=Path, default=Path("data"))
     ap.add_argument("--since", help="keep matches starting on/after YYYY-MM-DD")
     ap.add_argument("--match-type", help="keep only this match_type, e.g. T20, ODI, Test")
+    ap.add_argument("--event", help='keep matches whose event name contains this, e.g. "Asian Games"')
     ap.add_argument("--list", action="store_true", help="list common dataset names")
     args = ap.parse_args(argv)
 
@@ -95,7 +112,7 @@ def main(argv=None) -> int:
         print("\nFull list: https://cricsheet.org/downloads/")
         return 0
     try:
-        fetch(args.dataset, args.out, args.since, args.match_type)
+        fetch(args.dataset, args.out, args.since, args.match_type, args.event)
     except Exception as e:  # network errors, 404 for unknown dataset names, bad zips
         print(f"Download failed: {e}", file=sys.stderr)
         return 1

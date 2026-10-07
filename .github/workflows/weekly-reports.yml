@@ -14,10 +14,13 @@ on:
   workflow_dispatch:
     inputs:
       dataset:
-        description: "Cricsheet dataset (e.g. recently_added_7, ipl, t20s)"
+        description: "Cricsheet dataset (e.g. recently_added_7, ipl, t20s, odis)"
         default: "recently_added_7"
       match_type:
         description: "Only this format (T20, ODI, Test); blank for all"
+        default: ""
+      event:
+        description: "Only events whose name contains this, e.g. Asian Games (use with t20s); blank for all"
         default: ""
 
 permissions:
@@ -38,15 +41,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Inputs go through env vars, never pasted into the script, so any text is safe.
       - name: Download matches
+        env:
+          DATASET: ${{ github.event.inputs.dataset || 'recently_added_7' }}
+          EVENT: ${{ github.event.inputs.event }}
         run: |
           python plugins/cricket-analytics/skills/cricket-match-report/scripts/fetch_cricsheet.py \
-            "${{ github.event.inputs.dataset || 'recently_added_7' }}" -o data/
+            "$DATASET" -o data/ ${EVENT:+--event "$EVENT"}
 
       - name: Generate reports
+        env:
+          MT: ${{ github.event.inputs.match_type }}
+          EVENT: ${{ github.event.inputs.event }}
         run: |
-          MT="${{ github.event.inputs.match_type }}"
-          python automation/batch_reports.py data/ -o reports/ ${MT:+--match-type "$MT"}
+          python automation/batch_reports.py data/ -o reports/ \
+            ${MT:+--match-type "$MT"} ${EVENT:+--event "$EVENT"}
 
       - name: Write match stories
         continue-on-error: true   # stories are optional; never block the reports
