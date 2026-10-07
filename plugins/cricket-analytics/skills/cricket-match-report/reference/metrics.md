@@ -24,8 +24,9 @@ conventions so the output matches official scorecards.
 - **Wickets**: all dismissals except run out, retired (hurt / out / not out),
   obstructing the field, handled the ball and timed out.
 - **Economy**: 6 × runs conceded ÷ legal balls.
-- **Dots**: legal balls from which the batting side scored nothing at all
-  (byes and leg-byes are not dots).
+- **Dots**: legal balls on which the bowler conceded nothing. Byes and
+  leg-byes count as dots, because they aren't charged to the bowler (this
+  matches official IPL and ICC scorecards).
 - **Maidens**: a completed six-ball over in which the bowler conceded nothing.
 
 ## Team and innings
@@ -42,6 +43,10 @@ conventions so the output matches official scorecards.
 Phase run rates use legal balls actually bowled, so a chase that finishes in
 the 18th over isn't penalised for overs that never happened. Tests have no
 phases.
+
+## Fall of wickets
+Shown in ball notation, as on official scorecards: a wicket on the last ball
+of the 8th over is `7.6`, not `8.0`.
 
 ## Partnerships
 Runs (including extras) and legal balls from one wicket to the next. The final

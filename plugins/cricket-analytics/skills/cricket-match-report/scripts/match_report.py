@@ -136,6 +136,15 @@ def _bowl(inn: Innings, name: str) -> BowlerLine:
     return inn.bowling[name]
 
 
+def ball_label(legal_balls: int, legal: bool) -> str:
+    """Scorecard notation for the delivery just bowled: the 6th ball of the 8th
+    over is 7.6 (not 8.0). Wides/no-balls show the legal balls bowled so far."""
+    if legal and legal_balls > 0:
+        n = legal_balls - 1
+        return f"{n // 6}.{n % 6 + 1}"
+    return f"{legal_balls // 6}.{legal_balls % 6}"
+
+
 def _describe_dismissal(w: dict, bowler: str) -> str:
     kind = w.get("kind", "out")
     fielders = [f.get("name", "sub") for f in w.get("fielders", []) if isinstance(f, dict)]
@@ -225,7 +234,7 @@ def parse_innings(raw: dict, number: int) -> Innings:
                 bw.legal_balls += 1
                 over_legal += 1
                 inn.legal_balls += 1
-                if r_total == 0:
+                if charged == 0:  # bowler conceded nothing (byes/leg-byes still count as dots)
                     bw.dots += 1
             if is_wide:
                 bw.wides += extras.get("wides", 0)
@@ -262,7 +271,7 @@ def parse_innings(raw: dict, number: int) -> Innings:
                         "wicket": inn.wickets,
                         "score": inn.total,
                         "player": out,
-                        "over": f"{inn.legal_balls // 6}.{inn.legal_balls % 6}",
+                        "over": ball_label(inn.legal_balls, legal),
                         "kind": kind,
                     })
                 close_partnership(f"{out} ({kind})")

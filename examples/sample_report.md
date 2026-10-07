@@ -52,11 +52,11 @@ Extras: 6 (legbyes 2, byes 3, noballs 1)
 
 | Bowler | O | M | R | W | Econ | Dots |
 |---|--:|--:|--:|--:|--:|--:|
-| F Shetty | 4.0 | 0 | 27 | 1 | 6.75 | 11 |
+| F Shetty | 4.0 | 0 | 27 | 1 | 6.75 | 12 |
 | E Bose | 4.0 | 0 | 30 | 2 | 7.5 | 13 |
-| U Dutta | 4.0 | 0 | 31 | 2 | 7.75 | 9 |
-| C Gill | 4.0 | 0 | 38 | 2 | 9.5 | 11 |
-| I Varma | 4.0 | 0 | 31 | 1 | 7.75 | 10 |
+| U Dutta | 4.0 | 0 | 31 | 2 | 7.75 | 10 |
+| C Gill | 4.0 | 0 | 38 | 2 | 9.5 | 12 |
+| I Varma | 4.0 | 0 | 31 | 1 | 7.75 | 11 |
 
 | Phase | Overs | Bowled | Runs | Wkts | Run rate |
 |---|---|--:|--:|--:|--:|
@@ -64,7 +64,7 @@ Extras: 6 (legbyes 2, byes 3, noballs 1)
 | Middle | 7-15 | 9.0 | 62 | 6 | 6.89 |
 | Death | 16-20 | 5.0 | 69 | 1 | 13.8 |
 
-**Fall of wickets:** 8-1 (K Mehta, 1.5), 9-2 (S Iyer, 2.2), 51-3 (A Rao, 8.4), 55-4 (R Bhat, 9.2), 56-5 (P Nair, 9.5), 66-6 (D Joshi, 12.0), 68-7 (V Kulkarni, 12.4), 78-8 (H Sethi, 13.3), 93-9 (M Khan, 15.2)
+**Fall of wickets:** 8-1 (K Mehta, 1.5), 9-2 (S Iyer, 2.2), 51-3 (A Rao, 8.4), 55-4 (R Bhat, 9.2), 56-5 (P Nair, 9.5), 66-6 (D Joshi, 11.6), 68-7 (V Kulkarni, 12.4), 78-8 (H Sethi, 13.3), 93-9 (M Khan, 15.2)
 
 **Best partnership:** 69 off 28 balls (N Desai & T Pillai)
 
@@ -89,8 +89,8 @@ Extras: 10 (wides 2, byes 1, noballs 2, legbyes 5)
 | T Pillai | 4.0 | 0 | 31 | 4 | 7.75 | 13 |
 | N Desai | 4.0 | 0 | 49 | 1 | 12.25 | 8 |
 | H Sethi | 4.0 | 0 | 50 | 1 | 12.5 | 5 |
-| M Khan | 3.3 | 0 | 18 | 2 | 5.14 | 8 |
-| D Joshi | 3.0 | 0 | 9 | 0 | 3.0 | 10 |
+| M Khan | 3.3 | 0 | 18 | 2 | 5.14 | 10 |
+| D Joshi | 3.0 | 0 | 9 | 0 | 3.0 | 12 |
 
 | Phase | Overs | Bowled | Runs | Wkts | Run rate |
 |---|---|--:|--:|--:|--:|

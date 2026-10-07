@@ -51,8 +51,9 @@ class ScoringRules(unittest.TestCase):
         # Bowler charged everything except leg-byes and byes: 16 - 3 = 13
         self.assertEqual(x.runs, 13)
         self.assertEqual(x.overs, "0.5")
-        # Dots: only the legal 0 off the bat with nothing scored (the 6th ball)
-        self.assertEqual(x.dots, 1)
+        # Dots: legal balls where the bowler conceded nothing: the leg-bye,
+        # the bye and the 0 (wide and no-ball aren't legal, so never dots)
+        self.assertEqual(x.dots, 3)
 
     def test_run_out_not_credited_to_bowler(self):
         over = [ball(wicket={"player_out": "B", "kind": "run out",
@@ -77,12 +78,24 @@ class ScoringRules(unittest.TestCase):
         self.assertEqual(inn.bowling["X"].maidens, 1)
         self.assertEqual(inn.bowling["X"].wickets, 1)
 
-    def test_bye_spoils_dot_but_not_maiden(self):
+    def test_bye_is_a_dot_and_keeps_maiden(self):
         over = [ball(extras={"byes": 4})] + [ball() for _ in range(5)]
         inn = parse_innings({"team": "T", "overs": [{"over": 0, "deliveries": over}]}, 1)
         x = inn.bowling["X"]
         self.assertEqual(x.maidens, 1)   # bowler conceded nothing
-        self.assertEqual(x.dots, 5)      # the bye ball scored runs
+        self.assertEqual(x.dots, 6)      # byes aren't charged to the bowler
+
+    def test_fall_of_wicket_ball_notation(self):
+        # Wicket on the last ball of the 2nd over is 1.6, not 2.0
+        o1 = [ball() for _ in range(6)]
+        o2 = [ball() for _ in range(5)] + [ball(wicket={"player_out": "A", "kind": "bowled"})]
+        inn = parse_innings({"team": "T", "overs": [{"over": 0, "deliveries": o1},
+                                                     {"over": 1, "deliveries": o2}]}, 1)
+        self.assertEqual(inn.fall_of_wickets[0]["over"], "1.6")
+        # First ball of the match
+        inn = parse_innings({"team": "T", "overs": [{"over": 0, "deliveries": [
+            ball(wicket={"player_out": "A", "kind": "bowled"})]}]}, 1)
+        self.assertEqual(inn.fall_of_wickets[0]["over"], "0.1")
 
     def test_all_run_four_is_not_a_boundary(self):
         over = [ball(bat=4, non_boundary=True)]
