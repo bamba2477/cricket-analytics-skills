@@ -47,6 +47,10 @@ class ScoringRules(unittest.TestCase):
         # A faced 3 (1, 0, 6) = 7 runs; B faced nb, lb, bye = 3 balls, 4 runs
         self.assertEqual((a.runs, a.balls, a.sixes), (7, 3, 1))
         self.assertEqual((b.runs, b.balls, b.fours), (4, 3, 1))
+        # Batter dots: balls faced with nothing off the bat.
+        # A: the 0 ball. B: the leg-bye and the bye (the no-ball went for 4).
+        self.assertEqual(a.dots, 1)
+        self.assertEqual(b.dots, 2)
         x = inn.bowling["X"]
         # Bowler charged everything except leg-byes and byes: 16 - 3 = 13
         self.assertEqual(x.runs, 13)
@@ -54,6 +58,7 @@ class ScoringRules(unittest.TestCase):
         # Dots: legal balls where the bowler conceded nothing: the leg-bye,
         # the bye and the 0 (wide and no-ball aren't legal, so never dots)
         self.assertEqual(x.dots, 3)
+        self.assertEqual((x.wides, x.noballs), (1, 1))
 
     def test_run_out_not_credited_to_bowler(self):
         over = [ball(wicket={"player_out": "B", "kind": "run out",

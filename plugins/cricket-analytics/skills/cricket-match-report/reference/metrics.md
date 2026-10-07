@@ -15,6 +15,8 @@ conventions so the output matches official scorecards.
 ## Batting
 - **Runs**: runs off the bat only (no extras).
 - **Balls**: every delivery faced except wides.
+- **0s (dot balls)**: balls faced with no runs off the bat (byes, leg-byes and
+  wicket balls included), as shown on iplt20.com batting scorecards.
 - **Strike rate**: 100 × runs ÷ balls.
 - **4s / 6s**: boundaries off the bat; Cricsheet's `non_boundary` flag (all-run
   fours) is excluded.
@@ -24,9 +26,10 @@ conventions so the output matches official scorecards.
 - **Wickets**: all dismissals except run out, retired (hurt / out / not out),
   obstructing the field, handled the ball and timed out.
 - **Economy**: 6 × runs conceded ÷ legal balls.
-- **Dots**: legal balls on which the bowler conceded nothing. Byes and
-  leg-byes count as dots, because they aren't charged to the bowler (this
-  matches official IPL and ICC scorecards).
+- **Dots** (JSON output only): legal balls on which the bowler conceded
+  nothing; byes and leg-byes count, as they aren't charged to the bowler.
+- **WD / NB**: wide and no-ball extras conceded, as shown on official bowling
+  scorecards.
 - **Maidens**: a completed six-ball over in which the bowler conceded nothing.
 
 ## Team and innings

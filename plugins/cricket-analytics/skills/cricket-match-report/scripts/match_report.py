@@ -68,6 +68,7 @@ class BatterLine:
     balls: int = 0
     fours: int = 0
     sixes: int = 0
+    dots: int = 0
     dismissal: str = "not out"
 
     @property
@@ -221,6 +222,8 @@ def parse_innings(raw: dict, number: int) -> Innings:
             b.runs += r_bat
             if not is_wide:
                 b.balls += 1
+                if r_bat == 0:  # faced, no runs off the bat
+                    b.dots += 1
             if r_bat == 4 and not d.get("runs", {}).get("non_boundary"):
                 b.fours += 1
             elif r_bat == 6 and not d.get("runs", {}).get("non_boundary"):
@@ -437,8 +440,8 @@ def build_report(data: dict) -> dict:
             "target": inn.target,
             "extras": dict(inn.extras),
             "batting": [{"name": b.name, "dismissal": b.dismissal, "runs": b.runs,
-                         "balls": b.balls, "fours": b.fours, "sixes": b.sixes,
-                         "strike_rate": b.strike_rate}
+                         "balls": b.balls, "dots": b.dots, "fours": b.fours,
+                         "sixes": b.sixes, "strike_rate": b.strike_rate}
                         for b in inn.batting.values()],
             "bowling": [{"name": b.name, "overs": b.overs, "maidens": b.maidens,
                          "runs": b.runs, "wickets": b.wickets, "economy": b.economy,
@@ -524,19 +527,21 @@ def to_markdown(r: dict) -> str:
     for inn in r["innings"]:
         so = " — super over" if inn["super_over"] else ""
         L.append(f"## {inn['team']} innings{so}: {inn['total']}/{inn['wickets']} ({inn['overs']} ov)")
-        L.append("| Batter | Dismissal | R | B | 4s | 6s | SR |\n|---|---|--:|--:|--:|--:|--:|")
+        L.append("| Batter | Dismissal | R | B | 0s | 4s | 6s | SR |\n"
+                 "|---|---|--:|--:|--:|--:|--:|--:|")
         for b in inn["batting"]:
             if b["balls"] == 0 and b["runs"] == 0 and b["dismissal"] == "not out":
                 continue  # did not face
             L.append(f"| {b['name']} | {b['dismissal']} | {b['runs']} | {b['balls']} | "
-                     f"{b['fours']} | {b['sixes']} | {_fmt(b['strike_rate'])} |")
+                     f"{b['dots']} | {b['fours']} | {b['sixes']} | {_fmt(b['strike_rate'])} |")
         ex = inn["extras"]
         ex_str = ", ".join(f"{k} {v}" for k, v in ex.items()) or "none"
         L.append(f"\nExtras: {sum(ex.values())} ({ex_str})\n")
-        L.append("| Bowler | O | M | R | W | Econ | Dots |\n|---|--:|--:|--:|--:|--:|--:|")
+        L.append("| Bowler | O | M | R | W | Econ | WD | NB |\n"
+                 "|---|--:|--:|--:|--:|--:|--:|--:|")
         for b in inn["bowling"]:
             L.append(f"| {b['name']} | {b['overs']} | {b['maidens']} | {b['runs']} | "
-                     f"{b['wickets']} | {_fmt(b['economy'])} | {b['dots']} |")
+                     f"{b['wickets']} | {_fmt(b['economy'])} | {b['wides']} | {b['noballs']} |")
         L.append("")
         if inn["phases"]:
             L.append("| Phase | Overs | Bowled | Runs | Wkts | Run rate |\n"
