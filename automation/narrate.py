@@ -7,15 +7,17 @@ version of the computed stats to a language model, fact-checks the reply,
 and inserts the story at the top of the matching .md report. Reports that
 already have a story are skipped.
 
-Providers (chosen automatically, or set NARRATOR=github|anthropic):
-  - GitHub Models (free): used when GITHUB_TOKEN is set. Inside GitHub
-    Actions this works with no setup beyond `permissions: models: read`.
-    Locally, use a personal access token with the "Models" read permission.
-    Model: NARRATOR_MODEL (default: openai/gpt-4o-mini, falling back to
-    openai/gpt-4.1-mini if the first doesn't respond).
+Providers (chosen automatically, or set NARRATOR=groq|anthropic):
+  - Groq (free tier): used when GROQ_API_KEY is set. Get a key at
+    https://console.groq.com/keys. Model: NARRATOR_MODEL (default
+    openai/gpt-oss-120b, falling back to openai/gpt-oss-20b).
   - Anthropic Claude (paid, best quality): used when ANTHROPIC_API_KEY is set.
     Model: NARRATOR_MODEL (default claude-sonnet-5-5).
-If neither is available, the script exits quietly and stats-only reports stay.
+If neither key is set, the script exits quietly and stats-only reports stay.
+
+Free tiers have per-minute token limits, so requests are spaced out
+(NARRATOR_DELAY seconds between stories, default 10 for Groq) and a rate-limit
+reply is waited out and retried rather than ending the run.
 
 Fact-check: every number in the story must appear in the computed report.
 A story that cites a number the data doesn't contain is retried once with
@@ -34,13 +36,14 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
 MARKER = "<!-- narrative -->"
-GITHUB_URL = "https://models.github.ai/inference/chat/completions"
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 
 SYSTEM = """You write short, vivid cricket match reports from computed statistics.
@@ -130,7 +133,7 @@ class _NoRedirect(urllib.request.HTTPRedirectHandler):
 
 
 _OPENER = urllib.request.build_opener(_NoRedirect)
-_TRUSTED_HOSTS = ("github.ai", "github.com", "anthropic.com")
+_TRUSTED_HOSTS = ("groq.com", "anthropic.com")
 
 
 def _post(url: str, body: dict, headers: dict) -> dict:
@@ -166,18 +169,38 @@ def _post(url: str, body: dict, headers: dict) -> dict:
         raise NarratorError(f"HTTP {status}, {ctype}, {len(raw)} bytes{via}: {snippet}") from None
 
 
-def call_github(messages: list, model: str, token: str) -> str:
-    # Headers as documented at docs.github.com/en/github-models/quickstart
-    out = _post(GITHUB_URL,
-                {"model": model, "max_tokens": 700, "temperature": 0.4,
+def call_openai_compatible(url: str, messages: list, model: str, key: str) -> str:
+    out = _post(url,
+                # Reasoning models spend part of max_tokens thinking, so leave room.
+                {"model": model, "max_tokens": 2000, "temperature": 0.4,
                  "messages": [{"role": "system", "content": SYSTEM}, *messages]},
-                {"Authorization": f"Bearer {token}",
-                 "Accept": "application/vnd.github+json",
-                 "X-GitHub-Api-Version": "2022-11-28"})
+                {"Authorization": f"Bearer {key}"})
     try:
-        return out["choices"][0]["message"]["content"].strip()
+        text = out["choices"][0]["message"]["content"] or ""
     except (KeyError, IndexError, TypeError, AttributeError):
         raise NarratorError(f"unexpected reply: {json.dumps(out)[:200]}") from None
+    if not text.strip():
+        raise NarratorError(f"empty story (finish_reason={out['choices'][0].get('finish_reason')})")
+    return text.strip()
+
+
+def _waiting_out_rate_limits(call, max_waits: int = 3, max_sleep: int = 65):
+    """Wrap a provider call so HTTP 429 sleeps for Retry-After and retries."""
+    def wrapped(messages):
+        for attempt in range(max_waits + 1):
+            try:
+                return call(messages)
+            except urllib.error.HTTPError as e:
+                if e.code != 429 or attempt == max_waits:
+                    raise
+                try:
+                    wait = float(e.headers.get("Retry-After") or 20)
+                except ValueError:
+                    wait = 20
+                wait = min(max(wait, 1), max_sleep)
+                print(f"  rate limited; waiting {wait:.0f}s")
+                time.sleep(wait)
+    return wrapped
 
 
 def call_anthropic(messages: list, model: str, key: str) -> str:
@@ -188,17 +211,20 @@ def call_anthropic(messages: list, model: str, key: str) -> str:
 
 
 def pick_providers():
-    """Ordered list of (name, model, call) to try; later entries are fallbacks."""
+    """Ordered list of (name, model, call, delay) to try; later entries are fallbacks."""
     choice = os.environ.get("NARRATOR", "auto").lower()
-    gh, ak = os.environ.get("GITHUB_TOKEN"), os.environ.get("ANTHROPIC_API_KEY")
+    groq, ak = os.environ.get("GROQ_API_KEY"), os.environ.get("ANTHROPIC_API_KEY")
     custom = os.environ.get("NARRATOR_MODEL")
+    delay = os.environ.get("NARRATOR_DELAY")
     if choice in ("anthropic", "auto") and ak:
         model = custom or "claude-sonnet-5-5"
-        return [("Claude", model, lambda m, model=model: call_anthropic(m, model, ak))]
-    if choice in ("github", "auto") and gh:
-        models = [custom] if custom else ["openai/gpt-4o-mini", "openai/gpt-4.1-mini"]
-        return [("GitHub Models", mdl, lambda m, mdl=mdl: call_github(m, mdl, gh))
-                for mdl in models]
+        call = _waiting_out_rate_limits(lambda m: call_anthropic(m, model, ak))
+        return [("Claude", model, call, float(delay or 0))]
+    if choice in ("groq", "auto") and groq:
+        models = [custom] if custom else ["openai/gpt-oss-120b", "openai/gpt-oss-20b"]
+        return [("Groq", mdl,
+                 _waiting_out_rate_limits(lambda m, mdl=mdl: call_openai_compatible(GROQ_URL, m, mdl, groq)),
+                 float(delay or 10)) for mdl in models]
     return []
 
 
@@ -226,9 +252,9 @@ def main(argv=None) -> int:
 
     providers = pick_providers()
     if not providers:
-        print("No GITHUB_TOKEN or ANTHROPIC_API_KEY; skipping stories (stats-only reports kept).")
+        print("No GROQ_API_KEY or ANTHROPIC_API_KEY; skipping stories (stats-only reports kept).")
         return 0
-    name, model, call = providers.pop(0)
+    name, model, call, delay = providers.pop(0)
     print(f"Writing stories with {name} ({model})")
 
     done, rejected, written_any = 0, 0, False
@@ -247,7 +273,7 @@ def main(argv=None) -> int:
             except urllib.error.HTTPError as e:
                 detail = e.read()[:300].decode(errors="replace")
                 problem = f"HTTP {e.code}: {detail}"
-                if e.code == 429:
+                if e.code == 429:  # still limited after waiting: daily quota is used up
                     print(f"  Rate limit reached ({problem}).\n"
                           "  Remaining reports will get stories on the next run.")
                     return _summary(done, rejected)
@@ -256,12 +282,12 @@ def main(argv=None) -> int:
             # The model didn't work. Before any story succeeded, try the next model.
             if providers and not written_any:
                 print(f"  {model} failed ({problem}); trying next model")
-                name, model, call = providers.pop(0)
+                name, model, call, delay = providers.pop(0)
                 print(f"Writing stories with {name} ({model})")
                 continue
             print(f"  Story service error with {model}: {problem}\n"
                   "  Skipping stories this run; reports are unaffected.\n"
-                  "  Tip: set a NARRATOR_MODEL repository variable to try a different model.")
+                  "  Tip: check the API key secret, or set a NARRATOR_MODEL variable to try another model.")
             return _summary(done, rejected)
         if story is None:
             rejected += 1
@@ -277,6 +303,7 @@ def main(argv=None) -> int:
         done += 1
         if done >= args.limit:
             break
+        time.sleep(delay)  # stay under per-minute token limits
     return _summary(done, rejected)
 
 

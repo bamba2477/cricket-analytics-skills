@@ -14,7 +14,7 @@ get readable match reports without invented stats.
 |---|---|
 | **`cricket-match-report` skill** | Ask Claude for a match report and get scorecards, phase analysis, partnerships and the moments that decided the game. |
 | **Weekly automation** | A GitHub Action downloads last week's matches every Monday, generates a report for each, and commits them to `reports/`. |
-| **AI match stories** | Each report gets a short written story, free via GitHub Models, with every number fact-checked against the data. |
+| **AI match stories** | Each report gets a short written story, free via Groq (or Claude), with every number fact-checked against the data. |
 
 See [`examples/sample_report.md`](examples/sample_report.md) for the computed
 report and [`examples/sample_story.md`](examples/sample_story.md) for the
@@ -54,11 +54,13 @@ python automation/batch_reports.py data/ -o reports/ --match-type T20
 
 1. Push this repo to GitHub. The workflow in `.github/workflows/weekly-reports.yml`
    runs every Monday at 06:00 IST.
-2. Stories are written for free by [GitHub Models](https://docs.github.com/en/github-models)
-   using the workflow's built-in token, so there's nothing to configure. Optional:
+2. For match stories, create a free API key at [console.groq.com/keys](https://console.groq.com/keys)
+   and add it as a repository secret named `GROQ_API_KEY`
+   (Settings → Secrets and variables → Actions → New repository secret). Optional:
    - add an `ANTHROPIC_API_KEY` secret to use Claude instead (paid, higher quality)
-   - set a `NARRATOR_MODEL` variable (Settings → Secrets and variables →
-     Actions → Variables) to choose another model, e.g. `openai/gpt-4.1-mini`
+   - set a `NARRATOR_MODEL` variable (same page → Variables) to choose another model
+
+   Without a key, the workflow still produces full stats reports.
 3. Run it now from the **Actions** tab → *Weekly match reports* → *Run workflow*.
    You can pick any Cricsheet dataset (e.g. `ipl`, `t20s`) and format.
 

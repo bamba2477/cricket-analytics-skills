@@ -2,9 +2,9 @@
 # report for each, add an AI-written story, and commit the results to
 # reports/. Run it by hand any time from the Actions tab.
 #
-# Stories use GitHub Models (free) with the built-in token: no setup needed.
-# Optional: add an ANTHROPIC_API_KEY secret to use Claude instead, or set a
-# NARRATOR_MODEL repository variable to pick a different model.
+# Stories: add a free GROQ_API_KEY secret (console.groq.com/keys), or an
+# ANTHROPIC_API_KEY secret to use Claude. Without either, reports are
+# stats-only. Optional NARRATOR_MODEL repository variable picks the model.
 
 name: Weekly match reports
 
@@ -22,7 +22,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 # One run at a time; a second run waits instead of racing the first.
 concurrency:
@@ -52,7 +51,7 @@ jobs:
       - name: Write match stories
         continue-on-error: true   # stories are optional; never block the reports
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NARRATOR_MODEL: ${{ vars.NARRATOR_MODEL }}
         run: python automation/narrate.py reports/ --limit 15
