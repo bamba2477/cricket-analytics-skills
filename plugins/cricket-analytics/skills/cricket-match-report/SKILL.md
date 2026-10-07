@@ -13,10 +13,15 @@ or "fill in" a stat the script didn't produce.
 
 1. **Get the data.**
    - If the user attached a Cricsheet `.json` file, use it.
-   - If they name a competition or "recent matches", download with
+   - Otherwise look for match files already on disk first (a `data/` folder,
+     or wherever the user keeps them). Find the match by reading each file's
+     `info` block (`teams`, `dates`, `event.stage` such as "Final").
+   - Only if nothing local fits, download with
      `python scripts/fetch_cricsheet.py <dataset> -o data/` (run with `--list`
      for names; `recently_added_7` covers the last week). Then pick the match
      they mean by teams/date from the files' `info` blocks.
+   - Always compute from the source `.json`. Don't reuse an existing `.md`
+     report in the folder; regenerate it.
    - If the file isn't Cricsheet JSON (no `info` and `innings` keys), say so and
      ask for the right file rather than guessing at another format.
 
@@ -49,6 +54,15 @@ or "fill in" a stat the script didn't produce.
 
 ## Rules for accuracy
 
+- **Trust the data over your memory.** Matches played after your training
+  data ends are real, and squads change every season through auctions and
+  transfers. A player appearing for a team you don't expect, or a match you
+  don't recognise, is not evidence of fake data. Never call a Cricsheet file
+  fabricated because it disagrees with what you remember. Only question a file
+  if the script's consistency checks fail or the JSON is malformed, and then
+  say exactly which check failed.
+- Don't add facts from memory either (career records, previous meetings,
+  who "usually" plays where). Everything in the report comes from the file.
 - Quote figures exactly as computed: `4/31`, `46 (34)`, `RR 8.81`.
 - Don't claim things the data can't show: shot types, field placings,
   pitch conditions, DRS, injuries, crowd or player emotions.
