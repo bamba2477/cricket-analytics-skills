@@ -50,6 +50,7 @@ jobs:
           python automation/batch_reports.py data/ -o reports/ ${MT:+--match-type "$MT"}
 
       - name: Write match stories
+        continue-on-error: true   # stories are optional; never block the reports
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

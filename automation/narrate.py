@@ -11,7 +11,8 @@ Providers (chosen automatically, or set NARRATOR=github|anthropic):
   - GitHub Models (free): used when GITHUB_TOKEN is set. Inside GitHub
     Actions this works with no setup beyond `permissions: models: read`.
     Locally, use a personal access token with the "Models" read permission.
-    Model: NARRATOR_MODEL (default openai/gpt-4o-mini).
+    Model: NARRATOR_MODEL (default: openai/gpt-4o-mini, falling back to
+    openai/gpt-4.1-mini if the first doesn't respond).
   - Anthropic Claude (paid, best quality): used when ANTHROPIC_API_KEY is set.
     Model: NARRATOR_MODEL (default claude-sonnet-5-5).
 If neither is available, the script exits quietly and stats-only reports stay.
@@ -28,6 +29,7 @@ Standard library only.
 from __future__ import annotations
 
 import argparse
+import gzip
 import json
 import os
 import re
@@ -115,19 +117,37 @@ def unsupported_numbers(story: str, report: dict) -> list[str]:
 # --------------------------------------------------------------------------- #
 # Providers
 # --------------------------------------------------------------------------- #
+class NarratorError(RuntimeError):
+    """The model service answered, but not with a usable reply."""
+
+
 def _post(url: str, body: dict, headers: dict) -> dict:
     req = urllib.request.Request(url, data=json.dumps(body).encode(), method="POST",
-                                 headers={"content-type": "application/json", **headers})
+                                 headers={"Content-Type": "application/json", **headers})
     with urllib.request.urlopen(req, timeout=120) as resp:
-        return json.loads(resp.read())
+        raw = resp.read()
+        status, ctype = resp.status, resp.headers.get("Content-Type", "?")
+        if resp.headers.get("Content-Encoding") == "gzip":
+            raw = gzip.decompress(raw)
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        snippet = raw[:200].decode("utf-8", errors="replace") or "(empty body)"
+        raise NarratorError(f"HTTP {status}, {ctype}, {len(raw)} bytes: {snippet}") from None
 
 
 def call_github(messages: list, model: str, token: str) -> str:
+    # Headers as documented at docs.github.com/en/github-models/quickstart
     out = _post(GITHUB_URL,
                 {"model": model, "max_tokens": 700, "temperature": 0.4,
                  "messages": [{"role": "system", "content": SYSTEM}, *messages]},
-                {"authorization": f"Bearer {token}", "accept": "application/json"})
-    return out["choices"][0]["message"]["content"].strip()
+                {"Authorization": f"Bearer {token}",
+                 "Accept": "application/vnd.github+json",
+                 "X-GitHub-Api-Version": "2022-11-28"})
+    try:
+        return out["choices"][0]["message"]["content"].strip()
+    except (KeyError, IndexError, TypeError, AttributeError):
+        raise NarratorError(f"unexpected reply: {json.dumps(out)[:200]}") from None
 
 
 def call_anthropic(messages: list, model: str, key: str) -> str:
@@ -137,16 +157,19 @@ def call_anthropic(messages: list, model: str, key: str) -> str:
     return "".join(b.get("text", "") for b in out.get("content", [])).strip()
 
 
-def pick_provider():
+def pick_providers():
+    """Ordered list of (name, model, call) to try; later entries are fallbacks."""
     choice = os.environ.get("NARRATOR", "auto").lower()
     gh, ak = os.environ.get("GITHUB_TOKEN"), os.environ.get("ANTHROPIC_API_KEY")
+    custom = os.environ.get("NARRATOR_MODEL")
     if choice in ("anthropic", "auto") and ak:
-        model = os.environ.get("NARRATOR_MODEL") or "claude-sonnet-5-5"
-        return "Claude", model, lambda m: call_anthropic(m, model, ak)
+        model = custom or "claude-sonnet-5-5"
+        return [("Claude", model, lambda m, model=model: call_anthropic(m, model, ak))]
     if choice in ("github", "auto") and gh:
-        model = os.environ.get("NARRATOR_MODEL") or "openai/gpt-4o-mini"
-        return "GitHub Models", model, lambda m: call_github(m, model, gh)
-    return None
+        models = [custom] if custom else ["openai/gpt-4o-mini", "openai/gpt-4.1-mini"]
+        return [("GitHub Models", mdl, lambda m, mdl=mdl: call_github(m, mdl, gh))
+                for mdl in models]
+    return []
 
 
 # --------------------------------------------------------------------------- #
@@ -165,19 +188,20 @@ def narrate_one(call, report: dict) -> tuple[str | None, list[str]]:
 
 
 def main(argv=None) -> int:
+    """Never fails the run: stories are a bonus on top of the reports."""
     ap = argparse.ArgumentParser(description="Add AI-written stories to match reports.")
     ap.add_argument("reports_dir", type=Path)
     ap.add_argument("--limit", type=int, default=15, help="max reports to narrate per run")
     args = ap.parse_args(argv)
 
-    provider = pick_provider()
-    if not provider:
+    providers = pick_providers()
+    if not providers:
         print("No GITHUB_TOKEN or ANTHROPIC_API_KEY; skipping stories (stats-only reports kept).")
         return 0
-    name, model, call = provider
+    name, model, call = providers.pop(0)
     print(f"Writing stories with {name} ({model})")
 
-    done, rejected = 0, 0
+    done, rejected, written_any = 0, 0, False
     for j in sorted(args.reports_dir.glob("*.json"), reverse=True):
         md = j.with_suffix(".md")
         if not md.exists() or MARKER in md.read_text(encoding="utf-8"):
@@ -186,19 +210,34 @@ def main(argv=None) -> int:
         if report.get("checks"):
             print(f"  skip {md.name}: data consistency warnings")
             continue
-        try:
-            story, bad = narrate_one(call, report)
-        except urllib.error.HTTPError as e:
-            detail = e.read()[:300].decode(errors="replace")
-            print(f"  API error {e.code} on {md.name}: {detail}")
-            if e.code == 429:
-                print("  Rate limit reached; remaining reports will get stories next run.")
+        while True:
+            try:
+                story, bad = narrate_one(call, report)
                 break
-            return 1
+            except urllib.error.HTTPError as e:
+                detail = e.read()[:300].decode(errors="replace")
+                problem = f"HTTP {e.code}: {detail}"
+                if e.code == 429:
+                    print(f"  Rate limit reached ({problem}).\n"
+                          "  Remaining reports will get stories on the next run.")
+                    return _summary(done, rejected)
+            except (NarratorError, urllib.error.URLError, TimeoutError, OSError) as e:
+                problem = str(e)
+            # The model didn't work. Before any story succeeded, try the next model.
+            if providers and not written_any:
+                print(f"  {model} failed ({problem}); trying next model")
+                name, model, call = providers.pop(0)
+                print(f"Writing stories with {name} ({model})")
+                continue
+            print(f"  Story service error with {model}: {problem}\n"
+                  "  Skipping stories this run; reports are unaffected.\n"
+                  "  Tip: set a NARRATOR_MODEL repository variable to try a different model.")
+            return _summary(done, rejected)
         if story is None:
             rejected += 1
             print(f"  rejected story for {md.name}: unsupported numbers {', '.join(bad)}")
             continue
+        written_any = True
         lines = md.read_text(encoding="utf-8").split("\n")
         at = next((i for i, line in enumerate(lines) if line.startswith("## ")), len(lines))
         credit = f"*Story written by {model} from the computed stats below.*"
@@ -208,6 +247,10 @@ def main(argv=None) -> int:
         done += 1
         if done >= args.limit:
             break
+    return _summary(done, rejected)
+
+
+def _summary(done: int, rejected: int) -> int:
     print(f"Stories added: {done}, rejected by fact-check: {rejected}")
     return 0
 
