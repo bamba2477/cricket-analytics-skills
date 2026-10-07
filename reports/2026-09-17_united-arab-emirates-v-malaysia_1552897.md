@@ -5,6 +5,15 @@
 **Toss:** Malaysia chose to field  
 **Player of the match:** Adeeb Usmani  
 
+<!-- narrative -->
+**United Arab Emirates win by 59 runs, powered by Adeeb Usmani’s unbeaten 96**  
+
+UAE posted a massive **216/3** in the full 20 overs, cruising through the Powerplay with **76/0** (RR 12.67) and adding **77/1** in the middle overs (RR 8.56) before a death burst of **63/2** (RR 12.6). A 111‑run stand off 61 balls between A Sharafu (58 off 33) and Adeeb Usmani set the platform, while a 62‑run partnership off 39 balls between Shoaib Khan (30 off 23) and Usmani kept the flow. The turning points came early as **Over 5** (Pavandeep Singh) yielded **23 runs**, and **Over 13** (Muhammad Wafiq) gave **18 runs**, pushing the total beyond the chase. Khuzaima Tanveer claimed two wickets, including the fall at **180‑3** in **Over 17.4**, but the target of **217** was already out of reach.
+
+Malaysia’s reply stalled after a shaky Powerplay of **37/2** (RR 6.17). Though the middle overs added **88/0** (RR 9.78) with a 121‑run partnership off 85 balls between Virandeep Singh (73 off 52) and Syed Aziz (57 off 46), the death overs produced only **32/3** (RR 6.4). Critical moments included the **after 6 overs** snapshot of **37** and the need for **180 from 14 overs** (RRR 12.86), followed by **Over 7** conceding **16 runs** and two wickets in **Over 20** by Khuzaima Tanveer (3/29). The chase fell short at **157/5**, handing UAE a comfortable victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **United Arab Emirates**: 216/3 in 20.0 overs (RR 10.8)
 - **Malaysia**: 157/5 in 20.0 overs (RR 7.85, chasing 217)

@@ -4,6 +4,15 @@
 **Result:** Pakistan won by 3 wickets  
 **Toss:** Pakistan chose to field  
 
+<!-- narrative -->
+**Pakistan win by 3 wickets as Shawaal Zulfiqar’s 25 off 14 steers the chase**
+
+Thailand set a target of 92, reaching 91/4 in 11.0 overs at a run‑rate of 8.27. The innings began steady with 41/1 in the powerplay (overs 1‑6, RR 6.83) and accelerated to 50/3 in the middle phase (overs 7‑15, RR 10.0). N Koncharoenkai anchored the score with 49 runs from 38 balls before being out lbw to Fatima Sana, while a 65‑run partnership with P Maya added the bulk of the total. Two wickets fell in over 6, both credited to O Kamchomphu, and a further three wickets tumbled between overs 9 and 11, leaving Thailand 88/4 at the end of the 10.4 over.
+
+Pakistan’s reply started at 47/4 in the powerplay (RR 7.83) and continued at 45/3 in the middle phase (RR 9.64). Shawaal Zulfiqar’s quick 25 from 14 balls, caught and bowled by O Kamchomphu, gave the chase momentum, while Fatima Sana contributed 21 from 13 balls. O Kamchomphu claimed 3/37 in 3.0 overs and S Chaturongrattana added 2/23 in 2.0 overs, keeping the run‑rate in check. After 10 overs Thailand needed 4 from 1 over (RRR 4.0), and Pakistan edged home at 92/7 in 10.4 overs, winning by 3 wickets.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Thailand**: 91/4 in 11.0 overs (RR 8.27)
 - **Pakistan**: 92/7 in 10.4 overs (RR 8.62, chasing 92)

@@ -5,6 +5,17 @@
 **Toss:** South Africa chose to bat  
 **Player of the match:** M Smit  
 
+<!-- narrative -->
+**South Africa win by 80 runs powered by M Smit’s 102**  
+
+South Africa posted 205/4 in 20.0 overs, cruising through the Powerplay with 42/0 (RR 7.0) and accelerating in the middle overs to 100/2 (RR 11.11) before adding 63/2 in the death (RR 12.6). M Smit anchored the innings with 102 (59) before being run out, while A Bosch (33, 24) and A Dercksen (33, 16) supplied quickfire support. The 74‑run stand off 51 balls between Smit and Bosch and the 62‑run partnership off 34 balls with Dercksen kept the run rate soaring, and the wicket at 74‑1 (Bosch, 8.3) was the only real check. A costly over from C Mutasa (0/17 in 1.0 ov) in the eighth over helped maintain the momentum.
+
+In reply Zimbabwe managed 125/5 in 20.0 overs, falling well short of the 206 required. The chase stumbled early, slipping to 27/2 in the Powerplay (RR 4.5) and only reaching 51/1 by the end of the middle phase (RR 5.67). A surge in the death overs added 47/2 (RR 9.4) but could not bridge the gap. Key turning points came in over 17 when M Mavunga went for 16 runs and over 19 when E Marx went for 18 runs, stalling any late‑stage rally. The fall of wickets at 9‑1 (Gwanzura, 1.4), 27‑2 (Pemhiwa, 5.5) and 125‑5 (Mavunga, 19.5) underscored the pressure.
+
+South Africa’s bowlers capped the victory with disciplined figures: C Wyngaard 2/15 in 3.0 ov (econ 5.0), L E Nzuza 1/20 in 3.0 ov (econ 6.67) and E Marx 1/24 in 3.0 ov (econ 8.0). Their economy contrasted sharply with Zimbabwe’s higher‑run overs, sealing an 80‑run win and earning M Smit the player‑of‑the‑match award.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **South Africa**: 205/4 in 20.0 overs (RR 10.25)
 - **Zimbabwe**: 125/5 in 20.0 overs (RR 6.25, chasing 206)

@@ -4,6 +4,15 @@
 **Result:** Hampshire won by 194 runs  
 **Toss:** Surrey chose to field  
 
+<!-- narrative -->
+**Hampshire win by 194 runs as A Wellington’s 5/19 dismantles Surrey**
+
+Hampshire paced to 303/5 in 50.0 overs, posting a run‑rate of 6.06. The Powerplay (overs 1‑10) yielded 49/1, the Middle (overs 11‑40) added 174/3 and the Death (overs 41‑50) contributed 80/1 at a run‑rate of 8.0. ME Bouchier anchored the innings with 117 (122) not out, while FG Kemp (77 off 63) and A Norgrove (60 off 54) built partnerships of 110 off 107 balls and 109 off 95 balls respectively. A Wellington’s spell of 5/19 from 6.3 overs (economy 2.92) and R Tyson’s 2/29 from 9.0 overs (economy 3.22) kept Surrey under pressure throughout.
+
+Surrey’s reply stalled at 109 all out in 27.3 overs (run‑rate 3.96). After a modest Powerplay of 53/2, the Middle phase collapsed to 56/8, with two wickets falling in over 22 – both credited to A Wellington. R Tyson added two more wickets, and the final wicket fell at 109 (27.3). The decisive 5/19 from A Wellington proved the turning point, sealing a 194‑run victory for Hampshire.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Hampshire**: 303/5 in 50.0 overs (RR 6.06)
 - **Surrey**: 109/10 in 27.3 overs (RR 3.96)

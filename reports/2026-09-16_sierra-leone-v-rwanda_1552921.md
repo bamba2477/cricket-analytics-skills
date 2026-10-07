@@ -5,6 +5,15 @@
 **Toss:** Sierra Leone chose to bat  
 **Player of the match:** E Kubwimana  
 
+<!-- narrative -->
+**Rwanda win by 6 wickets, powered by E Kubwimana’s 4/8 spell and D Uwimana’s 24 off 9 balls**  
+
+Sierra Leone’s innings stalled after a shaky Powerplay of 23/3 and a Middle phase of 42/4, losing three wickets between overs 14 and 16. The fall of wickets at 56‑5 (L Lamin) and 60‑6 (G Sesay) left them 31 runs short at the end of the Death overs, finishing on 87/9 in 20.0 overs with a run rate of 4.35. E Kubwimana’s tight spell of 4/8 in 4.0 overs and Muhammad Nadir’s 3/11 kept the scoring under control, while the last‑man partnership of 17 off 12 balls (S Williams & Mohamed Turay) could not bridge the gap.
+
+Rwanda’s chase began explosively, posting 42/2 in the Powerplay at a run rate of 7.0. A steady middle spell took them to 49/2 by the end of the 15th over, with D Uwimana blasting 24 from 9 balls to keep the required run rate low. The partnership of 28 off 17 balls between D Gumyusenge and D Uwimana steered Rwanda past the target, reaching 91/4 in 12.5 overs at a run rate of 7.09 and securing victory by 6 wickets.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Sierra Leone**: 87/9 in 20.0 overs (RR 4.35)
 - **Rwanda**: 91/4 in 12.5 overs (RR 7.09, chasing 88)

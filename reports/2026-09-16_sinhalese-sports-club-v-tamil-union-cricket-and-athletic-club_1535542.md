@@ -4,6 +4,15 @@
 **Result:** Tamil Union Cricket and Athletic Club won by 7 wickets  
 **Toss:** Sinhalese Sports Club chose to bat  
 
+<!-- narrative -->
+**Tamil Union Cricket and Athletic Club win by 7 wickets, powered by Sineth Jayawardena’s 82 off 32**  
+
+Sinhalese Sports Club posted 163/8 in 20.0 overs, cruising to 69/0 in the Powerplay (overs 1‑6) at a run‑rate of 11.5 before the middle overs (7‑15) slowed to 64/3 with a run‑rate of 7.11. The death spell (16‑20) added 30/5 at 6.0, and key turning points came when ND Paranavithana conceded 15 runs in over 4 and S Jayathilake gave away 23 runs in over 6. B Fernando’s spell of 3/22 in 4.0 overs (economy 5.5) and two wickets in over 18 helped restrict the total, but wickets fell at 89‑1, 106‑2, 112‑3 and 136‑4, leaving a target of 164.
+
+Tamil Union’s chase began explosively, reaching 84/1 in the Powerplay (overs 1‑6) with a run‑rate of 14.0. The middle overs (7‑15) added 78/2 at 8.67, and the final two overs contributed just 2/0. A decisive 133‑run partnership over 56 balls between ND Paranavithana (58 off 38) and Sineth Jayawardena (82 off 32) carried the side to 164/3 in 15.2 overs, sealing the win by 7 wickets. Early loss of PTM Dabare (0 off 2) and the dismissal of Sineth Jayawardena at 133 runs (9.4 overs) were the only setbacks, while Malsha Fernando’s 2/37 in 4.0 overs (economy 9.25) could not halt the chase.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Sinhalese Sports Club**: 163/8 in 20.0 overs (RR 8.15)
 - **Tamil Union Cricket and Athletic Club**: 164/3 in 15.2 overs (RR 10.7, chasing 164)

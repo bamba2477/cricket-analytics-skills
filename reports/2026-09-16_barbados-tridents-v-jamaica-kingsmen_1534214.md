@@ -5,6 +5,15 @@
 **Toss:** Jamaica Kingsmen chose to field  
 **Player of the match:** Maaz Sadaqat  
 
+<!-- narrative -->
+**Jamaica Kingsmen chase down 145 with Maaz Sadaqat’s 112, winning by 9 wickets**
+
+Barbados Tridents slumped early, losing BA King for 0 in the first half‑over and KA Anderson for 0 at 1.4, leaving them 10‑3 at 3.5. The powerplay yielded only 24/4 (RR 4.0) before a middle‑phase surge of 67/1 (RR 7.44) lifted them to 79/5 at the end of over 5, a turning point noted as “Over 5 (AM Ghazanfar) went for 21 runs”. Q de Kock steadied the innings with 71 (49) before being run out at 19.6, while CJ Green added an unbeaten 57, their 114‑run partnership off 79 balls providing the bulk of the 144/6 total (run rate 7.2). The death overs added 53/1 (RR 10.6) and “Over 18 (R Powell) went for 19 runs” before the innings closed.
+
+Jamaica Kingsmen exploded in the chase, blasting 79/0 in the powerplay (RR 13.17) with Maaz Sadaqat on 112 (49) before his dismissal at 13.3. The partnership of 138 off 81 balls with KSA McKenzie (22, 34) carried the side to 145/1 in 14.1 (run rate 10.24). The chase reflected the turning‑point notes: “After 6 overs: 79 scored, needed 66 from 14 overs (RRR 4.71)”, “After 10 overs: 105 scored, needed 40 from 10 overs (RRR 4.0)” and “After 15 overs: 145 scored, needed 0 from 5 overs (RRR 0.0)”. The lone wicket fell at 138‑1, sealing a nine‑wicket victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Barbados Tridents**: 144/6 in 20.0 overs (RR 7.2)
 - **Jamaica Kingsmen**: 145/1 in 14.1 overs (RR 10.24, chasing 145)

@@ -5,6 +5,15 @@
 **Toss:** Malaysia chose to bat  
 **Player of the match:** Adeeb Usmani  
 
+<!-- narrative -->
+**United Arab Emirates win by 7 wickets, driven by Adeeb Usmani’s 75 off 45 balls.**
+
+Malaysia posted 156/9 in 20 overs, cruising to 68/1 in the powerplay (overs 1‑6) at a run‑rate of 11.33 before the middle overs (7‑15) slowed to 58/3 at 6.44. Ibrar Ahmad’s tight spell of 4/13 in 4.0 overs kept the economy down to 3.25, yet the turning points came in over 4 when Khuzaima Tanveer went for 16 runs and in over 6 when Aayan Afzal Khan went for 22 runs, allowing Malaysia to reach 134/7 by the 15th over. Two wickets fell in over 13 (both credited to Ibrar Ahmad) and another two in over 20 (both credited to Khuzaima Tanveer), leaving Malaysia 22 runs short at the end.
+
+In reply, the United Arab Emirates chased down the target of 157, reaching 157/3 in 17.4 overs with a run‑rate of 8.89. Their powerplay produced 53/1 at 8.83, the middle phase added 81/1 at 9.0, and even the death overs contributed 23/1 at 8.62. Adeeb Usmani anchored the innings with 75 off 45 balls, forming a 76‑run partnership with Harpreet Singh, who added 32 off 23. A brief setback in over 15 when Virandeep Singh gave away 19 runs did not halt the chase, and the UAE sealed the win with seven wickets in hand.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Malaysia**: 156/9 in 20.0 overs (RR 7.8)
 - **United Arab Emirates**: 157/3 in 17.4 overs (RR 8.89, chasing 157)

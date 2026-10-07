@@ -5,6 +5,15 @@
 **Toss:** Edinburgh Castle Rockers chose to field  
 **Player of the match:** GJ Maxwell  
 
+<!-- narrative -->
+**Belfast Wolves clinched a 9‑run D/L win, powered by GJ Maxwell’s 82 off 40 balls**  
+
+Belfast posted 190/4 in 20.0 overs, with 36/2 (RR 6.0) in the Powerplay and 76/1 (RR 8.44) by the end of the middle overs. A 79‑run stand off 32 balls between DA Miller and GJ Maxwell, followed by a 74‑run partnership off 51 balls with HJ Manenti, took the score well beyond the early milestones. The death overs ran wild as Over 14 (FJ Klaassen) yielded 27 runs, Over 15 (CJ Jordan) 17 runs, Over 18 (J Jarvis) 18 runs and Over 19 (TA Boult) 20 runs, leaving Edinburgh with a steep climb.  
+
+Edinburgh could only reach 137/6 in 15.0 overs, short of the revised target of 147. After a Powerplay of 39/2 (RR 6.5) they were 98/4 (RR 10.89) in the middle phase, then needed a run rate of 12.0 after 6 overs and 15.2 after 10 overs. MJ Humphreys’s 2/9 in 3.0 overs (economy 3.0) kept the pressure on, while CJ Jordan’s 2/35 (economy 11.67) added further strain. TK Curran’s late 30 off 7 balls was not enough, and the Wolves held out for the win.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Belfast Wolves**: 190/4 in 20.0 overs (RR 9.5)
 - **Edinburgh Castle Rockers**: 137/6 in 15.0 overs (RR 9.13, chasing 147)

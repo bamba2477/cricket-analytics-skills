@@ -5,6 +5,15 @@
 **Toss:** Trinbago Knight Riders chose to bat  
 **Player of the match:** CN Nation  
 
+<!-- narrative -->
+**Guyana Amazon Warriors win by 2 wickets, driven by CN Nation’s unbeaten 39**  
+
+Trinbago Knight Riders posted 145/6 in their full 20.0 overs, with a modest powerplay of 27/2, a middle‑phase surge to 76/3 and a death‑over addition of 42/1. The chase was made harder after over 14 when EA Burns yielded 16 runs, over 15 when SS Grimmond gave away 17 runs and again over 15 when BF Harricharan produced 18 runs, followed by L Harris’s 15 runs in over 17. After 6 overs the score was 43, leaving a requirement of 103 from 14 overs; after 10 overs it was 56, needing 90 from 10 overs; and after 15 overs it stood at 97, with 49 required from the final 5 overs.  
+
+Guyana Amazon Warriors responded with 149/8 in 19.3 overs, chasing a target of 146. Their powerplay yielded 43/1, the middle overs slipped to 54/5 and the death overs surged with 52/2. A decisive 40‑run partnership off 23 balls between CN Nation and CL Tryon, complemented by Nation’s unbeaten 39 off 21 balls, carried the side past the finish line. Wickets fell at 7‑1, 44‑2, 52‑3, 55‑4, 55‑5, 71‑6, 111‑7 and 129‑8, but the Warriors held on to clinch the win by 2 wickets.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Trinbago Knight Riders**: 145/6 in 20.0 overs (RR 7.25)
 - **Guyana Amazon Warriors**: 149/8 in 19.3 overs (RR 7.64, chasing 146)

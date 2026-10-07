@@ -5,6 +5,15 @@
 **Toss:** Amsterdam Flames chose to field  
 **Player of the match:** DA Payne  
 
+<!-- narrative -->
+**Amsterdam Flames win by 5 wickets, powered by BFW de Leede’s 4/6 burst in the death overs**
+
+Glasgow Cosmic managed 126/10 in 19.5 overs at a run rate of 6.35. The innings began with a solid Powerplay of 38/1 (RR 6.33) and a steady middle spell of 67/2 (RR 7.44), but the Death phase collapsed to 21/7 (RR 4.34). BFW de Leede ripped through the tail, claiming four wickets for six runs in 1.5 overs – two wickets fell in over 18 and another two in over 20 – while DA Payne added two wickets in over 19. Top scores came from HG Munsey’s 51 (45) and LS Livingstone’s 44 (27), supported by C Campher’s 44 (30) in a 61‑run partnership.
+
+Amsterdam Flames chased down the target of 127 in 16.0 overs at a run rate of 7.94. After 6 overs they were 46/3 (RR 7.67) and needed 81 from 14 overs; after 10 overs the score was 75/2 (RR 8.33) with 52 required from 10 overs. Early wickets of YS Samra, SPD Smith and BFW de Leede left them 27/3, but a 47‑run stand between MG Bracewell (21) and C Campher (44) steadied the chase. The final push came from SA Edwards’s unbeaten 20 and TH David’s 13 not out, guiding the Flames to 127/5 and sealing the victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Glasgow Cosmic**: 126/10 in 19.5 overs (RR 6.35)
 - **Amsterdam Flames**: 127/5 in 16.0 overs (RR 7.94, chasing 127)

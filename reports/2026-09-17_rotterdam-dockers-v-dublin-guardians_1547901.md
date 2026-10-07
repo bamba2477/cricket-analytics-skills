@@ -5,6 +5,15 @@
 **Toss:** Dublin Guardians chose to field  
 **Player of the match:** JM Vince  
 
+<!-- narrative -->
+**Dublin Guardians chase down 189 with JM Vince’s unbeaten 106, clinching a 5‑wicket victory.**
+
+Rotterdam’s 188/5 came off a brisk 20.0‑over spell at a run rate of 9.4. The powerplay (overs 1‑6) yielded 48/2, with early blows as C Munro fell at 30‑1 in 2.1 overs and M Levitt at 38‑2 in 4.4 overs. A steady middle phase (overs 7‑15) added 76/1 at a run rate of 8.44, highlighted by a 70‑run stand between H Klaasen and F du Plessis. The death overs surged 64/2 at 12.8, but wickets at 124‑4 (F du Plessis) and 181‑5 (D Wiese) left them just short of the target.
+
+Dublin’s chase unfolded with 74/1 in the powerplay (overs 1‑6) at a run rate of 12.33, propelled by the opening partnership of HT Tector and JM Vince. After the early loss of DJ Willey (0‑1) in the first over, the pair added a 100‑run stand (48 balls) to push the score to 101‑2 at 8.5 overs. Turning points such as Over 1 (DJ Willey) conceding 17 runs and Over 6 (A Nortje) yielding 25 runs kept the required rate manageable. A late surge saw Vince reach 106 (61) not out, guiding Dublin to 192/5 in 19.0 overs at a run rate of 10.11 and securing the win by 5 wickets.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Rotterdam Dockers**: 188/5 in 20.0 overs (RR 9.4)
 - **Dublin Guardians**: 192/5 in 19.0 overs (RR 10.11, chasing 189)
