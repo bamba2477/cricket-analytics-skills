@@ -1,0 +1,164 @@
+{
+ "match": {
+  "teams": [
+   "Namibia",
+   "United Arab Emirates"
+  ],
+  "dates": [
+   "2026-10-03"
+  ],
+  "venue": "Grand Prairie Stadium, Dallas",
+  "city": "Dallas",
+  "event": "ICC Men's Cricket World Cup League 2",
+  "match_number": 127,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "United Arab Emirates"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Namibia",
+   "batting_team": "Namibia",
+   "bowling_team": "United Arab Emirates",
+   "super_over": false,
+   "total": 9,
+   "wickets": 0,
+   "overs": "2.0",
+   "run_rate": 4.5,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "legbyes": 4
+   },
+   "batting": [
+    {
+     "name": "L Steenkamp",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "JN Frylinck",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 9,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 22.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Khuzaima Tanveer",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 2,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ibrar Ahmad",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 5,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "2.0",
+     "runs": 9,
+     "wickets": 0,
+     "run_rate": 4.5
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 12,
+     "batters": [
+      "L Steenkamp",
+      "JN Frylinck"
+     ],
+     "contributions": {
+      "L Steenkamp": 1,
+      "JN Frylinck": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrar Ahmad",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "JN Frylinck",
+    "runs": 2,
+    "balls": 9,
+    "strike_rate": 22.2
+   },
+   {
+    "name": "L Steenkamp",
+    "runs": 1,
+    "balls": 3,
+    "strike_rate": 33.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Khuzaima Tanveer",
+    "figures": "0/2",
+    "overs": "1.0",
+    "economy": 2.0
+   },
+   {
+    "name": "Ibrar Ahmad",
+    "figures": "0/3",
+    "overs": "1.0",
+    "economy": 3.0
+   }
+  ]
+ },
+ "turning_points": [],
+ "checks": []
+}

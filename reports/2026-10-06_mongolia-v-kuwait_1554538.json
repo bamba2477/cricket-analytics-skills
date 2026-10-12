@@ -1,0 +1,767 @@
+{
+ "match": {
+  "teams": [
+   "Mongolia",
+   "Kuwait"
+  ],
+  "dates": [
+   "2026-10-06"
+  ],
+  "venue": "YSD-UKM Cricket Oval, Bangi",
+  "city": "Bangi",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 6,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Kuwait"
+  },
+  "player_of_match": [
+   "MNM Aslam"
+  ],
+  "result": "Kuwait won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Mongolia",
+   "batting_team": "Mongolia",
+   "bowling_team": "Kuwait",
+   "super_over": false,
+   "total": 42,
+   "wickets": 10,
+   "overs": "14.5",
+   "run_rate": 2.83,
+   "target": null,
+   "extras": {
+    "wides": 3,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "U Batjargal",
+     "dismissal": "b Yasin Patel",
+     "runs": 2,
+     "balls": 10,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "G Ganbold",
+     "dismissal": "c R Sandaruwan b MNM Aslam",
+     "runs": 21,
+     "balls": 32,
+     "dots": 22,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 65.6
+    },
+    {
+     "name": "B Munkhdelger",
+     "dismissal": "lbw b MNM Aslam",
+     "runs": 4,
+     "balls": 8,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "S Gantulga",
+     "dismissal": "st CV Anto b MNM Aslam",
+     "runs": 3,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "L Erdenebulgan",
+     "dismissal": "c CV Anto b MNM Aslam",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "T Amarmend",
+     "dismissal": "b MNM Aslam",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "T Tumursukh",
+     "dismissal": "lbw b Adnan Idrees",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "B Namsrai",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 12,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 41.7
+    },
+    {
+     "name": "Z Shurentsetseg",
+     "dismissal": "c & b Meet Bhavsar",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "B Jargaltuya",
+     "dismissal": "st CV Anto b Meet Bhavsar",
+     "runs": 0,
+     "balls": 8,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "B Tamjidsuren",
+     "dismissal": "b Meet Bhavsar",
+     "runs": 2,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shahrukh Quddus",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Yasin Patel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 2.67,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MNM Aslam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 5,
+     "economy": 4.75,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Adnan Idrees",
+     "overs": "3.0",
+     "maidens": 2,
+     "runs": 5,
+     "wickets": 1,
+     "economy": 1.67,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Meet Bhavsar",
+     "overs": "1.5",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 3,
+     "economy": 2.18,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Umar",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 0,
+     "economy": 1.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 18,
+     "wickets": 2,
+     "run_rate": 3.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "8.5",
+     "runs": 24,
+     "wickets": 8,
+     "run_rate": 2.72
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 5,
+     "player": "U Batjargal",
+     "over": "1.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "B Munkhdelger",
+     "over": "4.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 20,
+     "player": "S Gantulga",
+     "over": "6.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 4,
+     "score": 20,
+     "player": "L Erdenebulgan",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 22,
+     "player": "T Amarmend",
+     "over": "8.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 27,
+     "player": "T Tumursukh",
+     "over": "9.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 37,
+     "player": "G Ganbold",
+     "over": "10.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 38,
+     "player": "Z Shurentsetseg",
+     "over": "12.4",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 40,
+     "player": "B Jargaltuya",
+     "over": "14.3",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 10,
+     "score": 42,
+     "player": "B Tamjidsuren",
+     "over": "14.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 5,
+     "balls": 12,
+     "batters": [
+      "U Batjargal",
+      "G Ganbold"
+     ],
+     "contributions": {
+      "U Batjargal": 2,
+      "G Ganbold": 1
+     },
+     "ended_by": "U Batjargal (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 11,
+     "balls": 18,
+     "batters": [
+      "G Ganbold",
+      "B Munkhdelger"
+     ],
+     "contributions": {
+      "G Ganbold": 6,
+      "B Munkhdelger": 4
+     },
+     "ended_by": "B Munkhdelger (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 4,
+     "balls": 8,
+     "batters": [
+      "G Ganbold",
+      "S Gantulga"
+     ],
+     "contributions": {
+      "G Ganbold": 1,
+      "S Gantulga": 3
+     },
+     "ended_by": "S Gantulga (stumped)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 11,
+     "batters": [
+      "L Erdenebulgan",
+      "G Ganbold"
+     ],
+     "contributions": {
+      "L Erdenebulgan": 0,
+      "G Ganbold": 0
+     },
+     "ended_by": "L Erdenebulgan (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "T Amarmend",
+      "G Ganbold"
+     ],
+     "contributions": {
+      "T Amarmend": 1,
+      "G Ganbold": 1
+     },
+     "ended_by": "T Amarmend (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 5,
+     "balls": 5,
+     "batters": [
+      "G Ganbold",
+      "T Tumursukh"
+     ],
+     "contributions": {
+      "G Ganbold": 5,
+      "T Tumursukh": 0
+     },
+     "ended_by": "T Tumursukh (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 10,
+     "balls": 7,
+     "batters": [
+      "B Namsrai",
+      "G Ganbold"
+     ],
+     "contributions": {
+      "B Namsrai": 3,
+      "G Ganbold": 7
+     },
+     "ended_by": "G Ganbold (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 10,
+     "batters": [
+      "B Namsrai",
+      "Z Shurentsetseg"
+     ],
+     "contributions": {
+      "B Namsrai": 0,
+      "Z Shurentsetseg": 0
+     },
+     "ended_by": "Z Shurentsetseg (caught and bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 11,
+     "batters": [
+      "B Jargaltuya",
+      "B Namsrai"
+     ],
+     "contributions": {
+      "B Jargaltuya": 0,
+      "B Namsrai": 2
+     },
+     "ended_by": "B Jargaltuya (stumped)"
+    },
+    {
+     "wicket": 10,
+     "runs": 2,
+     "balls": 2,
+     "batters": [
+      "B Tamjidsuren",
+      "B Namsrai"
+     ],
+     "contributions": {
+      "B Tamjidsuren": 2,
+      "B Namsrai": 0
+     },
+     "ended_by": "B Tamjidsuren (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shahrukh Quddus",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shahrukh Quddus",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Umar",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Kuwait",
+   "batting_team": "Kuwait",
+   "bowling_team": "Mongolia",
+   "super_over": false,
+   "total": 43,
+   "wickets": 0,
+   "overs": "3.3",
+   "run_rate": 12.29,
+   "target": 43,
+   "extras": {},
+   "batting": [
+    {
+     "name": "Adnan Idrees",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 7,
+     "dots": 3,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 185.7
+    },
+    {
+     "name": "R Sandaruwan",
+     "dismissal": "not out",
+     "runs": 30,
+     "balls": 14,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 214.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "L Erdenebulgan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "T Tumursukh",
+     "overs": "1.3",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 14.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Gantulga",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "3.3",
+     "runs": 43,
+     "wickets": 0,
+     "run_rate": 12.29
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 43,
+     "balls": 21,
+     "batters": [
+      "Adnan Idrees",
+      "R Sandaruwan"
+     ],
+     "contributions": {
+      "Adnan Idrees": 13,
+      "R Sandaruwan": 30
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Erdenebulgan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Tumursukh",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gantulga",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Tumursukh",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "R Sandaruwan",
+    "runs": 30,
+    "balls": 14,
+    "strike_rate": 214.3
+   },
+   {
+    "name": "G Ganbold",
+    "runs": 21,
+    "balls": 32,
+    "strike_rate": 65.6
+   },
+   {
+    "name": "Adnan Idrees",
+    "runs": 13,
+    "balls": 7,
+    "strike_rate": 185.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "MNM Aslam",
+    "figures": "5/19",
+    "overs": "4.0",
+    "economy": 4.75
+   },
+   {
+    "name": "Meet Bhavsar",
+    "figures": "3/4",
+    "overs": "1.5",
+    "economy": 2.18
+   },
+   {
+    "name": "Adnan Idrees",
+    "figures": "1/5",
+    "overs": "3.0",
+    "economy": 1.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Mongolia",
+   "type": "wicket_burst",
+   "over": 9,
+   "detail": "2 wickets fell in over 9 (bowled by MNM Aslam, 2 credited to MNM Aslam)"
+  },
+  {
+   "innings": 1,
+   "team": "Mongolia",
+   "type": "wicket_burst",
+   "over": 15,
+   "detail": "2 wickets fell in over 15 (bowled by Meet Bhavsar, 2 credited to Meet Bhavsar)"
+  }
+ ],
+ "checks": []
+}

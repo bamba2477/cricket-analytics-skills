@@ -1,0 +1,914 @@
+{
+ "match": {
+  "teams": [
+   "Bangladesh",
+   "Pakistan"
+  ],
+  "dates": [
+   "2026-10-01"
+  ],
+  "venue": "Korogi Sports Park",
+  "city": "Nisshin",
+  "event": "Asian Games Men's Cricket Competition",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Pakistan"
+  },
+  "player_of_match": [],
+  "result": "Pakistan won by 6 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "Pakistan",
+   "super_over": false,
+   "total": 111,
+   "wickets": 7,
+   "overs": "13.0",
+   "run_rate": 8.54,
+   "target": null,
+   "extras": {
+    "wides": 15,
+    "legbyes": 3,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Saif Hassan",
+     "dismissal": "lbw b Sufiyan Muqeem",
+     "runs": 19,
+     "balls": 17,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 111.8
+    },
+    {
+     "name": "Tanzid Hasan",
+     "dismissal": "c Sahibzada Farhan b Arafat Minhas",
+     "runs": 7,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "Liton Das",
+     "dismissal": "b Saim Ayub",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Parvez Hossain Emon",
+     "dismissal": "c Mohammad Wasim b Arafat Minhas",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Towhid Hridoy",
+     "dismissal": "c Saim Ayub b Sufiyan Muqeem",
+     "runs": 42,
+     "balls": 25,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 4,
+     "strike_rate": 168.0
+    },
+    {
+     "name": "Mosaddek Hossain",
+     "dismissal": "c Sahibzada Farhan b Sufiyan Muqeem",
+     "runs": 11,
+     "balls": 16,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 68.8
+    },
+    {
+     "name": "Rishad Hossain",
+     "dismissal": "run out (Usman Khan, Ahmed Daniyal)",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Mahedi Hasan",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 4,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ahmed Daniyal",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 7,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Arafat Minhas",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 2,
+     "economy": 7.67,
+     "dots": 11,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Saim Ayub",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 1,
+     "economy": 1.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Abrar Ahmed",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 14.5,
+     "dots": 3,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Sufiyan Muqeem",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 3,
+     "economy": 8.67,
+     "dots": 10,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "Mohammad Wasim",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 43,
+     "wickets": 3,
+     "run_rate": 7.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "7.0",
+     "runs": 68,
+     "wickets": 4,
+     "run_rate": 9.71
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 17,
+     "player": "Tanzid Hasan",
+     "over": "1.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 20,
+     "player": "Liton Das",
+     "over": "2.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 21,
+     "player": "Parvez Hossain Emon",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 45,
+     "player": "Saif Hassan",
+     "over": "6.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 98,
+     "player": "Towhid Hridoy",
+     "over": "11.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 99,
+     "player": "Mosaddek Hossain",
+     "over": "11.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 111,
+     "player": "Rishad Hossain",
+     "over": "12.6",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 17,
+     "balls": 10,
+     "batters": [
+      "Saif Hassan",
+      "Tanzid Hasan"
+     ],
+     "contributions": {
+      "Saif Hassan": 7,
+      "Tanzid Hasan": 7
+     },
+     "ended_by": "Tanzid Hasan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "Liton Das",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Liton Das": 2,
+      "Saif Hassan": 1
+     },
+     "ended_by": "Liton Das (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 5,
+     "batters": [
+      "Parvez Hossain Emon",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Parvez Hossain Emon": 1,
+      "Saif Hassan": 0
+     },
+     "ended_by": "Parvez Hossain Emon (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 24,
+     "balls": 19,
+     "batters": [
+      "Towhid Hridoy",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Towhid Hridoy": 11,
+      "Saif Hassan": 11
+     },
+     "ended_by": "Saif Hassan (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 53,
+     "balls": 30,
+     "batters": [
+      "Mosaddek Hossain",
+      "Towhid Hridoy"
+     ],
+     "contributions": {
+      "Mosaddek Hossain": 11,
+      "Towhid Hridoy": 31
+     },
+     "ended_by": "Towhid Hridoy (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Rishad Hossain",
+      "Mosaddek Hossain"
+     ],
+     "contributions": {
+      "Rishad Hossain": 1,
+      "Mosaddek Hossain": 0
+     },
+     "ended_by": "Mosaddek Hossain (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 12,
+     "balls": 7,
+     "batters": [
+      "Mahedi Hasan",
+      "Rishad Hossain"
+     ],
+     "contributions": {
+      "Mahedi Hasan": 8,
+      "Rishad Hossain": 1
+     },
+     "ended_by": "Rishad Hossain (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ahmed Daniyal",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abrar Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohammad Wasim",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abrar Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 13,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Ahmed Daniyal",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Pakistan",
+   "batting_team": "Pakistan",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 112,
+   "wickets": 4,
+   "overs": "11.3",
+   "run_rate": 9.74,
+   "target": 112,
+   "extras": {
+    "wides": 2,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "Sahibzada Farhan",
+     "dismissal": "c Towhid Hridoy b Mahedi Hasan",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Maaz Sadaqat",
+     "dismissal": "c Towhid Hridoy b Nasum Ahmed",
+     "runs": 15,
+     "balls": 7,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 214.3
+    },
+    {
+     "name": "Usman Khan",
+     "dismissal": "c Nasum Ahmed b Rishad Hossain",
+     "runs": 14,
+     "balls": 9,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 155.6
+    },
+    {
+     "name": "Saim Ayub",
+     "dismissal": "c Tanzid Hasan b Mustafizur Rahman",
+     "runs": 21,
+     "balls": 12,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 175.0
+    },
+    {
+     "name": "Hassan Nawaz",
+     "dismissal": "not out",
+     "runs": 27,
+     "balls": 22,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 122.7
+    },
+    {
+     "name": "Abdul Samad",
+     "dismissal": "not out",
+     "runs": 30,
+     "balls": 15,
+     "dots": 5,
+     "fours": 5,
+     "sixes": 1,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Mahedi Hasan",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 5.67,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nasum Ahmed",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 11.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mustafizur Rahman",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 41,
+     "wickets": 1,
+     "economy": 20.5,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Rishad Hossain",
+     "overs": "2.3",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 4.8,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Shoriful Islam",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 53,
+     "wickets": 3,
+     "run_rate": 8.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "5.3",
+     "runs": 59,
+     "wickets": 1,
+     "run_rate": 10.73
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "Sahibzada Farhan",
+     "over": "0.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "Maaz Sadaqat",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 38,
+     "player": "Saim Ayub",
+     "over": "3.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 53,
+     "player": "Usman Khan",
+     "over": "6.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 6,
+     "batters": [
+      "Sahibzada Farhan",
+      "Maaz Sadaqat"
+     ],
+     "contributions": {
+      "Sahibzada Farhan": 1,
+      "Maaz Sadaqat": 5
+     },
+     "ended_by": "Sahibzada Farhan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 10,
+     "balls": 5,
+     "batters": [
+      "Maaz Sadaqat",
+      "Usman Khan"
+     ],
+     "contributions": {
+      "Maaz Sadaqat": 10,
+      "Usman Khan": 0
+     },
+     "ended_by": "Maaz Sadaqat (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 22,
+     "balls": 13,
+     "batters": [
+      "Saim Ayub",
+      "Usman Khan"
+     ],
+     "contributions": {
+      "Saim Ayub": 21,
+      "Usman Khan": 1
+     },
+     "ended_by": "Saim Ayub (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 13,
+     "batters": [
+      "Usman Khan",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Usman Khan": 13,
+      "Hassan Nawaz": 1
+     },
+     "ended_by": "Usman Khan (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 59,
+     "balls": 32,
+     "batters": [
+      "Abdul Samad",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Abdul Samad": 30,
+      "Hassan Nawaz": 26
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nasum Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nasum Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nasum Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 23,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Towhid Hridoy",
+    "runs": 42,
+    "balls": 25,
+    "strike_rate": 168.0
+   },
+   {
+    "name": "Abdul Samad",
+    "runs": 30,
+    "balls": 15,
+    "strike_rate": 200.0
+   },
+   {
+    "name": "Hassan Nawaz",
+    "runs": 27,
+    "balls": 22,
+    "strike_rate": 122.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Sufiyan Muqeem",
+    "figures": "3/26",
+    "overs": "3.0",
+    "economy": 8.67
+   },
+   {
+    "name": "Arafat Minhas",
+    "figures": "2/23",
+    "overs": "3.0",
+    "economy": 7.67
+   },
+   {
+    "name": "Saim Ayub",
+    "figures": "1/3",
+    "overs": "2.0",
+    "economy": 1.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bangladesh",
+   "type": "collapse",
+   "over": 2,
+   "detail": "3 wickets fell between overs 2 and 4"
+  },
+  {
+   "innings": 1,
+   "team": "Bangladesh",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (Abrar Ahmed) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 12,
+   "detail": "2 wickets fell in over 12 (bowled by Sufiyan Muqeem, 2 credited to Sufiyan Muqeem)"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (Mustafizur Rahman) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 53 scored, needed 59 from 7 overs (RRR 8.43)"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "big_over",
+   "over": 10,
+   "detail": "Over 10 (Mustafizur Rahman) went for 23 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Pakistan",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 99 scored, needed 13 from 3 overs (RRR 4.33)"
+  }
+ ],
+ "checks": []
+}

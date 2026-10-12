@@ -1,0 +1,1461 @@
+{
+ "match": {
+  "teams": [
+   "Australia",
+   "South Africa"
+  ],
+  "dates": [
+   "2026-09-30"
+  ],
+  "venue": "Senwes Park, Potchefstroom",
+  "city": "Potchefstroom",
+  "event": "Australia tour of South Africa",
+  "match_number": 3,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "South Africa"
+  },
+  "player_of_match": [
+   "AT Carey"
+  ],
+  "result": "Australia won by 45 runs (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Australia",
+   "batting_team": "Australia",
+   "bowling_team": "South Africa",
+   "super_over": false,
+   "total": 322,
+   "wickets": 9,
+   "overs": "50.0",
+   "run_rate": 6.44,
+   "target": null,
+   "extras": {
+    "legbyes": 8,
+    "noballs": 2,
+    "wides": 9,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "MR Marsh",
+     "dismissal": "lbw b BC Fortuin",
+     "runs": 56,
+     "balls": 42,
+     "dots": 22,
+     "fours": 8,
+     "sixes": 2,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "TM Head",
+     "dismissal": "b C Bosch",
+     "runs": 24,
+     "balls": 20,
+     "dots": 11,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 120.0
+    },
+    {
+     "name": "C Connolly",
+     "dismissal": "b G Coetzee",
+     "runs": 23,
+     "balls": 33,
+     "dots": 17,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 69.7
+    },
+    {
+     "name": "OJ Peake",
+     "dismissal": "c BC Fortuin b C Bosch",
+     "runs": 48,
+     "balls": 53,
+     "dots": 25,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 90.6
+    },
+    {
+     "name": "AT Carey",
+     "dismissal": "c LB Williams b C Bosch",
+     "runs": 74,
+     "balls": 88,
+     "dots": 43,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 84.1
+    },
+    {
+     "name": "MT Renshaw",
+     "dismissal": "c AK Markram b G Coetzee",
+     "runs": 30,
+     "balls": 29,
+     "dots": 13,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 103.4
+    },
+    {
+     "name": "C Green",
+     "dismissal": "c Q de Kock b C Bosch",
+     "runs": 23,
+     "balls": 18,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 127.8
+    },
+    {
+     "name": "XC Bartlett",
+     "dismissal": "b LB Williams",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "PJ Cummins",
+     "dismissal": "c MP Breetzke b LB Williams",
+     "runs": 11,
+     "balls": 6,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 183.3
+    },
+    {
+     "name": "MA Starc",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 7,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "A Zampa",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "G Coetzee",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 61,
+     "wickets": 2,
+     "economy": 6.78,
+     "dots": 30,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "LB Williams",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 48,
+     "wickets": 2,
+     "economy": 8.0,
+     "dots": 18,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "C Bosch",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 60,
+     "wickets": 4,
+     "economy": 6.67,
+     "dots": 29,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "BC Fortuin",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 50,
+     "wickets": 1,
+     "economy": 5.56,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N Mokoena",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 42,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 20,
+     "wides": 3,
+     "noballs": 1
+    },
+    {
+     "name": "AK Markram",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 42,
+     "wickets": 0,
+     "economy": 5.25,
+     "dots": 21,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "T Stubbs",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 82,
+     "wickets": 1,
+     "run_rate": 8.2
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 167,
+     "wickets": 3,
+     "run_rate": 5.57
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 73,
+     "wickets": 5,
+     "run_rate": 7.3
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 78,
+     "player": "TM Head",
+     "over": "8.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 94,
+     "player": "MR Marsh",
+     "over": "13.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 118,
+     "player": "C Connolly",
+     "over": "17.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 191,
+     "player": "OJ Peake",
+     "over": "31.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 257,
+     "player": "MT Renshaw",
+     "over": "41.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 285,
+     "player": "AT Carey",
+     "over": "45.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 288,
+     "player": "XC Bartlett",
+     "over": "46.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 298,
+     "player": "C Green",
+     "over": "47.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 314,
+     "player": "PJ Cummins",
+     "over": "48.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 78,
+     "balls": 52,
+     "batters": [
+      "MR Marsh",
+      "TM Head"
+     ],
+     "contributions": {
+      "MR Marsh": 51,
+      "TM Head": 24
+     },
+     "ended_by": "TM Head (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 16,
+     "balls": 27,
+     "batters": [
+      "C Connolly",
+      "MR Marsh"
+     ],
+     "contributions": {
+      "C Connolly": 11,
+      "MR Marsh": 5
+     },
+     "ended_by": "MR Marsh (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 24,
+     "balls": 24,
+     "batters": [
+      "OJ Peake",
+      "C Connolly"
+     ],
+     "contributions": {
+      "OJ Peake": 11,
+      "C Connolly": 12
+     },
+     "ended_by": "C Connolly (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 73,
+     "balls": 84,
+     "batters": [
+      "AT Carey",
+      "OJ Peake"
+     ],
+     "contributions": {
+      "AT Carey": 27,
+      "OJ Peake": 37
+     },
+     "ended_by": "OJ Peake (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 66,
+     "balls": 62,
+     "batters": [
+      "MT Renshaw",
+      "AT Carey"
+     ],
+     "contributions": {
+      "MT Renshaw": 30,
+      "AT Carey": 33
+     },
+     "ended_by": "MT Renshaw (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 28,
+     "balls": 26,
+     "batters": [
+      "C Green",
+      "AT Carey"
+     ],
+     "contributions": {
+      "C Green": 13,
+      "AT Carey": 14
+     },
+     "ended_by": "AT Carey (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "XC Bartlett",
+      "C Green"
+     ],
+     "contributions": {
+      "XC Bartlett": 2,
+      "C Green": 1
+     },
+     "ended_by": "XC Bartlett (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 10,
+     "balls": 6,
+     "batters": [
+      "PJ Cummins",
+      "C Green"
+     ],
+     "contributions": {
+      "PJ Cummins": 1,
+      "C Green": 9
+     },
+     "ended_by": "C Green (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 16,
+     "balls": 7,
+     "batters": [
+      "MA Starc",
+      "PJ Cummins"
+     ],
+     "contributions": {
+      "MA Starc": 4,
+      "PJ Cummins": 10
+     },
+     "ended_by": "PJ Cummins (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 8,
+     "balls": 7,
+     "batters": [
+      "A Zampa",
+      "MA Starc"
+     ],
+     "contributions": {
+      "A Zampa": 0,
+      "MA Starc": 7
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Stubbs",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Stubbs",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Mokoena",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BC Fortuin",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LB Williams",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Bosch",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "South Africa",
+   "batting_team": "South Africa",
+   "bowling_team": "Australia",
+   "super_over": false,
+   "total": 145,
+   "wickets": 4,
+   "overs": "28.0",
+   "run_rate": 5.18,
+   "target": 191,
+   "extras": {
+    "wides": 3,
+    "legbyes": 4
+   },
+   "batting": [
+    {
+     "name": "AK Markram",
+     "dismissal": "lbw b XC Bartlett",
+     "runs": 15,
+     "balls": 16,
+     "dots": 10,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 93.8
+    },
+    {
+     "name": "Q de Kock",
+     "dismissal": "c MA Starc b XC Bartlett",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "RD Rickelton",
+     "dismissal": "not out",
+     "runs": 71,
+     "balls": 81,
+     "dots": 40,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 87.7
+    },
+    {
+     "name": "MP Breetzke",
+     "dismissal": "st AT Carey b A Zampa",
+     "runs": 25,
+     "balls": 29,
+     "dots": 14,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 86.2
+    },
+    {
+     "name": "T Stubbs",
+     "dismissal": "lbw b A Zampa",
+     "runs": 14,
+     "balls": 17,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 82.4
+    },
+    {
+     "name": "C Bosch",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 20,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 65.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MA Starc",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "XC Bartlett",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 20,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PJ Cummins",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 3.4,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "C Connolly",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 4.33,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MT Renshaw",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Zampa",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 2,
+     "economy": 5.67,
+     "dots": 16,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "OJ Peake",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 54,
+     "wickets": 2,
+     "run_rate": 5.4
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "18.0",
+     "runs": 91,
+     "wickets": 2,
+     "run_rate": 5.06
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "Q de Kock",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 30,
+     "player": "AK Markram",
+     "over": "5.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 102,
+     "player": "MP Breetzke",
+     "over": "17.6",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 4,
+     "score": 125,
+     "player": "T Stubbs",
+     "over": "21.6",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 11,
+     "batters": [
+      "AK Markram",
+      "Q de Kock"
+     ],
+     "contributions": {
+      "AK Markram": 4,
+      "Q de Kock": 0
+     },
+     "ended_by": "Q de Kock (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 26,
+     "balls": 24,
+     "batters": [
+      "RD Rickelton",
+      "AK Markram"
+     ],
+     "contributions": {
+      "RD Rickelton": 14,
+      "AK Markram": 11
+     },
+     "ended_by": "AK Markram (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 72,
+     "balls": 73,
+     "batters": [
+      "MP Breetzke",
+      "RD Rickelton"
+     ],
+     "contributions": {
+      "MP Breetzke": 25,
+      "RD Rickelton": 43
+     },
+     "ended_by": "MP Breetzke (stumped)"
+    },
+    {
+     "wicket": 4,
+     "runs": 23,
+     "balls": 24,
+     "batters": [
+      "RD Rickelton",
+      "T Stubbs"
+     ],
+     "contributions": {
+      "RD Rickelton": 7,
+      "T Stubbs": 14
+     },
+     "ended_by": "T Stubbs (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 20,
+     "balls": 36,
+     "batters": [
+      "RD Rickelton",
+      "C Bosch"
+     ],
+     "contributions": {
+      "RD Rickelton": 7,
+      "C Bosch": 13
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "XC Bartlett",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "XC Bartlett",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "XC Bartlett",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "XC Bartlett",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "XC Bartlett",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "OJ Peake",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "OJ Peake",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Zampa",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "AT Carey",
+    "runs": 74,
+    "balls": 88,
+    "strike_rate": 84.1
+   },
+   {
+    "name": "RD Rickelton",
+    "runs": 71,
+    "balls": 81,
+    "strike_rate": 87.7
+   },
+   {
+    "name": "MR Marsh",
+    "runs": 56,
+    "balls": 42,
+    "strike_rate": 133.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "C Bosch",
+    "figures": "4/60",
+    "overs": "9.0",
+    "economy": 6.67
+   },
+   {
+    "name": "XC Bartlett",
+    "figures": "2/25",
+    "overs": "5.0",
+    "economy": 5.0
+   },
+   {
+    "name": "A Zampa",
+    "figures": "2/34",
+    "overs": "6.0",
+    "economy": 5.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (G Coetzee) went for 18 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 40,
+   "detail": "Over 40 (N Mokoena) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Australia",
+   "type": "collapse",
+   "over": 46,
+   "detail": "3 wickets fell between overs 46 and 48"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 34 scored, needed 157 from 22 overs (RRR 7.14)"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 54 scored, needed 137 from 18 overs (RRR 7.61)"
+  },
+  {
+   "innings": 2,
+   "team": "South Africa",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 89 scored, needed 102 from 13 overs (RRR 7.85)"
+  }
+ ],
+ "checks": []
+}

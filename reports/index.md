@@ -2,6 +2,30 @@
 
 | Date | Match | Format | Event | Result |
 |---|---|---|---|---|
+| 2026-10-07 | [Zimbabwe vs West Indies](2026-10-07_zimbabwe-v-west-indies_1554980.md) | T20 | West Indies Women tour of Zimbabwe | West Indies won by 8 wickets |
+| 2026-10-06 | [West Indies vs India](2026-10-06_west-indies-v-india_1529230.md) | T20 | West Indies tour of India | India won by 8 wickets |
+| 2026-10-06 | [Thailand vs Qatar](2026-10-06_thailand-v-qatar_1554536.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Qatar won by 7 wickets |
+| 2026-10-06 | [Mongolia vs Kuwait](2026-10-06_mongolia-v-kuwait_1554538.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 10 wickets |
+| 2026-10-06 | [Bahrain vs Bhutan](2026-10-06_bahrain-v-bhutan_1554537.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bahrain won by 66 runs |
+| 2026-10-05 | [Zimbabwe vs West Indies](2026-10-05_zimbabwe-v-west-indies_1554979.md) | T20 | West Indies Women tour of Zimbabwe | West Indies won by 8 wickets |
+| 2026-10-05 | [United Arab Emirates vs United States of America](2026-10-05_united-arab-emirates-v-united-states-of-america_1554410.md) | ODI | ICC Men's Cricket World Cup League 2 | United States of America won by 6 wickets |
+| 2026-10-05 | [South Korea vs Indonesia](2026-10-05_south-korea-v-indonesia_1555138.md) | T20 | Indonesia tour of South Korea | South Korea won by 42 runs |
+| 2026-10-05 | [Kuwait vs Qatar](2026-10-05_kuwait-v-qatar_1554535.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 58 runs |
+| 2026-10-05 | [Indonesia vs South Korea](2026-10-05_indonesia-v-south-korea_1555137.md) | T20 | Indonesia tour of South Korea | South Korea won by 8 wickets |
+| 2026-10-05 | [Bhutan vs Myanmar](2026-10-05_bhutan-v-myanmar_1554533.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bhutan won by 27 runs |
+| 2026-10-05 | [Bahrain vs Thailand](2026-10-05_bahrain-v-thailand_1554534.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bahrain won by 7 runs |
+| 2026-10-04 | [Indonesia vs South Korea](2026-10-04_indonesia-v-south-korea_1555136.md) | T20 | Indonesia tour of South Korea | South Korea won by 9 wickets |
+| 2026-10-03 | [Zimbabwe vs West Indies](2026-10-03_zimbabwe-v-west-indies_1554978.md) | T20 | West Indies Women tour of Zimbabwe | West Indies won by 8 wickets |
+| 2026-10-03 | [Sri Lanka vs Bangladesh](2026-10-03_sri-lanka-v-bangladesh_1552778.md) | T20 | Asian Games Men's Cricket Competition | Sri Lanka won by 63 runs |
+| 2026-10-03 | [Namibia vs United Arab Emirates](2026-10-03_namibia-v-united-arab-emirates_1554409.md) | ODI | ICC Men's Cricket World Cup League 2 | No result |
+| 2026-10-03 | [Indonesia vs South Korea](2026-10-03_indonesia-v-south-korea_1555135.md) | T20 | Indonesia tour of South Korea | South Korea won by 7 wickets |
+| 2026-10-03 | [India vs West Indies](2026-10-03_india-v-west-indies_1529229.md) | ODI | West Indies tour of India | West Indies won by 5 wickets |
+| 2026-10-03 | [India vs Pakistan](2026-10-03_india-v-pakistan_1552779.md) | T20 | Asian Games Men's Cricket Competition | India won by 19 runs |
+| 2026-10-01 | [India vs Sri Lanka](2026-10-01_india-v-sri-lanka_1552777.md) | T20 | Asian Games Men's Cricket Competition | India won by 124 runs |
+| 2026-10-01 | [Bangladesh vs Pakistan](2026-10-01_bangladesh-v-pakistan_1552776.md) | T20 | Asian Games Men's Cricket Competition | Pakistan won by 6 wickets |
+| 2026-09-30 | [West Indies vs Zimbabwe](2026-09-30_west-indies-v-zimbabwe_1554977.md) | ODI | West Indies Women tour of Zimbabwe | West Indies won by 91 runs |
+| 2026-09-30 | [West Indies vs India](2026-09-30_west-indies-v-india_1529228.md) | ODI | West Indies tour of India | India won by 8 wickets |
+| 2026-09-30 | [Australia vs South Africa](2026-09-30_australia-v-south-africa_1525657.md) | ODI | Australia tour of South Africa | Australia won by 45 runs (D/L) |
 | 2026-09-17 | [United Arab Emirates vs Malaysia](2026-09-17_united-arab-emirates-v-malaysia_1552897.md) | T20 | United Arab Emirates tour of Malaysia | United Arab Emirates won by 59 runs |
 | 2026-09-17 | [Uganda vs Rwanda](2026-09-17_uganda-v-rwanda_1552922.md) | T20 | Africa Continental Cup | Uganda won by 72 runs |
 | 2026-09-17 | [Trinbago Knight Riders vs Guyana Amazon Warriors](2026-09-17_trinbago-knight-riders-v-guyana-amazon-warriors_1540220.md) | T20 | Women's Caribbean Premier League | Guyana Amazon Warriors won by 2 wickets |
@@ -10,6 +34,7 @@
 | 2026-09-17 | [South Africa vs Zimbabwe](2026-09-17_south-africa-v-zimbabwe_1543890.md) | T20 | South Africa Women tour of Zimbabwe | South Africa won by 80 runs |
 | 2026-09-17 | [Rotterdam Dockers vs Dublin Guardians](2026-09-17_rotterdam-dockers-v-dublin-guardians_1547901.md) | T20 | European T20 Premier League | Dublin Guardians won by 5 wickets |
 | 2026-09-17 | [Kenya vs Botswana](2026-09-17_kenya-v-botswana_1552923.md) | T20 | Africa Continental Cup | Kenya won by 64 runs |
+| 2026-09-17 | [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](2026-09-17_guyana-amazon-warriors-v-antigua-and-barbuda-falcons_1534215.md) | T20 | Caribbean Premier League | Antigua and Barbuda Falcons won by 9 wickets |
 | 2026-09-17 | [Belfast Wolves vs Edinburgh Castle Rockers](2026-09-17_belfast-wolves-v-edinburgh-castle-rockers_1547900.md) | T20 | European T20 Premier League | Belfast Wolves won by 9 runs (D/L) |
 | 2026-09-16 | [Sinhalese Sports Club vs Tamil Union Cricket and Athletic Club](2026-09-16_sinhalese-sports-club-v-tamil-union-cricket-and-athletic-club_1535542.md) | T20 | Major Clubs T20 Tournament | Tamil Union Cricket and Athletic Club won by 7 wickets |
 | 2026-09-16 | [Sierra Leone vs Rwanda](2026-09-16_sierra-leone-v-rwanda_1552921.md) | T20 | Africa Continental Cup | Rwanda won by 6 wickets |

@@ -1,0 +1,856 @@
+{
+ "match": {
+  "teams": [
+   "Guyana Amazon Warriors",
+   "Antigua and Barbuda Falcons"
+  ],
+  "dates": [
+   "2026-09-17"
+  ],
+  "venue": "Kensington Oval",
+  "city": "Bridgetown",
+  "event": "Caribbean Premier League",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Antigua and Barbuda Falcons"
+  },
+  "player_of_match": [
+   "Shadab Khan"
+  ],
+  "result": "Antigua and Barbuda Falcons won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Guyana Amazon Warriors",
+   "batting_team": "Guyana Amazon Warriors",
+   "bowling_team": "Antigua and Barbuda Falcons",
+   "super_over": false,
+   "total": 76,
+   "wickets": 10,
+   "overs": "15.0",
+   "run_rate": 5.07,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "byes": 5
+   },
+   "batting": [
+    {
+     "name": "GD Phillips",
+     "dismissal": "c E Lewis b Sufiyan Muqeem",
+     "runs": 16,
+     "balls": 15,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 106.7
+    },
+    {
+     "name": "M Dindyal",
+     "dismissal": "c FA Allen b JM James",
+     "runs": 11,
+     "balls": 18,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 61.1
+    },
+    {
+     "name": "SD Hope",
+     "dismissal": "lbw b Sufiyan Muqeem",
+     "runs": 16,
+     "balls": 15,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 106.7
+    },
+    {
+     "name": "Mohammad Haris",
+     "dismissal": "c AA Jangoo b Sufiyan Muqeem",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "SO Hetmyer",
+     "dismissal": "c Hassan Nawaz b Shadab Khan",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Mehedi Hasan Miraz",
+     "dismissal": "lbw b Shadab Khan",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Q Sampson",
+     "dismissal": "b Shadab Khan",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Pierre",
+     "dismissal": "b Sufiyan Muqeem",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Imran Tahir",
+     "dismissal": "b Shadab Khan",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "R Shepherd",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 13,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 107.7
+    },
+    {
+     "name": "S Joseph",
+     "dismissal": "c E Lewis b SK Springer",
+     "runs": 7,
+     "balls": 15,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 46.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "FA Allen",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AS Joseph",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 0,
+     "economy": 6.33,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "JM James",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 1,
+     "economy": 1.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shadab Khan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 4,
+     "economy": 4.0,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Sufiyan Muqeem",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 4,
+     "economy": 3.25,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SK Springer",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 34,
+     "wickets": 1,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 42,
+     "wickets": 9,
+     "run_rate": 4.67
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 26,
+     "player": "M Dindyal",
+     "over": "4.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 40,
+     "player": "GD Phillips",
+     "over": "7.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 42,
+     "player": "Mohammad Haris",
+     "over": "7.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 45,
+     "player": "SO Hetmyer",
+     "over": "8.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 45,
+     "player": "Mehedi Hasan Miraz",
+     "over": "8.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 45,
+     "player": "Q Sampson",
+     "over": "8.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 48,
+     "player": "K Pierre",
+     "over": "9.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 49,
+     "player": "SD Hope",
+     "over": "9.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 49,
+     "player": "Imran Tahir",
+     "over": "10.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 76,
+     "player": "S Joseph",
+     "over": "14.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 26,
+     "balls": 26,
+     "batters": [
+      "GD Phillips",
+      "M Dindyal"
+     ],
+     "contributions": {
+      "GD Phillips": 14,
+      "M Dindyal": 11
+     },
+     "ended_by": "M Dindyal (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 14,
+     "balls": 17,
+     "batters": [
+      "SD Hope",
+      "GD Phillips"
+     ],
+     "contributions": {
+      "SD Hope": 12,
+      "GD Phillips": 2
+     },
+     "ended_by": "GD Phillips (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "Mohammad Haris",
+      "SD Hope"
+     ],
+     "contributions": {
+      "Mohammad Haris": 1,
+      "SD Hope": 1
+     },
+     "ended_by": "Mohammad Haris (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "SO Hetmyer",
+      "SD Hope"
+     ],
+     "contributions": {
+      "SO Hetmyer": 2,
+      "SD Hope": 1
+     },
+     "ended_by": "SO Hetmyer (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Mehedi Hasan Miraz",
+      "SD Hope"
+     ],
+     "contributions": {
+      "Mehedi Hasan Miraz": 0,
+      "SD Hope": 0
+     },
+     "ended_by": "Mehedi Hasan Miraz (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Q Sampson",
+      "SD Hope"
+     ],
+     "contributions": {
+      "Q Sampson": 0,
+      "SD Hope": 0
+     },
+     "ended_by": "Q Sampson (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "SD Hope",
+      "K Pierre"
+     ],
+     "contributions": {
+      "SD Hope": 2,
+      "K Pierre": 1
+     },
+     "ended_by": "K Pierre (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "Imran Tahir",
+      "SD Hope"
+     ],
+     "contributions": {
+      "Imran Tahir": 1,
+      "SD Hope": 0
+     },
+     "ended_by": "SD Hope (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Imran Tahir",
+      "R Shepherd"
+     ],
+     "contributions": {
+      "Imran Tahir": 0,
+      "R Shepherd": 0
+     },
+     "ended_by": "Imran Tahir (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 27,
+     "balls": 28,
+     "batters": [
+      "S Joseph",
+      "R Shepherd"
+     ],
+     "contributions": {
+      "S Joseph": 7,
+      "R Shepherd": 14
+     },
+     "ended_by": "S Joseph (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FA Allen",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AS Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FA Allen",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AS Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM James",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AS Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shadab Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 3,
+     "bowler_wickets": 3,
+     "bowler": "Shadab Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shadab Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shadab Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sufiyan Muqeem",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Springer",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Antigua and Barbuda Falcons",
+   "batting_team": "Antigua and Barbuda Falcons",
+   "bowling_team": "Guyana Amazon Warriors",
+   "super_over": false,
+   "total": 77,
+   "wickets": 1,
+   "overs": "5.2",
+   "run_rate": 14.44,
+   "target": 77,
+   "extras": {
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "RRS Cornwall",
+     "dismissal": "c SO Hetmyer b Imran Tahir",
+     "runs": 49,
+     "balls": 16,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 6,
+     "strike_rate": 306.2
+    },
+    {
+     "name": "E Lewis",
+     "dismissal": "not out",
+     "runs": 23,
+     "balls": 13,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 176.9
+    },
+    {
+     "name": "AA Jangoo",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 4,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Imran Tahir",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 10.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mehedi Hasan Miraz",
+     "overs": "1.2",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Pierre",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 26.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Joseph",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 21.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.2",
+     "runs": 77,
+     "wickets": 1,
+     "run_rate": 14.44
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 71,
+     "player": "RRS Cornwall",
+     "over": "4.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 71,
+     "balls": 26,
+     "batters": [
+      "RRS Cornwall",
+      "E Lewis"
+     ],
+     "contributions": {
+      "RRS Cornwall": 49,
+      "E Lewis": 21
+     },
+     "ended_by": "RRS Cornwall (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 6,
+     "balls": 6,
+     "batters": [
+      "AA Jangoo",
+      "E Lewis"
+     ],
+     "contributions": {
+      "AA Jangoo": 4,
+      "E Lewis": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Imran Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 26,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Pierre",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 21,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Imran Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "RRS Cornwall",
+    "runs": 49,
+    "balls": 16,
+    "strike_rate": 306.2
+   },
+   {
+    "name": "E Lewis",
+    "runs": 23,
+    "balls": 13,
+    "strike_rate": 176.9
+   },
+   {
+    "name": "GD Phillips",
+    "runs": 16,
+    "balls": 15,
+    "strike_rate": 106.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Sufiyan Muqeem",
+    "figures": "4/13",
+    "overs": "4.0",
+    "economy": 3.25
+   },
+   {
+    "name": "Shadab Khan",
+    "figures": "4/16",
+    "overs": "4.0",
+    "economy": 4.0
+   },
+   {
+    "name": "JM James",
+    "figures": "1/1",
+    "overs": "1.0",
+    "economy": 1.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Guyana Amazon Warriors",
+   "type": "wicket_burst",
+   "over": 8,
+   "detail": "2 wickets fell in over 8 (bowled by Sufiyan Muqeem, 2 credited to Sufiyan Muqeem)"
+  },
+  {
+   "innings": 1,
+   "team": "Guyana Amazon Warriors",
+   "type": "wicket_burst",
+   "over": 9,
+   "detail": "3 wickets fell in over 9 (bowled by Shadab Khan, 3 credited to Shadab Khan)"
+  },
+  {
+   "innings": 1,
+   "team": "Guyana Amazon Warriors",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by Sufiyan Muqeem, 2 credited to Sufiyan Muqeem)"
+  },
+  {
+   "innings": 2,
+   "team": "Antigua and Barbuda Falcons",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (K Pierre) went for 26 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Antigua and Barbuda Falcons",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (S Joseph) went for 21 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Antigua and Barbuda Falcons",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 77 scored, needed 0 from 14 overs (RRR 0.0)"
+  }
+ ],
+ "checks": []
+}
