@@ -2,7 +2,59 @@
 
 | Date | Match | Format | Event | Result |
 |---|---|---|---|---|
+| 2026-10-14 | [Thailand vs Bhutan](2026-10-14_thailand-v-bhutan_1554553.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Thailand won by 37 runs |
+| 2026-10-14 | [Saudi Arabia vs Maldives](2026-10-14_saudi-arabia-v-maldives_1554582.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 125 runs |
+| 2026-10-14 | [Mongolia vs Myanmar](2026-10-14_mongolia-v-myanmar_1554551.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Myanmar won by 9 wickets |
+| 2026-10-14 | [Hong Kong vs Singapore](2026-10-14_hong-kong-v-singapore_1554581.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Hong Kong won by 38 runs |
+| 2026-10-14 | [China vs Malaysia](2026-10-14_china-v-malaysia_1554580.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Malaysia won by 6 wickets |
+| 2026-10-14 | [Bangladesh vs Australia](2026-10-14_bangladesh-v-australia_1528718.md) | ODI | Bangladesh Women tour of Australia | Australia won by 8 wickets |
+| 2026-10-14 | [Bahrain vs Qatar](2026-10-14_bahrain-v-qatar_1554552.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Qatar won by 2 wickets |
+| 2026-10-13 | [United States of America vs Namibia](2026-10-13_united-states-of-america-v-namibia_1554414.md) | ODI | ICC Men's Cricket World Cup League 2 | Namibia won by 6 wickets |
+| 2026-10-13 | [Tasmania vs New South Wales](2026-10-13_tasmania-v-new-south-wales_1544849.md) | ODM | One-Day Cup (Australia) | Tasmania won by 57 runs (D/L) |
+| 2026-10-13 | [Queensland vs Western Australia](2026-10-13_queensland-v-western-australia_1544850.md) | ODM | One-Day Cup (Australia) | Queensland won by 15 runs |
+| 2026-10-13 | [Pakistan vs Sri Lanka](2026-10-13_pakistan-v-sri-lanka_1550710.md) | T20 | Sri Lanka tour of Pakistan | Sri Lanka won by 8 wickets |
+| 2026-10-13 | [Nepal vs Oman](2026-10-13_nepal-v-oman_1554417.md) | ODI | ICC Men's Cricket World Cup League 2 | Nepal won by 113 runs |
+| 2026-10-12 | [South Australia vs Victoria](2026-10-12_south-australia-v-victoria_1544848.md) | ODM | One-Day Cup (Australia) | South Australia won by 70 runs |
+| 2026-10-12 | [Saudi Arabia vs China](2026-10-12_saudi-arabia-v-china_1554579.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 64 runs |
+| 2026-10-12 | [Qatar vs Mongolia](2026-10-12_qatar-v-mongolia_1554548.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | No result |
+| 2026-10-12 | [Myanmar vs Thailand](2026-10-12_myanmar-v-thailand_1554549.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Thailand won by 9 wickets |
+| 2026-10-12 | [Malaysia vs Singapore](2026-10-12_malaysia-v-singapore_1554577.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Malaysia won by 37 runs |
+| 2026-10-12 | [Hong Kong vs Maldives](2026-10-12_hong-kong-v-maldives_1554578.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | No result |
+| 2026-10-12 | [Bhutan vs Kuwait](2026-10-12_bhutan-v-kuwait_1554550.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 8 wickets |
+| 2026-10-11 | [United Arab Emirates vs United States of America](2026-10-11_united-arab-emirates-v-united-states-of-america_1554413.md) | ODI | ICC Men's Cricket World Cup League 2 | United States of America won by 5 wickets |
+| 2026-10-11 | [Singapore vs China](2026-10-11_singapore-v-china_1554576.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Singapore won by 50 runs |
+| 2026-10-11 | [Saudi Arabia vs Hong Kong](2026-10-11_saudi-arabia-v-hong-kong_1554574.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 10 runs |
+| 2026-10-11 | [Pakistan vs Sri Lanka](2026-10-11_pakistan-v-sri-lanka_1550709.md) | T20 | Sri Lanka tour of Pakistan | Pakistan won by 82 runs |
+| 2026-10-11 | [Nepal vs Canada](2026-10-11_nepal-v-canada_1554416.md) | ODI | ICC Men's Cricket World Cup League 2 | Nepal won by 24 runs |
+| 2026-10-11 | [Myanmar vs Kuwait](2026-10-11_myanmar-v-kuwait_1554545.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 9 wickets |
+| 2026-10-11 | [Mongolia vs Bahrain](2026-10-11_mongolia-v-bahrain_1554547.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bahrain won by 8 wickets |
+| 2026-10-11 | [Maldives vs Malaysia](2026-10-11_maldives-v-malaysia_1554575.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Malaysia won by 6 wickets |
+| 2026-10-11 | [India vs West Indies](2026-10-11_india-v-west-indies_1529232.md) | T20 | West Indies tour of India | India won by 14 runs |
+| 2026-10-11 | [Bhutan vs Qatar](2026-10-11_bhutan-v-qatar_1554546.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Qatar won by 9 wickets |
+| 2026-10-11 | [Bangladesh vs Australia](2026-10-11_bangladesh-v-australia_1528717.md) | ODI | Bangladesh Women tour of Australia | Australia won by 9 wickets |
+| 2026-10-09 | [United Arab Emirates vs Namibia](2026-10-09_united-arab-emirates-v-namibia_1554412.md) | ODI | ICC Men's Cricket World Cup League 2 | Namibia won by 8 wickets |
+| 2026-10-09 | [Thailand vs Mongolia](2026-10-09_thailand-v-mongolia_1554542.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Thailand won by 183 runs |
+| 2026-10-09 | [Sri Lanka vs Pakistan](2026-10-09_sri-lanka-v-pakistan_1550708.md) | T20 | Sri Lanka tour of Pakistan | Pakistan won by 4 wickets |
+| 2026-10-09 | [Singapore vs Maldives](2026-10-09_singapore-v-maldives_1554573.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Singapore won by 33 runs |
+| 2026-10-09 | [Oman vs Canada](2026-10-09_oman-v-canada_1554415.md) | ODI | ICC Men's Cricket World Cup League 2 | Oman won by 41 runs |
+| 2026-10-09 | [Myanmar vs Qatar](2026-10-09_myanmar-v-qatar_1554544.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Qatar won by 9 wickets |
+| 2026-10-09 | [Malaysia vs Saudi Arabia](2026-10-09_malaysia-v-saudi-arabia_1554571.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 3 wickets |
+| 2026-10-09 | [Kuwait vs Bahrain](2026-10-09_kuwait-v-bahrain_1554543.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bahrain won by 6 wickets |
+| 2026-10-09 | [India vs West Indies](2026-10-09_india-v-west-indies_1529231.md) | T20 | West Indies tour of India | West Indies won by 6 wickets |
+| 2026-10-09 | [China vs Hong Kong](2026-10-09_china-v-hong-kong_1554572.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Hong Kong won by 8 wickets |
+| 2026-10-09 | [Bangladesh vs Australia](2026-10-09_bangladesh-v-australia_1528716.md) | ODI | Bangladesh Women tour of Australia | Australia won by 7 wickets |
+| 2026-10-09 | [Australia vs South Africa](2026-10-09_australia-v-south-africa_1525659.md) | Test | Australia tour of South Africa | Australia won by 214 runs |
+| 2026-10-08 | [Thailand vs Kuwait](2026-10-08_thailand-v-kuwait_1554539.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 9 wickets |
+| 2026-10-08 | [Tasmania vs New South Wales](2026-10-08_tasmania-v-new-south-wales_1544865.md) | MDM | Sheffield Shield | Draw |
+| 2026-10-08 | [Saudi Arabia vs Singapore](2026-10-08_saudi-arabia-v-singapore_1554569.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 75 runs |
+| 2026-10-08 | [Queensland vs Western Australia](2026-10-08_queensland-v-western-australia_1544866.md) | MDM | Sheffield Shield | Western Australia won by 2 wickets |
+| 2026-10-08 | [Myanmar vs Bahrain](2026-10-08_myanmar-v-bahrain_1554541.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bahrain won by 8 wickets |
+| 2026-10-08 | [Hong Kong vs Malaysia](2026-10-08_hong-kong-v-malaysia_1554570.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Hong Kong won by 7 runs (D/L) |
+| 2026-10-08 | [China vs Maldives](2026-10-08_china-v-maldives_1554568.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Maldives won by 10 wickets |
+| 2026-10-08 | [Bhutan vs Mongolia](2026-10-08_bhutan-v-mongolia_1554540.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Bhutan won by 136 runs |
 | 2026-10-07 | [Zimbabwe vs West Indies](2026-10-07_zimbabwe-v-west-indies_1554980.md) | T20 | West Indies Women tour of Zimbabwe | West Indies won by 8 wickets |
+| 2026-10-07 | [Victoria vs South Australia](2026-10-07_victoria-v-south-australia_1544864.md) | MDM | Sheffield Shield | South Australia won by 40 runs |
+| 2026-10-07 | [Namibia vs United States of America](2026-10-07_namibia-v-united-states-of-america_1554411.md) | ODI | ICC Men's Cricket World Cup League 2 | United States of America won by 4 wickets |
 | 2026-10-06 | [West Indies vs India](2026-10-06_west-indies-v-india_1529230.md) | T20 | West Indies tour of India | India won by 8 wickets |
 | 2026-10-06 | [Thailand vs Qatar](2026-10-06_thailand-v-qatar_1554536.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Qatar won by 7 wickets |
 | 2026-10-06 | [Mongolia vs Kuwait](2026-10-06_mongolia-v-kuwait_1554538.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Kuwait won by 10 wickets |

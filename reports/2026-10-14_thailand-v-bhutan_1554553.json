@@ -1,0 +1,1289 @@
+{
+ "match": {
+  "teams": [
+   "Thailand",
+   "Bhutan"
+  ],
+  "dates": [
+   "2026-10-14"
+  ],
+  "venue": "Selangor Turf Club, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 21,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Thailand"
+  },
+  "player_of_match": [
+   "N Senamontree"
+  ],
+  "result": "Thailand won by 37 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Thailand",
+   "batting_team": "Thailand",
+   "bowling_team": "Bhutan",
+   "super_over": false,
+   "total": 134,
+   "wickets": 8,
+   "overs": "20.0",
+   "run_rate": 6.7,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "AP Yadav",
+     "dismissal": "st Tshering Tashi b Tashi Phuntsho",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "P Suanchuai",
+     "dismissal": "c A Mongar b Tashi Phuntsho",
+     "runs": 11,
+     "balls": 7,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "P Jirapatananukul",
+     "dismissal": "c Tshering Tashi b T Jamtsho",
+     "runs": 5,
+     "balls": 6,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "AV Lazarus",
+     "dismissal": "c S Chophel b S Yeshi",
+     "runs": 12,
+     "balls": 21,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "C Chatphaisan",
+     "dismissal": "st Tshering Tashi b Tashi Dorji",
+     "runs": 37,
+     "balls": 34,
+     "dots": 18,
+     "fours": 0,
+     "sixes": 3,
+     "strike_rate": 108.8
+    },
+    {
+     "name": "C Pengkumta",
+     "dismissal": "c A Mongar b RM Dorji",
+     "runs": 25,
+     "balls": 22,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 113.6
+    },
+    {
+     "name": "P Thongsa",
+     "dismissal": "c Tashi Dorji b T Jamtsho",
+     "runs": 23,
+     "balls": 16,
+     "dots": 8,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 143.8
+    },
+    {
+     "name": "MK Thakur",
+     "dismissal": "c Tashi Dorji b RM Dorji",
+     "runs": 3,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "N Senamontree",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 6,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 166.7
+    },
+    {
+     "name": "K Senamontree",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 3,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 133.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Tashi Phuntsho",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "T Jamtsho",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 2,
+     "economy": 7.0,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "S Yeshi",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 3.0,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GK Ghalley",
+     "overs": "0.1",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RM Dorji",
+     "overs": "3.5",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 2,
+     "economy": 6.78,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "A Mongar",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Tashi Dorji",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 1,
+     "economy": 13.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 29,
+     "wickets": 3,
+     "run_rate": 4.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 54,
+     "wickets": 2,
+     "run_rate": 6.0
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 51,
+     "wickets": 3,
+     "run_rate": 10.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 2,
+     "player": "AP Yadav",
+     "over": "0.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 2,
+     "score": 17,
+     "player": "P Suanchuai",
+     "over": "2.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 19,
+     "player": "P Jirapatananukul",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 57,
+     "player": "AV Lazarus",
+     "over": "11.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 70,
+     "player": "C Chatphaisan",
+     "over": "13.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 6,
+     "score": 115,
+     "player": "P Thongsa",
+     "over": "17.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 119,
+     "player": "C Pengkumta",
+     "over": "18.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 120,
+     "player": "MK Thakur",
+     "over": "18.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "AP Yadav",
+      "P Suanchuai"
+     ],
+     "contributions": {
+      "AP Yadav": 1,
+      "P Suanchuai": 1
+     },
+     "ended_by": "AP Yadav (stumped)"
+    },
+    {
+     "wicket": 2,
+     "runs": 15,
+     "balls": 11,
+     "batters": [
+      "P Jirapatananukul",
+      "P Suanchuai"
+     ],
+     "contributions": {
+      "P Jirapatananukul": 5,
+      "P Suanchuai": 10
+     },
+     "ended_by": "P Suanchuai (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 5,
+     "batters": [
+      "AV Lazarus",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "AV Lazarus": 2,
+      "P Jirapatananukul": 0
+     },
+     "ended_by": "P Jirapatananukul (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 38,
+     "balls": 47,
+     "batters": [
+      "C Chatphaisan",
+      "AV Lazarus"
+     ],
+     "contributions": {
+      "C Chatphaisan": 27,
+      "AV Lazarus": 10
+     },
+     "ended_by": "AV Lazarus (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 13,
+     "balls": 13,
+     "batters": [
+      "C Pengkumta",
+      "C Chatphaisan"
+     ],
+     "contributions": {
+      "C Pengkumta": 3,
+      "C Chatphaisan": 10
+     },
+     "ended_by": "C Chatphaisan (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 45,
+     "balls": 27,
+     "batters": [
+      "P Thongsa",
+      "C Pengkumta"
+     ],
+     "contributions": {
+      "P Thongsa": 23,
+      "C Pengkumta": 21
+     },
+     "ended_by": "P Thongsa (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "MK Thakur",
+      "C Pengkumta"
+     ],
+     "contributions": {
+      "MK Thakur": 3,
+      "C Pengkumta": 1
+     },
+     "ended_by": "C Pengkumta (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "N Senamontree",
+      "MK Thakur"
+     ],
+     "contributions": {
+      "N Senamontree": 1,
+      "MK Thakur": 0
+     },
+     "ended_by": "MK Thakur (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 14,
+     "balls": 7,
+     "batters": [
+      "K Senamontree",
+      "N Senamontree"
+     ],
+     "contributions": {
+      "K Senamontree": 4,
+      "N Senamontree": 9
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Tashi Phuntsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Tashi Phuntsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tashi Phuntsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Yeshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tashi Phuntsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Yeshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RM Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Yeshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Mongar",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Yeshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Mongar",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Tashi Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RM Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tashi Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RM Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "RM Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Bhutan",
+   "batting_team": "Bhutan",
+   "bowling_team": "Thailand",
+   "super_over": false,
+   "total": 97,
+   "wickets": 10,
+   "overs": "18.5",
+   "run_rate": 5.15,
+   "target": 135,
+   "extras": {
+    "wides": 6,
+    "legbyes": 5
+   },
+   "batting": [
+    {
+     "name": "Tenjin Rabgey",
+     "dismissal": "c AV Lazarus b P Thongsa",
+     "runs": 43,
+     "balls": 43,
+     "dots": 19,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "RM Dorji",
+     "dismissal": "b N Senamontree",
+     "runs": 9,
+     "balls": 14,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 64.3
+    },
+    {
+     "name": "S Chophel",
+     "dismissal": "c AV Lazarus b N Senamontree",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Chejay",
+     "dismissal": "lbw b N Senamontree",
+     "runs": 3,
+     "balls": 6,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "T Jamtsho",
+     "dismissal": "st P Suanchuai b P Thongsa",
+     "runs": 7,
+     "balls": 5,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "Tashi Phuntsho",
+     "dismissal": "b N Senamontree",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "Tshering Tashi",
+     "dismissal": "b N Senamontree",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "GK Ghalley",
+     "dismissal": "b MK Thakur",
+     "runs": 19,
+     "balls": 22,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 86.4
+    },
+    {
+     "name": "A Mongar",
+     "dismissal": "retired out",
+     "runs": 2,
+     "balls": 8,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Tashi Dorji",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "S Yeshi",
+     "dismissal": "b MK Thakur",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MK Thakur",
+     "overs": "2.5",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 2,
+     "economy": 6.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "C Pengkumta",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 5.33,
+     "dots": 10,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "N Senamontree",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 10,
+     "wickets": 5,
+     "economy": 2.5,
+     "dots": 17,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "P Thongsa",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 2,
+     "economy": 5.75,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Sarawut Maliwan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AV Lazarus",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 36,
+     "wickets": 2,
+     "run_rate": 6.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 40,
+     "wickets": 5,
+     "run_rate": 4.44
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "3.5",
+     "runs": 21,
+     "wickets": 3,
+     "run_rate": 5.48
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 31,
+     "player": "RM Dorji",
+     "over": "4.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 31,
+     "player": "S Chophel",
+     "over": "4.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 38,
+     "player": "N Chejay",
+     "over": "6.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 47,
+     "player": "T Jamtsho",
+     "over": "7.6",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 57,
+     "player": "Tashi Phuntsho",
+     "over": "10.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 57,
+     "player": "Tshering Tashi",
+     "over": "10.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 75,
+     "player": "Tenjin Rabgey",
+     "over": "13.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 92,
+     "player": "A Mongar",
+     "over": "17.1",
+     "kind": "retired out"
+    },
+    {
+     "wicket": 9,
+     "score": 95,
+     "player": "GK Ghalley",
+     "over": "18.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 97,
+     "player": "S Yeshi",
+     "over": "18.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 31,
+     "balls": 29,
+     "batters": [
+      "Tenjin Rabgey",
+      "RM Dorji"
+     ],
+     "contributions": {
+      "Tenjin Rabgey": 17,
+      "RM Dorji": 9
+     },
+     "ended_by": "RM Dorji (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "S Chophel",
+      "Tenjin Rabgey"
+     ],
+     "contributions": {
+      "S Chophel": 0,
+      "Tenjin Rabgey": 0
+     },
+     "ended_by": "S Chophel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 10,
+     "batters": [
+      "Tenjin Rabgey",
+      "N Chejay"
+     ],
+     "contributions": {
+      "Tenjin Rabgey": 3,
+      "N Chejay": 3
+     },
+     "ended_by": "N Chejay (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 9,
+     "balls": 8,
+     "batters": [
+      "T Jamtsho",
+      "Tenjin Rabgey"
+     ],
+     "contributions": {
+      "T Jamtsho": 7,
+      "Tenjin Rabgey": 2
+     },
+     "ended_by": "T Jamtsho (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 10,
+     "balls": 15,
+     "batters": [
+      "Tenjin Rabgey",
+      "Tashi Phuntsho"
+     ],
+     "contributions": {
+      "Tenjin Rabgey": 5,
+      "Tashi Phuntsho": 1
+     },
+     "ended_by": "Tashi Phuntsho (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Tshering Tashi",
+      "Tenjin Rabgey"
+     ],
+     "contributions": {
+      "Tshering Tashi": 0,
+      "Tenjin Rabgey": 0
+     },
+     "ended_by": "Tshering Tashi (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 18,
+     "balls": 20,
+     "batters": [
+      "GK Ghalley",
+      "Tenjin Rabgey"
+     ],
+     "contributions": {
+      "GK Ghalley": 2,
+      "Tenjin Rabgey": 16
+     },
+     "ended_by": "Tenjin Rabgey (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 17,
+     "balls": 19,
+     "batters": [
+      "GK Ghalley",
+      "A Mongar"
+     ],
+     "contributions": {
+      "GK Ghalley": 15,
+      "A Mongar": 2
+     },
+     "ended_by": "A Mongar (retired out)"
+    },
+    {
+     "wicket": 9,
+     "runs": 3,
+     "balls": 6,
+     "batters": [
+      "GK Ghalley",
+      "Tashi Dorji"
+     ],
+     "contributions": {
+      "GK Ghalley": 2,
+      "Tashi Dorji": 1
+     },
+     "ended_by": "GK Ghalley (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "S Yeshi",
+      "Tashi Dorji"
+     ],
+     "contributions": {
+      "S Yeshi": 0,
+      "Tashi Dorji": 1
+     },
+     "ended_by": "S Yeshi (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Thakur",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Pengkumta",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MK Thakur",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Pengkumta",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Pengkumta",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "P Thongsa",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Thongsa",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sarawut Maliwan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "P Thongsa",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Thongsa",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Sarawut Maliwan",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MK Thakur",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Tenjin Rabgey",
+    "runs": 43,
+    "balls": 43,
+    "strike_rate": 100.0
+   },
+   {
+    "name": "C Chatphaisan",
+    "runs": 37,
+    "balls": 34,
+    "strike_rate": 108.8
+   },
+   {
+    "name": "C Pengkumta",
+    "runs": 25,
+    "balls": 22,
+    "strike_rate": 113.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "N Senamontree",
+    "figures": "5/10",
+    "overs": "4.0",
+    "economy": 2.5
+   },
+   {
+    "name": "MK Thakur",
+    "figures": "2/17",
+    "overs": "2.5",
+    "economy": 6.0
+   },
+   {
+    "name": "Tashi Phuntsho",
+    "figures": "2/20",
+    "overs": "4.0",
+    "economy": 5.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "big_over",
+   "over": 16,
+   "detail": "Over 16 (Tashi Dorji) went for 16 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "2 wickets fell in over 19 (bowled by RM Dorji, 2 credited to RM Dorji)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 5,
+   "detail": "2 wickets fell in over 5 (bowled by N Senamontree, 2 credited to N Senamontree)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 36 scored, needed 99 from 14 overs (RRR 7.07)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 56 scored, needed 79 from 10 overs (RRR 7.9)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 11,
+   "detail": "2 wickets fell in over 11 (bowled by N Senamontree, 2 credited to N Senamontree)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 76 scored, needed 59 from 5 overs (RRR 11.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "2 wickets fell in over 19 (bowled by MK Thakur, 2 credited to MK Thakur)"
+  }
+ ],
+ "checks": []
+}

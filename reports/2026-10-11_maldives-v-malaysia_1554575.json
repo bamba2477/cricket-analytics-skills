@@ -1,0 +1,1040 @@
+{
+ "match": {
+  "teams": [
+   "Maldives",
+   "Malaysia"
+  ],
+  "dates": [
+   "2026-10-11"
+  ],
+  "venue": "YSD-UKM Cricket Oval, Bangi",
+  "city": "Bangi",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+  "match_number": 8,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Malaysia"
+  },
+  "player_of_match": [
+   "Pavandeep Singh"
+  ],
+  "result": "Malaysia won by 6 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Maldives",
+   "batting_team": "Maldives",
+   "bowling_team": "Malaysia",
+   "super_over": false,
+   "total": 125,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 6.25,
+   "target": null,
+   "extras": {
+    "wides": 3,
+    "legbyes": 3
+   },
+   "batting": [
+    {
+     "name": "Azyan Farhath",
+     "dismissal": "st Nazmus Sakib b Pavandeep Singh",
+     "runs": 28,
+     "balls": 25,
+     "dots": 10,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 112.0
+    },
+    {
+     "name": "Mohamed Rishwan",
+     "dismissal": "c S Muniandy b Pavandeep Singh",
+     "runs": 15,
+     "balls": 11,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 136.4
+    },
+    {
+     "name": "Ismail Ali",
+     "dismissal": "b Pavandeep Singh",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Shafraz Jaleel",
+     "dismissal": "c P Madhukar b Pavandeep Singh",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Ashan Yapa",
+     "dismissal": "st Nazmus Sakib b Virandeep Singh",
+     "runs": 16,
+     "balls": 25,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 64.0
+    },
+    {
+     "name": "Sheraz Iqbal",
+     "dismissal": "c P Madhukar b S Vijay Unni",
+     "runs": 47,
+     "balls": 36,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 4,
+     "strike_rate": 130.6
+    },
+    {
+     "name": "Umar Adam",
+     "dismissal": "lbw b Syed Aziz",
+     "runs": 4,
+     "balls": 6,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Hassan Rasheed",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 7,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 85.7
+    },
+    {
+     "name": "Ibrahim Rizan",
+     "dismissal": "b S Vijay Unni",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Harsha Amarasinghe",
+     "dismissal": "run out (Nazmus Sakib, S Vijay Unni)",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Ameel Mauroof",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Muhammad Akram",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Pavandeep Singh",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 4,
+     "economy": 3.25,
+     "dots": 15,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Syed Aziz",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 1,
+     "economy": 5.75,
+     "dots": 8,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Virandeep Singh",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 3.25,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Amir",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 8.67,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "P Madhukar",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Vijay Unni",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 2,
+     "economy": 7.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 40,
+     "wickets": 3,
+     "run_rate": 6.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 54,
+     "wickets": 1,
+     "run_rate": 6.0
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 31,
+     "wickets": 5,
+     "run_rate": 6.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 32,
+     "player": "Mohamed Rishwan",
+     "over": "3.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 40,
+     "player": "Ismail Ali",
+     "over": "5.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 40,
+     "player": "Shafraz Jaleel",
+     "over": "5.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 46,
+     "player": "Azyan Farhath",
+     "over": "7.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 97,
+     "player": "Ashan Yapa",
+     "over": "15.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 6,
+     "score": 113,
+     "player": "Umar Adam",
+     "over": "17.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 117,
+     "player": "Sheraz Iqbal",
+     "over": "18.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 117,
+     "player": "Ibrahim Rizan",
+     "over": "18.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 118,
+     "player": "Harsha Amarasinghe",
+     "over": "18.6",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 32,
+     "balls": 24,
+     "batters": [
+      "Azyan Farhath",
+      "Mohamed Rishwan"
+     ],
+     "contributions": {
+      "Azyan Farhath": 17,
+      "Mohamed Rishwan": 15
+     },
+     "ended_by": "Mohamed Rishwan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 8,
+     "balls": 9,
+     "batters": [
+      "Azyan Farhath",
+      "Ismail Ali"
+     ],
+     "contributions": {
+      "Azyan Farhath": 8,
+      "Ismail Ali": 0
+     },
+     "ended_by": "Ismail Ali (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Shafraz Jaleel",
+      "Azyan Farhath"
+     ],
+     "contributions": {
+      "Shafraz Jaleel": 0,
+      "Azyan Farhath": 0
+     },
+     "ended_by": "Shafraz Jaleel (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 6,
+     "balls": 12,
+     "batters": [
+      "Ashan Yapa",
+      "Azyan Farhath"
+     ],
+     "contributions": {
+      "Ashan Yapa": 2,
+      "Azyan Farhath": 3
+     },
+     "ended_by": "Azyan Farhath (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 51,
+     "balls": 47,
+     "batters": [
+      "Sheraz Iqbal",
+      "Ashan Yapa"
+     ],
+     "contributions": {
+      "Sheraz Iqbal": 35,
+      "Ashan Yapa": 14
+     },
+     "ended_by": "Ashan Yapa (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 16,
+     "balls": 12,
+     "batters": [
+      "Umar Adam",
+      "Sheraz Iqbal"
+     ],
+     "contributions": {
+      "Umar Adam": 4,
+      "Sheraz Iqbal": 12
+     },
+     "ended_by": "Umar Adam (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "Hassan Rasheed",
+      "Sheraz Iqbal"
+     ],
+     "contributions": {
+      "Hassan Rasheed": 4,
+      "Sheraz Iqbal": 0
+     },
+     "ended_by": "Sheraz Iqbal (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Ibrahim Rizan",
+      "Hassan Rasheed"
+     ],
+     "contributions": {
+      "Ibrahim Rizan": 0,
+      "Hassan Rasheed": 0
+     },
+     "ended_by": "Ibrahim Rizan (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "Harsha Amarasinghe",
+      "Hassan Rasheed"
+     ],
+     "contributions": {
+      "Harsha Amarasinghe": 1,
+      "Hassan Rasheed": 0
+     },
+     "ended_by": "Harsha Amarasinghe (run out)"
+    },
+    {
+     "wicket": 10,
+     "runs": 7,
+     "balls": 6,
+     "batters": [
+      "Ameel Mauroof",
+      "Hassan Rasheed"
+     ],
+     "contributions": {
+      "Ameel Mauroof": 2,
+      "Hassan Rasheed": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Akram",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Akram",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Pavandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Amir",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Amir",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Amir",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Madhukar",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Virandeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Vijay Unni",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 3,
+     "bowler_wickets": 2,
+     "bowler": "S Vijay Unni",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Syed Aziz",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Malaysia",
+   "batting_team": "Malaysia",
+   "bowling_team": "Maldives",
+   "super_over": false,
+   "total": 127,
+   "wickets": 4,
+   "overs": "8.5",
+   "run_rate": 14.38,
+   "target": 126,
+   "extras": {
+    "wides": 7
+   },
+   "batting": [
+    {
+     "name": "Nazmus Sakib",
+     "dismissal": "c Ibrahim Rizan b Umar Adam",
+     "runs": 31,
+     "balls": 13,
+     "dots": 3,
+     "fours": 5,
+     "sixes": 1,
+     "strike_rate": 238.5
+    },
+    {
+     "name": "Syed Aziz",
+     "dismissal": "b Umar Adam",
+     "runs": 57,
+     "balls": 18,
+     "dots": 4,
+     "fours": 9,
+     "sixes": 3,
+     "strike_rate": 316.7
+    },
+    {
+     "name": "Virandeep Singh",
+     "dismissal": "c Azyan Farhath b Ameel Mauroof",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "M Syahadat Ramli",
+     "dismissal": "c Ibrahim Rizan b Umar Adam",
+     "runs": 13,
+     "balls": 7,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 185.7
+    },
+    {
+     "name": "Ahmed Aqeel",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 7,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "S Muniandy",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 3,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 366.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Harsha Amarasinghe",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 43,
+     "wickets": 0,
+     "economy": 21.5,
+     "dots": 2,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "Umar Adam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 43,
+     "wickets": 3,
+     "economy": 10.75,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Ameel Mauroof",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 15.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ibrahim Rizan",
+     "overs": "1.5",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 14.18,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 84,
+     "wickets": 3,
+     "run_rate": 14.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "2.5",
+     "runs": 43,
+     "wickets": 1,
+     "run_rate": 15.18
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 54,
+     "player": "Nazmus Sakib",
+     "over": "3.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 59,
+     "player": "Virandeep Singh",
+     "over": "4.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 84,
+     "player": "M Syahadat Ramli",
+     "over": "5.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 113,
+     "player": "Syed Aziz",
+     "over": "7.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 54,
+     "balls": 19,
+     "batters": [
+      "Nazmus Sakib",
+      "Syed Aziz"
+     ],
+     "contributions": {
+      "Nazmus Sakib": 31,
+      "Syed Aziz": 18
+     },
+     "ended_by": "Nazmus Sakib (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 7,
+     "batters": [
+      "Virandeep Singh",
+      "Syed Aziz"
+     ],
+     "contributions": {
+      "Virandeep Singh": 1,
+      "Syed Aziz": 4
+     },
+     "ended_by": "Virandeep Singh (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 25,
+     "balls": 10,
+     "batters": [
+      "M Syahadat Ramli",
+      "Syed Aziz"
+     ],
+     "contributions": {
+      "M Syahadat Ramli": 13,
+      "Syed Aziz": 12
+     },
+     "ended_by": "M Syahadat Ramli (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 11,
+     "batters": [
+      "Syed Aziz",
+      "Ahmed Aqeel"
+     ],
+     "contributions": {
+      "Syed Aziz": 23,
+      "Ahmed Aqeel": 6
+     },
+     "ended_by": "Syed Aziz (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 6,
+     "batters": [
+      "S Muniandy",
+      "Ahmed Aqeel"
+     ],
+     "contributions": {
+      "S Muniandy": 11,
+      "Ahmed Aqeel": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 19,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harsha Amarasinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harsha Amarasinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 15,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ameel Mauroof",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrahim Rizan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 17,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrahim Rizan",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Syed Aziz",
+    "runs": 57,
+    "balls": 18,
+    "strike_rate": 316.7
+   },
+   {
+    "name": "Sheraz Iqbal",
+    "runs": 47,
+    "balls": 36,
+    "strike_rate": 130.6
+   },
+   {
+    "name": "Nazmus Sakib",
+    "runs": 31,
+    "balls": 13,
+    "strike_rate": 238.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Pavandeep Singh",
+    "figures": "4/13",
+    "overs": "4.0",
+    "economy": 3.25
+   },
+   {
+    "name": "Umar Adam",
+    "figures": "3/43",
+    "overs": "4.0",
+    "economy": 10.75
+   },
+   {
+    "name": "S Vijay Unni",
+    "figures": "2/14",
+    "overs": "2.0",
+    "economy": 7.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "wicket_burst",
+   "over": 6,
+   "detail": "2 wickets fell in over 6 (bowled by Pavandeep Singh, 2 credited to Pavandeep Singh)"
+  },
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "big_over",
+   "over": 13,
+   "detail": "Over 13 (Muhammad Amir) went for 20 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Maldives",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "3 wickets fell in over 19 (bowled by S Vijay Unni, 2 credited to S Vijay Unni)"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (Harsha Amarasinghe) went for 19 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (Harsha Amarasinghe) went for 24 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "collapse",
+   "over": 4,
+   "detail": "3 wickets fell between overs 4 and 6"
+  },
+  {
+   "innings": 2,
+   "team": "Malaysia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 84 scored, needed 42 from 14 overs (RRR 3.0)"
+  }
+ ],
+ "checks": []
+}

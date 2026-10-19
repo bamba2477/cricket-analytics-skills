@@ -1,0 +1,464 @@
+{
+ "match": {
+  "teams": [
+   "Qatar",
+   "Mongolia"
+  ],
+  "dates": [
+   "2026-10-12"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 16,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Mongolia"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Qatar",
+   "batting_team": "Qatar",
+   "bowling_team": "Mongolia",
+   "super_over": false,
+   "total": 211,
+   "wickets": 3,
+   "overs": "16.1",
+   "run_rate": 13.05,
+   "target": null,
+   "extras": {
+    "wides": 11,
+    "legbyes": 2,
+    "noballs": 2
+   },
+   "batting": [
+    {
+     "name": "Shahzeb Afridi",
+     "dismissal": "lbw b B Tamjidsuren",
+     "runs": 45,
+     "balls": 21,
+     "dots": 6,
+     "fours": 6,
+     "sixes": 2,
+     "strike_rate": 214.3
+    },
+    {
+     "name": "Zeeshan Haider",
+     "dismissal": "run out (L Erdenebulgan, G Ganbold)",
+     "runs": 79,
+     "balls": 41,
+     "dots": 6,
+     "fours": 6,
+     "sixes": 4,
+     "strike_rate": 192.7
+    },
+    {
+     "name": "A Shankar",
+     "dismissal": "c B Batbayr b M Erdenebat",
+     "runs": 14,
+     "balls": 12,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 116.7
+    },
+    {
+     "name": "Muhammad Asim",
+     "dismissal": "not out",
+     "runs": 58,
+     "balls": 25,
+     "dots": 3,
+     "fours": 9,
+     "sixes": 1,
+     "strike_rate": 232.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "L Erdenebulgan",
+     "overs": "2.1",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 13.85,
+     "dots": 2,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "B Tamjidsuren",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 1,
+     "economy": 8.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Gantulga",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 53,
+     "wickets": 0,
+     "economy": 13.25,
+     "dots": 5,
+     "wides": 6,
+     "noballs": 1
+    },
+    {
+     "name": "M Erdenebat",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 11.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "T Tumursukh",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 13.5,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "G Ganbold",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 18.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Z Shurentsetseg",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 24.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "B Batbayr",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 67,
+     "wickets": 1,
+     "run_rate": 11.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 131,
+     "wickets": 1,
+     "run_rate": 14.56
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "1.1",
+     "runs": 13,
+     "wickets": 1,
+     "run_rate": 11.14
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 67,
+     "player": "Shahzeb Afridi",
+     "over": "5.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 86,
+     "player": "A Shankar",
+     "over": "8.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 211,
+     "player": "Zeeshan Haider",
+     "over": "16.1",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 67,
+     "balls": 34,
+     "batters": [
+      "Shahzeb Afridi",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "Shahzeb Afridi": 45,
+      "Zeeshan Haider": 17
+     },
+     "ended_by": "Shahzeb Afridi (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 19,
+     "balls": 15,
+     "batters": [
+      "A Shankar",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "A Shankar": 14,
+      "Zeeshan Haider": 4
+     },
+     "ended_by": "A Shankar (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 125,
+     "balls": 48,
+     "batters": [
+      "Muhammad Asim",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "Muhammad Asim": 58,
+      "Zeeshan Haider": 58
+     },
+     "ended_by": "Zeeshan Haider (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Erdenebulgan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Tamjidsuren",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gantulga",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Tamjidsuren",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gantulga",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Tamjidsuren",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Erdenebulgan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Tamjidsuren",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Erdenebat",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Tumursukh",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ganbold",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Tumursukh",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gantulga",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Z Shurentsetseg",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 21,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gantulga",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Batbayr",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "L Erdenebulgan",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Zeeshan Haider",
+    "runs": 79,
+    "balls": 41,
+    "strike_rate": 192.7
+   },
+   {
+    "name": "Muhammad Asim",
+    "runs": 58,
+    "balls": 25,
+    "strike_rate": 232.0
+   },
+   {
+    "name": "Shahzeb Afridi",
+    "runs": 45,
+    "balls": 21,
+    "strike_rate": 214.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "M Erdenebat",
+    "figures": "1/11",
+    "overs": "1.0",
+    "economy": 11.0
+   },
+   {
+    "name": "B Tamjidsuren",
+    "figures": "1/34",
+    "overs": "4.0",
+    "economy": 8.5
+   },
+   {
+    "name": "B Batbayr",
+    "figures": "0/12",
+    "overs": "1.0",
+    "economy": 12.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 14,
+   "detail": "Over 14 (Z Shurentsetseg) went for 24 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 15,
+   "detail": "Over 15 (S Gantulga) went for 21 runs"
+  }
+ ],
+ "checks": []
+}

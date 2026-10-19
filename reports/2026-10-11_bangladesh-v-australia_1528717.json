@@ -1,0 +1,1270 @@
+{
+ "match": {
+  "teams": [
+   "Bangladesh",
+   "Australia"
+  ],
+  "dates": [
+   "2026-10-11"
+  ],
+  "venue": "Allan Border Field, Brisbane",
+  "city": "Brisbane",
+  "event": "Bangladesh Women tour of Australia",
+  "match_number": 2,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Australia"
+  },
+  "player_of_match": [
+   "G Voll"
+  ],
+  "result": "Australia won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "Australia",
+   "super_over": false,
+   "total": 220,
+   "wickets": 6,
+   "overs": "50.0",
+   "run_rate": 4.4,
+   "target": null,
+   "extras": {
+    "wides": 14,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "Fargana Hoque",
+     "dismissal": "c BL Mooney b ML Schutt",
+     "runs": 0,
+     "balls": 13,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Sharmin Sultana",
+     "dismissal": "lbw b KJ Garth",
+     "runs": 5,
+     "balls": 20,
+     "dots": 18,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Sharmin Akhter",
+     "dismissal": "b ML Schutt",
+     "runs": 0,
+     "balls": 11,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Nigar Sultana",
+     "dismissal": "not out",
+     "runs": 74,
+     "balls": 114,
+     "dots": 68,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 64.9
+    },
+    {
+     "name": "S Mostary",
+     "dismissal": "b ML Schutt",
+     "runs": 118,
+     "balls": 134,
+     "dots": 72,
+     "fours": 18,
+     "sixes": 0,
+     "strike_rate": 88.1
+    },
+    {
+     "name": "Shorna Akter",
+     "dismissal": "c G Wareham b ML Schutt",
+     "runs": 8,
+     "balls": 7,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 114.3
+    },
+    {
+     "name": "Ritu Moni",
+     "dismissal": "run out (ML Schutt)",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Rabeya Khan",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KJ Garth",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 35,
+     "wickets": 1,
+     "economy": 3.5,
+     "dots": 45,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "ML Schutt",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 36,
+     "wickets": 4,
+     "economy": 3.6,
+     "dots": 42,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "G Wareham",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 4.25,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Sutherland",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 51,
+     "wickets": 0,
+     "economy": 5.1,
+     "dots": 33,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "A Gardner",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 37,
+     "wickets": 0,
+     "economy": 5.29,
+     "dots": 18,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "A King",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 3.6,
+     "dots": 22,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TM McGrath",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 17,
+     "wickets": 3,
+     "run_rate": 1.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 128,
+     "wickets": 0,
+     "run_rate": 4.27
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 75,
+     "wickets": 3,
+     "run_rate": 7.5
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 2,
+     "player": "Fargana Hoque",
+     "over": "3.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 8,
+     "player": "Sharmin Sultana",
+     "over": "6.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 8,
+     "player": "Sharmin Akhter",
+     "over": "7.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 203,
+     "player": "S Mostary",
+     "over": "47.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 214,
+     "player": "Shorna Akter",
+     "over": "49.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 214,
+     "player": "Ritu Moni",
+     "over": "49.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 2,
+     "balls": 21,
+     "batters": [
+      "Fargana Hoque",
+      "Sharmin Sultana"
+     ],
+     "contributions": {
+      "Fargana Hoque": 0,
+      "Sharmin Sultana": 1
+     },
+     "ended_by": "Fargana Hoque (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 6,
+     "balls": 21,
+     "batters": [
+      "Sharmin Akhter",
+      "Sharmin Sultana"
+     ],
+     "contributions": {
+      "Sharmin Akhter": 0,
+      "Sharmin Sultana": 4
+     },
+     "ended_by": "Sharmin Sultana (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Sharmin Akhter",
+      "Nigar Sultana"
+     ],
+     "contributions": {
+      "Sharmin Akhter": 0,
+      "Nigar Sultana": 0
+     },
+     "ended_by": "Sharmin Akhter (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 195,
+     "balls": 243,
+     "batters": [
+      "S Mostary",
+      "Nigar Sultana"
+     ],
+     "contributions": {
+      "S Mostary": 118,
+      "Nigar Sultana": 66
+     },
+     "ended_by": "S Mostary (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 11,
+     "balls": 10,
+     "batters": [
+      "Shorna Akter",
+      "Nigar Sultana"
+     ],
+     "contributions": {
+      "Shorna Akter": 8,
+      "Nigar Sultana": 2
+     },
+     "ended_by": "Shorna Akter (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Ritu Moni",
+      "Nigar Sultana"
+     ],
+     "contributions": {
+      "Ritu Moni": 0,
+      "Nigar Sultana": 0
+     },
+     "ended_by": "Ritu Moni (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 6,
+     "balls": 2,
+     "batters": [
+      "Nigar Sultana",
+      "Rabeya Khan"
+     ],
+     "contributions": {
+      "Nigar Sultana": 6,
+      "Rabeya Khan": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Wareham",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Wareham",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Wareham",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Wareham",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A King",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A King",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A King",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A King",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A King",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM McGrath",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM McGrath",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM McGrath",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM McGrath",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Gardner",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 10,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "ML Schutt",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Australia",
+   "batting_team": "Australia",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 222,
+   "wickets": 1,
+   "overs": "28.1",
+   "run_rate": 7.88,
+   "target": 221,
+   "extras": {
+    "noballs": 1,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "G Voll",
+     "dismissal": "not out",
+     "runs": 131,
+     "balls": 97,
+     "dots": 35,
+     "fours": 19,
+     "sixes": 0,
+     "strike_rate": 135.1
+    },
+    {
+     "name": "P Litchfield",
+     "dismissal": "c Habiba Islam b Shorna Akter",
+     "runs": 70,
+     "balls": 51,
+     "dots": 22,
+     "fours": 11,
+     "sixes": 1,
+     "strike_rate": 137.3
+    },
+    {
+     "name": "EA Perry",
+     "dismissal": "not out",
+     "runs": 19,
+     "balls": 22,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 86.4
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Marufa Akter",
+     "overs": "4.1",
+     "maidens": 0,
+     "runs": 40,
+     "wickets": 0,
+     "economy": 9.6,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Habiba Islam",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 51,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Nahida Akter",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Rabeya Khan",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 6.6,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ritu Moni",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shorna Akter",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 82,
+     "wickets": 0,
+     "run_rate": 8.2
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "18.1",
+     "runs": 140,
+     "wickets": 1,
+     "run_rate": 7.71
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 162,
+     "player": "P Litchfield",
+     "over": "19.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 162,
+     "balls": 119,
+     "batters": [
+      "G Voll",
+      "P Litchfield"
+     ],
+     "contributions": {
+      "G Voll": 90,
+      "P Litchfield": 70
+     },
+     "ended_by": "P Litchfield (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 60,
+     "balls": 50,
+     "batters": [
+      "EA Perry",
+      "G Voll"
+     ],
+     "contributions": {
+      "EA Perry": 19,
+      "G Voll": 41
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Marufa Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Marufa Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Marufa Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nahida Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rabeya Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ritu Moni",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rabeya Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nahida Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rabeya Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nahida Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Marufa Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shorna Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ritu Moni",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shorna Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ritu Moni",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shorna Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ritu Moni",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shorna Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ritu Moni",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rabeya Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rabeya Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Habiba Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nahida Akter",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Marufa Akter",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "G Voll",
+    "runs": 131,
+    "balls": 97,
+    "strike_rate": 135.1
+   },
+   {
+    "name": "S Mostary",
+    "runs": 118,
+    "balls": 134,
+    "strike_rate": 88.1
+   },
+   {
+    "name": "Nigar Sultana",
+    "runs": 74,
+    "balls": 114,
+    "strike_rate": 64.9
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "ML Schutt",
+    "figures": "4/36",
+    "overs": "10.0",
+    "economy": 3.6
+   },
+   {
+    "name": "Shorna Akter",
+    "figures": "1/32",
+    "overs": "4.0",
+    "economy": 8.0
+   },
+   {
+    "name": "KJ Garth",
+    "figures": "1/35",
+    "overs": "10.0",
+    "economy": 3.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 50,
+   "detail": "2 wickets fell in over 50 (bowled by ML Schutt, 1 credited to ML Schutt)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 34 scored, needed 187 from 44 overs (RRR 4.25)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 10,
+   "detail": "Over 10 (Ritu Moni) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 82 scored, needed 139 from 40 overs (RRR 3.48)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 131 scored, needed 90 from 35 overs (RRR 2.57)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 27,
+   "detail": "Over 27 (Habiba Islam) went for 18 runs"
+  }
+ ],
+ "checks": []
+}

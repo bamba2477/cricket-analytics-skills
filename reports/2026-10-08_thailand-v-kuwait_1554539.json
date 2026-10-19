@@ -1,0 +1,892 @@
+{
+ "match": {
+  "teams": [
+   "Thailand",
+   "Kuwait"
+  ],
+  "dates": [
+   "2026-10-08"
+  ],
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 7,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Kuwait"
+  },
+  "player_of_match": [
+   "R Sandaruwan"
+  ],
+  "result": "Kuwait won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Thailand",
+   "batting_team": "Thailand",
+   "bowling_team": "Kuwait",
+   "super_over": false,
+   "total": 60,
+   "wickets": 10,
+   "overs": "18.3",
+   "run_rate": 3.24,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "legbyes": 3
+   },
+   "batting": [
+    {
+     "name": "AP Yadav",
+     "dismissal": "c A Chenthamara b Adnan Idrees",
+     "runs": 26,
+     "balls": 31,
+     "dots": 16,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 83.9
+    },
+    {
+     "name": "C Chatphaisan",
+     "dismissal": "c Ali Zaheer b A Chenthamara",
+     "runs": 7,
+     "balls": 15,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 46.7
+    },
+    {
+     "name": "P Suanchuai",
+     "dismissal": "c Mohamed Shafeeq b Adnan Idrees",
+     "runs": 3,
+     "balls": 17,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 17.6
+    },
+    {
+     "name": "AV Lazarus",
+     "dismissal": "c Ali Zaheer b MNM Aslam",
+     "runs": 6,
+     "balls": 16,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "P Thongsa",
+     "dismissal": "b Meet Bhavsar",
+     "runs": 5,
+     "balls": 14,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 35.7
+    },
+    {
+     "name": "P Jirapatananukul",
+     "dismissal": "b Meet Bhavsar",
+     "runs": 9,
+     "balls": 9,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "C Pengkumta",
+     "dismissal": "b MNM Aslam",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MK Thakur",
+     "dismissal": "c Mohamed Shafeeq b MNM Aslam",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "A Wichakam",
+     "dismissal": "c MNM Aslam b Yasin Patel",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Senamontree",
+     "dismissal": "lbw b Yasin Patel",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Sarawut Maliwan",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Mohamed Shafeeq",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Yasin Patel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 2,
+     "economy": 3.33,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Chenthamara",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 1,
+     "economy": 2.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Meet Bhavsar",
+     "overs": "3.3",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 2,
+     "economy": 2.57,
+     "dots": 17,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Adnan Idrees",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 8,
+     "wickets": 2,
+     "economy": 2.0,
+     "dots": 17,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MNM Aslam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 3,
+     "economy": 2.25,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 30,
+     "wickets": 1,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 20,
+     "wickets": 3,
+     "run_rate": 2.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "3.3",
+     "runs": 10,
+     "wickets": 6,
+     "run_rate": 2.86
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 29,
+     "player": "C Chatphaisan",
+     "over": "5.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 37,
+     "player": "P Suanchuai",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 42,
+     "player": "AP Yadav",
+     "over": "11.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 50,
+     "player": "AV Lazarus",
+     "over": "14.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 52,
+     "player": "P Thongsa",
+     "over": "15.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 53,
+     "player": "C Pengkumta",
+     "over": "16.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 53,
+     "player": "MK Thakur",
+     "over": "16.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 54,
+     "player": "A Wichakam",
+     "over": "17.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 54,
+     "player": "N Senamontree",
+     "over": "17.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 60,
+     "player": "P Jirapatananukul",
+     "over": "18.3",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 29,
+     "balls": 33,
+     "batters": [
+      "AP Yadav",
+      "C Chatphaisan"
+     ],
+     "contributions": {
+      "AP Yadav": 21,
+      "C Chatphaisan": 7
+     },
+     "ended_by": "C Chatphaisan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 8,
+     "balls": 24,
+     "batters": [
+      "P Suanchuai",
+      "AP Yadav"
+     ],
+     "contributions": {
+      "P Suanchuai": 3,
+      "AP Yadav": 3
+     },
+     "ended_by": "P Suanchuai (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 5,
+     "balls": 12,
+     "batters": [
+      "AV Lazarus",
+      "AP Yadav"
+     ],
+     "contributions": {
+      "AV Lazarus": 3,
+      "AP Yadav": 2
+     },
+     "ended_by": "AP Yadav (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 8,
+     "balls": 21,
+     "batters": [
+      "P Thongsa",
+      "AV Lazarus"
+     ],
+     "contributions": {
+      "P Thongsa": 5,
+      "AV Lazarus": 3
+     },
+     "ended_by": "AV Lazarus (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "P Thongsa",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "P Thongsa": 0,
+      "P Jirapatananukul": 1
+     },
+     "ended_by": "P Thongsa (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "C Pengkumta",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "C Pengkumta": 0,
+      "P Jirapatananukul": 1
+     },
+     "ended_by": "C Pengkumta (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "MK Thakur",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "MK Thakur": 0,
+      "P Jirapatananukul": 0
+     },
+     "ended_by": "MK Thakur (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "P Jirapatananukul",
+      "A Wichakam"
+     ],
+     "contributions": {
+      "P Jirapatananukul": 1,
+      "A Wichakam": 0
+     },
+     "ended_by": "A Wichakam (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "N Senamontree",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "N Senamontree": 0,
+      "P Jirapatananukul": 0
+     },
+     "ended_by": "N Senamontree (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 6,
+     "balls": 4,
+     "batters": [
+      "Sarawut Maliwan",
+      "P Jirapatananukul"
+     ],
+     "contributions": {
+      "Sarawut Maliwan": 0,
+      "P Jirapatananukul": 6
+     },
+     "ended_by": "P Jirapatananukul (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohamed Shafeeq",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mohamed Shafeeq",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Chenthamara",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Chenthamara",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adnan Idrees",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Kuwait",
+   "batting_team": "Kuwait",
+   "bowling_team": "Thailand",
+   "super_over": false,
+   "total": 61,
+   "wickets": 1,
+   "overs": "7.0",
+   "run_rate": 8.71,
+   "target": 61,
+   "extras": {},
+   "batting": [
+    {
+     "name": "Adnan Idrees",
+     "dismissal": "b AV Lazarus",
+     "runs": 3,
+     "balls": 13,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 23.1
+    },
+    {
+     "name": "R Sandaruwan",
+     "dismissal": "not out",
+     "runs": 53,
+     "balls": 19,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 6,
+     "strike_rate": 278.9
+    },
+    {
+     "name": "Meet Bhavsar",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 10,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "AV Lazarus",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 9.33,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N Senamontree",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Sarawut Maliwan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 52,
+     "wickets": 1,
+     "run_rate": 8.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.0",
+     "runs": 9,
+     "wickets": 0,
+     "run_rate": 9.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 10,
+     "player": "Adnan Idrees",
+     "over": "2.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 10,
+     "balls": 16,
+     "batters": [
+      "Adnan Idrees",
+      "R Sandaruwan"
+     ],
+     "contributions": {
+      "Adnan Idrees": 3,
+      "R Sandaruwan": 7
+     },
+     "ended_by": "Adnan Idrees (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 51,
+     "balls": 26,
+     "batters": [
+      "Meet Bhavsar",
+      "R Sandaruwan"
+     ],
+     "contributions": {
+      "Meet Bhavsar": 5,
+      "R Sandaruwan": 46
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AV Lazarus",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 19,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Senamontree",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sarawut Maliwan",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "R Sandaruwan",
+    "runs": 53,
+    "balls": 19,
+    "strike_rate": 278.9
+   },
+   {
+    "name": "AP Yadav",
+    "runs": 26,
+    "balls": 31,
+    "strike_rate": 83.9
+   },
+   {
+    "name": "P Jirapatananukul",
+    "runs": 9,
+    "balls": 9,
+    "strike_rate": 100.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "MNM Aslam",
+    "figures": "3/9",
+    "overs": "4.0",
+    "economy": 2.25
+   },
+   {
+    "name": "Adnan Idrees",
+    "figures": "2/8",
+    "overs": "4.0",
+    "economy": 2.0
+   },
+   {
+    "name": "Meet Bhavsar",
+    "figures": "2/9",
+    "overs": "3.3",
+    "economy": 2.57
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "wicket_burst",
+   "over": 17,
+   "detail": "2 wickets fell in over 17 (bowled by MNM Aslam, 2 credited to MNM Aslam)"
+  },
+  {
+   "innings": 1,
+   "team": "Thailand",
+   "type": "wicket_burst",
+   "over": 18,
+   "detail": "2 wickets fell in over 18 (bowled by Yasin Patel, 2 credited to Yasin Patel)"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (AV Lazarus) went for 20 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (N Senamontree) went for 19 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 52 scored, needed 9 from 14 overs (RRR 0.64)"
+  }
+ ],
+ "checks": []
+}

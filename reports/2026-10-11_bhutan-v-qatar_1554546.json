@@ -1,0 +1,877 @@
+{
+ "match": {
+  "teams": [
+   "Bhutan",
+   "Qatar"
+  ],
+  "dates": [
+   "2026-10-11"
+  ],
+  "venue": "YSD-UKM Cricket Oval, Bangi",
+  "city": "Bangi",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 14,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Qatar"
+  },
+  "player_of_match": [
+   "Muhammad Asim"
+  ],
+  "result": "Qatar won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bhutan",
+   "batting_team": "Bhutan",
+   "bowling_team": "Qatar",
+   "super_over": false,
+   "total": 64,
+   "wickets": 10,
+   "overs": "15.5",
+   "run_rate": 4.04,
+   "target": null,
+   "extras": {
+    "wides": 3,
+    "legbyes": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "S Chophel",
+     "dismissal": "lbw b MM Baig",
+     "runs": 9,
+     "balls": 9,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Tenjin Rabgey",
+     "dismissal": "c Shahzaib Jamil b MM Baig",
+     "runs": 8,
+     "balls": 8,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "RM Dorji",
+     "dismissal": "c Ikramullah Khan b MM Baig",
+     "runs": 10,
+     "balls": 7,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 142.9
+    },
+    {
+     "name": "N Chejay",
+     "dismissal": "c & b Muhammad Asim",
+     "runs": 16,
+     "balls": 22,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 72.7
+    },
+    {
+     "name": "T Jamtsho",
+     "dismissal": "st Shahzaib Jamil b Mujeeb-ur-Rehman",
+     "runs": 2,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Tashi Phuntsho",
+     "dismissal": "run out (Mujeeb-ur-Rehman, Shahzaib Jamil)",
+     "runs": 7,
+     "balls": 13,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 53.8
+    },
+    {
+     "name": "GK Ghalley",
+     "dismissal": "b Muhammad Asim",
+     "runs": 1,
+     "balls": 12,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 8.3
+    },
+    {
+     "name": "A Mongar",
+     "dismissal": "c Shahzaib Jamil b Muhammad Asim",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Tashi Dorji",
+     "dismissal": "st Shahzaib Jamil b Muhammad Asim",
+     "runs": 2,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "K Dorji",
+     "dismissal": "c DAM Louis b Owais Ahmed",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "S Yeshi",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ikramullah Khan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 5,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Shariq Munir",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MM Baig",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 3,
+     "economy": 5.5,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mujeeb-ur-Rehman",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 1,
+     "economy": 2.25,
+     "dots": 18,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Owais Ahmed",
+     "overs": "1.5",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 1,
+     "economy": 3.27,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Muhammad Asim",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 6,
+     "wickets": 4,
+     "economy": 1.5,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DAM Louis",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 33,
+     "wickets": 4,
+     "run_rate": 5.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 30,
+     "wickets": 5,
+     "run_rate": 3.33
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "0.5",
+     "runs": 1,
+     "wickets": 1,
+     "run_rate": 1.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "Tenjin Rabgey",
+     "over": "2.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 21,
+     "player": "S Chophel",
+     "over": "2.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 30,
+     "player": "RM Dorji",
+     "over": "4.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 33,
+     "player": "T Jamtsho",
+     "over": "5.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 57,
+     "player": "Tashi Phuntsho",
+     "over": "10.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 6,
+     "score": 58,
+     "player": "N Chejay",
+     "over": "12.1",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 58,
+     "player": "A Mongar",
+     "over": "12.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 61,
+     "player": "GK Ghalley",
+     "over": "14.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 62,
+     "player": "Tashi Dorji",
+     "over": "14.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 10,
+     "score": 64,
+     "player": "K Dorji",
+     "over": "15.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 13,
+     "batters": [
+      "S Chophel",
+      "Tenjin Rabgey"
+     ],
+     "contributions": {
+      "S Chophel": 1,
+      "Tenjin Rabgey": 8
+     },
+     "ended_by": "Tenjin Rabgey (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 9,
+     "balls": 5,
+     "batters": [
+      "RM Dorji",
+      "S Chophel"
+     ],
+     "contributions": {
+      "RM Dorji": 1,
+      "S Chophel": 8
+     },
+     "ended_by": "S Chophel (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 9,
+     "balls": 7,
+     "batters": [
+      "RM Dorji",
+      "N Chejay"
+     ],
+     "contributions": {
+      "RM Dorji": 9,
+      "N Chejay": 0
+     },
+     "ended_by": "RM Dorji (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 3,
+     "balls": 10,
+     "batters": [
+      "T Jamtsho",
+      "N Chejay"
+     ],
+     "contributions": {
+      "T Jamtsho": 2,
+      "N Chejay": 1
+     },
+     "ended_by": "T Jamtsho (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 24,
+     "balls": 29,
+     "batters": [
+      "Tashi Phuntsho",
+      "N Chejay"
+     ],
+     "contributions": {
+      "Tashi Phuntsho": 7,
+      "N Chejay": 14
+     },
+     "ended_by": "Tashi Phuntsho (run out)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 9,
+     "batters": [
+      "GK Ghalley",
+      "N Chejay"
+     ],
+     "contributions": {
+      "GK Ghalley": 0,
+      "N Chejay": 1
+     },
+     "ended_by": "N Chejay (caught and bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "A Mongar",
+      "GK Ghalley"
+     ],
+     "contributions": {
+      "A Mongar": 0,
+      "GK Ghalley": 0
+     },
+     "ended_by": "A Mongar (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 3,
+     "balls": 8,
+     "batters": [
+      "Tashi Dorji",
+      "GK Ghalley"
+     ],
+     "contributions": {
+      "Tashi Dorji": 2,
+      "GK Ghalley": 1
+     },
+     "ended_by": "GK Ghalley (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "K Dorji",
+      "Tashi Dorji"
+     ],
+     "contributions": {
+      "K Dorji": 1,
+      "Tashi Dorji": 0
+     },
+     "ended_by": "Tashi Dorji (stumped)"
+    },
+    {
+     "wicket": 10,
+     "runs": 2,
+     "balls": 6,
+     "batters": [
+      "S Yeshi",
+      "K Dorji"
+     ],
+     "contributions": {
+      "S Yeshi": 2,
+      "K Dorji": 0
+     },
+     "ended_by": "K Dorji (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Qatar",
+   "batting_team": "Qatar",
+   "bowling_team": "Bhutan",
+   "super_over": false,
+   "total": 65,
+   "wickets": 1,
+   "overs": "5.4",
+   "run_rate": 11.47,
+   "target": 65,
+   "extras": {
+    "wides": 2
+   },
+   "batting": [
+    {
+     "name": "Zubair Ali",
+     "dismissal": "c K Dorji b S Yeshi",
+     "runs": 45,
+     "balls": 22,
+     "dots": 5,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 204.5
+    },
+    {
+     "name": "Zeeshan Haider",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 9,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "MM Baig",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Tashi Dorji",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Dorji",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 14.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "T Jamtsho",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Yeshi",
+     "overs": "1.4",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 9.6,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.4",
+     "runs": 65,
+     "wickets": 1,
+     "run_rate": 11.47
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 58,
+     "player": "Zubair Ali",
+     "over": "5.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 58,
+     "balls": 31,
+     "batters": [
+      "Zubair Ali",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "Zubair Ali": 45,
+      "Zeeshan Haider": 12
+     },
+     "ended_by": "Zubair Ali (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 7,
+     "balls": 3,
+     "batters": [
+      "MM Baig",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "MM Baig": 6,
+      "Zeeshan Haider": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Tashi Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Dorji",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Yeshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Jamtsho",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Yeshi",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Zubair Ali",
+    "runs": 45,
+    "balls": 22,
+    "strike_rate": 204.5
+   },
+   {
+    "name": "N Chejay",
+    "runs": 16,
+    "balls": 22,
+    "strike_rate": 72.7
+   },
+   {
+    "name": "Zeeshan Haider",
+    "runs": 12,
+    "balls": 9,
+    "strike_rate": 133.3
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Muhammad Asim",
+    "figures": "4/6",
+    "overs": "4.0",
+    "economy": 1.5
+   },
+   {
+    "name": "MM Baig",
+    "figures": "3/11",
+    "overs": "2.0",
+    "economy": 5.5
+   },
+   {
+    "name": "Owais Ahmed",
+    "figures": "1/6",
+    "overs": "1.5",
+    "economy": 3.27
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "2 wickets fell in over 3 (bowled by MM Baig, 2 credited to MM Baig)"
+  },
+  {
+   "innings": 1,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 13,
+   "detail": "2 wickets fell in over 13 (bowled by Muhammad Asim, 2 credited to Muhammad Asim)"
+  },
+  {
+   "innings": 1,
+   "team": "Bhutan",
+   "type": "wicket_burst",
+   "over": 15,
+   "detail": "2 wickets fell in over 15 (bowled by Muhammad Asim, 2 credited to Muhammad Asim)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (T Jamtsho) went for 17 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 65 scored, needed 0 from 14 overs (RRR 0.0)"
+  }
+ ],
+ "checks": []
+}

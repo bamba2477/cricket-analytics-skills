@@ -1,0 +1,1233 @@
+{
+ "match": {
+  "teams": [
+   "United Arab Emirates",
+   "Namibia"
+  ],
+  "dates": [
+   "2026-10-09"
+  ],
+  "venue": "Grand Prairie Stadium, Dallas",
+  "city": "Dallas",
+  "event": "ICC Men's Cricket World Cup League 2",
+  "match_number": 131,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Namibia"
+  },
+  "player_of_match": [
+   "JJ Smit"
+  ],
+  "result": "Namibia won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "United Arab Emirates",
+   "batting_team": "United Arab Emirates",
+   "bowling_team": "Namibia",
+   "super_over": false,
+   "total": 134,
+   "wickets": 10,
+   "overs": "37.3",
+   "run_rate": 3.57,
+   "target": null,
+   "extras": {
+    "wides": 5
+   },
+   "batting": [
+    {
+     "name": "T Suri",
+     "dismissal": "c M van Lingen b BM Scholtz",
+     "runs": 29,
+     "balls": 22,
+     "dots": 15,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 131.8
+    },
+    {
+     "name": "Adeeb Usmani",
+     "dismissal": "c R Trumpelmann b JJ Smit",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Muhammad Shahdad",
+     "dismissal": "b JT Brassell",
+     "runs": 22,
+     "balls": 45,
+     "dots": 32,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 48.9
+    },
+    {
+     "name": "Harpreet Singh",
+     "dismissal": "c M van Lingen b JJ Smit",
+     "runs": 2,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "R Chopra",
+     "dismissal": "c ZE Green b R Trumpelmann",
+     "runs": 28,
+     "balls": 55,
+     "dots": 39,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 50.9
+    },
+    {
+     "name": "AD Nath",
+     "dismissal": "c & b BM Scholtz",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Aayan Afzal Khan",
+     "dismissal": "c L Steenkamp b JJ Smit",
+     "runs": 22,
+     "balls": 30,
+     "dots": 18,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 73.3
+    },
+    {
+     "name": "Shoaib Khan",
+     "dismissal": "c JT Brassell b R Trumpelmann",
+     "runs": 2,
+     "balls": 14,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "Basil Hameed",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 28,
+     "dots": 22,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 39.3
+    },
+    {
+     "name": "Khuzaima Tanveer",
+     "dismissal": "c ZE Green b JJ Smit",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Ali Naseer",
+     "dismissal": "b R Trumpelmann",
+     "runs": 13,
+     "balls": 17,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 76.5
+    }
+   ],
+   "bowling": [
+    {
+     "name": "R Trumpelmann",
+     "overs": "8.3",
+     "maidens": 1,
+     "runs": 43,
+     "wickets": 3,
+     "economy": 5.06,
+     "dots": 37,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "JJ Smit",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 29,
+     "wickets": 4,
+     "economy": 2.9,
+     "dots": 45,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "BM Scholtz",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 24,
+     "wickets": 2,
+     "economy": 2.67,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JT Brassell",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 3.22,
+     "dots": 40,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MG Erasmus",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 43,
+     "wickets": 3,
+     "run_rate": 4.3
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "27.3",
+     "runs": 91,
+     "wickets": 7,
+     "run_rate": 3.31
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "Adeeb Usmani",
+     "over": "1.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 39,
+     "player": "T Suri",
+     "over": "6.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 42,
+     "player": "Harpreet Singh",
+     "over": "7.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 75,
+     "player": "Muhammad Shahdad",
+     "over": "17.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 76,
+     "player": "AD Nath",
+     "over": "18.4",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 103,
+     "player": "R Chopra",
+     "over": "25.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 109,
+     "player": "Aayan Afzal Khan",
+     "over": "28.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 109,
+     "player": "Shoaib Khan",
+     "over": "29.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 110,
+     "player": "Khuzaima Tanveer",
+     "over": "30.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 134,
+     "player": "Ali Naseer",
+     "over": "37.3",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 9,
+     "batters": [
+      "T Suri",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "T Suri": 4,
+      "Adeeb Usmani": 0
+     },
+     "ended_by": "Adeeb Usmani (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 33,
+     "balls": 32,
+     "batters": [
+      "Muhammad Shahdad",
+      "T Suri"
+     ],
+     "contributions": {
+      "Muhammad Shahdad": 7,
+      "T Suri": 25
+     },
+     "ended_by": "T Suri (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 3,
+     "balls": 7,
+     "batters": [
+      "Harpreet Singh",
+      "Muhammad Shahdad"
+     ],
+     "contributions": {
+      "Harpreet Singh": 2,
+      "Muhammad Shahdad": 1
+     },
+     "ended_by": "Harpreet Singh (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 33,
+     "balls": 60,
+     "batters": [
+      "Muhammad Shahdad",
+      "R Chopra"
+     ],
+     "contributions": {
+      "Muhammad Shahdad": 14,
+      "R Chopra": 19
+     },
+     "ended_by": "Muhammad Shahdad (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "R Chopra",
+      "AD Nath"
+     ],
+     "contributions": {
+      "R Chopra": 1,
+      "AD Nath": 0
+     },
+     "ended_by": "AD Nath (caught and bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 27,
+     "balls": 43,
+     "batters": [
+      "Aayan Afzal Khan",
+      "R Chopra"
+     ],
+     "contributions": {
+      "Aayan Afzal Khan": 18,
+      "R Chopra": 8
+     },
+     "ended_by": "R Chopra (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 6,
+     "balls": 17,
+     "batters": [
+      "Shoaib Khan",
+      "Aayan Afzal Khan"
+     ],
+     "contributions": {
+      "Shoaib Khan": 2,
+      "Aayan Afzal Khan": 4
+     },
+     "ended_by": "Aayan Afzal Khan (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "Basil Hameed",
+      "Shoaib Khan"
+     ],
+     "contributions": {
+      "Basil Hameed": 0,
+      "Shoaib Khan": 0
+     },
+     "ended_by": "Shoaib Khan (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 9,
+     "batters": [
+      "Khuzaima Tanveer",
+      "Basil Hameed"
+     ],
+     "contributions": {
+      "Khuzaima Tanveer": 0,
+      "Basil Hameed": 1
+     },
+     "ended_by": "Khuzaima Tanveer (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 24,
+     "balls": 39,
+     "batters": [
+      "Basil Hameed",
+      "Ali Naseer"
+     ],
+     "contributions": {
+      "Basil Hameed": 10,
+      "Ali Naseer": 13
+     },
+     "ended_by": "Ali Naseer (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 19,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJ Smit",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Scholtz",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JT Brassell",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MG Erasmus",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R Trumpelmann",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Namibia",
+   "batting_team": "Namibia",
+   "bowling_team": "United Arab Emirates",
+   "super_over": false,
+   "total": 135,
+   "wickets": 2,
+   "overs": "26.0",
+   "run_rate": 5.19,
+   "target": 135,
+   "extras": {
+    "wides": 4,
+    "legbyes": 4,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "M van Lingen",
+     "dismissal": "c Harpreet Singh b Basil Hameed",
+     "runs": 71,
+     "balls": 83,
+     "dots": 45,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 85.5
+    },
+    {
+     "name": "L Steenkamp",
+     "dismissal": "c Adeeb Usmani b Ali Naseer",
+     "runs": 35,
+     "balls": 45,
+     "dots": 25,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 77.8
+    },
+    {
+     "name": "JN Frylinck",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 23,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 60.9
+    },
+    {
+     "name": "MG Erasmus",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 6,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Khuzaima Tanveer",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 4.67,
+     "dots": 24,
+     "wides": 3,
+     "noballs": 1
+    },
+    {
+     "name": "Ali Naseer",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 5.8,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Basil Hameed",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 39,
+     "wickets": 1,
+     "economy": 4.88,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Aayan Afzal Khan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 5.25,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AD Nath",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 4.67,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 57,
+     "wickets": 0,
+     "run_rate": 5.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "16.0",
+     "runs": 78,
+     "wickets": 2,
+     "run_rate": 4.88
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 106,
+     "player": "L Steenkamp",
+     "over": "18.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 126,
+     "player": "M van Lingen",
+     "over": "23.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 106,
+     "balls": 112,
+     "batters": [
+      "M van Lingen",
+      "L Steenkamp"
+     ],
+     "contributions": {
+      "M van Lingen": 62,
+      "L Steenkamp": 35
+     },
+     "ended_by": "L Steenkamp (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 20,
+     "balls": 31,
+     "batters": [
+      "JN Frylinck",
+      "M van Lingen"
+     ],
+     "contributions": {
+      "JN Frylinck": 11,
+      "M van Lingen": 9
+     },
+     "ended_by": "M van Lingen (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 9,
+     "balls": 13,
+     "batters": [
+      "MG Erasmus",
+      "JN Frylinck"
+     ],
+     "contributions": {
+      "MG Erasmus": 6,
+      "JN Frylinck": 3
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Naseer",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Naseer",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Naseer",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aayan Afzal Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ali Naseer",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ali Naseer",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "M van Lingen",
+    "runs": 71,
+    "balls": 83,
+    "strike_rate": 85.5
+   },
+   {
+    "name": "L Steenkamp",
+    "runs": 35,
+    "balls": 45,
+    "strike_rate": 77.8
+   },
+   {
+    "name": "T Suri",
+    "runs": 29,
+    "balls": 22,
+    "strike_rate": 131.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "JJ Smit",
+    "figures": "4/29",
+    "overs": "10.0",
+    "economy": 2.9
+   },
+   {
+    "name": "R Trumpelmann",
+    "figures": "3/43",
+    "overs": "8.3",
+    "economy": 5.06
+   },
+   {
+    "name": "BM Scholtz",
+    "figures": "2/24",
+    "overs": "9.0",
+    "economy": 2.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "United Arab Emirates",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (R Trumpelmann) went for 19 runs"
+  },
+  {
+   "innings": 1,
+   "team": "United Arab Emirates",
+   "type": "collapse",
+   "over": 29,
+   "detail": "3 wickets fell between overs 29 and 31"
+  },
+  {
+   "innings": 2,
+   "team": "Namibia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 38 scored, needed 97 from 44 overs (RRR 2.2)"
+  },
+  {
+   "innings": 2,
+   "team": "Namibia",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 57 scored, needed 78 from 40 overs (RRR 1.95)"
+  },
+  {
+   "innings": 2,
+   "team": "Namibia",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 87 scored, needed 48 from 35 overs (RRR 1.37)"
+  }
+ ],
+ "checks": []
+}

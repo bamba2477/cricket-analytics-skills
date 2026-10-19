@@ -1,0 +1,957 @@
+{
+ "match": {
+  "teams": [
+   "Saudi Arabia",
+   "China"
+  ],
+  "dates": [
+   "2026-10-12"
+  ],
+  "venue": "Selangor Turf Club, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+  "match_number": 12,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "China"
+  },
+  "player_of_match": [
+   "Usman Khalid"
+  ],
+  "result": "Saudi Arabia won by 64 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Saudi Arabia",
+   "batting_team": "Saudi Arabia",
+   "bowling_team": "China",
+   "super_over": false,
+   "total": 98,
+   "wickets": 6,
+   "overs": "10.0",
+   "run_rate": 9.8,
+   "target": null,
+   "extras": {
+    "wides": 8
+   },
+   "batting": [
+    {
+     "name": "Abdul Wahid",
+     "dismissal": "c Zhao Zhilong b Ma Qiancheng",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "Faisal Khan",
+     "dismissal": "c Zhao Zhilong b Tian Sen Qun",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Manan Ali",
+     "dismissal": "c Zong Yuechao b Tian Sen Qun",
+     "runs": 2,
+     "balls": 3,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Waji Ul Hassan",
+     "dismissal": "c Yang Wangjie b Tian Sen Qun",
+     "runs": 49,
+     "balls": 27,
+     "dots": 2,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 181.5
+    },
+    {
+     "name": "Hisham Sheikh",
+     "dismissal": "c Du Jianhao b Chen Zhuo Yue",
+     "runs": 16,
+     "balls": 16,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Usman Khalid",
+     "dismissal": "not out",
+     "runs": 17,
+     "balls": 8,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 212.5
+    },
+    {
+     "name": "Usman Najeeb",
+     "dismissal": "run out (Du Jianhao, Du Jianyao)",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ma Qiancheng",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 5,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Tian Sen Qun",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 3,
+     "economy": 11.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Qi Shuai",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 14.5,
+     "dots": 0,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Chen Zhuo Yue",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 7.5,
+     "dots": 1,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Yao Junting",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 57,
+     "wickets": 3,
+     "run_rate": 9.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "4.0",
+     "runs": 41,
+     "wickets": 3,
+     "run_rate": 10.25
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "Abdul Wahid",
+     "over": "0.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 7,
+     "player": "Manan Ali",
+     "over": "1.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 17,
+     "player": "Faisal Khan",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 61,
+     "player": "Hisham Sheikh",
+     "over": "6.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 97,
+     "player": "Waji Ul Hassan",
+     "over": "9.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 98,
+     "player": "Usman Najeeb",
+     "over": "9.6",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 3,
+     "batters": [
+      "Abdul Wahid",
+      "Faisal Khan"
+     ],
+     "contributions": {
+      "Abdul Wahid": 4,
+      "Faisal Khan": 0
+     },
+     "ended_by": "Abdul Wahid (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "Manan Ali",
+      "Faisal Khan"
+     ],
+     "contributions": {
+      "Manan Ali": 2,
+      "Faisal Khan": 1
+     },
+     "ended_by": "Manan Ali (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 10,
+     "balls": 4,
+     "batters": [
+      "Waji Ul Hassan",
+      "Faisal Khan"
+     ],
+     "contributions": {
+      "Waji Ul Hassan": 9,
+      "Faisal Khan": 0
+     },
+     "ended_by": "Faisal Khan (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 44,
+     "balls": 30,
+     "batters": [
+      "Hisham Sheikh",
+      "Waji Ul Hassan"
+     ],
+     "contributions": {
+      "Hisham Sheikh": 16,
+      "Waji Ul Hassan": 21
+     },
+     "ended_by": "Hisham Sheikh (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 36,
+     "balls": 18,
+     "batters": [
+      "Usman Khalid",
+      "Waji Ul Hassan"
+     ],
+     "contributions": {
+      "Usman Khalid": 17,
+      "Waji Ul Hassan": 19
+     },
+     "ended_by": "Waji Ul Hassan (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "Usman Najeeb",
+      "Usman Khalid"
+     ],
+     "contributions": {
+      "Usman Najeeb": 1,
+      "Usman Khalid": 0
+     },
+     "ended_by": "Usman Najeeb (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ma Qiancheng",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 11,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Tian Sen Qun",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ma Qiancheng",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Qi Shuai",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Chen Zhuo Yue",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yao Junting",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Chen Zhuo Yue",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yao Junting",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Qi Shuai",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 11,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "Tian Sen Qun",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "China",
+   "batting_team": "China",
+   "bowling_team": "Saudi Arabia",
+   "super_over": false,
+   "total": 34,
+   "wickets": 8,
+   "overs": "10.0",
+   "run_rate": 3.4,
+   "target": 99,
+   "extras": {
+    "wides": 2,
+    "noballs": 1,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "Du Jianhao",
+     "dismissal": "c Zain Ul Abidin b Ishtiaq Ahmad",
+     "runs": 4,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Shenjian Zheng",
+     "dismissal": "c S Sankar b Ishtiaq Ahmad",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Yang Wangjie",
+     "dismissal": "run out (Muhammad Saqib)",
+     "runs": 5,
+     "balls": 7,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 71.4
+    },
+    {
+     "name": "Tian Sen Qun",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 22,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 59.1
+    },
+    {
+     "name": "Zhao Zhilong",
+     "dismissal": "c S Sankar b Usman Khalid",
+     "runs": 5,
+     "balls": 6,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "Zong Yuechao",
+     "dismissal": "c Faisal Khan b Usman Khalid",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Ma Qiancheng",
+     "dismissal": "b Zain Ul Abidin",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Chen Zhuo Yue",
+     "dismissal": "st S Sankar b Hisham Sheikh",
+     "runs": 0,
+     "balls": 11,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Qi Shuai",
+     "dismissal": "b Hisham Sheikh",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Du Jianyao",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ishtiaq Ahmad",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 2,
+     "economy": 8.0,
+     "dots": 7,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "Muhammad Saqib",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Usman Khalid",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 2,
+     "economy": 2.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Zain Ul Abidin",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 2,
+     "wickets": 1,
+     "economy": 1.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Hisham Sheikh",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 2,
+     "wickets": 2,
+     "economy": 1.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 29,
+     "wickets": 5,
+     "run_rate": 4.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "4.0",
+     "runs": 5,
+     "wickets": 3,
+     "run_rate": 1.25
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "Du Jianhao",
+     "over": "0.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 9,
+     "player": "Shenjian Zheng",
+     "over": "2.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 16,
+     "player": "Yang Wangjie",
+     "over": "2.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 29,
+     "player": "Zhao Zhilong",
+     "over": "5.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 29,
+     "player": "Zong Yuechao",
+     "over": "5.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 30,
+     "player": "Ma Qiancheng",
+     "over": "6.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 34,
+     "player": "Chen Zhuo Yue",
+     "over": "9.3",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 8,
+     "score": 34,
+     "player": "Qi Shuai",
+     "over": "9.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "Du Jianhao",
+      "Shenjian Zheng"
+     ],
+     "contributions": {
+      "Du Jianhao": 4,
+      "Shenjian Zheng": 0
+     },
+     "ended_by": "Du Jianhao (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 8,
+     "batters": [
+      "Yang Wangjie",
+      "Shenjian Zheng"
+     ],
+     "contributions": {
+      "Yang Wangjie": 5,
+      "Shenjian Zheng": 0
+     },
+     "ended_by": "Shenjian Zheng (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 2,
+     "batters": [
+      "Tian Sen Qun",
+      "Yang Wangjie"
+     ],
+     "contributions": {
+      "Tian Sen Qun": 5,
+      "Yang Wangjie": 0
+     },
+     "ended_by": "Yang Wangjie (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 13,
+     "balls": 17,
+     "batters": [
+      "Zhao Zhilong",
+      "Tian Sen Qun"
+     ],
+     "contributions": {
+      "Zhao Zhilong": 5,
+      "Tian Sen Qun": 4
+     },
+     "ended_by": "Zhao Zhilong (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "Zong Yuechao",
+      "Tian Sen Qun"
+     ],
+     "contributions": {
+      "Zong Yuechao": 0,
+      "Tian Sen Qun": 0
+     },
+     "ended_by": "Zong Yuechao (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "Tian Sen Qun",
+      "Ma Qiancheng"
+     ],
+     "contributions": {
+      "Tian Sen Qun": 1,
+      "Ma Qiancheng": 0
+     },
+     "ended_by": "Ma Qiancheng (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 18,
+     "batters": [
+      "Chen Zhuo Yue",
+      "Tian Sen Qun"
+     ],
+     "contributions": {
+      "Chen Zhuo Yue": 0,
+      "Tian Sen Qun": 3
+     },
+     "ended_by": "Chen Zhuo Yue (stumped)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Qi Shuai",
+      "Tian Sen Qun"
+     ],
+     "contributions": {
+      "Qi Shuai": 0,
+      "Tian Sen Qun": 0
+     },
+     "ended_by": "Qi Shuai (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Du Jianyao",
+      "Tian Sen Qun"
+     ],
+     "contributions": {
+      "Du Jianyao": 0,
+      "Tian Sen Qun": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ishtiaq Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Saqib",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 11,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "Ishtiaq Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Usman Khalid",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zain Ul Abidin",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Usman Khalid",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Zain Ul Abidin",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hisham Sheikh",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Saqib",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Hisham Sheikh",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Waji Ul Hassan",
+    "runs": 49,
+    "balls": 27,
+    "strike_rate": 181.5
+   },
+   {
+    "name": "Usman Khalid",
+    "runs": 17,
+    "balls": 8,
+    "strike_rate": 212.5
+   },
+   {
+    "name": "Hisham Sheikh",
+    "runs": 16,
+    "balls": 16,
+    "strike_rate": 100.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Tian Sen Qun",
+    "figures": "3/22",
+    "overs": "2.0",
+    "economy": 11.0
+   },
+   {
+    "name": "Hisham Sheikh",
+    "figures": "2/2",
+    "overs": "2.0",
+    "economy": 1.0
+   },
+   {
+    "name": "Usman Khalid",
+    "figures": "2/4",
+    "overs": "2.0",
+    "economy": 2.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Saudi Arabia",
+   "type": "wicket_burst",
+   "over": 2,
+   "detail": "2 wickets fell in over 2 (bowled by Tian Sen Qun, 2 credited to Tian Sen Qun)"
+  },
+  {
+   "innings": 1,
+   "team": "Saudi Arabia",
+   "type": "big_over",
+   "over": 9,
+   "detail": "Over 9 (Qi Shuai) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Saudi Arabia",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by Tian Sen Qun, 1 credited to Tian Sen Qun)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "2 wickets fell in over 3 (bowled by Ishtiaq Ahmad, 1 credited to Ishtiaq Ahmad)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "wicket_burst",
+   "over": 6,
+   "detail": "2 wickets fell in over 6 (bowled by Usman Khalid, 2 credited to Usman Khalid)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 29 scored, needed 70 from 4 overs (RRR 17.5)"
+  },
+  {
+   "innings": 2,
+   "team": "China",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by Hisham Sheikh, 2 credited to Hisham Sheikh)"
+  }
+ ],
+ "checks": []
+}

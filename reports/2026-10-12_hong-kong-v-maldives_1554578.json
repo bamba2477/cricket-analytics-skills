@@ -1,0 +1,413 @@
+{
+ "match": {
+  "teams": [
+   "Hong Kong",
+   "Maldives"
+  ],
+  "dates": [
+   "2026-10-12"
+  ],
+  "venue": "YSD-UKM Cricket Oval, Bangi",
+  "city": "Bangi",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+  "match_number": 11,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Maldives"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Hong Kong",
+   "batting_team": "Hong Kong",
+   "bowling_team": "Maldives",
+   "super_over": false,
+   "total": 104,
+   "wickets": 3,
+   "overs": "13.0",
+   "run_rate": 8.0,
+   "target": null,
+   "extras": {
+    "wides": 4
+   },
+   "batting": [
+    {
+     "name": "Zeeshan Ali",
+     "dismissal": "c Azyan Farhath b Umar Adam",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Anshuman Rath",
+     "dismissal": "lbw b Ibrahim Rizan",
+     "runs": 34,
+     "balls": 34,
+     "dots": 13,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Babar Hayat",
+     "dismissal": "c Shafraz Jaleel b Umar Adam",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "Shahid Wasif",
+     "dismissal": "not out",
+     "runs": 55,
+     "balls": 34,
+     "dots": 7,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 161.8
+    },
+    {
+     "name": "Reyansh Sharma",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 3,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 166.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Harsha Amarasinghe",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Umar Adam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 2,
+     "economy": 6.5,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Nazwan Ismail",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 18.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Azyan Farhath",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 4,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Ibrahim Rizan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 1,
+     "economy": 4.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 53,
+     "wickets": 2,
+     "run_rate": 8.83
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "7.0",
+     "runs": 51,
+     "wickets": 1,
+     "run_rate": 7.29
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "Zeeshan Ali",
+     "over": "1.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 11,
+     "player": "Babar Hayat",
+     "over": "1.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 94,
+     "player": "Anshuman Rath",
+     "over": "11.6",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 7,
+     "batters": [
+      "Zeeshan Ali",
+      "Anshuman Rath"
+     ],
+     "contributions": {
+      "Zeeshan Ali": 2,
+      "Anshuman Rath": 5
+     },
+     "ended_by": "Zeeshan Ali (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 3,
+     "batters": [
+      "Babar Hayat",
+      "Anshuman Rath"
+     ],
+     "contributions": {
+      "Babar Hayat": 4,
+      "Anshuman Rath": 0
+     },
+     "ended_by": "Babar Hayat (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 83,
+     "balls": 62,
+     "batters": [
+      "Shahid Wasif",
+      "Anshuman Rath"
+     ],
+     "contributions": {
+      "Shahid Wasif": 51,
+      "Anshuman Rath": 29
+     },
+     "ended_by": "Anshuman Rath (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 10,
+     "balls": 6,
+     "batters": [
+      "Shahid Wasif",
+      "Reyansh Sharma"
+     ],
+     "contributions": {
+      "Shahid Wasif": 4,
+      "Reyansh Sharma": 5
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harsha Amarasinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harsha Amarasinghe",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nazwan Ismail",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azyan Farhath",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Umar Adam",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azyan Farhath",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ibrahim Rizan",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azyan Farhath",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ibrahim Rizan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Azyan Farhath",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Shahid Wasif",
+    "runs": 55,
+    "balls": 34,
+    "strike_rate": 161.8
+   },
+   {
+    "name": "Anshuman Rath",
+    "runs": 34,
+    "balls": 34,
+    "strike_rate": 100.0
+   },
+   {
+    "name": "Reyansh Sharma",
+    "runs": 5,
+    "balls": 3,
+    "strike_rate": 166.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Umar Adam",
+    "figures": "2/26",
+    "overs": "4.0",
+    "economy": 6.5
+   },
+   {
+    "name": "Ibrahim Rizan",
+    "figures": "1/9",
+    "overs": "2.0",
+    "economy": 4.5
+   },
+   {
+    "name": "Harsha Amarasinghe",
+    "figures": "0/15",
+    "overs": "2.0",
+    "economy": 7.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Hong Kong",
+   "type": "wicket_burst",
+   "over": 2,
+   "detail": "2 wickets fell in over 2 (bowled by Umar Adam, 2 credited to Umar Adam)"
+  },
+  {
+   "innings": 1,
+   "team": "Hong Kong",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (Nazwan Ismail) went for 18 runs"
+  }
+ ],
+ "checks": []
+}

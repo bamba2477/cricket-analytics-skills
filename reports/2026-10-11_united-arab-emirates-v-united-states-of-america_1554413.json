@@ -1,0 +1,1556 @@
+{
+ "match": {
+  "teams": [
+   "United Arab Emirates",
+   "United States of America"
+  ],
+  "dates": [
+   "2026-10-11"
+  ],
+  "venue": "Grand Prairie Stadium, Dallas",
+  "city": "Dallas",
+  "event": "ICC Men's Cricket World Cup League 2",
+  "match_number": 133,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "United States of America"
+  },
+  "player_of_match": [
+   "Shubham Ranjane"
+  ],
+  "result": "United States of America won by 5 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "United Arab Emirates",
+   "batting_team": "United Arab Emirates",
+   "bowling_team": "United States of America",
+   "super_over": false,
+   "total": 213,
+   "wickets": 10,
+   "overs": "46.3",
+   "run_rate": 4.58,
+   "target": null,
+   "extras": {
+    "noballs": 2,
+    "wides": 5,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "T Suri",
+     "dismissal": "c SK Patel b Shubham Ranjane",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Adeeb Usmani",
+     "dismissal": "c SK Patel b NP Kenjige",
+     "runs": 12,
+     "balls": 33,
+     "dots": 23,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 36.4
+    },
+    {
+     "name": "Muhammad Shahdad",
+     "dismissal": "b Shubham Ranjane",
+     "runs": 79,
+     "balls": 105,
+     "dots": 61,
+     "fours": 7,
+     "sixes": 2,
+     "strike_rate": 75.2
+    },
+    {
+     "name": "Harpreet Singh",
+     "dismissal": "c & b Hassan Khan",
+     "runs": 48,
+     "balls": 53,
+     "dots": 29,
+     "fours": 5,
+     "sixes": 1,
+     "strike_rate": 90.6
+    },
+    {
+     "name": "R Chopra",
+     "dismissal": "c SK Patel b SN Netravalkar",
+     "runs": 20,
+     "balls": 17,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 117.6
+    },
+    {
+     "name": "Basil Hameed",
+     "dismissal": "b Shubham Ranjane",
+     "runs": 6,
+     "balls": 9,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "AD Nath",
+     "dismissal": "c SK Patel b Shubham Ranjane",
+     "runs": 2,
+     "balls": 13,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 15.4
+    },
+    {
+     "name": "Shoaib Khan",
+     "dismissal": "c SK Patel b Jasdeep Singh",
+     "runs": 12,
+     "balls": 13,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 92.3
+    },
+    {
+     "name": "Awais Ali Shah",
+     "dismissal": "not out",
+     "runs": 24,
+     "balls": 26,
+     "dots": 13,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 92.3
+    },
+    {
+     "name": "Khuzaima Tanveer",
+     "dismissal": "c Milind Kumar b SN Netravalkar",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Muhammad Arfan",
+     "dismissal": "lbw b SN Netravalkar",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "SN Netravalkar",
+     "overs": "9.3",
+     "maidens": 1,
+     "runs": 23,
+     "wickets": 3,
+     "economy": 2.42,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "Shubham Ranjane",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 39,
+     "wickets": 4,
+     "economy": 3.9,
+     "dots": 37,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Jasdeep Singh",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 49,
+     "wickets": 1,
+     "economy": 6.12,
+     "dots": 26,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "NP Kenjige",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 1,
+     "economy": 4.2,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Milind Kumar",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Hassan Khan",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 48,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "GSNFG Jayasuriya",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 4.5,
+     "dots": 17,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 28,
+     "wickets": 1,
+     "run_rate": 2.8
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 150,
+     "wickets": 6,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "6.3",
+     "runs": 35,
+     "wickets": 3,
+     "run_rate": 5.38
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "T Suri",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 33,
+     "player": "Adeeb Usmani",
+     "over": "11.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 131,
+     "player": "Harpreet Singh",
+     "over": "28.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 160,
+     "player": "R Chopra",
+     "over": "33.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 173,
+     "player": "Basil Hameed",
+     "over": "36.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 174,
+     "player": "Muhammad Shahdad",
+     "over": "36.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 177,
+     "player": "AD Nath",
+     "over": "38.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 202,
+     "player": "Shoaib Khan",
+     "over": "43.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 203,
+     "player": "Khuzaima Tanveer",
+     "over": "44.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 213,
+     "player": "Muhammad Arfan",
+     "over": "46.3",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "T Suri",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "T Suri": 1,
+      "Adeeb Usmani": 0
+     },
+     "ended_by": "T Suri (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 32,
+     "balls": 62,
+     "batters": [
+      "Muhammad Shahdad",
+      "Adeeb Usmani"
+     ],
+     "contributions": {
+      "Muhammad Shahdad": 16,
+      "Adeeb Usmani": 12
+     },
+     "ended_by": "Adeeb Usmani (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 98,
+     "balls": 103,
+     "batters": [
+      "Harpreet Singh",
+      "Muhammad Shahdad"
+     ],
+     "contributions": {
+      "Harpreet Singh": 48,
+      "Muhammad Shahdad": 47
+     },
+     "ended_by": "Harpreet Singh (caught and bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 27,
+     "batters": [
+      "R Chopra",
+      "Muhammad Shahdad"
+     ],
+     "contributions": {
+      "R Chopra": 20,
+      "Muhammad Shahdad": 9
+     },
+     "ended_by": "R Chopra (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 13,
+     "balls": 18,
+     "batters": [
+      "Basil Hameed",
+      "Muhammad Shahdad"
+     ],
+     "contributions": {
+      "Basil Hameed": 6,
+      "Muhammad Shahdad": 7
+     },
+     "ended_by": "Basil Hameed (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "AD Nath",
+      "Muhammad Shahdad"
+     ],
+     "contributions": {
+      "AD Nath": 1,
+      "Muhammad Shahdad": 0
+     },
+     "ended_by": "Muhammad Shahdad (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 3,
+     "balls": 11,
+     "batters": [
+      "AD Nath",
+      "Shoaib Khan"
+     ],
+     "contributions": {
+      "AD Nath": 1,
+      "Shoaib Khan": 2
+     },
+     "ended_by": "AD Nath (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 25,
+     "balls": 30,
+     "batters": [
+      "Awais Ali Shah",
+      "Shoaib Khan"
+     ],
+     "contributions": {
+      "Awais Ali Shah": 14,
+      "Shoaib Khan": 10
+     },
+     "ended_by": "Shoaib Khan (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "Khuzaima Tanveer",
+      "Awais Ali Shah"
+     ],
+     "contributions": {
+      "Khuzaima Tanveer": 0,
+      "Awais Ali Shah": 1
+     },
+     "ended_by": "Khuzaima Tanveer (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 10,
+     "balls": 12,
+     "batters": [
+      "Muhammad Arfan",
+      "Awais Ali Shah"
+     ],
+     "contributions": {
+      "Muhammad Arfan": 1,
+      "Awais Ali Shah": 9
+     },
+     "ended_by": "Muhammad Arfan (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NP Kenjige",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NP Kenjige",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NP Kenjige",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Milind Kumar",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NP Kenjige",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Milind Kumar",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GSNFG Jayasuriya",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GSNFG Jayasuriya",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NP Kenjige",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassan Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GSNFG Jayasuriya",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GSNFG Jayasuriya",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Jasdeep Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shubham Ranjane",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SN Netravalkar",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "United States of America",
+   "batting_team": "United States of America",
+   "bowling_team": "United Arab Emirates",
+   "super_over": false,
+   "total": 214,
+   "wickets": 5,
+   "overs": "38.4",
+   "run_rate": 5.53,
+   "target": 214,
+   "extras": {
+    "wides": 13,
+    "legbyes": 5,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "SK Patel",
+     "dismissal": "c Adeeb Usmani b Khuzaima Tanveer",
+     "runs": 25,
+     "balls": 45,
+     "dots": 26,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "MD Patel",
+     "dismissal": "b Muhammad Arfan",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "GSNFG Jayasuriya",
+     "dismissal": "b Muhammad Arfan",
+     "runs": 83,
+     "balls": 95,
+     "dots": 47,
+     "fours": 8,
+     "sixes": 1,
+     "strike_rate": 87.4
+    },
+    {
+     "name": "SP Krishnamurthi",
+     "dismissal": "b Basil Hameed",
+     "runs": 28,
+     "balls": 36,
+     "dots": 18,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 77.8
+    },
+    {
+     "name": "Milind Kumar",
+     "dismissal": "b Muhammad Arfan",
+     "runs": 27,
+     "balls": 23,
+     "dots": 12,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 117.4
+    },
+    {
+     "name": "Shubham Ranjane",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 21,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Hassan Khan",
+     "dismissal": "not out",
+     "runs": 15,
+     "balls": 10,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 150.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Khuzaima Tanveer",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 42,
+     "wickets": 1,
+     "economy": 4.2,
+     "dots": 43,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Arfan",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 3,
+     "economy": 3.8,
+     "dots": 40,
+     "wides": 9,
+     "noballs": 0
+    },
+    {
+     "name": "Awais Ali Shah",
+     "overs": "5.4",
+     "maidens": 0,
+     "runs": 54,
+     "wickets": 0,
+     "economy": 9.53,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Basil Hameed",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 7.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AD Nath",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 3.43,
+     "dots": 21,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Shahdad",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shoaib Khan",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 38,
+     "wickets": 1,
+     "run_rate": 3.8
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "28.4",
+     "runs": 176,
+     "wickets": 4,
+     "run_rate": 6.14
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "MD Patel",
+     "over": "1.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 75,
+     "player": "SK Patel",
+     "over": "16.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 140,
+     "player": "SP Krishnamurthi",
+     "over": "27.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 184,
+     "player": "Milind Kumar",
+     "over": "33.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 189,
+     "player": "GSNFG Jayasuriya",
+     "over": "35.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 8,
+     "batters": [
+      "SK Patel",
+      "MD Patel"
+     ],
+     "contributions": {
+      "SK Patel": 0,
+      "MD Patel": 0
+     },
+     "ended_by": "MD Patel (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 75,
+     "balls": 90,
+     "batters": [
+      "GSNFG Jayasuriya",
+      "SK Patel"
+     ],
+     "contributions": {
+      "GSNFG Jayasuriya": 37,
+      "SK Patel": 25
+     },
+     "ended_by": "SK Patel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 65,
+     "balls": 67,
+     "batters": [
+      "SP Krishnamurthi",
+      "GSNFG Jayasuriya"
+     ],
+     "contributions": {
+      "SP Krishnamurthi": 28,
+      "GSNFG Jayasuriya": 31
+     },
+     "ended_by": "SP Krishnamurthi (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 44,
+     "balls": 34,
+     "batters": [
+      "Milind Kumar",
+      "GSNFG Jayasuriya"
+     ],
+     "contributions": {
+      "Milind Kumar": 27,
+      "GSNFG Jayasuriya": 14
+     },
+     "ended_by": "Milind Kumar (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 5,
+     "balls": 15,
+     "batters": [
+      "Shubham Ranjane",
+      "GSNFG Jayasuriya"
+     ],
+     "contributions": {
+      "Shubham Ranjane": 4,
+      "GSNFG Jayasuriya": 1
+     },
+     "ended_by": "GSNFG Jayasuriya (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 25,
+     "balls": 18,
+     "batters": [
+      "Hassan Khan",
+      "Shubham Ranjane"
+     ],
+     "contributions": {
+      "Hassan Khan": 15,
+      "Shubham Ranjane": 10
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Shahdad",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoaib Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Basil Hameed",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Arfan",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Khuzaima Tanveer",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Nath",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Awais Ali Shah",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "GSNFG Jayasuriya",
+    "runs": 83,
+    "balls": 95,
+    "strike_rate": 87.4
+   },
+   {
+    "name": "Muhammad Shahdad",
+    "runs": 79,
+    "balls": 105,
+    "strike_rate": 75.2
+   },
+   {
+    "name": "Harpreet Singh",
+    "runs": 48,
+    "balls": 53,
+    "strike_rate": 90.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Shubham Ranjane",
+    "figures": "4/39",
+    "overs": "10.0",
+    "economy": 3.9
+   },
+   {
+    "name": "SN Netravalkar",
+    "figures": "3/23",
+    "overs": "9.3",
+    "economy": 2.42
+   },
+   {
+    "name": "Muhammad Arfan",
+    "figures": "3/38",
+    "overs": "10.0",
+    "economy": 3.8
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "United Arab Emirates",
+   "type": "wicket_burst",
+   "over": 37,
+   "detail": "2 wickets fell in over 37 (bowled by Shubham Ranjane, 2 credited to Shubham Ranjane)"
+  },
+  {
+   "innings": 2,
+   "team": "United States of America",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 15 scored, needed 199 from 44 overs (RRR 4.52)"
+  },
+  {
+   "innings": 2,
+   "team": "United States of America",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 38 scored, needed 176 from 40 overs (RRR 4.4)"
+  },
+  {
+   "innings": 2,
+   "team": "United States of America",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 71 scored, needed 143 from 35 overs (RRR 4.09)"
+  },
+  {
+   "innings": 2,
+   "team": "United States of America",
+   "type": "big_over",
+   "over": 33,
+   "detail": "Over 33 (Awais Ali Shah) went for 15 runs"
+  }
+ ],
+ "checks": []
+}

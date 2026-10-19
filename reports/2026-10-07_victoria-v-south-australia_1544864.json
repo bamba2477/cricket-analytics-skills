@@ -1,0 +1,3828 @@
+{
+ "match": {
+  "teams": [
+   "Victoria",
+   "South Australia"
+  ],
+  "dates": [
+   "2026-10-07",
+   "2026-10-08",
+   "2026-10-09",
+   "2026-10-10"
+  ],
+  "venue": "Junction Oval, Melbourne",
+  "city": "Melbourne",
+  "event": "Sheffield Shield",
+  "match_number": 1,
+  "match_type": "MDM",
+  "overs": null,
+  "toss": {
+   "decision": "field",
+   "winner": "South Australia"
+  },
+  "player_of_match": [
+   "BAD Manenti"
+  ],
+  "result": "South Australia won by 40 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Victoria",
+   "batting_team": "Victoria",
+   "bowling_team": "South Australia",
+   "super_over": false,
+   "total": 244,
+   "wickets": 10,
+   "overs": "84.3",
+   "run_rate": 2.89,
+   "target": null,
+   "extras": {
+    "legbyes": 4,
+    "noballs": 9,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "C Kellaway",
+     "dismissal": "c JS Lehmann b B Doggett",
+     "runs": 13,
+     "balls": 20,
+     "dots": 15,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "MS Harris",
+     "dismissal": "c J Weatherald b N McFadyen",
+     "runs": 4,
+     "balls": 24,
+     "dots": 20,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "PSP Handscomb",
+     "dismissal": "lbw b N McFadyen",
+     "runs": 24,
+     "balls": 29,
+     "dots": 20,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 82.8
+    },
+    {
+     "name": "OJ Peake",
+     "dismissal": "b HTRY Thornton",
+     "runs": 32,
+     "balls": 44,
+     "dots": 30,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 72.7
+    },
+    {
+     "name": "MW Short",
+     "dismissal": "c JS Lehmann b HTRY Thornton",
+     "runs": 31,
+     "balls": 35,
+     "dots": 24,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 88.6
+    },
+    {
+     "name": "L Blackford",
+     "dismissal": "run out (N McAndrew)",
+     "runs": 27,
+     "balls": 67,
+     "dots": 54,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 40.3
+    },
+    {
+     "name": "F O'Neill",
+     "dismissal": "c JJS Sangha b BAD Manenti",
+     "runs": 24,
+     "balls": 54,
+     "dots": 41,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 44.4
+    },
+    {
+     "name": "SM Elliott",
+     "dismissal": "b HTRY Thornton",
+     "runs": 3,
+     "balls": 14,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 21.4
+    },
+    {
+     "name": "H Hoekstra",
+     "dismissal": "c J Weatherald b B Doggett",
+     "runs": 45,
+     "balls": 122,
+     "dots": 99,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 36.9
+    },
+    {
+     "name": "D Warren",
+     "dismissal": "lbw b B Doggett",
+     "runs": 20,
+     "balls": 95,
+     "dots": 88,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 21.1
+    },
+    {
+     "name": "DJM Moody",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 12,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 58.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "N McAndrew",
+     "overs": "18.0",
+     "maidens": 2,
+     "runs": 56,
+     "wickets": 0,
+     "economy": 3.11,
+     "dots": 81,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "B Doggett",
+     "overs": "18.3",
+     "maidens": 5,
+     "runs": 56,
+     "wickets": 3,
+     "economy": 3.03,
+     "dots": 90,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N McFadyen",
+     "overs": "15.0",
+     "maidens": 4,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 2.33,
+     "dots": 74,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "HTRY Thornton",
+     "overs": "13.0",
+     "maidens": 2,
+     "runs": 51,
+     "wickets": 3,
+     "economy": 3.92,
+     "dots": 62,
+     "wides": 0,
+     "noballs": 9
+    },
+    {
+     "name": "BAD Manenti",
+     "overs": "16.0",
+     "maidens": 5,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 1.88,
+     "dots": 78,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JJS Sangha",
+     "overs": "4.0",
+     "maidens": 2,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 15,
+     "player": "C Kellaway",
+     "over": "5.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 31,
+     "player": "MS Harris",
+     "over": "10.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 46,
+     "player": "PSP Handscomb",
+     "over": "12.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 97,
+     "player": "MW Short",
+     "over": "23.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 114,
+     "player": "OJ Peake",
+     "over": "27.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 162,
+     "player": "F O'Neill",
+     "over": "44.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 162,
+     "player": "L Blackford",
+     "over": "45.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 8,
+     "score": 173,
+     "player": "SM Elliott",
+     "over": "51.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 235,
+     "player": "D Warren",
+     "over": "80.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 244,
+     "player": "H Hoekstra",
+     "over": "84.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 15,
+     "balls": 32,
+     "batters": [
+      "C Kellaway",
+      "MS Harris"
+     ],
+     "contributions": {
+      "C Kellaway": 13,
+      "MS Harris": 2
+     },
+     "ended_by": "C Kellaway (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 16,
+     "balls": 30,
+     "batters": [
+      "PSP Handscomb",
+      "MS Harris"
+     ],
+     "contributions": {
+      "PSP Handscomb": 14,
+      "MS Harris": 2
+     },
+     "ended_by": "MS Harris (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 15,
+     "balls": 15,
+     "batters": [
+      "OJ Peake",
+      "PSP Handscomb"
+     ],
+     "contributions": {
+      "OJ Peake": 4,
+      "PSP Handscomb": 10
+     },
+     "ended_by": "PSP Handscomb (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 51,
+     "balls": 65,
+     "batters": [
+      "MW Short",
+      "OJ Peake"
+     ],
+     "contributions": {
+      "MW Short": 31,
+      "OJ Peake": 20
+     },
+     "ended_by": "MW Short (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 17,
+     "balls": 22,
+     "batters": [
+      "L Blackford",
+      "OJ Peake"
+     ],
+     "contributions": {
+      "L Blackford": 7,
+      "OJ Peake": 8
+     },
+     "ended_by": "OJ Peake (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 48,
+     "balls": 104,
+     "batters": [
+      "F O'Neill",
+      "L Blackford"
+     ],
+     "contributions": {
+      "F O'Neill": 24,
+      "L Blackford": 20
+     },
+     "ended_by": "F O'Neill (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "SM Elliott",
+      "L Blackford"
+     ],
+     "contributions": {
+      "SM Elliott": 0,
+      "L Blackford": 0
+     },
+     "ended_by": "L Blackford (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 11,
+     "balls": 37,
+     "batters": [
+      "H Hoekstra",
+      "SM Elliott"
+     ],
+     "contributions": {
+      "H Hoekstra": 6,
+      "SM Elliott": 3
+     },
+     "ended_by": "SM Elliott (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 62,
+     "balls": 178,
+     "batters": [
+      "D Warren",
+      "H Hoekstra"
+     ],
+     "contributions": {
+      "D Warren": 20,
+      "H Hoekstra": 37
+     },
+     "ended_by": "D Warren (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 9,
+     "balls": 21,
+     "batters": [
+      "H Hoekstra",
+      "DJM Moody"
+     ],
+     "contributions": {
+      "H Hoekstra": 2,
+      "DJM Moody": 7
+     },
+     "ended_by": "H Hoekstra (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Doggett",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "South Australia",
+   "batting_team": "South Australia",
+   "bowling_team": "Victoria",
+   "super_over": false,
+   "total": 508,
+   "wickets": 10,
+   "overs": "135.3",
+   "run_rate": 3.75,
+   "target": null,
+   "extras": {
+    "legbyes": 4,
+    "wides": 2,
+    "byes": 3
+   },
+   "batting": [
+    {
+     "name": "HJ Hunt",
+     "dismissal": "b DJM Moody",
+     "runs": 71,
+     "balls": 185,
+     "dots": 147,
+     "fours": 8,
+     "sixes": 1,
+     "strike_rate": 38.4
+    },
+    {
+     "name": "J Weatherald",
+     "dismissal": "c L Blackford b H Hoekstra",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MW Harvey",
+     "dismissal": "c MW Short b H Hoekstra",
+     "runs": 9,
+     "balls": 26,
+     "dots": 22,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 34.6
+    },
+    {
+     "name": "JJS Sangha",
+     "dismissal": "c L Blackford b DJM Moody",
+     "runs": 32,
+     "balls": 59,
+     "dots": 45,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 54.2
+    },
+    {
+     "name": "JS Lehmann",
+     "dismissal": "c L Blackford b H Hoekstra",
+     "runs": 90,
+     "balls": 152,
+     "dots": 95,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 59.2
+    },
+    {
+     "name": "HJ Nielsen",
+     "dismissal": "b H Hoekstra",
+     "runs": 7,
+     "balls": 13,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 53.8
+    },
+    {
+     "name": "BAD Manenti",
+     "dismissal": "c F O'Neill b H Hoekstra",
+     "runs": 128,
+     "balls": 154,
+     "dots": 86,
+     "fours": 16,
+     "sixes": 1,
+     "strike_rate": 83.1
+    },
+    {
+     "name": "N McFadyen",
+     "dismissal": "c MW Short b SM Elliott",
+     "runs": 134,
+     "balls": 174,
+     "dots": 119,
+     "fours": 16,
+     "sixes": 5,
+     "strike_rate": 77.0
+    },
+    {
+     "name": "N McAndrew",
+     "dismissal": "c PSP Handscomb b H Hoekstra",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "HTRY Thornton",
+     "dismissal": "b DJM Moody",
+     "runs": 5,
+     "balls": 5,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "B Doggett",
+     "dismissal": "not out",
+     "runs": 19,
+     "balls": 36,
+     "dots": 28,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 52.8
+    }
+   ],
+   "bowling": [
+    {
+     "name": "F O'Neill",
+     "overs": "29.0",
+     "maidens": 8,
+     "runs": 74,
+     "wickets": 0,
+     "economy": 2.55,
+     "dots": 134,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "H Hoekstra",
+     "overs": "27.0",
+     "maidens": 7,
+     "runs": 103,
+     "wickets": 6,
+     "economy": 3.81,
+     "dots": 125,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MW Short",
+     "overs": "13.0",
+     "maidens": 2,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 2.77,
+     "dots": 55,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SM Elliott",
+     "overs": "22.3",
+     "maidens": 2,
+     "runs": 108,
+     "wickets": 1,
+     "economy": 4.8,
+     "dots": 86,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "D Warren",
+     "overs": "25.0",
+     "maidens": 1,
+     "runs": 109,
+     "wickets": 0,
+     "economy": 4.36,
+     "dots": 90,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DJM Moody",
+     "overs": "19.0",
+     "maidens": 2,
+     "runs": 71,
+     "wickets": 3,
+     "economy": 3.74,
+     "dots": 72,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "J Weatherald",
+     "over": "1.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 21,
+     "player": "MW Harvey",
+     "over": "12.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 73,
+     "player": "JJS Sangha",
+     "over": "32.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 156,
+     "player": "HJ Hunt",
+     "over": "56.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 165,
+     "player": "HJ Nielsen",
+     "over": "59.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 263,
+     "player": "JS Lehmann",
+     "over": "83.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 421,
+     "player": "BAD Manenti",
+     "over": "117.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 433,
+     "player": "N McAndrew",
+     "over": "119.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 440,
+     "player": "HTRY Thornton",
+     "over": "120.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 508,
+     "player": "N McFadyen",
+     "over": "135.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 12,
+     "batters": [
+      "HJ Hunt",
+      "J Weatherald"
+     ],
+     "contributions": {
+      "HJ Hunt": 0,
+      "J Weatherald": 0
+     },
+     "ended_by": "J Weatherald (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 21,
+     "balls": 61,
+     "batters": [
+      "HJ Hunt",
+      "MW Harvey"
+     ],
+     "contributions": {
+      "HJ Hunt": 12,
+      "MW Harvey": 9
+     },
+     "ended_by": "MW Harvey (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 52,
+     "balls": 121,
+     "batters": [
+      "JJS Sangha",
+      "HJ Hunt"
+     ],
+     "contributions": {
+      "JJS Sangha": 32,
+      "HJ Hunt": 18
+     },
+     "ended_by": "JJS Sangha (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 83,
+     "balls": 147,
+     "batters": [
+      "JS Lehmann",
+      "HJ Hunt"
+     ],
+     "contributions": {
+      "JS Lehmann": 41,
+      "HJ Hunt": 41
+     },
+     "ended_by": "HJ Hunt (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 9,
+     "balls": 18,
+     "batters": [
+      "HJ Nielsen",
+      "JS Lehmann"
+     ],
+     "contributions": {
+      "HJ Nielsen": 7,
+      "JS Lehmann": 2
+     },
+     "ended_by": "HJ Nielsen (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 98,
+     "balls": 144,
+     "batters": [
+      "BAD Manenti",
+      "JS Lehmann"
+     ],
+     "contributions": {
+      "BAD Manenti": 50,
+      "JS Lehmann": 47
+     },
+     "ended_by": "JS Lehmann (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 158,
+     "balls": 205,
+     "batters": [
+      "N McFadyen",
+      "BAD Manenti"
+     ],
+     "contributions": {
+      "N McFadyen": 76,
+      "BAD Manenti": 78
+     },
+     "ended_by": "BAD Manenti (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 12,
+     "balls": 10,
+     "batters": [
+      "N McFadyen",
+      "N McAndrew"
+     ],
+     "contributions": {
+      "N McFadyen": 8,
+      "N McAndrew": 4
+     },
+     "ended_by": "N McAndrew (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 7,
+     "balls": 8,
+     "batters": [
+      "HTRY Thornton",
+      "N McFadyen"
+     ],
+     "contributions": {
+      "HTRY Thornton": 5,
+      "N McFadyen": 2
+     },
+     "ended_by": "HTRY Thornton (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 68,
+     "balls": 87,
+     "batters": [
+      "N McFadyen",
+      "B Doggett"
+     ],
+     "contributions": {
+      "N McFadyen": 48,
+      "B Doggett": 19
+     },
+     "ended_by": "N McFadyen (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 99,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 100,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 101,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 102,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 103,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 104,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 105,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 106,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 107,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 108,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 109,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 110,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 111,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 112,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 113,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 114,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 115,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 116,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 117,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 118,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 119,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F O'Neill",
+     "legal_balls": 6
+    },
+    {
+     "over": 120,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 121,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 122,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 123,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 124,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 125,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 126,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 127,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 128,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Hoekstra",
+     "legal_balls": 6
+    },
+    {
+     "over": 129,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 130,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 131,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 132,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DJM Moody",
+     "legal_balls": 6
+    },
+    {
+     "over": 133,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MW Short",
+     "legal_balls": 6
+    },
+    {
+     "over": 134,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Elliott",
+     "legal_balls": 6
+    },
+    {
+     "over": 135,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Warren",
+     "legal_balls": 6
+    },
+    {
+     "over": 136,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SM Elliott",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Victoria",
+   "batting_team": "Victoria",
+   "bowling_team": "South Australia",
+   "super_over": false,
+   "total": 224,
+   "wickets": 10,
+   "overs": "90.4",
+   "run_rate": 2.47,
+   "target": null,
+   "extras": {
+    "noballs": 7,
+    "wides": 2,
+    "legbyes": 9,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "C Kellaway",
+     "dismissal": "c & b HTRY Thornton",
+     "runs": 54,
+     "balls": 138,
+     "dots": 108,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 39.1
+    },
+    {
+     "name": "MS Harris",
+     "dismissal": "lbw b N McAndrew",
+     "runs": 27,
+     "balls": 37,
+     "dots": 24,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 73.0
+    },
+    {
+     "name": "PSP Handscomb",
+     "dismissal": "c JS Lehmann b N McAndrew",
+     "runs": 0,
+     "balls": 9,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "OJ Peake",
+     "dismissal": "c M Gilkes b HTRY Thornton",
+     "runs": 3,
+     "balls": 19,
+     "dots": 16,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 15.8
+    },
+    {
+     "name": "MW Short",
+     "dismissal": "lbw b B Doggett",
+     "runs": 6,
+     "balls": 15,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "L Blackford",
+     "dismissal": "c MW Harvey b BAD Manenti",
+     "runs": 20,
+     "balls": 52,
+     "dots": 44,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 38.5
+    },
+    {
+     "name": "F O'Neill",
+     "dismissal": "c & b N McAndrew",
+     "runs": 62,
+     "balls": 110,
+     "dots": 74,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 56.4
+    },
+    {
+     "name": "SM Elliott",
+     "dismissal": "c JJS Sangha b BAD Manenti",
+     "runs": 2,
+     "balls": 28,
+     "dots": 27,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 7.1
+    },
+    {
+     "name": "H Hoekstra",
+     "dismissal": "c MW Harvey b HTRY Thornton",
+     "runs": 17,
+     "balls": 70,
+     "dots": 62,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 24.3
+    },
+    {
+     "name": "D Warren",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 38,
+     "dots": 35,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 18.4
+    },
+    {
+     "name": "DJM Moody",
+     "dismissal": "c & b N McFadyen",
+     "runs": 4,
+     "balls": 35,
+     "dots": 32,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 11.4
+    }
+   ],
+   "bowling": [
+    {
+     "name": "N McAndrew",
+     "overs": "17.0",
+     "maidens": 6,
+     "runs": 36,
+     "wickets": 3,
+     "economy": 2.12,
+     "dots": 82,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "B Doggett",
+     "overs": "19.0",
+     "maidens": 4,
+     "runs": 45,
+     "wickets": 1,
+     "economy": 2.37,
+     "dots": 91,
+     "wides": 1,
+     "noballs": 2
+    },
+    {
+     "name": "N McFadyen",
+     "overs": "15.4",
+     "maidens": 3,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 1.91,
+     "dots": 80,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "HTRY Thornton",
+     "overs": "16.0",
+     "maidens": 2,
+     "runs": 49,
+     "wickets": 3,
+     "economy": 3.06,
+     "dots": 74,
+     "wides": 1,
+     "noballs": 5
+    },
+    {
+     "name": "BAD Manenti",
+     "overs": "21.0",
+     "maidens": 5,
+     "runs": 45,
+     "wickets": 2,
+     "economy": 2.14,
+     "dots": 100,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JJS Sangha",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 42,
+     "player": "MS Harris",
+     "over": "13.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 44,
+     "player": "PSP Handscomb",
+     "over": "15.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 58,
+     "player": "OJ Peake",
+     "over": "22.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 77,
+     "player": "MW Short",
+     "over": "29.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 112,
+     "player": "L Blackford",
+     "over": "42.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 120,
+     "player": "C Kellaway",
+     "over": "47.6",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 151,
+     "player": "SM Elliott",
+     "over": "58.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 203,
+     "player": "H Hoekstra",
+     "over": "76.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 217,
+     "player": "F O'Neill",
+     "over": "80.1",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 224,
+     "player": "DJM Moody",
+     "over": "90.4",
+     "kind": "caught and bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 42,
+     "balls": 83,
+     "batters": [
+      "C Kellaway",
+      "MS Harris"
+     ],
+     "contributions": {
+      "C Kellaway": 15,
+      "MS Harris": 27
+     },
+     "ended_by": "MS Harris (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 11,
+     "batters": [
+      "PSP Handscomb",
+      "C Kellaway"
+     ],
+     "contributions": {
+      "PSP Handscomb": 0,
+      "C Kellaway": 2
+     },
+     "ended_by": "PSP Handscomb (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 14,
+     "balls": 39,
+     "batters": [
+      "OJ Peake",
+      "C Kellaway"
+     ],
+     "contributions": {
+      "OJ Peake": 3,
+      "C Kellaway": 10
+     },
+     "ended_by": "OJ Peake (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 19,
+     "balls": 43,
+     "batters": [
+      "MW Short",
+      "C Kellaway"
+     ],
+     "contributions": {
+      "MW Short": 6,
+      "C Kellaway": 11
+     },
+     "ended_by": "MW Short (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 35,
+     "balls": 80,
+     "batters": [
+      "L Blackford",
+      "C Kellaway"
+     ],
+     "contributions": {
+      "L Blackford": 20,
+      "C Kellaway": 12
+     },
+     "ended_by": "L Blackford (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 8,
+     "balls": 32,
+     "batters": [
+      "F O'Neill",
+      "C Kellaway"
+     ],
+     "contributions": {
+      "F O'Neill": 4,
+      "C Kellaway": 4
+     },
+     "ended_by": "C Kellaway (caught and bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 31,
+     "balls": 65,
+     "batters": [
+      "F O'Neill",
+      "SM Elliott"
+     ],
+     "contributions": {
+      "F O'Neill": 26,
+      "SM Elliott": 2
+     },
+     "ended_by": "SM Elliott (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 52,
+     "balls": 107,
+     "batters": [
+      "H Hoekstra",
+      "F O'Neill"
+     ],
+     "contributions": {
+      "H Hoekstra": 17,
+      "F O'Neill": 29
+     },
+     "ended_by": "H Hoekstra (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 14,
+     "balls": 21,
+     "batters": [
+      "D Warren",
+      "F O'Neill"
+     ],
+     "contributions": {
+      "D Warren": 6,
+      "F O'Neill": 3
+     },
+     "ended_by": "F O'Neill (caught and bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 7,
+     "balls": 63,
+     "batters": [
+      "DJM Moody",
+      "D Warren"
+     ],
+     "contributions": {
+      "DJM Moody": 4,
+      "D Warren": 1
+     },
+     "ended_by": "DJM Moody (caught and bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JJS Sangha",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HTRY Thornton",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BAD Manenti",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McAndrew",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N McFadyen",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Doggett",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N McFadyen",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "N McFadyen",
+    "runs": 134,
+    "balls": 174,
+    "strike_rate": 77.0
+   },
+   {
+    "name": "BAD Manenti",
+    "runs": 128,
+    "balls": 154,
+    "strike_rate": 83.1
+   },
+   {
+    "name": "JS Lehmann",
+    "runs": 90,
+    "balls": 152,
+    "strike_rate": 59.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "H Hoekstra",
+    "figures": "6/103",
+    "overs": "27.0",
+    "economy": 3.81
+   },
+   {
+    "name": "N McAndrew",
+    "figures": "3/36",
+    "overs": "17.0",
+    "economy": 2.12
+   },
+   {
+    "name": "HTRY Thornton",
+    "figures": "3/49",
+    "overs": "16.0",
+    "economy": 3.06
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "South Australia",
+   "type": "big_over",
+   "over": 104,
+   "detail": "Over 104 (SM Elliott) went for 13 runs"
+  },
+  {
+   "innings": 2,
+   "team": "South Australia",
+   "type": "big_over",
+   "over": 124,
+   "detail": "Over 124 (H Hoekstra) went for 13 runs"
+  }
+ ],
+ "checks": []
+}

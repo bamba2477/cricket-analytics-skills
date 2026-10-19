@@ -1,0 +1,919 @@
+{
+ "match": {
+  "teams": [
+   "Myanmar",
+   "Qatar"
+  ],
+  "dates": [
+   "2026-10-09"
+  ],
+  "venue": "Selangor Turf Club, Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "event": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+  "match_number": 12,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Myanmar"
+  },
+  "player_of_match": [
+   "DAM Louis"
+  ],
+  "result": "Qatar won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Myanmar",
+   "batting_team": "Myanmar",
+   "bowling_team": "Qatar",
+   "super_over": false,
+   "total": 55,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 2.75,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "legbyes": 2,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "H Lin Oo",
+     "dismissal": "lbw b MM Baig",
+     "runs": 16,
+     "balls": 20,
+     "dots": 13,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Khin Aye",
+     "dismissal": "c I Liyanage b MM Baig",
+     "runs": 1,
+     "balls": 18,
+     "dots": 17,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 5.6
+    },
+    {
+     "name": "Kyaw Zin Lin",
+     "dismissal": "c Zubair Ali b DAM Louis",
+     "runs": 3,
+     "balls": 17,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 17.6
+    },
+    {
+     "name": "Pyae Phyo Wai",
+     "dismissal": "b DAM Louis",
+     "runs": 6,
+     "balls": 17,
+     "dots": 14,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 35.3
+    },
+    {
+     "name": "KK Lin Thu",
+     "dismissal": "c Muhammad Asim b DAM Louis",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Paing Danu",
+     "dismissal": "b Owais Ahmed",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Nyan Lin Htet",
+     "dismissal": "c Shahzaib Jamil b Shariq Munir",
+     "runs": 7,
+     "balls": 18,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 38.9
+    },
+    {
+     "name": "Kaung Htet Kyaw",
+     "dismissal": "b DAM Louis",
+     "runs": 4,
+     "balls": 6,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Aung Ko Ko",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 13,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 76.9
+    },
+    {
+     "name": "Nyeing Cham Soe",
+     "dismissal": "c Shahzaib Jamil b MM Baig",
+     "runs": 2,
+     "balls": 7,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 28.6
+    },
+    {
+     "name": "Nay Lin Htike",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ikramullah Khan",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 2.33,
+     "dots": 14,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Mujeeb-ur-Rehman",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shariq Munir",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 2.0,
+     "dots": 17,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MM Baig",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 3,
+     "economy": 4.33,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DAM Louis",
+     "overs": "4.0",
+     "maidens": 2,
+     "runs": 6,
+     "wickets": 4,
+     "economy": 1.5,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Asim",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Owais Ahmed",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 19,
+     "wickets": 1,
+     "run_rate": 3.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 16,
+     "wickets": 6,
+     "run_rate": 1.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 20,
+     "wickets": 2,
+     "run_rate": 4.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 18,
+     "player": "H Lin Oo",
+     "over": "5.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 21,
+     "player": "Khin Aye",
+     "over": "7.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 23,
+     "player": "Kyaw Zin Lin",
+     "over": "10.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 23,
+     "player": "KK Lin Thu",
+     "over": "10.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 28,
+     "player": "Pyae Phyo Wai",
+     "over": "12.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 30,
+     "player": "Paing Danu",
+     "over": "13.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 35,
+     "player": "Kaung Htet Kyaw",
+     "over": "14.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 42,
+     "player": "Nyan Lin Htet",
+     "over": "16.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 48,
+     "player": "Nyeing Cham Soe",
+     "over": "19.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 18,
+     "balls": 32,
+     "batters": [
+      "H Lin Oo",
+      "Khin Aye"
+     ],
+     "contributions": {
+      "H Lin Oo": 16,
+      "Khin Aye": 1
+     },
+     "ended_by": "H Lin Oo (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 14,
+     "batters": [
+      "Kyaw Zin Lin",
+      "Khin Aye"
+     ],
+     "contributions": {
+      "Kyaw Zin Lin": 3,
+      "Khin Aye": 0
+     },
+     "ended_by": "Khin Aye (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 18,
+     "batters": [
+      "Pyae Phyo Wai",
+      "Kyaw Zin Lin"
+     ],
+     "contributions": {
+      "Pyae Phyo Wai": 1,
+      "Kyaw Zin Lin": 0
+     },
+     "ended_by": "Kyaw Zin Lin (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "KK Lin Thu",
+      "Pyae Phyo Wai"
+     ],
+     "contributions": {
+      "KK Lin Thu": 0,
+      "Pyae Phyo Wai": 0
+     },
+     "ended_by": "KK Lin Thu (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 5,
+     "balls": 8,
+     "batters": [
+      "Pyae Phyo Wai",
+      "Paing Danu"
+     ],
+     "contributions": {
+      "Pyae Phyo Wai": 5,
+      "Paing Danu": 0
+     },
+     "ended_by": "Pyae Phyo Wai (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 2,
+     "balls": 9,
+     "batters": [
+      "Nyan Lin Htet",
+      "Paing Danu"
+     ],
+     "contributions": {
+      "Nyan Lin Htet": 1,
+      "Paing Danu": 0
+     },
+     "ended_by": "Paing Danu (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 7,
+     "batters": [
+      "Kaung Htet Kyaw",
+      "Nyan Lin Htet"
+     ],
+     "contributions": {
+      "Kaung Htet Kyaw": 4,
+      "Nyan Lin Htet": 1
+     },
+     "ended_by": "Kaung Htet Kyaw (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 7,
+     "balls": 12,
+     "batters": [
+      "Nyan Lin Htet",
+      "Aung Ko Ko"
+     ],
+     "contributions": {
+      "Nyan Lin Htet": 5,
+      "Aung Ko Ko": 2
+     },
+     "ended_by": "Nyan Lin Htet (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 6,
+     "balls": 14,
+     "batters": [
+      "Aung Ko Ko",
+      "Nyeing Cham Soe"
+     ],
+     "contributions": {
+      "Aung Ko Ko": 2,
+      "Nyeing Cham Soe": 2
+     },
+     "ended_by": "Nyeing Cham Soe (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 7,
+     "balls": 4,
+     "batters": [
+      "Nay Lin Htike",
+      "Aung Ko Ko"
+     ],
+     "contributions": {
+      "Nay Lin Htike": 1,
+      "Aung Ko Ko": 6
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariq Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Qatar",
+   "batting_team": "Qatar",
+   "bowling_team": "Myanmar",
+   "super_over": false,
+   "total": 56,
+   "wickets": 1,
+   "overs": "7.0",
+   "run_rate": 8.0,
+   "target": 56,
+   "extras": {
+    "wides": 7
+   },
+   "batting": [
+    {
+     "name": "Zubair Ali",
+     "dismissal": "not out",
+     "runs": 34,
+     "balls": 24,
+     "dots": 10,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 141.7
+    },
+    {
+     "name": "Zeeshan Haider",
+     "dismissal": "c Paing Danu b Pyae Phyo Wai",
+     "runs": 3,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "Shariq Munir",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 14,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 85.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Kaung Htet Kyaw",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 8.67,
+     "dots": 7,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "Pyae Phyo Wai",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 1,
+     "economy": 7.33,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nyeing Cham Soe",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Paing Danu",
+     "overs": "0.0",
+     "maidens": 0,
+     "runs": 2,
+     "wickets": 0,
+     "economy": null,
+     "dots": 0,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 48,
+     "wickets": 1,
+     "run_rate": 8.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.0",
+     "runs": 8,
+     "wickets": 0,
+     "run_rate": 8.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "Zeeshan Haider",
+     "over": "1.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 11,
+     "batters": [
+      "Zubair Ali",
+      "Zeeshan Haider"
+     ],
+     "contributions": {
+      "Zubair Ali": 6,
+      "Zeeshan Haider": 3
+     },
+     "ended_by": "Zeeshan Haider (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 44,
+     "balls": 31,
+     "batters": [
+      "Shariq Munir",
+      "Zubair Ali"
+     ],
+     "contributions": {
+      "Shariq Munir": 12,
+      "Zubair Ali": 28
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kaung Htet Kyaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Pyae Phyo Wai",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kaung Htet Kyaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pyae Phyo Wai",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kaung Htet Kyaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pyae Phyo Wai",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nyeing Cham Soe",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Paing Danu",
+     "legal_balls": 0
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Zubair Ali",
+    "runs": 34,
+    "balls": 24,
+    "strike_rate": 141.7
+   },
+   {
+    "name": "H Lin Oo",
+    "runs": 16,
+    "balls": 20,
+    "strike_rate": 80.0
+   },
+   {
+    "name": "Shariq Munir",
+    "runs": 12,
+    "balls": 14,
+    "strike_rate": 85.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "DAM Louis",
+    "figures": "4/6",
+    "overs": "4.0",
+    "economy": 1.5
+   },
+   {
+    "name": "MM Baig",
+    "figures": "3/13",
+    "overs": "3.0",
+    "economy": 4.33
+   },
+   {
+    "name": "Owais Ahmed",
+    "figures": "1/5",
+    "overs": "2.0",
+    "economy": 2.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Myanmar",
+   "type": "wicket_burst",
+   "over": 11,
+   "detail": "2 wickets fell in over 11 (bowled by DAM Louis, 2 credited to DAM Louis)"
+  },
+  {
+   "innings": 1,
+   "team": "Myanmar",
+   "type": "collapse",
+   "over": 13,
+   "detail": "3 wickets fell between overs 13 and 15"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 6,
+   "detail": "Over 6 (Pyae Phyo Wai) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 48 scored, needed 8 from 14 overs (RRR 0.57)"
+  }
+ ],
+ "checks": []
+}
