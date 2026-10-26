@@ -1,0 +1,1053 @@
+{
+ "match": {
+  "teams": [
+   "Romania",
+   "Bulgaria"
+  ],
+  "dates": [
+   "2026-10-16"
+  ],
+  "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+  "city": "Ilfov County",
+  "event": "ECA Women's European Cup",
+  "match_number": 3,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Romania"
+  },
+  "player_of_match": [
+   "Deya Stefanova"
+  ],
+  "result": "Bulgaria won by 2 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Romania",
+   "batting_team": "Romania",
+   "bowling_team": "Bulgaria",
+   "super_over": false,
+   "total": 75,
+   "wickets": 5,
+   "overs": "15.0",
+   "run_rate": 5.0,
+   "target": null,
+   "extras": {
+    "wides": 22,
+    "noballs": 3,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "I Muntean",
+     "dismissal": "lbw b Deya Stefanova",
+     "runs": 2,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "D Tanase",
+     "dismissal": "c G Ilarionova b Deya Stefanova",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "G Ionita",
+     "dismissal": "b N Tropolova",
+     "runs": 20,
+     "balls": 39,
+     "dots": 25,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 51.3
+    },
+    {
+     "name": "A Lupascu",
+     "dismissal": "run out (S Sarandeva, K Eftimova)",
+     "runs": 18,
+     "balls": 37,
+     "dots": 22,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 48.6
+    },
+    {
+     "name": "HM Bandara",
+     "dismissal": "run out (M Abadjieva, K Eftimova)",
+     "runs": 4,
+     "balls": 3,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "C Cirlig",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "S Batorii",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Srandeva",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 6,
+     "wides": 7,
+     "noballs": 1
+    },
+    {
+     "name": "Deya Stefanova",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 11,
+     "wides": 5,
+     "noballs": 2
+    },
+    {
+     "name": "G Ilarionova",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "S Sarandeva",
+     "overs": "3.0",
+     "maidens": 1,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 1.67,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "V Nikolova",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 3,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "N Tropolova",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 12.0,
+     "dots": 1,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "D Ruynekova",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Ivanova",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 30,
+     "wickets": 2,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 45,
+     "wickets": 3,
+     "run_rate": 5.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "I Muntean",
+     "over": "1.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "D Tanase",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 56,
+     "player": "G Ionita",
+     "over": "12.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 72,
+     "player": "HM Bandara",
+     "over": "13.6",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 75,
+     "player": "A Lupascu",
+     "over": "14.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 8,
+     "batters": [
+      "I Muntean",
+      "D Tanase"
+     ],
+     "contributions": {
+      "I Muntean": 2,
+      "D Tanase": 4
+     },
+     "ended_by": "I Muntean (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 3,
+     "balls": 3,
+     "batters": [
+      "G Ionita",
+      "D Tanase"
+     ],
+     "contributions": {
+      "G Ionita": 0,
+      "D Tanase": 0
+     },
+     "ended_by": "D Tanase (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 40,
+     "balls": 64,
+     "batters": [
+      "A Lupascu",
+      "G Ionita"
+     ],
+     "contributions": {
+      "A Lupascu": 10,
+      "G Ionita": 20
+     },
+     "ended_by": "G Ionita (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 16,
+     "balls": 9,
+     "batters": [
+      "HM Bandara",
+      "A Lupascu"
+     ],
+     "contributions": {
+      "HM Bandara": 4,
+      "A Lupascu": 6
+     },
+     "ended_by": "HM Bandara (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "A Lupascu",
+      "C Cirlig"
+     ],
+     "contributions": {
+      "A Lupascu": 2,
+      "C Cirlig": 1
+     },
+     "ended_by": "A Lupascu (run out)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "S Batorii",
+      "C Cirlig"
+     ],
+     "contributions": {
+      "S Batorii": 0,
+      "C Cirlig": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Srandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Deya Stefanova",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Deya Stefanova",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Sarandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Sarandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "V Nikolova",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Sarandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Srandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Deya Stefanova",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Tropolova",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "D Ruynekova",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "K Ivanova",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Bulgaria",
+   "batting_team": "Bulgaria",
+   "bowling_team": "Romania",
+   "super_over": false,
+   "total": 76,
+   "wickets": 8,
+   "overs": "13.3",
+   "run_rate": 5.63,
+   "target": 76,
+   "extras": {
+    "wides": 26,
+    "noballs": 4
+   },
+   "batting": [
+    {
+     "name": "M Abadjieva",
+     "dismissal": "b C Cirlig",
+     "runs": 7,
+     "balls": 19,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 36.8
+    },
+    {
+     "name": "V Nikolova",
+     "dismissal": "b D Tanase",
+     "runs": 7,
+     "balls": 4,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 175.0
+    },
+    {
+     "name": "D Ruynekova",
+     "dismissal": "b I Muntean",
+     "runs": 2,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "S Yordanova",
+     "dismissal": "run out (HM Bandara)",
+     "runs": 17,
+     "balls": 16,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 106.2
+    },
+    {
+     "name": "K Ivanova",
+     "dismissal": "b C Cirlig",
+     "runs": 4,
+     "balls": 10,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "G Ilarionova",
+     "dismissal": "b G Ionita",
+     "runs": 4,
+     "balls": 11,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 36.4
+    },
+    {
+     "name": "S Sarandeva",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 9,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "K Srandeva",
+     "dismissal": "c M Marin b HM Bandara",
+     "runs": 0,
+     "balls": 8,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Eftimova",
+     "dismissal": "run out (C Cirlig)",
+     "runs": 2,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "N Tropolova",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    }
+   ],
+   "bowling": [
+    {
+     "name": "I Muntean",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 1,
+     "economy": 3.0,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "D Tanase",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 1,
+     "economy": 7.67,
+     "dots": 14,
+     "wides": 11,
+     "noballs": 2
+    },
+    {
+     "name": "C Cirlig",
+     "overs": "2.3",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 2,
+     "economy": 4.8,
+     "dots": 12,
+     "wides": 4,
+     "noballs": 2
+    },
+    {
+     "name": "HM Bandara",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 5.33,
+     "dots": 11,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "A Lupascu",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 3,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "G Ionita",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 5,
+     "wides": 4,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 34,
+     "wickets": 3,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "7.3",
+     "runs": 42,
+     "wickets": 5,
+     "run_rate": 5.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 18,
+     "player": "V Nikolova",
+     "over": "1.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 25,
+     "player": "D Ruynekova",
+     "over": "4.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 27,
+     "player": "M Abadjieva",
+     "over": "5.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 38,
+     "player": "K Ivanova",
+     "over": "7.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 59,
+     "player": "G Ilarionova",
+     "over": "10.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 60,
+     "player": "S Yordanova",
+     "over": "10.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 72,
+     "player": "K Srandeva",
+     "over": "12.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 74,
+     "player": "K Eftimova",
+     "over": "13.2",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 18,
+     "balls": 10,
+     "batters": [
+      "M Abadjieva",
+      "V Nikolova"
+     ],
+     "contributions": {
+      "M Abadjieva": 5,
+      "V Nikolova": 7
+     },
+     "ended_by": "V Nikolova (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 7,
+     "balls": 15,
+     "batters": [
+      "D Ruynekova",
+      "M Abadjieva"
+     ],
+     "contributions": {
+      "D Ruynekova": 2,
+      "M Abadjieva": 2
+     },
+     "ended_by": "D Ruynekova (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 7,
+     "batters": [
+      "S Yordanova",
+      "M Abadjieva"
+     ],
+     "contributions": {
+      "S Yordanova": 2,
+      "M Abadjieva": 0
+     },
+     "ended_by": "M Abadjieva (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 11,
+     "balls": 14,
+     "batters": [
+      "K Ivanova",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "K Ivanova": 4,
+      "S Yordanova": 4
+     },
+     "ended_by": "K Ivanova (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 21,
+     "balls": 16,
+     "batters": [
+      "G Ilarionova",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "G Ilarionova": 4,
+      "S Yordanova": 11
+     },
+     "ended_by": "G Ilarionova (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "S Sarandeva",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "S Sarandeva": 0,
+      "S Yordanova": 0
+     },
+     "ended_by": "S Yordanova (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 12,
+     "balls": 14,
+     "batters": [
+      "S Sarandeva",
+      "K Srandeva"
+     ],
+     "contributions": {
+      "S Sarandeva": 3,
+      "K Srandeva": 0
+     },
+     "ended_by": "K Srandeva (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "K Eftimova",
+      "S Sarandeva"
+     ],
+     "contributions": {
+      "K Eftimova": 2,
+      "S Sarandeva": 0
+     },
+     "ended_by": "K Eftimova (run out)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 1,
+     "batters": [
+      "S Sarandeva",
+      "N Tropolova"
+     ],
+     "contributions": {
+      "S Sarandeva": 0,
+      "N Tropolova": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Tanase",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Tanase",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Cirlig",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HM Bandara",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Cirlig",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HM Bandara",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Lupascu",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "G Ionita",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Tanase",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "HM Bandara",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "C Cirlig",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "G Ionita",
+    "runs": 20,
+    "balls": 39,
+    "strike_rate": 51.3
+   },
+   {
+    "name": "A Lupascu",
+    "runs": 18,
+    "balls": 37,
+    "strike_rate": 48.6
+   },
+   {
+    "name": "S Yordanova",
+    "runs": 17,
+    "balls": 16,
+    "strike_rate": 106.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "C Cirlig",
+    "figures": "2/12",
+    "overs": "2.3",
+    "economy": 4.8
+   },
+   {
+    "name": "Deya Stefanova",
+    "figures": "2/15",
+    "overs": "3.0",
+    "economy": 5.0
+   },
+   {
+    "name": "G Ionita",
+    "figures": "1/6",
+    "overs": "1.0",
+    "economy": 6.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Romania",
+   "type": "wicket_burst",
+   "over": 2,
+   "detail": "2 wickets fell in over 2 (bowled by Deya Stefanova, 2 credited to Deya Stefanova)"
+  },
+  {
+   "innings": 1,
+   "team": "Romania",
+   "type": "collapse",
+   "over": 13,
+   "detail": "3 wickets fell between overs 13 and 15"
+  },
+  {
+   "innings": 2,
+   "team": "Bulgaria",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 34 scored, needed 42 from 9 overs (RRR 4.67)"
+  },
+  {
+   "innings": 2,
+   "team": "Bulgaria",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 56 scored, needed 20 from 5 overs (RRR 4.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Bulgaria",
+   "type": "wicket_burst",
+   "over": 11,
+   "detail": "2 wickets fell in over 11 (bowled by G Ionita, 1 credited to G Ionita)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1519 @@
+{
+ "match": {
+  "teams": [
+   "Victoria",
+   "Tasmania"
+  ],
+  "dates": [
+   "2026-10-24"
+  ],
+  "venue": "Bellerive Oval, Hobart",
+  "city": "Hobart",
+  "event": "One-Day Cup (Australia)",
+  "match_number": 11,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Tasmania"
+  },
+  "player_of_match": [
+   "M Perry"
+  ],
+  "result": "Victoria won by 138 runs (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Victoria",
+   "batting_team": "Victoria",
+   "bowling_team": "Tasmania",
+   "super_over": false,
+   "total": 304,
+   "wickets": 7,
+   "overs": "50.0",
+   "run_rate": 6.08,
+   "target": null,
+   "extras": {
+    "wides": 7,
+    "legbyes": 2,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "MW Short",
+     "dismissal": "c TS Rogers b AP O'Connor",
+     "runs": 70,
+     "balls": 91,
+     "dots": 52,
+     "fours": 8,
+     "sixes": 1,
+     "strike_rate": 76.9
+    },
+    {
+     "name": "TF Rogers",
+     "dismissal": "c JR Doran b J Montgomery",
+     "runs": 53,
+     "balls": 49,
+     "dots": 25,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 108.2
+    },
+    {
+     "name": "C Kellaway",
+     "dismissal": "c W Prestwidge b Nikhil Chaudhary",
+     "runs": 69,
+     "balls": 71,
+     "dots": 32,
+     "fours": 2,
+     "sixes": 4,
+     "strike_rate": 97.2
+    },
+    {
+     "name": "PSP Handscomb",
+     "dismissal": "c TH David b R MacMillan",
+     "runs": 47,
+     "balls": 41,
+     "dots": 14,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 114.6
+    },
+    {
+     "name": "OJ Peake",
+     "dismissal": "run out (TH David)",
+     "runs": 9,
+     "balls": 7,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 128.6
+    },
+    {
+     "name": "W Sutherland",
+     "dismissal": "c R MacMillan b TS Rogers",
+     "runs": 21,
+     "balls": 15,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "L Blackford",
+     "dismissal": "c CP Jewell b TS Rogers",
+     "runs": 12,
+     "balls": 15,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "M Perry",
+     "dismissal": "not out",
+     "runs": 9,
+     "balls": 8,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 112.5
+    },
+    {
+     "name": "T Murphy",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 3,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 133.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "TS Rogers",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 70,
+     "wickets": 2,
+     "economy": 7.0,
+     "dots": 27,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AP O'Connor",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 7.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "R MacMillan",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 1,
+     "economy": 3.6,
+     "dots": 35,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "W Prestwidge",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 14,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Nikhil Chaudhary",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 54,
+     "wickets": 1,
+     "economy": 5.4,
+     "dots": 24,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Montgomery",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 65,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 25,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Owen",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 10.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 62,
+     "wickets": 0,
+     "run_rate": 6.2
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 167,
+     "wickets": 2,
+     "run_rate": 5.57
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 75,
+     "wickets": 5,
+     "run_rate": 7.5
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 92,
+     "player": "TF Rogers",
+     "over": "14.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 171,
+     "player": "MW Short",
+     "over": "30.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 248,
+     "player": "C Kellaway",
+     "over": "41.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 250,
+     "player": "PSP Handscomb",
+     "over": "42.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 267,
+     "player": "OJ Peake",
+     "over": "44.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 6,
+     "score": 289,
+     "player": "L Blackford",
+     "over": "47.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 298,
+     "player": "W Sutherland",
+     "over": "49.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 92,
+     "balls": 89,
+     "batters": [
+      "MW Short",
+      "TF Rogers"
+     ],
+     "contributions": {
+      "MW Short": 32,
+      "TF Rogers": 53
+     },
+     "ended_by": "TF Rogers (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 79,
+     "balls": 97,
+     "batters": [
+      "C Kellaway",
+      "MW Short"
+     ],
+     "contributions": {
+      "C Kellaway": 40,
+      "MW Short": 38
+     },
+     "ended_by": "MW Short (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 77,
+     "balls": 64,
+     "batters": [
+      "C Kellaway",
+      "PSP Handscomb"
+     ],
+     "contributions": {
+      "C Kellaway": 29,
+      "PSP Handscomb": 46
+     },
+     "ended_by": "C Kellaway (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "OJ Peake",
+      "PSP Handscomb"
+     ],
+     "contributions": {
+      "OJ Peake": 1,
+      "PSP Handscomb": 1
+     },
+     "ended_by": "PSP Handscomb (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 17,
+     "balls": 12,
+     "batters": [
+      "W Sutherland",
+      "OJ Peake"
+     ],
+     "contributions": {
+      "W Sutherland": 9,
+      "OJ Peake": 8
+     },
+     "ended_by": "OJ Peake (run out)"
+    },
+    {
+     "wicket": 6,
+     "runs": 22,
+     "balls": 21,
+     "batters": [
+      "W Sutherland",
+      "L Blackford"
+     ],
+     "contributions": {
+      "W Sutherland": 10,
+      "L Blackford": 12
+     },
+     "ended_by": "L Blackford (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 9,
+     "balls": 9,
+     "batters": [
+      "M Perry",
+      "W Sutherland"
+     ],
+     "contributions": {
+      "M Perry": 7,
+      "W Sutherland": 2
+     },
+     "ended_by": "W Sutherland (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 6,
+     "balls": 5,
+     "batters": [
+      "T Murphy",
+      "M Perry"
+     ],
+     "contributions": {
+      "T Murphy": 4,
+      "M Perry": 2
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AP O'Connor",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AP O'Connor",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Prestwidge",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Prestwidge",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Prestwidge",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Prestwidge",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AP O'Connor",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AP O'Connor",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nikhil Chaudhary",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "R MacMillan",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Montgomery",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TS Rogers",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Tasmania",
+   "batting_team": "Tasmania",
+   "bowling_team": "Victoria",
+   "super_over": false,
+   "total": 137,
+   "wickets": 10,
+   "overs": "25.2",
+   "run_rate": 5.41,
+   "target": 276,
+   "extras": {
+    "wides": 13,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "MJ Owen",
+     "dismissal": "c PSP Handscomb b M Perry",
+     "runs": 4,
+     "balls": 5,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "CP Jewell",
+     "dismissal": "not out",
+     "runs": 47,
+     "balls": 63,
+     "dots": 31,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 74.6
+    },
+    {
+     "name": "W Prestwidge",
+     "dismissal": "lbw b A Anlezark",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JR Doran",
+     "dismissal": "c T Murphy b M Perry",
+     "runs": 4,
+     "balls": 6,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "JC Silk",
+     "dismissal": "b M Hennig",
+     "runs": 10,
+     "balls": 17,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 58.8
+    },
+    {
+     "name": "TH David",
+     "dismissal": "c W Sutherland b M Hennig",
+     "runs": 13,
+     "balls": 20,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "Nikhil Chaudhary",
+     "dismissal": "c L Blackford b W Sutherland",
+     "runs": 23,
+     "balls": 17,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 135.3
+    },
+    {
+     "name": "AP O'Connor",
+     "dismissal": "run out (A Anlezark)",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "TS Rogers",
+     "dismissal": "c PSP Handscomb b M Perry",
+     "runs": 19,
+     "balls": 13,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 146.2
+    },
+    {
+     "name": "R MacMillan",
+     "dismissal": "c F O'Neill b M Perry",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "J Montgomery",
+     "dismissal": "b T Murphy",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "M Perry",
+     "overs": "6.0",
+     "maidens": 2,
+     "runs": 9,
+     "wickets": 4,
+     "economy": 1.5,
+     "dots": 30,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Anlezark",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 1,
+     "economy": 6.6,
+     "dots": 15,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "W Sutherland",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 5.67,
+     "dots": 12,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "T Murphy",
+     "overs": "5.2",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 5.25,
+     "dots": 10,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "M Hennig",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 7.0,
+     "dots": 12,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "OJ Peake",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 13.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 40,
+     "wickets": 3,
+     "run_rate": 4.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "15.2",
+     "runs": 97,
+     "wickets": 7,
+     "run_rate": 6.33
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "MJ Owen",
+     "over": "0.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 13,
+     "player": "W Prestwidge",
+     "over": "3.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 25,
+     "player": "JR Doran",
+     "over": "6.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 40,
+     "player": "JC Silk",
+     "over": "10.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 68,
+     "player": "TH David",
+     "over": "16.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 103,
+     "player": "Nikhil Chaudhary",
+     "over": "20.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 107,
+     "player": "AP O'Connor",
+     "over": "21.2",
+     "kind": "run out"
+    },
+    {
+     "wicket": 8,
+     "score": 134,
+     "player": "TS Rogers",
+     "over": "24.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 136,
+     "player": "R MacMillan",
+     "over": "24.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 137,
+     "player": "J Montgomery",
+     "over": "25.2",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "MJ Owen",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "MJ Owen": 4,
+      "CP Jewell": 0
+     },
+     "ended_by": "MJ Owen (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 9,
+     "balls": 15,
+     "batters": [
+      "W Prestwidge",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "W Prestwidge": 0,
+      "CP Jewell": 9
+     },
+     "ended_by": "W Prestwidge (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 12,
+     "balls": 18,
+     "batters": [
+      "JR Doran",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "JR Doran": 4,
+      "CP Jewell": 5
+     },
+     "ended_by": "JR Doran (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 24,
+     "batters": [
+      "JC Silk",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "JC Silk": 10,
+      "CP Jewell": 3
+     },
+     "ended_by": "JC Silk (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 28,
+     "balls": 35,
+     "batters": [
+      "TH David",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "TH David": 13,
+      "CP Jewell": 11
+     },
+     "ended_by": "TH David (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 35,
+     "balls": 26,
+     "batters": [
+      "Nikhil Chaudhary",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "Nikhil Chaudhary": 23,
+      "CP Jewell": 8
+     },
+     "ended_by": "Nikhil Chaudhary (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "AP O'Connor",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "AP O'Connor": 1,
+      "CP Jewell": 1
+     },
+     "ended_by": "AP O'Connor (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 27,
+     "balls": 18,
+     "batters": [
+      "TS Rogers",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "TS Rogers": 19,
+      "CP Jewell": 8
+     },
+     "ended_by": "TS Rogers (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "R MacMillan",
+      "CP Jewell"
+     ],
+     "contributions": {
+      "R MacMillan": 1,
+      "CP Jewell": 1
+     },
+     "ended_by": "R MacMillan (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "CP Jewell",
+      "J Montgomery"
+     ],
+     "contributions": {
+      "CP Jewell": 1,
+      "J Montgomery": 0
+     },
+     "ended_by": "J Montgomery (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Anlezark",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Anlezark",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Anlezark",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Murphy",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Hennig",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Anlezark",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Hennig",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "W Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Hennig",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Murphy",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Hennig",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Murphy",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Hennig",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Murphy",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "W Sutherland",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "T Murphy",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "OJ Peake",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Anlezark",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "M Perry",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "T Murphy",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "MW Short",
+    "runs": 70,
+    "balls": 91,
+    "strike_rate": 76.9
+   },
+   {
+    "name": "C Kellaway",
+    "runs": 69,
+    "balls": 71,
+    "strike_rate": 97.2
+   },
+   {
+    "name": "TF Rogers",
+    "runs": 53,
+    "balls": 49,
+    "strike_rate": 108.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "M Perry",
+    "figures": "4/9",
+    "overs": "6.0",
+    "economy": 1.5
+   },
+   {
+    "name": "M Hennig",
+    "figures": "2/35",
+    "overs": "5.0",
+    "economy": 7.0
+   },
+   {
+    "name": "TS Rogers",
+    "figures": "2/70",
+    "overs": "10.0",
+    "economy": 7.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "Tasmania",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 25 scored, needed 251 from 29 overs (RRR 8.66)"
+  },
+  {
+   "innings": 2,
+   "team": "Tasmania",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 40 scored, needed 236 from 25 overs (RRR 9.44)"
+  },
+  {
+   "innings": 2,
+   "team": "Tasmania",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 65 scored, needed 211 from 20 overs (RRR 10.55)"
+  },
+  {
+   "innings": 2,
+   "team": "Tasmania",
+   "type": "wicket_burst",
+   "over": 25,
+   "detail": "2 wickets fell in over 25 (bowled by M Perry, 2 credited to M Perry)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,847 @@
+{
+ "match": {
+  "teams": [
+   "Bulgaria",
+   "Sweden"
+  ],
+  "dates": [
+   "2026-10-15"
+  ],
+  "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+  "city": "Ilfov County",
+  "event": "ECA Women's European Cup",
+  "match_number": 2,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Bulgaria"
+  },
+  "player_of_match": [
+   "A Vaidya"
+  ],
+  "result": "Sweden won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bulgaria",
+   "batting_team": "Bulgaria",
+   "bowling_team": "Sweden",
+   "super_over": false,
+   "total": 98,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 4.9,
+   "target": null,
+   "extras": {
+    "wides": 19,
+    "noballs": 1,
+    "byes": 2
+   },
+   "batting": [
+    {
+     "name": "S Sarandeva",
+     "dismissal": "c Zara Mohammad b Malyun Yusuf",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "V Nikolova",
+     "dismissal": "b H Chamto",
+     "runs": 3,
+     "balls": 17,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 17.6
+    },
+    {
+     "name": "T Dissanayake",
+     "dismissal": "b Anjali Natarajan",
+     "runs": 35,
+     "balls": 38,
+     "dots": 19,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 92.1
+    },
+    {
+     "name": "D Ruynekova",
+     "dismissal": "run out (H Chamto, J Sasi Rekha)",
+     "runs": 6,
+     "balls": 13,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.2
+    },
+    {
+     "name": "K Ivanova",
+     "dismissal": "b J Sasi Rekha",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Yordanova",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 19,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.9
+    },
+    {
+     "name": "G Ilarionova",
+     "dismissal": "c Kanchan Rana b H Shreya",
+     "runs": 20,
+     "balls": 22,
+     "dots": 12,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 90.9
+    },
+    {
+     "name": "M Abadjieva",
+     "dismissal": "run out (Malyun Yusuf)",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Srandeva",
+     "dismissal": "c Eman Asim b H Shreya",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Eftimova",
+     "dismissal": "run out (Kanchan Rana, H Shreya)",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Malyun Yusuf",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 16,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Adan Gul",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 1,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "H Chamto",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 19,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "J Sasi Rekha",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 26,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 14,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Kanchan Rana",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 5,
+     "wides": 7,
+     "noballs": 1
+    },
+    {
+     "name": "Anjali Natarajan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 7,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "H Shreya",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 2,
+     "economy": 4.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 20,
+     "wickets": 2,
+     "run_rate": 3.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 55,
+     "wickets": 3,
+     "run_rate": 6.11
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 23,
+     "wickets": 4,
+     "run_rate": 4.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "S Sarandeva",
+     "over": "0.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 19,
+     "player": "V Nikolova",
+     "over": "5.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 53,
+     "player": "D Ruynekova",
+     "over": "10.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 56,
+     "player": "K Ivanova",
+     "over": "10.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 61,
+     "player": "T Dissanayake",
+     "over": "11.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 90,
+     "player": "G Ilarionova",
+     "over": "17.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 92,
+     "player": "M Abadjieva",
+     "over": "18.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 8,
+     "score": 96,
+     "player": "K Srandeva",
+     "over": "19.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 98,
+     "player": "K Eftimova",
+     "over": "19.6",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "S Sarandeva",
+      "V Nikolova"
+     ],
+     "contributions": {
+      "S Sarandeva": 0,
+      "V Nikolova": 0
+     },
+     "ended_by": "S Sarandeva (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 19,
+     "balls": 32,
+     "batters": [
+      "T Dissanayake",
+      "V Nikolova"
+     ],
+     "contributions": {
+      "T Dissanayake": 13,
+      "V Nikolova": 3
+     },
+     "ended_by": "V Nikolova (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 34,
+     "balls": 29,
+     "batters": [
+      "D Ruynekova",
+      "T Dissanayake"
+     ],
+     "contributions": {
+      "D Ruynekova": 6,
+      "T Dissanayake": 17
+     },
+     "ended_by": "D Ruynekova (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 3,
+     "balls": 2,
+     "batters": [
+      "T Dissanayake",
+      "K Ivanova"
+     ],
+     "contributions": {
+      "T Dissanayake": 1,
+      "K Ivanova": 0
+     },
+     "ended_by": "K Ivanova (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 5,
+     "balls": 5,
+     "batters": [
+      "T Dissanayake",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "T Dissanayake": 4,
+      "S Yordanova": 0
+     },
+     "ended_by": "T Dissanayake (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 29,
+     "balls": 36,
+     "batters": [
+      "G Ilarionova",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "G Ilarionova": 20,
+      "S Yordanova": 7
+     },
+     "ended_by": "G Ilarionova (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "M Abadjieva",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "M Abadjieva": 0,
+      "S Yordanova": 2
+     },
+     "ended_by": "M Abadjieva (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "K Srandeva",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "K Srandeva": 0,
+      "S Yordanova": 1
+     },
+     "ended_by": "K Srandeva (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 4,
+     "batters": [
+      "K Eftimova",
+      "S Yordanova"
+     ],
+     "contributions": {
+      "K Eftimova": 1,
+      "S Yordanova": 1
+     },
+     "ended_by": "K Eftimova (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adan Gul",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Kanchan Rana",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Anjali Natarajan",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Anjali Natarajan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sweden",
+   "batting_team": "Sweden",
+   "bowling_team": "Bulgaria",
+   "super_over": false,
+   "total": 99,
+   "wickets": 0,
+   "overs": "5.5",
+   "run_rate": 16.97,
+   "target": 99,
+   "extras": {
+    "wides": 14,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "A Vaidya",
+     "dismissal": "not out",
+     "runs": 75,
+     "balls": 25,
+     "dots": 3,
+     "fours": 13,
+     "sixes": 2,
+     "strike_rate": 300.0
+    },
+    {
+     "name": "Adan Gul",
+     "dismissal": "not out",
+     "runs": 9,
+     "balls": 11,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 81.8
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Srandeva",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 53,
+     "wickets": 0,
+     "economy": 26.5,
+     "dots": 2,
+     "wides": 8,
+     "noballs": 1
+    },
+    {
+     "name": "T Dissanayake",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 2,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "S Sarandeva",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "G Ilarionova",
+     "overs": "0.5",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 18.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.5",
+     "runs": 99,
+     "wickets": 0,
+     "run_rate": 16.97
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 99,
+     "balls": 35,
+     "batters": [
+      "A Vaidya",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "A Vaidya": 75,
+      "Adan Gul": 9
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Srandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Dissanayake",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 29,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Srandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "T Dissanayake",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Sarandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "A Vaidya",
+    "runs": 75,
+    "balls": 25,
+    "strike_rate": 300.0
+   },
+   {
+    "name": "T Dissanayake",
+    "runs": 35,
+    "balls": 38,
+    "strike_rate": 92.1
+   },
+   {
+    "name": "G Ilarionova",
+    "runs": 20,
+    "balls": 22,
+    "strike_rate": 90.9
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "H Shreya",
+    "figures": "2/16",
+    "overs": "4.0",
+    "economy": 4.0
+   },
+   {
+    "name": "Malyun Yusuf",
+    "figures": "1/10",
+    "overs": "4.0",
+    "economy": 2.5
+   },
+   {
+    "name": "H Chamto",
+    "figures": "1/10",
+    "overs": "4.0",
+    "economy": 2.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bulgaria",
+   "type": "wicket_burst",
+   "over": 11,
+   "detail": "2 wickets fell in over 11 (bowled by J Sasi Rekha, 1 credited to J Sasi Rekha)"
+  },
+  {
+   "innings": 1,
+   "team": "Bulgaria",
+   "type": "wicket_burst",
+   "over": 20,
+   "detail": "2 wickets fell in over 20 (bowled by H Shreya, 1 credited to H Shreya)"
+  },
+  {
+   "innings": 2,
+   "team": "Sweden",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (K Srandeva) went for 24 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sweden",
+   "type": "big_over",
+   "over": 3,
+   "detail": "Over 3 (K Srandeva) went for 29 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sweden",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 99 scored, needed 0 from 14 overs (RRR 0.0)"
+  }
+ ],
+ "checks": []
+}

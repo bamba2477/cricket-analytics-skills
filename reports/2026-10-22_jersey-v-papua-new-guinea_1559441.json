@@ -1,0 +1,1569 @@
+{
+ "match": {
+  "teams": [
+   "Jersey",
+   "Papua New Guinea"
+  ],
+  "dates": [
+   "2026-10-22"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 32,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Jersey"
+  },
+  "player_of_match": [
+   "ZM Tribe"
+  ],
+  "result": "Jersey won by 172 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Jersey",
+   "batting_team": "Jersey",
+   "bowling_team": "Papua New Guinea",
+   "super_over": false,
+   "total": 347,
+   "wickets": 5,
+   "overs": "50.0",
+   "run_rate": 6.94,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "H Carlyon",
+     "dismissal": "c Doko Rupa b A Nao",
+     "runs": 18,
+     "balls": 19,
+     "dots": 13,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 94.7
+    },
+    {
+     "name": "JAD Lawrenson",
+     "dismissal": "b J Kariko",
+     "runs": 72,
+     "balls": 95,
+     "dots": 44,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 75.8
+    },
+    {
+     "name": "AM Tribe",
+     "dismissal": "b Aue Oru",
+     "runs": 23,
+     "balls": 29,
+     "dots": 20,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 79.3
+    },
+    {
+     "name": "ZM Tribe",
+     "dismissal": "c A Nao b Aue Oru",
+     "runs": 150,
+     "balls": 129,
+     "dots": 49,
+     "fours": 11,
+     "sixes": 5,
+     "strike_rate": 116.3
+    },
+    {
+     "name": "JW Jenner",
+     "dismissal": "c TP Ura b A Nao",
+     "runs": 72,
+     "balls": 23,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 9,
+     "strike_rate": 313.0
+    },
+    {
+     "name": "C Brennan",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "J Sumerauer",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 4,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KV Morea",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 56,
+     "wickets": 0,
+     "economy": 5.6,
+     "dots": 29,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "A Nao",
+     "overs": "9.0",
+     "maidens": 2,
+     "runs": 75,
+     "wickets": 2,
+     "economy": 8.33,
+     "dots": 27,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Kariko",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 77,
+     "wickets": 1,
+     "economy": 7.7,
+     "dots": 22,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Aue Oru",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 70,
+     "wickets": 2,
+     "economy": 8.75,
+     "dots": 17,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "L Siaka",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 7.33,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Vala",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 3.88,
+     "dots": 23,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Bau",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 33,
+     "wickets": 1,
+     "run_rate": 3.3
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 172,
+     "wickets": 1,
+     "run_rate": 5.73
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 142,
+     "wickets": 3,
+     "run_rate": 14.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 21,
+     "player": "H Carlyon",
+     "over": "3.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 58,
+     "player": "AM Tribe",
+     "over": "13.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 223,
+     "player": "JAD Lawrenson",
+     "over": "41.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 335,
+     "player": "JW Jenner",
+     "over": "48.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 339,
+     "player": "ZM Tribe",
+     "over": "49.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 21,
+     "balls": 24,
+     "batters": [
+      "H Carlyon",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "H Carlyon": 18,
+      "JAD Lawrenson": 3
+     },
+     "ended_by": "H Carlyon (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 37,
+     "balls": 55,
+     "batters": [
+      "JAD Lawrenson",
+      "AM Tribe"
+     ],
+     "contributions": {
+      "JAD Lawrenson": 13,
+      "AM Tribe": 23
+     },
+     "ended_by": "AM Tribe (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 165,
+     "balls": 173,
+     "batters": [
+      "ZM Tribe",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "ZM Tribe": 108,
+      "JAD Lawrenson": 56
+     },
+     "ended_by": "JAD Lawrenson (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 112,
+     "balls": 40,
+     "batters": [
+      "ZM Tribe",
+      "JW Jenner"
+     ],
+     "contributions": {
+      "ZM Tribe": 39,
+      "JW Jenner": 72
+     },
+     "ended_by": "JW Jenner (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "C Brennan",
+      "ZM Tribe"
+     ],
+     "contributions": {
+      "C Brennan": 1,
+      "ZM Tribe": 3
+     },
+     "ended_by": "ZM Tribe (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 8,
+     "balls": 4,
+     "batters": [
+      "J Sumerauer",
+      "C Brennan"
+     ],
+     "contributions": {
+      "J Sumerauer": 8,
+      "C Brennan": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Siaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Siaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Siaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 20,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Aue Oru",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Papua New Guinea",
+   "batting_team": "Papua New Guinea",
+   "bowling_team": "Jersey",
+   "super_over": false,
+   "total": 175,
+   "wickets": 10,
+   "overs": "36.5",
+   "run_rate": 4.75,
+   "target": 348,
+   "extras": {
+    "wides": 7,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "S Bau",
+     "dismissal": "b G Richardson",
+     "runs": 22,
+     "balls": 29,
+     "dots": 20,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 75.9
+    },
+    {
+     "name": "Doko Rupa",
+     "dismissal": "c CW Perchard b H Carlyon",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "L Siaka",
+     "dismissal": "lbw b B Ward",
+     "runs": 39,
+     "balls": 49,
+     "dots": 25,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 79.6
+    },
+    {
+     "name": "Patrick Nou",
+     "dismissal": "b B Ward",
+     "runs": 14,
+     "balls": 19,
+     "dots": 13,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 73.7
+    },
+    {
+     "name": "A Vala",
+     "dismissal": "c & b B Ward",
+     "runs": 4,
+     "balls": 12,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Boio Ray",
+     "dismissal": "b B Ward",
+     "runs": 4,
+     "balls": 9,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 44.4
+    },
+    {
+     "name": "TP Ura",
+     "dismissal": "c J Sumerauer b B Ward",
+     "runs": 5,
+     "balls": 12,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 41.7
+    },
+    {
+     "name": "A Nao",
+     "dismissal": "b CW Perchard",
+     "runs": 32,
+     "balls": 38,
+     "dots": 22,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 84.2
+    },
+    {
+     "name": "Aue Oru",
+     "dismissal": "c J Sumerauer b CW Perchard",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "KV Morea",
+     "dismissal": "lbw b JAD Lawrenson",
+     "runs": 40,
+     "balls": 35,
+     "dots": 22,
+     "fours": 4,
+     "sixes": 3,
+     "strike_rate": 114.3
+    },
+    {
+     "name": "J Kariko",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 12,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "H Carlyon",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 4.67,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Sumerauer",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 7.33,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "CW Perchard",
+     "overs": "8.0",
+     "maidens": 2,
+     "runs": 22,
+     "wickets": 2,
+     "economy": 2.75,
+     "dots": 36,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "G Richardson",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 5.8,
+     "dots": 18,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "JAD Lawrenson",
+     "overs": "5.5",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 1,
+     "economy": 4.63,
+     "dots": 20,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "B Ward",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 49,
+     "wickets": 5,
+     "economy": 4.9,
+     "dots": 36,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AM Tribe",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 49,
+     "wickets": 2,
+     "run_rate": 4.9
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "26.5",
+     "runs": 126,
+     "wickets": 8,
+     "run_rate": 4.7
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 3,
+     "player": "Doko Rupa",
+     "over": "0.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 49,
+     "player": "S Bau",
+     "over": "9.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 76,
+     "player": "Patrick Nou",
+     "over": "15.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 83,
+     "player": "L Siaka",
+     "over": "17.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 86,
+     "player": "A Vala",
+     "over": "19.2",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 93,
+     "player": "Boio Ray",
+     "over": "21.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 94,
+     "player": "TP Ura",
+     "over": "23.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 101,
+     "player": "Aue Oru",
+     "over": "24.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 165,
+     "player": "A Nao",
+     "over": "34.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 175,
+     "player": "KV Morea",
+     "over": "36.5",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 3,
+     "balls": 6,
+     "batters": [
+      "S Bau",
+      "Doko Rupa"
+     ],
+     "contributions": {
+      "S Bau": 3,
+      "Doko Rupa": 0
+     },
+     "ended_by": "Doko Rupa (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 46,
+     "balls": 53,
+     "batters": [
+      "S Bau",
+      "L Siaka"
+     ],
+     "contributions": {
+      "S Bau": 19,
+      "L Siaka": 25
+     },
+     "ended_by": "S Bau (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 27,
+     "balls": 34,
+     "batters": [
+      "Patrick Nou",
+      "L Siaka"
+     ],
+     "contributions": {
+      "Patrick Nou": 14,
+      "L Siaka": 10
+     },
+     "ended_by": "Patrick Nou (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 7,
+     "balls": 13,
+     "batters": [
+      "A Vala",
+      "L Siaka"
+     ],
+     "contributions": {
+      "A Vala": 3,
+      "L Siaka": 4
+     },
+     "ended_by": "L Siaka (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 10,
+     "batters": [
+      "Boio Ray",
+      "A Vala"
+     ],
+     "contributions": {
+      "Boio Ray": 2,
+      "A Vala": 1
+     },
+     "ended_by": "A Vala (caught and bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 7,
+     "balls": 15,
+     "batters": [
+      "TP Ura",
+      "Boio Ray"
+     ],
+     "contributions": {
+      "TP Ura": 5,
+      "Boio Ray": 2
+     },
+     "ended_by": "Boio Ray (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "A Nao",
+      "TP Ura"
+     ],
+     "contributions": {
+      "A Nao": 1,
+      "TP Ura": 0
+     },
+     "ended_by": "TP Ura (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 7,
+     "balls": 7,
+     "batters": [
+      "Aue Oru",
+      "A Nao"
+     ],
+     "contributions": {
+      "Aue Oru": 1,
+      "A Nao": 6
+     },
+     "ended_by": "Aue Oru (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 64,
+     "balls": 59,
+     "batters": [
+      "KV Morea",
+      "A Nao"
+     ],
+     "contributions": {
+      "KV Morea": 38,
+      "A Nao": 25
+     },
+     "ended_by": "A Nao (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 10,
+     "balls": 16,
+     "batters": [
+      "J Kariko",
+      "KV Morea"
+     ],
+     "contributions": {
+      "J Kariko": 6,
+      "KV Morea": 2
+     },
+     "ended_by": "KV Morea (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "ZM Tribe",
+    "runs": 150,
+    "balls": 129,
+    "strike_rate": 116.3
+   },
+   {
+    "name": "JW Jenner",
+    "runs": 72,
+    "balls": 23,
+    "strike_rate": 313.0
+   },
+   {
+    "name": "JAD Lawrenson",
+    "runs": 72,
+    "balls": 95,
+    "strike_rate": 75.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "B Ward",
+    "figures": "5/49",
+    "overs": "10.0",
+    "economy": 4.9
+   },
+   {
+    "name": "CW Perchard",
+    "figures": "2/22",
+    "overs": "8.0",
+    "economy": 2.75
+   },
+   {
+    "name": "Aue Oru",
+    "figures": "2/70",
+    "overs": "8.0",
+    "economy": 8.75
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Jersey",
+   "type": "big_over",
+   "over": 46,
+   "detail": "Over 46 (J Kariko) went for 22 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Jersey",
+   "type": "big_over",
+   "over": 47,
+   "detail": "Over 47 (A Nao) went for 24 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 36 scored, needed 312 from 44 overs (RRR 7.09)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 49 scored, needed 299 from 40 overs (RRR 7.47)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 75 scored, needed 273 from 35 overs (RRR 7.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "big_over",
+   "over": 32,
+   "detail": "Over 32 (B Ward) went for 17 runs"
+  }
+ ],
+ "checks": []
+}

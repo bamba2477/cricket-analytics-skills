@@ -1,0 +1,412 @@
+{
+ "match": {
+  "teams": [
+   "India",
+   "West Indies"
+  ],
+  "dates": [
+   "2026-10-17"
+  ],
+  "venue": "M Chinnaswamy Stadium, Bengaluru",
+  "city": "Bengaluru",
+  "event": "West Indies tour of India",
+  "match_number": 5,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "West Indies"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "India",
+   "batting_team": "India",
+   "bowling_team": "West Indies",
+   "super_over": false,
+   "total": 118,
+   "wickets": 5,
+   "overs": "7.4",
+   "run_rate": 15.39,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "wides": 12
+   },
+   "batting": [
+    {
+     "name": "SV Samson",
+     "dismissal": "b SK Springer",
+     "runs": 16,
+     "balls": 7,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 228.6
+    },
+    {
+     "name": "Abhishek Sharma",
+     "dismissal": "c S Joseph b KMA Paul",
+     "runs": 6,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "Ishan Kishan",
+     "dismissal": "c R Powell b S Joseph",
+     "runs": 30,
+     "balls": 10,
+     "dots": 1,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 300.0
+    },
+    {
+     "name": "SS Iyer",
+     "dismissal": "c S Joseph b KMA Paul",
+     "runs": 22,
+     "balls": 14,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 157.1
+    },
+    {
+     "name": "Tilak Varma",
+     "dismissal": "b SK Springer",
+     "runs": 7,
+     "balls": 6,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 116.7
+    },
+    {
+     "name": "Naman Dhir",
+     "dismissal": "not out",
+     "runs": 24,
+     "balls": 6,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 3,
+     "strike_rate": 400.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KMA Paul",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 2,
+     "economy": 17.0,
+     "dots": 4,
+     "wides": 6,
+     "noballs": 1
+    },
+    {
+     "name": "R Shepherd",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 24.0,
+     "dots": 0,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "S Joseph",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 18.0,
+     "dots": 1,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "G Motie",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 12.5,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "SK Springer",
+     "overs": "1.4",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 2,
+     "economy": 10.2,
+     "dots": 2,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 88,
+     "wickets": 3,
+     "run_rate": 14.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.4",
+     "runs": 30,
+     "wickets": 2,
+     "run_rate": 18.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "Abhishek Sharma",
+     "over": "0.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 45,
+     "player": "Ishan Kishan",
+     "over": "2.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 66,
+     "player": "SV Samson",
+     "over": "4.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 88,
+     "player": "SS Iyer",
+     "over": "6.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 118,
+     "player": "Tilak Varma",
+     "over": "7.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 5,
+     "batters": [
+      "SV Samson",
+      "Abhishek Sharma"
+     ],
+     "contributions": {
+      "SV Samson": 1,
+      "Abhishek Sharma": 6
+     },
+     "ended_by": "Abhishek Sharma (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 32,
+     "balls": 10,
+     "batters": [
+      "Ishan Kishan",
+      "SV Samson"
+     ],
+     "contributions": {
+      "Ishan Kishan": 30,
+      "SV Samson": 0
+     },
+     "ended_by": "Ishan Kishan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 21,
+     "balls": 10,
+     "batters": [
+      "SS Iyer",
+      "SV Samson"
+     ],
+     "contributions": {
+      "SS Iyer": 6,
+      "SV Samson": 15
+     },
+     "ended_by": "SV Samson (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 22,
+     "balls": 12,
+     "batters": [
+      "Tilak Varma",
+      "SS Iyer"
+     ],
+     "contributions": {
+      "Tilak Varma": 3,
+      "SS Iyer": 16
+     },
+     "ended_by": "SS Iyer (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 30,
+     "balls": 9,
+     "batters": [
+      "Naman Dhir",
+      "Tilak Varma"
+     ],
+     "contributions": {
+      "Naman Dhir": 24,
+      "Tilak Varma": 4
+     },
+     "ended_by": "Tilak Varma (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KMA Paul",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 24,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Shepherd",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Motie",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Springer",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Motie",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 20,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KMA Paul",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Springer",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Ishan Kishan",
+    "runs": 30,
+    "balls": 10,
+    "strike_rate": 300.0
+   },
+   {
+    "name": "Naman Dhir",
+    "runs": 24,
+    "balls": 6,
+    "strike_rate": 400.0
+   },
+   {
+    "name": "SS Iyer",
+    "runs": 22,
+    "balls": 14,
+    "strike_rate": 157.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "SK Springer",
+    "figures": "2/17",
+    "overs": "1.4",
+    "economy": 10.2
+   },
+   {
+    "name": "KMA Paul",
+    "figures": "2/34",
+    "overs": "2.0",
+    "economy": 17.0
+   },
+   {
+    "name": "S Joseph",
+    "figures": "1/18",
+    "overs": "1.0",
+    "economy": 18.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "India",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (R Shepherd) went for 24 runs"
+  },
+  {
+   "innings": 1,
+   "team": "India",
+   "type": "big_over",
+   "over": 7,
+   "detail": "Over 7 (KMA Paul) went for 20 runs"
+  }
+ ],
+ "checks": []
+}

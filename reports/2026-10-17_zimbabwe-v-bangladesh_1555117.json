@@ -1,0 +1,1610 @@
+{
+ "match": {
+  "teams": [
+   "Zimbabwe",
+   "Bangladesh"
+  ],
+  "dates": [
+   "2026-10-17"
+  ],
+  "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+  "city": "Abu Dhabi",
+  "event": "UAE ODI Tri-Series",
+  "match_number": 1,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Zimbabwe"
+  },
+  "player_of_match": [
+   "CR Ervine"
+  ],
+  "result": "Zimbabwe won by 99 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Zimbabwe",
+   "batting_team": "Zimbabwe",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 271,
+   "wickets": 8,
+   "overs": "50.0",
+   "run_rate": 5.42,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "wides": 5
+   },
+   "batting": [
+    {
+     "name": "BJ Bennett",
+     "dismissal": "lbw b Taskin Ahmed",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "BJ Curran",
+     "dismissal": "lbw b Taskin Ahmed",
+     "runs": 6,
+     "balls": 11,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 54.5
+    },
+    {
+     "name": "TE Tsiga",
+     "dismissal": "c Nurul Hasan b Taskin Ahmed",
+     "runs": 16,
+     "balls": 15,
+     "dots": 9,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 106.7
+    },
+    {
+     "name": "BRM Taylor",
+     "dismissal": "c Mosaddek Hossain b Saif Hassan",
+     "runs": 81,
+     "balls": 101,
+     "dots": 55,
+     "fours": 10,
+     "sixes": 0,
+     "strike_rate": 80.2
+    },
+    {
+     "name": "CR Ervine",
+     "dismissal": "c Nurul Hasan b Shoriful Islam",
+     "runs": 93,
+     "balls": 106,
+     "dots": 45,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 87.7
+    },
+    {
+     "name": "Sikandar Raza",
+     "dismissal": "c Nurul Hasan b Saif Hassan",
+     "runs": 4,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "W Madhevere",
+     "dismissal": "c Soumya Sarkar b Rishad Hossain",
+     "runs": 17,
+     "balls": 15,
+     "dots": 7,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 113.3
+    },
+    {
+     "name": "B Evans",
+     "dismissal": "c Nurul Hasan b Shoriful Islam",
+     "runs": 5,
+     "balls": 9,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "NT Nyamhuri",
+     "dismissal": "not out",
+     "runs": 21,
+     "balls": 17,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 123.5
+    },
+    {
+     "name": "WP Masakadza",
+     "dismissal": "not out",
+     "runs": 21,
+     "balls": 15,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 140.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Taskin Ahmed",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 44,
+     "wickets": 3,
+     "economy": 4.4,
+     "dots": 37,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shoriful Islam",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 47,
+     "wickets": 2,
+     "economy": 4.7,
+     "dots": 33,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Mustafizur Rahman",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 44,
+     "wickets": 0,
+     "economy": 4.4,
+     "dots": 40,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Mosaddek Hossain",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 15,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Rishad Hossain",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 66,
+     "wickets": 1,
+     "economy": 7.33,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Soumya Sarkar",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Saif Hassan",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 2,
+     "economy": 5.67,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 30,
+     "wickets": 3,
+     "run_rate": 3.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 171,
+     "wickets": 2,
+     "run_rate": 5.7
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 70,
+     "wickets": 3,
+     "run_rate": 7.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "BJ Bennett",
+     "over": "0.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 17,
+     "player": "BJ Curran",
+     "over": "4.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 24,
+     "player": "TE Tsiga",
+     "over": "6.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 174,
+     "player": "BRM Taylor",
+     "over": "36.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 182,
+     "player": "Sikandar Raza",
+     "over": "38.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 220,
+     "player": "W Madhevere",
+     "over": "42.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 224,
+     "player": "CR Ervine",
+     "over": "43.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 234,
+     "player": "B Evans",
+     "over": "45.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 6,
+     "batters": [
+      "BJ Bennett",
+      "BJ Curran"
+     ],
+     "contributions": {
+      "BJ Bennett": 0,
+      "BJ Curran": 0
+     },
+     "ended_by": "BJ Bennett (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 17,
+     "balls": 19,
+     "batters": [
+      "BJ Curran",
+      "TE Tsiga"
+     ],
+     "contributions": {
+      "BJ Curran": 6,
+      "TE Tsiga": 11
+     },
+     "ended_by": "BJ Curran (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 17,
+     "batters": [
+      "BRM Taylor",
+      "TE Tsiga"
+     ],
+     "contributions": {
+      "BRM Taylor": 2,
+      "TE Tsiga": 5
+     },
+     "ended_by": "TE Tsiga (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 150,
+     "balls": 176,
+     "batters": [
+      "BRM Taylor",
+      "CR Ervine"
+     ],
+     "contributions": {
+      "BRM Taylor": 79,
+      "CR Ervine": 67
+     },
+     "ended_by": "BRM Taylor (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 8,
+     "balls": 11,
+     "batters": [
+      "Sikandar Raza",
+      "CR Ervine"
+     ],
+     "contributions": {
+      "Sikandar Raza": 4,
+      "CR Ervine": 4
+     },
+     "ended_by": "Sikandar Raza (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 38,
+     "balls": 27,
+     "batters": [
+      "W Madhevere",
+      "CR Ervine"
+     ],
+     "contributions": {
+      "W Madhevere": 17,
+      "CR Ervine": 21
+     },
+     "ended_by": "W Madhevere (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "B Evans",
+      "CR Ervine"
+     ],
+     "contributions": {
+      "B Evans": 3,
+      "CR Ervine": 1
+     },
+     "ended_by": "CR Ervine (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 10,
+     "balls": 12,
+     "batters": [
+      "NT Nyamhuri",
+      "B Evans"
+     ],
+     "contributions": {
+      "NT Nyamhuri": 7,
+      "B Evans": 2
+     },
+     "ended_by": "B Evans (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 37,
+     "balls": 26,
+     "batters": [
+      "WP Masakadza",
+      "NT Nyamhuri"
+     ],
+     "contributions": {
+      "WP Masakadza": 21,
+      "NT Nyamhuri": 14
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Soumya Sarkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Soumya Sarkar",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mosaddek Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Saif Hassan",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Saif Hassan",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saif Hassan",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rishad Hossain",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taskin Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mustafizur Rahman",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "Zimbabwe",
+   "super_over": false,
+   "total": 172,
+   "wickets": 10,
+   "overs": "33.4",
+   "run_rate": 5.11,
+   "target": 272,
+   "extras": {
+    "noballs": 1,
+    "byes": 2,
+    "wides": 10
+   },
+   "batting": [
+    {
+     "name": "Tanzid Hasan",
+     "dismissal": "c RP Burl b NT Nyamhuri",
+     "runs": 46,
+     "balls": 38,
+     "dots": 26,
+     "fours": 9,
+     "sixes": 1,
+     "strike_rate": 121.1
+    },
+    {
+     "name": "Soumya Sarkar",
+     "dismissal": "c BJ Bennett b B Muzarabani",
+     "runs": 9,
+     "balls": 17,
+     "dots": 14,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 52.9
+    },
+    {
+     "name": "Nazmul Hossain Shanto",
+     "dismissal": "lbw b B Evans",
+     "runs": 4,
+     "balls": 8,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Saif Hassan",
+     "dismissal": "c BRM Taylor b WP Masakadza",
+     "runs": 26,
+     "balls": 37,
+     "dots": 23,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 70.3
+    },
+    {
+     "name": "Towhid Hridoy",
+     "dismissal": "lbw b Sikandar Raza",
+     "runs": 13,
+     "balls": 21,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 61.9
+    },
+    {
+     "name": "Mosaddek Hossain",
+     "dismissal": "lbw b WP Masakadza",
+     "runs": 11,
+     "balls": 18,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 61.1
+    },
+    {
+     "name": "Nurul Hasan",
+     "dismissal": "c T Marumani b B Evans",
+     "runs": 5,
+     "balls": 8,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 62.5
+    },
+    {
+     "name": "Rishad Hossain",
+     "dismissal": "c WP Masakadza b Sikandar Raza",
+     "runs": 23,
+     "balls": 33,
+     "dots": 22,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 69.7
+    },
+    {
+     "name": "Shoriful Islam",
+     "dismissal": "c BJ Bennett b B Evans",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Taskin Ahmed",
+     "dismissal": "not out",
+     "runs": 16,
+     "balls": 13,
+     "dots": 7,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 123.1
+    },
+    {
+     "name": "Mustafizur Rahman",
+     "dismissal": "c & b B Evans",
+     "runs": 6,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "B Muzarabani",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 1,
+     "economy": 2.88,
+     "dots": 38,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "B Evans",
+     "overs": "6.4",
+     "maidens": 1,
+     "runs": 45,
+     "wickets": 4,
+     "economy": 6.75,
+     "dots": 26,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "NT Nyamhuri",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 56,
+     "wickets": 1,
+     "economy": 9.33,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Sikandar Raza",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 2,
+     "economy": 4.0,
+     "dots": 28,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "WP Masakadza",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 2,
+     "economy": 3.0,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 66,
+     "wickets": 2,
+     "run_rate": 6.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "23.4",
+     "runs": 106,
+     "wickets": 8,
+     "run_rate": 4.48
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 47,
+     "player": "Soumya Sarkar",
+     "over": "6.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 66,
+     "player": "Tanzid Hasan",
+     "over": "9.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 68,
+     "player": "Nazmul Hossain Shanto",
+     "over": "10.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 97,
+     "player": "Towhid Hridoy",
+     "over": "16.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 112,
+     "player": "Mosaddek Hossain",
+     "over": "21.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 123,
+     "player": "Saif Hassan",
+     "over": "23.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 129,
+     "player": "Nurul Hasan",
+     "over": "27.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 129,
+     "player": "Shoriful Islam",
+     "over": "27.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 161,
+     "player": "Rishad Hossain",
+     "over": "32.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 172,
+     "player": "Mustafizur Rahman",
+     "over": "33.4",
+     "kind": "caught and bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 47,
+     "balls": 39,
+     "batters": [
+      "Tanzid Hasan",
+      "Soumya Sarkar"
+     ],
+     "contributions": {
+      "Tanzid Hasan": 30,
+      "Soumya Sarkar": 9
+     },
+     "ended_by": "Soumya Sarkar (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 19,
+     "balls": 21,
+     "batters": [
+      "Nazmul Hossain Shanto",
+      "Tanzid Hasan"
+     ],
+     "contributions": {
+      "Nazmul Hossain Shanto": 2,
+      "Tanzid Hasan": 16
+     },
+     "ended_by": "Tanzid Hasan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 2,
+     "balls": 2,
+     "batters": [
+      "Nazmul Hossain Shanto",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Nazmul Hossain Shanto": 2,
+      "Saif Hassan": 0
+     },
+     "ended_by": "Nazmul Hossain Shanto (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 37,
+     "batters": [
+      "Towhid Hridoy",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Towhid Hridoy": 13,
+      "Saif Hassan": 13
+     },
+     "ended_by": "Towhid Hridoy (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 15,
+     "balls": 28,
+     "batters": [
+      "Mosaddek Hossain",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Mosaddek Hossain": 11,
+      "Saif Hassan": 4
+     },
+     "ended_by": "Mosaddek Hossain (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 11,
+     "balls": 13,
+     "batters": [
+      "Nurul Hasan",
+      "Saif Hassan"
+     ],
+     "contributions": {
+      "Nurul Hasan": 2,
+      "Saif Hassan": 9
+     },
+     "ended_by": "Saif Hassan (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 6,
+     "balls": 23,
+     "batters": [
+      "Rishad Hossain",
+      "Nurul Hasan"
+     ],
+     "contributions": {
+      "Rishad Hossain": 2,
+      "Nurul Hasan": 3
+     },
+     "ended_by": "Nurul Hasan (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "Shoriful Islam",
+      "Rishad Hossain"
+     ],
+     "contributions": {
+      "Shoriful Islam": 0,
+      "Rishad Hossain": 0
+     },
+     "ended_by": "Shoriful Islam (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 32,
+     "balls": 26,
+     "batters": [
+      "Taskin Ahmed",
+      "Rishad Hossain"
+     ],
+     "contributions": {
+      "Taskin Ahmed": 11,
+      "Rishad Hossain": 21
+     },
+     "ended_by": "Rishad Hossain (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 11,
+     "balls": 9,
+     "batters": [
+      "Mustafizur Rahman",
+      "Taskin Ahmed"
+     ],
+     "contributions": {
+      "Mustafizur Rahman": 6,
+      "Taskin Ahmed": 5
+     },
+     "ended_by": "Mustafizur Rahman (caught and bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WP Masakadza",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Evans",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Muzarabani",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NT Nyamhuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sikandar Raza",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Evans",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "CR Ervine",
+    "runs": 93,
+    "balls": 106,
+    "strike_rate": 87.7
+   },
+   {
+    "name": "BRM Taylor",
+    "runs": 81,
+    "balls": 101,
+    "strike_rate": 80.2
+   },
+   {
+    "name": "Tanzid Hasan",
+    "runs": 46,
+    "balls": 38,
+    "strike_rate": 121.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "B Evans",
+    "figures": "4/45",
+    "overs": "6.4",
+    "economy": 6.75
+   },
+   {
+    "name": "Taskin Ahmed",
+    "figures": "3/44",
+    "overs": "10.0",
+    "economy": 4.4
+   },
+   {
+    "name": "Saif Hassan",
+    "figures": "2/17",
+    "overs": "3.0",
+    "economy": 5.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 47 scored, needed 225 from 44 overs (RRR 5.11)"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 66 scored, needed 206 from 40 overs (RRR 5.15)"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 91 scored, needed 181 from 35 overs (RRR 5.17)"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 28,
+   "detail": "2 wickets fell in over 28 (bowled by B Evans, 2 credited to B Evans)"
+  },
+  {
+   "innings": 2,
+   "team": "Bangladesh",
+   "type": "big_over",
+   "over": 32,
+   "detail": "Over 32 (NT Nyamhuri) went for 17 runs"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1724 @@
+{
+ "match": {
+  "teams": [
+   "Kenya",
+   "Denmark"
+  ],
+  "dates": [
+   "2026-10-21"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 31,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Kenya"
+  },
+  "player_of_match": [
+   "IA Karim"
+  ],
+  "result": "Kenya won by 103 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Kenya",
+   "batting_team": "Kenya",
+   "bowling_team": "Denmark",
+   "super_over": false,
+   "total": 324,
+   "wickets": 7,
+   "overs": "50.0",
+   "run_rate": 6.48,
+   "target": null,
+   "extras": {
+    "wides": 19,
+    "byes": 5,
+    "penalty": 5,
+    "legbyes": 4
+   },
+   "batting": [
+    {
+     "name": "Subham Patel",
+     "dismissal": "st S Heath b SA Ahmad",
+     "runs": 48,
+     "balls": 55,
+     "dots": 33,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 87.3
+    },
+    {
+     "name": "DM Gondaria",
+     "dismissal": "c S Heath b Saud Munir",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "IA Karim",
+     "dismissal": "c Lucky Ali b Surya Anand",
+     "runs": 106,
+     "balls": 115,
+     "dots": 53,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 92.2
+    },
+    {
+     "name": "RR Patel",
+     "dismissal": "c SA Ahmad b Abdullah Mahmood",
+     "runs": 57,
+     "balls": 65,
+     "dots": 35,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 87.7
+    },
+    {
+     "name": "SR Bhudia",
+     "dismissal": "c T Bharaj b Abdullah Mahmood",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "S Gill",
+     "dismissal": "c Musa Shaheen b Saud Munir",
+     "runs": 49,
+     "balls": 41,
+     "dots": 17,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 119.5
+    },
+    {
+     "name": "F Mutua",
+     "dismissal": "not out",
+     "runs": 21,
+     "balls": 14,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "LN Oluoch",
+     "dismissal": "run out (N Sonne-Rudd)",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    },
+    {
+     "name": "SO Ngoche",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 600.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Saud Munir",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 66,
+     "wickets": 2,
+     "economy": 8.25,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Surya Anand",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 56,
+     "wickets": 1,
+     "economy": 5.6,
+     "dots": 31,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SA Ahmad",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 61,
+     "wickets": 1,
+     "economy": 6.78,
+     "dots": 26,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "N Sonne-Rudd",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 6,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 41,
+     "wickets": 2,
+     "economy": 4.56,
+     "dots": 30,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "HAM Shah",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 43,
+     "wickets": 0,
+     "economy": 5.38,
+     "dots": 22,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Lucky Ali",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 11,
+     "wides": 3,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 50,
+     "wickets": 1,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 187,
+     "wickets": 3,
+     "run_rate": 6.23
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 87,
+     "wickets": 3,
+     "run_rate": 8.7
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "DM Gondaria",
+     "over": "0.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 73,
+     "player": "Subham Patel",
+     "over": "14.1",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 3,
+     "score": 190,
+     "player": "RR Patel",
+     "over": "33.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 217,
+     "player": "SR Bhudia",
+     "over": "37.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 276,
+     "player": "IA Karim",
+     "over": "45.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 306,
+     "player": "S Gill",
+     "over": "48.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 317,
+     "player": "LN Oluoch",
+     "over": "49.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "Subham Patel",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "Subham Patel": 1,
+      "DM Gondaria": 0
+     },
+     "ended_by": "DM Gondaria (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 72,
+     "balls": 79,
+     "batters": [
+      "Subham Patel",
+      "IA Karim"
+     ],
+     "contributions": {
+      "Subham Patel": 47,
+      "IA Karim": 20
+     },
+     "ended_by": "Subham Patel (stumped)"
+    },
+    {
+     "wicket": 3,
+     "runs": 117,
+     "balls": 117,
+     "batters": [
+      "RR Patel",
+      "IA Karim"
+     ],
+     "contributions": {
+      "RR Patel": 57,
+      "IA Karim": 44
+     },
+     "ended_by": "RR Patel (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 27,
+     "balls": 21,
+     "batters": [
+      "SR Bhudia",
+      "IA Karim"
+     ],
+     "contributions": {
+      "SR Bhudia": 4,
+      "IA Karim": 18
+     },
+     "ended_by": "SR Bhudia (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 59,
+     "balls": 50,
+     "batters": [
+      "S Gill",
+      "IA Karim"
+     ],
+     "contributions": {
+      "S Gill": 28,
+      "IA Karim": 24
+     },
+     "ended_by": "IA Karim (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 30,
+     "balls": 21,
+     "batters": [
+      "F Mutua",
+      "S Gill"
+     ],
+     "contributions": {
+      "F Mutua": 9,
+      "S Gill": 21
+     },
+     "ended_by": "S Gill (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 11,
+     "balls": 4,
+     "batters": [
+      "F Mutua",
+      "LN Oluoch"
+     ],
+     "contributions": {
+      "F Mutua": 11,
+      "LN Oluoch": 0
+     },
+     "ended_by": "LN Oluoch (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 7,
+     "balls": 2,
+     "batters": [
+      "F Mutua",
+      "SO Ngoche"
+     ],
+     "contributions": {
+      "F Mutua": 1,
+      "SO Ngoche": 6
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Sonne-Rudd",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Sonne-Rudd",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Saud Munir",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Denmark",
+   "batting_team": "Denmark",
+   "bowling_team": "Kenya",
+   "super_over": false,
+   "total": 221,
+   "wickets": 10,
+   "overs": "44.1",
+   "run_rate": 5.0,
+   "target": 325,
+   "extras": {
+    "legbyes": 3,
+    "wides": 10,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Musa Shaheen",
+     "dismissal": "c SR Bhudia b SO Ngoche",
+     "runs": 35,
+     "balls": 62,
+     "dots": 43,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 56.5
+    },
+    {
+     "name": "HAM Shah",
+     "dismissal": "c & b SO Ngoche",
+     "runs": 55,
+     "balls": 67,
+     "dots": 41,
+     "fours": 4,
+     "sixes": 3,
+     "strike_rate": 82.1
+    },
+    {
+     "name": "SA Ahmad",
+     "dismissal": "st IA Karim b DM Gondaria",
+     "runs": 14,
+     "balls": 21,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "S Heath",
+     "dismissal": "c S Singh b Vraj Patel",
+     "runs": 7,
+     "balls": 13,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 53.8
+    },
+    {
+     "name": "Lucky Ali",
+     "dismissal": "c S Gill b RR Patel",
+     "runs": 3,
+     "balls": 13,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 23.1
+    },
+    {
+     "name": "S Thanikaithasan",
+     "dismissal": "st IA Karim b Vraj Patel",
+     "runs": 24,
+     "balls": 17,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 141.2
+    },
+    {
+     "name": "T Bharaj",
+     "dismissal": "c & b SO Ngoche",
+     "runs": 35,
+     "balls": 23,
+     "dots": 4,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 152.2
+    },
+    {
+     "name": "Surya Anand",
+     "dismissal": "b S Gill",
+     "runs": 4,
+     "balls": 6,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "dismissal": "lbw b DM Gondaria",
+     "runs": 12,
+     "balls": 21,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Saud Munir",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 15,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "N Sonne-Rudd",
+     "dismissal": "c Vraj Patel b F Mutua",
+     "runs": 6,
+     "balls": 7,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 85.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Gill",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 1,
+     "economy": 3.8,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "LN Oluoch",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 13,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "SO Ngoche",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 31,
+     "wickets": 3,
+     "economy": 3.1,
+     "dots": 44,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "F Mutua",
+     "overs": "5.1",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 5.61,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Vraj Patel",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 44,
+     "wickets": 2,
+     "economy": 4.4,
+     "dots": 33,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Subham Patel",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DM Gondaria",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 44,
+     "wickets": 2,
+     "economy": 6.29,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RR Patel",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 4,
+     "wides": 4,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 41,
+     "wickets": 0,
+     "run_rate": 4.1
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 157,
+     "wickets": 8,
+     "run_rate": 5.23
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "4.1",
+     "runs": 23,
+     "wickets": 2,
+     "run_rate": 5.52
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 85,
+     "player": "Musa Shaheen",
+     "over": "20.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 98,
+     "player": "HAM Shah",
+     "over": "22.4",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 112,
+     "player": "S Heath",
+     "over": "26.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 118,
+     "player": "SA Ahmad",
+     "over": "29.1",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 128,
+     "player": "Lucky Ali",
+     "over": "30.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 172,
+     "player": "S Thanikaithasan",
+     "over": "34.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 7,
+     "score": 181,
+     "player": "Surya Anand",
+     "over": "35.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 196,
+     "player": "T Bharaj",
+     "over": "38.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 206,
+     "player": "Abdullah Mahmood",
+     "over": "41.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 221,
+     "player": "N Sonne-Rudd",
+     "over": "44.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 85,
+     "balls": 124,
+     "batters": [
+      "Musa Shaheen",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "Musa Shaheen": 35,
+      "HAM Shah": 46
+     },
+     "ended_by": "Musa Shaheen (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 13,
+     "balls": 12,
+     "batters": [
+      "SA Ahmad",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "SA Ahmad": 4,
+      "HAM Shah": 9
+     },
+     "ended_by": "HAM Shah (caught and bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 14,
+     "balls": 22,
+     "batters": [
+      "S Heath",
+      "SA Ahmad"
+     ],
+     "contributions": {
+      "S Heath": 7,
+      "SA Ahmad": 7
+     },
+     "ended_by": "S Heath (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 6,
+     "balls": 17,
+     "batters": [
+      "Lucky Ali",
+      "SA Ahmad"
+     ],
+     "contributions": {
+      "Lucky Ali": 3,
+      "SA Ahmad": 3
+     },
+     "ended_by": "SA Ahmad (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 10,
+     "balls": 6,
+     "batters": [
+      "S Thanikaithasan",
+      "Lucky Ali"
+     ],
+     "contributions": {
+      "S Thanikaithasan": 10,
+      "Lucky Ali": 0
+     },
+     "ended_by": "Lucky Ali (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 44,
+     "balls": 25,
+     "batters": [
+      "T Bharaj",
+      "S Thanikaithasan"
+     ],
+     "contributions": {
+      "T Bharaj": 23,
+      "S Thanikaithasan": 14
+     },
+     "ended_by": "S Thanikaithasan (stumped)"
+    },
+    {
+     "wicket": 7,
+     "runs": 9,
+     "balls": 10,
+     "batters": [
+      "Surya Anand",
+      "T Bharaj"
+     ],
+     "contributions": {
+      "Surya Anand": 4,
+      "T Bharaj": 4
+     },
+     "ended_by": "Surya Anand (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 15,
+     "balls": 17,
+     "batters": [
+      "T Bharaj",
+      "Abdullah Mahmood"
+     ],
+     "contributions": {
+      "T Bharaj": 8,
+      "Abdullah Mahmood": 5
+     },
+     "ended_by": "T Bharaj (caught and bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 10,
+     "balls": 17,
+     "batters": [
+      "Saud Munir",
+      "Abdullah Mahmood"
+     ],
+     "contributions": {
+      "Saud Munir": 3,
+      "Abdullah Mahmood": 7
+     },
+     "ended_by": "Abdullah Mahmood (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 15,
+     "balls": 15,
+     "batters": [
+      "N Sonne-Rudd",
+      "Saud Munir"
+     ],
+     "contributions": {
+      "N Sonne-Rudd": 6,
+      "Saud Munir": 9
+     },
+     "ended_by": "N Sonne-Rudd (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Oluoch",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Oluoch",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Oluoch",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Subham Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RR Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RR Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Oluoch",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "F Mutua",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "IA Karim",
+    "runs": 106,
+    "balls": 115,
+    "strike_rate": 92.2
+   },
+   {
+    "name": "RR Patel",
+    "runs": 57,
+    "balls": 65,
+    "strike_rate": 87.7
+   },
+   {
+    "name": "HAM Shah",
+    "runs": 55,
+    "balls": 67,
+    "strike_rate": 82.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "SO Ngoche",
+    "figures": "3/31",
+    "overs": "10.0",
+    "economy": 3.1
+   },
+   {
+    "name": "Abdullah Mahmood",
+    "figures": "2/41",
+    "overs": "9.0",
+    "economy": 4.56
+   },
+   {
+    "name": "Vraj Patel",
+    "figures": "2/44",
+    "overs": "10.0",
+    "economy": 4.4
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 45,
+   "detail": "Over 45 (SA Ahmad) went for 17 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 50,
+   "detail": "Over 50 (Surya Anand) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 26 scored, needed 299 from 44 overs (RRR 6.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 41 scored, needed 284 from 40 overs (RRR 7.1)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 66 scored, needed 259 from 35 overs (RRR 7.4)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "big_over",
+   "over": 34,
+   "detail": "Over 34 (LN Oluoch) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 40,
+   "detail": "After 40 overs: 198 scored, needed 127 from 10 overs (RRR 12.7)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,726 @@
+{
+ "match": {
+  "teams": [
+   "Bulgaria",
+   "Austria"
+  ],
+  "dates": [
+   "2026-10-16"
+  ],
+  "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+  "city": "Ilfov County",
+  "event": "ECA Women's European Cup",
+  "match_number": 4,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Bulgaria"
+  },
+  "player_of_match": [],
+  "result": "Austria won by 10 wickets (D/L)"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bulgaria",
+   "batting_team": "Bulgaria",
+   "bowling_team": "Austria",
+   "super_over": false,
+   "total": 39,
+   "wickets": 8,
+   "overs": "12.0",
+   "run_rate": 3.25,
+   "target": null,
+   "extras": {
+    "wides": 7,
+    "legbyes": 1,
+    "byes": 1,
+    "noballs": 2
+   },
+   "batting": [
+    {
+     "name": "M Abadjieva",
+     "dismissal": "lbw b SK Reddy",
+     "runs": 0,
+     "balls": 12,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "V Nikolova",
+     "dismissal": "b MPM Pathirannehelage",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "S Sarandeva",
+     "dismissal": "b MPM Pathirannehelage",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "D Ruynekova",
+     "dismissal": "run out (MPM Pathirannehelage)",
+     "runs": 0,
+     "balls": 13,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Yordanova",
+     "dismissal": "lbw b MPM Pathirannehelage",
+     "runs": 6,
+     "balls": 10,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "G Ilarionova",
+     "dismissal": "c SK Reddy b S Bhardwaj",
+     "runs": 4,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "K Srandeva",
+     "dismissal": "not out",
+     "runs": 12,
+     "balls": 8,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "K Eftimova",
+     "dismissal": "b S Bhardwaj",
+     "runs": 3,
+     "balls": 8,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "N Tropolova",
+     "dismissal": "c A Nookala b S Bhardwaj",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Danaya Ilieva",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MPM Pathirannehelage",
+     "overs": "3.0",
+     "maidens": 1,
+     "runs": 7,
+     "wickets": 3,
+     "economy": 2.33,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SK Reddy",
+     "overs": "3.0",
+     "maidens": 1,
+     "runs": 3,
+     "wickets": 1,
+     "economy": 1.0,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AM Zepeda",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 2,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "P Sabu",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 0,
+     "economy": 1.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ashi Chopla",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 8,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "S Bhardwaj",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 3,
+     "economy": 6.0,
+     "dots": 7,
+     "wides": 3,
+     "noballs": 1
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 8,
+     "wickets": 3,
+     "run_rate": 1.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "6.0",
+     "runs": 31,
+     "wickets": 5,
+     "run_rate": 5.17
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 2,
+     "player": "V Nikolova",
+     "over": "2.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 4,
+     "player": "S Sarandeva",
+     "over": "2.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 4,
+     "player": "M Abadjieva",
+     "over": "3.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 12,
+     "player": "S Yordanova",
+     "over": "6.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 14,
+     "player": "D Ruynekova",
+     "over": "7.6",
+     "kind": "run out"
+    },
+    {
+     "wicket": 6,
+     "score": 28,
+     "player": "G Ilarionova",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 38,
+     "player": "K Eftimova",
+     "over": "11.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 39,
+     "player": "N Tropolova",
+     "over": "11.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 2,
+     "balls": 13,
+     "batters": [
+      "M Abadjieva",
+      "V Nikolova"
+     ],
+     "contributions": {
+      "M Abadjieva": 0,
+      "V Nikolova": 1
+     },
+     "ended_by": "V Nikolova (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "S Sarandeva",
+      "M Abadjieva"
+     ],
+     "contributions": {
+      "S Sarandeva": 2,
+      "M Abadjieva": 0
+     },
+     "ended_by": "S Sarandeva (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 6,
+     "batters": [
+      "D Ruynekova",
+      "M Abadjieva"
+     ],
+     "contributions": {
+      "D Ruynekova": 0,
+      "M Abadjieva": 0
+     },
+     "ended_by": "M Abadjieva (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 8,
+     "balls": 18,
+     "batters": [
+      "S Yordanova",
+      "D Ruynekova"
+     ],
+     "contributions": {
+      "S Yordanova": 6,
+      "D Ruynekova": 0
+     },
+     "ended_by": "S Yordanova (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 8,
+     "batters": [
+      "G Ilarionova",
+      "D Ruynekova"
+     ],
+     "contributions": {
+      "G Ilarionova": 2,
+      "D Ruynekova": 0
+     },
+     "ended_by": "D Ruynekova (run out)"
+    },
+    {
+     "wicket": 6,
+     "runs": 14,
+     "balls": 9,
+     "batters": [
+      "K Srandeva",
+      "G Ilarionova"
+     ],
+     "contributions": {
+      "K Srandeva": 9,
+      "G Ilarionova": 2
+     },
+     "ended_by": "G Ilarionova (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 10,
+     "balls": 10,
+     "batters": [
+      "K Eftimova",
+      "K Srandeva"
+     ],
+     "contributions": {
+      "K Eftimova": 3,
+      "K Srandeva": 3
+     },
+     "ended_by": "K Eftimova (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "N Tropolova",
+      "K Srandeva"
+     ],
+     "contributions": {
+      "N Tropolova": 0,
+      "K Srandeva": 0
+     },
+     "ended_by": "N Tropolova (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "Danaya Ilieva",
+      "K Srandeva"
+     ],
+     "contributions": {
+      "Danaya Ilieva": 0,
+      "K Srandeva": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Zepeda",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "P Sabu",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Bhardwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "S Bhardwaj",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Austria",
+   "batting_team": "Austria",
+   "bowling_team": "Bulgaria",
+   "super_over": false,
+   "total": 37,
+   "wickets": 0,
+   "overs": "4.5",
+   "run_rate": 7.66,
+   "target": 37,
+   "extras": {
+    "wides": 2
+   },
+   "batting": [
+    {
+     "name": "P Sabu",
+     "dismissal": "not out",
+     "runs": 28,
+     "balls": 22,
+     "dots": 8,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 127.3
+    },
+    {
+     "name": "AM Zepeda",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 7,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Sarandeva",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "G Ilarionova",
+     "overs": "1.5",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 8.73,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "K Srandeva",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Deya Stefanova",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 1,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "4.5",
+     "runs": 37,
+     "wickets": 0,
+     "run_rate": 7.66
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 37,
+     "balls": 29,
+     "batters": [
+      "P Sabu",
+      "AM Zepeda"
+     ],
+     "contributions": {
+      "P Sabu": 28,
+      "AM Zepeda": 7
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Sarandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Srandeva",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Deya Stefanova",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Ilarionova",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "P Sabu",
+    "runs": 28,
+    "balls": 22,
+    "strike_rate": 127.3
+   },
+   {
+    "name": "K Srandeva",
+    "runs": 12,
+    "balls": 8,
+    "strike_rate": 150.0
+   },
+   {
+    "name": "AM Zepeda",
+    "runs": 7,
+    "balls": 7,
+    "strike_rate": 100.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "MPM Pathirannehelage",
+    "figures": "3/7",
+    "overs": "3.0",
+    "economy": 2.33
+   },
+   {
+    "name": "S Bhardwaj",
+    "figures": "3/12",
+    "overs": "2.0",
+    "economy": 6.0
+   },
+   {
+    "name": "SK Reddy",
+    "figures": "1/3",
+    "overs": "3.0",
+    "economy": 1.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bulgaria",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "2 wickets fell in over 3 (bowled by MPM Pathirannehelage, 2 credited to MPM Pathirannehelage)"
+  },
+  {
+   "innings": 1,
+   "team": "Bulgaria",
+   "type": "wicket_burst",
+   "over": 12,
+   "detail": "2 wickets fell in over 12 (bowled by S Bhardwaj, 2 credited to S Bhardwaj)"
+  }
+ ],
+ "checks": []
+}

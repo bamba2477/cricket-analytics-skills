@@ -1,0 +1,1257 @@
+{
+ "match": {
+  "teams": [
+   "Sweden",
+   "Austria"
+  ],
+  "dates": [
+   "2026-10-18"
+  ],
+  "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+  "city": "Ilfov County",
+  "event": "ECA Women's European Cup",
+  "match_number": null,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Austria"
+  },
+  "player_of_match": [
+   "H Shreya"
+  ],
+  "result": "Sweden won by 64 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Sweden",
+   "batting_team": "Sweden",
+   "bowling_team": "Austria",
+   "super_over": false,
+   "total": 124,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 6.2,
+   "target": null,
+   "extras": {
+    "wides": 21,
+    "noballs": 1,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "A Vaidya",
+     "dismissal": "b Ashi Chopla",
+     "runs": 10,
+     "balls": 11,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 90.9
+    },
+    {
+     "name": "Adan Gul",
+     "dismissal": "b SK Reddy",
+     "runs": 35,
+     "balls": 28,
+     "dots": 10,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "Eman Asim",
+     "dismissal": "c AM Zepeda b MPM Pathirannehelage",
+     "runs": 15,
+     "balls": 16,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 93.8
+    },
+    {
+     "name": "Kanchan Rana",
+     "dismissal": "lbw b MPM Pathirannehelage",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Zara Mohammad",
+     "dismissal": "c AM Zepeda b SK Reddy",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "J Sasi Rekha",
+     "dismissal": "c Isha Joshi b SK Reddy",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "H Chamto",
+     "dismissal": "lbw b P Sabu",
+     "runs": 11,
+     "balls": 19,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.9
+    },
+    {
+     "name": "Malyun Yusuf",
+     "dismissal": "lbw b MPM Pathirannehelage",
+     "runs": 10,
+     "balls": 16,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 62.5
+    },
+    {
+     "name": "Fatima Zahra",
+     "dismissal": "st A Nookala b S Bhardwaj",
+     "runs": 12,
+     "balls": 12,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Anoushka Vaidya",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 8,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "H Shreya",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ashi Chopla",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 1,
+     "economy": 7.5,
+     "dots": 14,
+     "wides": 5,
+     "noballs": 1
+    },
+    {
+     "name": "AM Zepeda",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 14,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "MPM Pathirannehelage",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 3,
+     "economy": 6.0,
+     "dots": 11,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "SK Reddy",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 3,
+     "economy": 3.25,
+     "dots": 16,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "P Sabu",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 8.5,
+     "dots": 7,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "S Bhardwaj",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 7.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 44,
+     "wickets": 1,
+     "run_rate": 7.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 51,
+     "wickets": 6,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 29,
+     "wickets": 2,
+     "run_rate": 5.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 13,
+     "player": "A Vaidya",
+     "over": "2.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 46,
+     "player": "Eman Asim",
+     "over": "6.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 46,
+     "player": "Kanchan Rana",
+     "over": "6.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 47,
+     "player": "Zara Mohammad",
+     "over": "7.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 61,
+     "player": "J Sasi Rekha",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 77,
+     "player": "Adan Gul",
+     "over": "11.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 95,
+     "player": "H Chamto",
+     "over": "14.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 116,
+     "player": "Fatima Zahra",
+     "over": "18.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 9,
+     "score": 123,
+     "player": "Malyun Yusuf",
+     "over": "19.5",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 13,
+     "balls": 15,
+     "batters": [
+      "A Vaidya",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "A Vaidya": 10,
+      "Adan Gul": 0
+     },
+     "ended_by": "A Vaidya (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 33,
+     "balls": 24,
+     "batters": [
+      "Eman Asim",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "Eman Asim": 15,
+      "Adan Gul": 15
+     },
+     "ended_by": "Eman Asim (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Kanchan Rana",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "Kanchan Rana": 0,
+      "Adan Gul": 0
+     },
+     "ended_by": "Kanchan Rana (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "Zara Mohammad",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "Zara Mohammad": 0,
+      "Adan Gul": 1
+     },
+     "ended_by": "Zara Mohammad (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 13,
+     "batters": [
+      "J Sasi Rekha",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "J Sasi Rekha": 1,
+      "Adan Gul": 11
+     },
+     "ended_by": "J Sasi Rekha (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 16,
+     "balls": 15,
+     "batters": [
+      "H Chamto",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "H Chamto": 2,
+      "Adan Gul": 8
+     },
+     "ended_by": "Adan Gul (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 18,
+     "balls": 17,
+     "batters": [
+      "H Chamto",
+      "Malyun Yusuf"
+     ],
+     "contributions": {
+      "H Chamto": 9,
+      "Malyun Yusuf": 2
+     },
+     "ended_by": "H Chamto (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 21,
+     "balls": 21,
+     "batters": [
+      "Fatima Zahra",
+      "Malyun Yusuf"
+     ],
+     "contributions": {
+      "Fatima Zahra": 12,
+      "Malyun Yusuf": 8
+     },
+     "ended_by": "Fatima Zahra (stumped)"
+    },
+    {
+     "wicket": 9,
+     "runs": 7,
+     "balls": 9,
+     "batters": [
+      "Anoushka Vaidya",
+      "Malyun Yusuf"
+     ],
+     "contributions": {
+      "Anoushka Vaidya": 6,
+      "Malyun Yusuf": 0
+     },
+     "ended_by": "Malyun Yusuf (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "H Shreya",
+      "Anoushka Vaidya"
+     ],
+     "contributions": {
+      "H Shreya": 1,
+      "Anoushka Vaidya": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Zepeda",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Zepeda",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Zepeda",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Sabu",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ashi Chopla",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Zepeda",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "P Sabu",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SK Reddy",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bhardwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Bhardwaj",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MPM Pathirannehelage",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Austria",
+   "batting_team": "Austria",
+   "bowling_team": "Sweden",
+   "super_over": false,
+   "total": 60,
+   "wickets": 10,
+   "overs": "15.0",
+   "run_rate": 4.0,
+   "target": 125,
+   "extras": {
+    "wides": 14,
+    "byes": 2,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "P Sabu",
+     "dismissal": "c Zara Mohammad b H Chamto",
+     "runs": 22,
+     "balls": 30,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 73.3
+    },
+    {
+     "name": "Isha Joshi",
+     "dismissal": "c & b Anoushka Vaidya",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Bhardwaj",
+     "dismissal": "b Anoushka Vaidya",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "AM Zepeda",
+     "dismissal": "c H Shreya b J Sasi Rekha",
+     "runs": 9,
+     "balls": 10,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 90.0
+    },
+    {
+     "name": "SK Reddy",
+     "dismissal": "c Eman Asim b H Shreya",
+     "runs": 9,
+     "balls": 15,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "MPM Pathirannehelage",
+     "dismissal": "c Eman Asim b Fatima Zahra",
+     "runs": 1,
+     "balls": 11,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 9.1
+    },
+    {
+     "name": "Ashi Chopla",
+     "dismissal": "b H Shreya",
+     "runs": 2,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "A Nookala",
+     "dismissal": "c Kanchan Rana b Fatima Zahra",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "V Poglitsch",
+     "dismissal": "run out (A Vaidya, Anoushka Vaidya)",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "H Goyal",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Florence Hira",
+     "dismissal": "run out (Kanchan Rana)",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Malyun Yusuf",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 9,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Anoushka Vaidya",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 2,
+     "economy": 6.0,
+     "dots": 7,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "J Sasi Rekha",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 9,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "H Chamto",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 12,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "Fatima Zahra",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 2,
+     "economy": 1.67,
+     "dots": 16,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "H Shreya",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 2,
+     "wickets": 2,
+     "economy": 1.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 34,
+     "wickets": 2,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 26,
+     "wickets": 8,
+     "run_rate": 2.89
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "Isha Joshi",
+     "over": "1.2",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 17,
+     "player": "S Bhardwaj",
+     "over": "3.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 34,
+     "player": "AM Zepeda",
+     "over": "6.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 51,
+     "player": "P Sabu",
+     "over": "9.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 55,
+     "player": "SK Reddy",
+     "over": "11.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 59,
+     "player": "MPM Pathirannehelage",
+     "over": "12.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 59,
+     "player": "Ashi Chopla",
+     "over": "13.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 59,
+     "player": "V Poglitsch",
+     "over": "13.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 9,
+     "score": 59,
+     "player": "A Nookala",
+     "over": "14.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 60,
+     "player": "Florence Hira",
+     "over": "14.6",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 8,
+     "batters": [
+      "P Sabu",
+      "Isha Joshi"
+     ],
+     "contributions": {
+      "P Sabu": 7,
+      "Isha Joshi": 0
+     },
+     "ended_by": "Isha Joshi (caught and bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 8,
+     "balls": 11,
+     "batters": [
+      "S Bhardwaj",
+      "P Sabu"
+     ],
+     "contributions": {
+      "S Bhardwaj": 0,
+      "P Sabu": 3
+     },
+     "ended_by": "S Bhardwaj (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 17,
+     "balls": 18,
+     "batters": [
+      "AM Zepeda",
+      "P Sabu"
+     ],
+     "contributions": {
+      "AM Zepeda": 9,
+      "P Sabu": 8
+     },
+     "ended_by": "AM Zepeda (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 17,
+     "balls": 22,
+     "batters": [
+      "SK Reddy",
+      "P Sabu"
+     ],
+     "contributions": {
+      "SK Reddy": 8,
+      "P Sabu": 4
+     },
+     "ended_by": "P Sabu (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 4,
+     "balls": 8,
+     "batters": [
+      "MPM Pathirannehelage",
+      "SK Reddy"
+     ],
+     "contributions": {
+      "MPM Pathirannehelage": 1,
+      "SK Reddy": 1
+     },
+     "ended_by": "SK Reddy (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 4,
+     "balls": 11,
+     "batters": [
+      "Ashi Chopla",
+      "MPM Pathirannehelage"
+     ],
+     "contributions": {
+      "Ashi Chopla": 2,
+      "MPM Pathirannehelage": 0
+     },
+     "ended_by": "MPM Pathirannehelage (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Ashi Chopla",
+      "A Nookala"
+     ],
+     "contributions": {
+      "Ashi Chopla": 0,
+      "A Nookala": 0
+     },
+     "ended_by": "Ashi Chopla (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "V Poglitsch",
+      "A Nookala"
+     ],
+     "contributions": {
+      "V Poglitsch": 0,
+      "A Nookala": 0
+     },
+     "ended_by": "V Poglitsch (run out)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "H Goyal",
+      "A Nookala"
+     ],
+     "contributions": {
+      "H Goyal": 0,
+      "A Nookala": 0
+     },
+     "ended_by": "A Nookala (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 5,
+     "batters": [
+      "Florence Hira",
+      "H Goyal"
+     ],
+     "contributions": {
+      "Florence Hira": 0,
+      "H Goyal": 0
+     },
+     "ended_by": "Florence Hira (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Anoushka Vaidya",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Anoushka Vaidya",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "H Shreya",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 2,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Adan Gul",
+    "runs": 35,
+    "balls": 28,
+    "strike_rate": 125.0
+   },
+   {
+    "name": "P Sabu",
+    "runs": 22,
+    "balls": 30,
+    "strike_rate": 73.3
+   },
+   {
+    "name": "Eman Asim",
+    "runs": 15,
+    "balls": 16,
+    "strike_rate": 93.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "SK Reddy",
+    "figures": "3/13",
+    "overs": "4.0",
+    "economy": 3.25
+   },
+   {
+    "name": "MPM Pathirannehelage",
+    "figures": "3/24",
+    "overs": "4.0",
+    "economy": 6.0
+   },
+   {
+    "name": "H Shreya",
+    "figures": "2/2",
+    "overs": "2.0",
+    "economy": 1.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Sweden",
+   "type": "wicket_burst",
+   "over": 7,
+   "detail": "2 wickets fell in over 7 (bowled by MPM Pathirannehelage, 2 credited to MPM Pathirannehelage)"
+  },
+  {
+   "innings": 2,
+   "team": "Austria",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 34 scored, needed 91 from 14 overs (RRR 6.5)"
+  },
+  {
+   "innings": 2,
+   "team": "Austria",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 53 scored, needed 72 from 10 overs (RRR 7.2)"
+  },
+  {
+   "innings": 2,
+   "team": "Austria",
+   "type": "wicket_burst",
+   "over": 14,
+   "detail": "2 wickets fell in over 14 (bowled by H Shreya, 1 credited to H Shreya)"
+  },
+  {
+   "innings": 2,
+   "team": "Austria",
+   "type": "wicket_burst",
+   "over": 15,
+   "detail": "2 wickets fell in over 15 (bowled by Fatima Zahra, 1 credited to Fatima Zahra)"
+  },
+  {
+   "innings": 2,
+   "team": "Austria",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 60 scored, needed 65 from 5 overs (RRR 13.0)"
+  }
+ ],
+ "checks": []
+}

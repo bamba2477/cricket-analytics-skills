@@ -1,0 +1,928 @@
+{
+ "match": {
+  "teams": [
+   "Lesotho",
+   "Zambia"
+  ],
+  "dates": [
+   "2026-10-23"
+  ],
+  "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+  "city": "Abuja",
+  "event": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+  "match_number": 8,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Lesotho"
+  },
+  "player_of_match": [
+   "Zahirbhai Patel"
+  ],
+  "result": "Zambia won by 7 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Lesotho",
+   "batting_team": "Lesotho",
+   "bowling_team": "Zambia",
+   "super_over": false,
+   "total": 58,
+   "wickets": 10,
+   "overs": "13.4",
+   "run_rate": 4.24,
+   "target": null,
+   "extras": {
+    "wides": 2,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "LM Gabriel",
+     "dismissal": "lbw b Ismail Kara",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Ajaz Patel",
+     "dismissal": "c M Yambayamba b Zahirbhai Patel",
+     "runs": 7,
+     "balls": 23,
+     "dots": 17,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "M Devush Patel",
+     "dismissal": "c Javid Patel b Zahirbhai Patel",
+     "runs": 38,
+     "balls": 32,
+     "dots": 16,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 118.8
+    },
+    {
+     "name": "C Tlali",
+     "dismissal": "c M Yambayamba b Javid Patel",
+     "runs": 8,
+     "balls": 14,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Maaz Khan",
+     "dismissal": "b Javid Patel",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "TG Thamae",
+     "dismissal": "b Javid Patel",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "L Monanthane",
+     "dismissal": "b Zahirbhai Patel",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Inshaf Farook",
+     "dismissal": "run out (R Lungu, M Yambayamba)",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "TA Khetsi",
+     "dismissal": "lbw b Zahirbhai Patel",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "TD Chaoana",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Khauta",
+     "dismissal": "b Javid Patel",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ismail Kara",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 1,
+     "economy": 3.5,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Joshep Zulu",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 0,
+     "economy": 11.5,
+     "dots": 5,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Javid Patel",
+     "overs": "3.4",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 4,
+     "economy": 3.0,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Ayaz Dadabhai",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Zahirbhai Patel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 4,
+     "economy": 1.33,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "R Lungu",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 34,
+     "wickets": 1,
+     "run_rate": 5.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "7.4",
+     "runs": 24,
+     "wickets": 9,
+     "run_rate": 3.13
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "LM Gabriel",
+     "over": "0.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 46,
+     "player": "M Devush Patel",
+     "over": "8.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 55,
+     "player": "Ajaz Patel",
+     "over": "10.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 56,
+     "player": "Maaz Khan",
+     "over": "11.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 56,
+     "player": "TG Thamae",
+     "over": "11.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 57,
+     "player": "L Monanthane",
+     "over": "12.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 58,
+     "player": "Inshaf Farook",
+     "over": "12.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 8,
+     "score": 58,
+     "player": "TA Khetsi",
+     "over": "12.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 58,
+     "player": "C Tlali",
+     "over": "13.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 58,
+     "player": "M Khauta",
+     "over": "13.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "LM Gabriel",
+      "Ajaz Patel"
+     ],
+     "contributions": {
+      "LM Gabriel": 0,
+      "Ajaz Patel": 0
+     },
+     "ended_by": "LM Gabriel (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 46,
+     "balls": 49,
+     "batters": [
+      "M Devush Patel",
+      "Ajaz Patel"
+     ],
+     "contributions": {
+      "M Devush Patel": 38,
+      "Ajaz Patel": 5
+     },
+     "ended_by": "M Devush Patel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 9,
+     "balls": 14,
+     "batters": [
+      "C Tlali",
+      "Ajaz Patel"
+     ],
+     "contributions": {
+      "C Tlali": 7,
+      "Ajaz Patel": 2
+     },
+     "ended_by": "Ajaz Patel (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 5,
+     "batters": [
+      "Maaz Khan",
+      "C Tlali"
+     ],
+     "contributions": {
+      "Maaz Khan": 0,
+      "C Tlali": 1
+     },
+     "ended_by": "Maaz Khan (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "TG Thamae",
+      "C Tlali"
+     ],
+     "contributions": {
+      "TG Thamae": 0,
+      "C Tlali": 0
+     },
+     "ended_by": "TG Thamae (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "L Monanthane",
+      "C Tlali"
+     ],
+     "contributions": {
+      "L Monanthane": 1,
+      "C Tlali": 0
+     },
+     "ended_by": "L Monanthane (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "Inshaf Farook",
+      "C Tlali"
+     ],
+     "contributions": {
+      "Inshaf Farook": 1,
+      "C Tlali": 0
+     },
+     "ended_by": "Inshaf Farook (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "TA Khetsi",
+      "C Tlali"
+     ],
+     "contributions": {
+      "TA Khetsi": 0,
+      "C Tlali": 0
+     },
+     "ended_by": "TA Khetsi (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "TD Chaoana",
+      "C Tlali"
+     ],
+     "contributions": {
+      "TD Chaoana": 0,
+      "C Tlali": 0
+     },
+     "ended_by": "C Tlali (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "M Khauta",
+      "TD Chaoana"
+     ],
+     "contributions": {
+      "M Khauta": 0,
+      "TD Chaoana": 0
+     },
+     "ended_by": "M Khauta (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Joshep Zulu",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Joshep Zulu",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Zahirbhai Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Lungu",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Zahirbhai Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 3,
+     "bowler_wickets": 2,
+     "bowler": "Zahirbhai Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Javid Patel",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Zambia",
+   "batting_team": "Zambia",
+   "bowling_team": "Lesotho",
+   "super_over": false,
+   "total": 61,
+   "wickets": 3,
+   "overs": "7.4",
+   "run_rate": 7.96,
+   "target": 59,
+   "extras": {
+    "wides": 2,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Ismail Kara",
+     "dismissal": "c TD Chaoana b Inshaf Farook",
+     "runs": 12,
+     "balls": 8,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "Javid Patel",
+     "dismissal": "lbw b TD Chaoana",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Zahirbhai Patel",
+     "dismissal": "b TD Chaoana",
+     "runs": 10,
+     "balls": 10,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Jakir Patel",
+     "dismissal": "not out",
+     "runs": 22,
+     "balls": 17,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 129.4
+    },
+    {
+     "name": "Vasmiakram Chand",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 10,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 140.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "TD Chaoana",
+     "overs": "3.0",
+     "maidens": 1,
+     "runs": 19,
+     "wickets": 2,
+     "economy": 6.33,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Inshaf Farook",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "M Devush Patel",
+     "overs": "1.4",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TG Thamae",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 44,
+     "wickets": 3,
+     "run_rate": 7.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.4",
+     "runs": 17,
+     "wickets": 0,
+     "run_rate": 10.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 15,
+     "player": "Ismail Kara",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 19,
+     "player": "Javid Patel",
+     "over": "2.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 36,
+     "player": "Zahirbhai Patel",
+     "over": "4.3",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 15,
+     "balls": 8,
+     "batters": [
+      "Ismail Kara",
+      "Javid Patel"
+     ],
+     "contributions": {
+      "Ismail Kara": 12,
+      "Javid Patel": 0
+     },
+     "ended_by": "Ismail Kara (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "Zahirbhai Patel",
+      "Javid Patel"
+     ],
+     "contributions": {
+      "Zahirbhai Patel": 4,
+      "Javid Patel": 0
+     },
+     "ended_by": "Javid Patel (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 17,
+     "balls": 14,
+     "batters": [
+      "Jakir Patel",
+      "Zahirbhai Patel"
+     ],
+     "contributions": {
+      "Jakir Patel": 11,
+      "Zahirbhai Patel": 6
+     },
+     "ended_by": "Zahirbhai Patel (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 25,
+     "balls": 19,
+     "batters": [
+      "Vasmiakram Chand",
+      "Jakir Patel"
+     ],
+     "contributions": {
+      "Vasmiakram Chand": 14,
+      "Jakir Patel": 11
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Inshaf Farook",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Inshaf Farook",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Devush Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Thamae",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Devush Patel",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "M Devush Patel",
+    "runs": 38,
+    "balls": 32,
+    "strike_rate": 118.8
+   },
+   {
+    "name": "Jakir Patel",
+    "runs": 22,
+    "balls": 17,
+    "strike_rate": 129.4
+   },
+   {
+    "name": "Vasmiakram Chand",
+    "runs": 14,
+    "balls": 10,
+    "strike_rate": 140.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Zahirbhai Patel",
+    "figures": "4/4",
+    "overs": "3.0",
+    "economy": 1.33
+   },
+   {
+    "name": "Javid Patel",
+    "figures": "4/11",
+    "overs": "3.4",
+    "economy": 3.0
+   },
+   {
+    "name": "TD Chaoana",
+    "figures": "2/19",
+    "overs": "3.0",
+    "economy": 6.33
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (Joshep Zulu) went for 17 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "wicket_burst",
+   "over": 12,
+   "detail": "2 wickets fell in over 12 (bowled by Javid Patel, 2 credited to Javid Patel)"
+  },
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "wicket_burst",
+   "over": 13,
+   "detail": "3 wickets fell in over 13 (bowled by Zahirbhai Patel, 2 credited to Zahirbhai Patel)"
+  },
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "wicket_burst",
+   "over": 14,
+   "detail": "2 wickets fell in over 14 (bowled by Javid Patel, 2 credited to Javid Patel)"
+  },
+  {
+   "innings": 2,
+   "team": "Zambia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 44 scored, needed 15 from 14 overs (RRR 1.07)"
+  }
+ ],
+ "checks": []
+}

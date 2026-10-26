@@ -1,0 +1,963 @@
+{
+ "match": {
+  "teams": [
+   "Gambia",
+   "Zambia"
+  ],
+  "dates": [
+   "2026-10-24"
+  ],
+  "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+  "city": "Abuja",
+  "event": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+  "match_number": 11,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Gambia"
+  },
+  "player_of_match": [
+   "Ayaz Dadabhai"
+  ],
+  "result": "Zambia won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Gambia",
+   "batting_team": "Gambia",
+   "bowling_team": "Zambia",
+   "super_over": false,
+   "total": 93,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 4.65,
+   "target": null,
+   "extras": {
+    "legbyes": 7,
+    "wides": 8,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "Andre Jarju",
+     "dismissal": "c Ismail Kara b Ayaz Dadabhai",
+     "runs": 7,
+     "balls": 5,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "Muhammed Manga",
+     "dismissal": "c Zahirbhai Patel b Joshep Zulu",
+     "runs": 3,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.0
+    },
+    {
+     "name": "F Campbell",
+     "dismissal": "b Ayaz Dadabhai",
+     "runs": 10,
+     "balls": 8,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "A Conteh",
+     "dismissal": "lbw b Zahirbhai Patel",
+     "runs": 16,
+     "balls": 31,
+     "dots": 22,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 51.6
+    },
+    {
+     "name": "P Faye",
+     "dismissal": "run out (Ayaz Dadabhai, C Chilekwa)",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "Abubacarr Kuyateh",
+     "dismissal": "c Zahirbhai Patel b Javid Patel",
+     "runs": 6,
+     "balls": 13,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.2
+    },
+    {
+     "name": "David Demba",
+     "dismissal": "c C Chilekwa b Ismail Kara",
+     "runs": 13,
+     "balls": 22,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 59.1
+    },
+    {
+     "name": "Mustapha Suwareh",
+     "dismissal": "c C Chilekwa b Ayaz Dadabhai",
+     "runs": 15,
+     "balls": 20,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "M Jobarteh",
+     "dismissal": "b Ayaz Dadabhai",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Malang Touray",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 6,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ismail Kara",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Ayaz Dadabhai",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 4,
+     "economy": 3.75,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Joshep Zulu",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 1,
+     "economy": 4.5,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "C Chilekwa",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "R Lungu",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 2.67,
+     "dots": 14,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Zahirbhai Patel",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 6.5,
+     "dots": 6,
+     "wides": 3,
+     "noballs": 1
+    },
+    {
+     "name": "Javid Patel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 31,
+     "wickets": 3,
+     "run_rate": 5.17
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 34,
+     "wickets": 3,
+     "run_rate": 3.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 28,
+     "wickets": 3,
+     "run_rate": 5.6
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "Andre Jarju",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 23,
+     "player": "F Campbell",
+     "over": "3.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 23,
+     "player": "Muhammed Manga",
+     "over": "4.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 37,
+     "player": "P Faye",
+     "over": "7.1",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 46,
+     "player": "A Conteh",
+     "over": "11.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 53,
+     "player": "Abubacarr Kuyateh",
+     "over": "12.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 87,
+     "player": "Mustapha Suwareh",
+     "over": "18.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 87,
+     "player": "M Jobarteh",
+     "over": "18.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 93,
+     "player": "David Demba",
+     "over": "19.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 8,
+     "batters": [
+      "Andre Jarju",
+      "Muhammed Manga"
+     ],
+     "contributions": {
+      "Andre Jarju": 7,
+      "Muhammed Manga": 2
+     },
+     "ended_by": "Andre Jarju (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 14,
+     "balls": 13,
+     "batters": [
+      "F Campbell",
+      "Muhammed Manga"
+     ],
+     "contributions": {
+      "F Campbell": 10,
+      "Muhammed Manga": 1
+     },
+     "ended_by": "F Campbell (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "A Conteh",
+      "Muhammed Manga"
+     ],
+     "contributions": {
+      "A Conteh": 0,
+      "Muhammed Manga": 0
+     },
+     "ended_by": "Muhammed Manga (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 14,
+     "balls": 17,
+     "batters": [
+      "P Faye",
+      "A Conteh"
+     ],
+     "contributions": {
+      "P Faye": 1,
+      "A Conteh": 12
+     },
+     "ended_by": "P Faye (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 9,
+     "balls": 25,
+     "batters": [
+      "A Conteh",
+      "Abubacarr Kuyateh"
+     ],
+     "contributions": {
+      "A Conteh": 4,
+      "Abubacarr Kuyateh": 3
+     },
+     "ended_by": "A Conteh (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 7,
+     "balls": 6,
+     "batters": [
+      "David Demba",
+      "Abubacarr Kuyateh"
+     ],
+     "contributions": {
+      "David Demba": 1,
+      "Abubacarr Kuyateh": 3
+     },
+     "ended_by": "Abubacarr Kuyateh (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 34,
+     "balls": 37,
+     "batters": [
+      "Mustapha Suwareh",
+      "David Demba"
+     ],
+     "contributions": {
+      "Mustapha Suwareh": 15,
+      "David Demba": 12
+     },
+     "ended_by": "Mustapha Suwareh (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "M Jobarteh",
+      "David Demba"
+     ],
+     "contributions": {
+      "M Jobarteh": 0,
+      "David Demba": 0
+     },
+     "ended_by": "M Jobarteh (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 6,
+     "balls": 8,
+     "batters": [
+      "Malang Touray",
+      "David Demba"
+     ],
+     "contributions": {
+      "Malang Touray": 6,
+      "David Demba": 0
+     },
+     "ended_by": "David Demba (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Joshep Zulu",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Joshep Zulu",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "C Chilekwa",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Lungu",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Chilekwa",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Lungu",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Zahirbhai Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Zahirbhai Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "R Lungu",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Javid Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Ayaz Dadabhai",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ismail Kara",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Zambia",
+   "batting_team": "Zambia",
+   "bowling_team": "Gambia",
+   "super_over": false,
+   "total": 97,
+   "wickets": 2,
+   "overs": "11.4",
+   "run_rate": 8.31,
+   "target": 94,
+   "extras": {
+    "wides": 8,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "Ismail Kara",
+     "dismissal": "c Ousman Bah b Abubacarr Kuyateh",
+     "runs": 10,
+     "balls": 9,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 111.1
+    },
+    {
+     "name": "Shadreck Malama",
+     "dismissal": "not out",
+     "runs": 38,
+     "balls": 31,
+     "dots": 14,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 122.6
+    },
+    {
+     "name": "Jakir Patel",
+     "dismissal": "c Abubacarr Kuyateh b M Jobarteh",
+     "runs": 34,
+     "balls": 24,
+     "dots": 13,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 141.7
+    },
+    {
+     "name": "Vasmiakram Chand",
+     "dismissal": "not out",
+     "runs": 6,
+     "balls": 7,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 85.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "M Jobarteh",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 1,
+     "economy": 9.0,
+     "dots": 13,
+     "wides": 6,
+     "noballs": 0
+    },
+    {
+     "name": "Abubacarr Kuyateh",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "P Faye",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 8.67,
+     "dots": 8,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "Andre Jarju",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "David Demba",
+     "overs": "0.4",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 19.5,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 46,
+     "wickets": 1,
+     "run_rate": 7.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "5.4",
+     "runs": 51,
+     "wickets": 1,
+     "run_rate": 9.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 15,
+     "player": "Ismail Kara",
+     "over": "1.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 76,
+     "player": "Jakir Patel",
+     "over": "9.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 15,
+     "balls": 11,
+     "batters": [
+      "Ismail Kara",
+      "Shadreck Malama"
+     ],
+     "contributions": {
+      "Ismail Kara": 10,
+      "Shadreck Malama": 1
+     },
+     "ended_by": "Ismail Kara (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 61,
+     "balls": 47,
+     "batters": [
+      "Jakir Patel",
+      "Shadreck Malama"
+     ],
+     "contributions": {
+      "Jakir Patel": 34,
+      "Shadreck Malama": 22
+     },
+     "ended_by": "Jakir Patel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 21,
+     "balls": 12,
+     "batters": [
+      "Vasmiakram Chand",
+      "Shadreck Malama"
+     ],
+     "contributions": {
+      "Vasmiakram Chand": 6,
+      "Shadreck Malama": 15
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jobarteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abubacarr Kuyateh",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jobarteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abubacarr Kuyateh",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Faye",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abubacarr Kuyateh",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Faye",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jobarteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Faye",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Jobarteh",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Andre Jarju",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "David Demba",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Shadreck Malama",
+    "runs": 38,
+    "balls": 31,
+    "strike_rate": 122.6
+   },
+   {
+    "name": "Jakir Patel",
+    "runs": 34,
+    "balls": 24,
+    "strike_rate": 141.7
+   },
+   {
+    "name": "A Conteh",
+    "runs": 16,
+    "balls": 31,
+    "strike_rate": 51.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Ayaz Dadabhai",
+    "figures": "4/15",
+    "overs": "4.0",
+    "economy": 3.75
+   },
+   {
+    "name": "Joshep Zulu",
+    "figures": "1/9",
+    "overs": "2.0",
+    "economy": 4.5
+   },
+   {
+    "name": "Javid Patel",
+    "figures": "1/12",
+    "overs": "3.0",
+    "economy": 4.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Gambia",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "2 wickets fell in over 19 (bowled by Ayaz Dadabhai, 2 credited to Ayaz Dadabhai)"
+  },
+  {
+   "innings": 2,
+   "team": "Zambia",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 46 scored, needed 48 from 14 overs (RRR 3.43)"
+  },
+  {
+   "innings": 2,
+   "team": "Zambia",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 77 scored, needed 17 from 10 overs (RRR 1.7)"
+  }
+ ],
+ "checks": []
+}

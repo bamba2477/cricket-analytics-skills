@@ -1,0 +1,646 @@
+{
+ "match": {
+  "teams": [
+   "Mozambique",
+   "Uganda"
+  ],
+  "dates": [
+   "2026-10-24"
+  ],
+  "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+  "city": "Abuja",
+  "event": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+  "match_number": 10,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Mozambique"
+  },
+  "player_of_match": [
+   "J Miyaji"
+  ],
+  "result": "Uganda won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Mozambique",
+   "batting_team": "Mozambique",
+   "bowling_team": "Uganda",
+   "super_over": false,
+   "total": 19,
+   "wickets": 10,
+   "overs": "7.2",
+   "run_rate": 2.59,
+   "target": null,
+   "extras": {
+    "legbyes": 5,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "JJ Huo",
+     "dismissal": "c CN Kakuru b AR Ramjani",
+     "runs": 4,
+     "balls": 7,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "J Bulele",
+     "dismissal": "b J Miyaji",
+     "runs": 3,
+     "balls": 8,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 37.5
+    },
+    {
+     "name": "LI Salomone",
+     "dismissal": "c Riazat Ali Shah b E Kasaija",
+     "runs": 4,
+     "balls": 4,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "FFZ Nhaduate",
+     "dismissal": "b J Miyaji",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "VE Tembo",
+     "dismissal": "b J Miyaji",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JM Joao",
+     "dismissal": "b J Miyaji",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "AA Navicha",
+     "dismissal": "c J Miyaji b E Kasaija",
+     "runs": 2,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "CB Roposo",
+     "dismissal": "b E Kasaija",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "LA Simango",
+     "dismissal": "b E Kasaija",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "CM Mbebe",
+     "dismissal": "b J Miyaji",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Ndzeute",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "J Miyaji",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 7,
+     "wickets": 5,
+     "economy": 1.75,
+     "dots": 21,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AR Ramjani",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 1,
+     "economy": 3.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Kasaija",
+     "overs": "2.2",
+     "maidens": 1,
+     "runs": 4,
+     "wickets": 4,
+     "economy": 1.71,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 18,
+     "wickets": 8,
+     "run_rate": 3.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "1.2",
+     "runs": 1,
+     "wickets": 2,
+     "run_rate": 0.75
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "JJ Huo",
+     "over": "1.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 12,
+     "player": "J Bulele",
+     "over": "2.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 12,
+     "player": "FFZ Nhaduate",
+     "over": "2.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 16,
+     "player": "LI Salomone",
+     "over": "3.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 16,
+     "player": "VE Tembo",
+     "over": "4.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 17,
+     "player": "JM Joao",
+     "over": "4.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 18,
+     "player": "CB Roposo",
+     "over": "5.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 18,
+     "player": "LA Simango",
+     "over": "5.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 19,
+     "player": "CM Mbebe",
+     "over": "6.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 19,
+     "player": "AA Navicha",
+     "over": "7.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 12,
+     "batters": [
+      "JJ Huo",
+      "J Bulele"
+     ],
+     "contributions": {
+      "JJ Huo": 4,
+      "J Bulele": 3
+     },
+     "ended_by": "JJ Huo (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "J Bulele",
+      "LI Salomone"
+     ],
+     "contributions": {
+      "J Bulele": 0,
+      "LI Salomone": 0
+     },
+     "ended_by": "J Bulele (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "FFZ Nhaduate",
+      "LI Salomone"
+     ],
+     "contributions": {
+      "FFZ Nhaduate": 0,
+      "LI Salomone": 0
+     },
+     "ended_by": "FFZ Nhaduate (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 4,
+     "balls": 5,
+     "batters": [
+      "VE Tembo",
+      "LI Salomone"
+     ],
+     "contributions": {
+      "VE Tembo": 0,
+      "LI Salomone": 4
+     },
+     "ended_by": "LI Salomone (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "JM Joao",
+      "VE Tembo"
+     ],
+     "contributions": {
+      "JM Joao": 0,
+      "VE Tembo": 0
+     },
+     "ended_by": "VE Tembo (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "AA Navicha",
+      "JM Joao"
+     ],
+     "contributions": {
+      "AA Navicha": 1,
+      "JM Joao": 0
+     },
+     "ended_by": "JM Joao (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "CB Roposo",
+      "AA Navicha"
+     ],
+     "contributions": {
+      "CB Roposo": 0,
+      "AA Navicha": 0
+     },
+     "ended_by": "CB Roposo (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "LA Simango",
+      "AA Navicha"
+     ],
+     "contributions": {
+      "LA Simango": 0,
+      "AA Navicha": 0
+     },
+     "ended_by": "LA Simango (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "CM Mbebe",
+      "AA Navicha"
+     ],
+     "contributions": {
+      "CM Mbebe": 0,
+      "AA Navicha": 1
+     },
+     "ended_by": "CM Mbebe (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "N Ndzeute",
+      "AA Navicha"
+     ],
+     "contributions": {
+      "N Ndzeute": 0,
+      "AA Navicha": 0
+     },
+     "ended_by": "AA Navicha (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AR Ramjani",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Miyaji",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kasaija",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Uganda",
+   "batting_team": "Uganda",
+   "bowling_team": "Mozambique",
+   "super_over": false,
+   "total": 23,
+   "wickets": 0,
+   "overs": "0.5",
+   "run_rate": 27.6,
+   "target": 20,
+   "extras": {},
+   "batting": [
+    {
+     "name": "Raghav Dhawan",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 2,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 350.0
+    },
+    {
+     "name": "R Obuya",
+     "dismissal": "not out",
+     "runs": 16,
+     "balls": 3,
+     "dots": 0,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 533.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "VE Tembo",
+     "overs": "0.5",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 0,
+     "economy": 27.6,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "0.5",
+     "runs": 23,
+     "wickets": 0,
+     "run_rate": 27.6
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 23,
+     "balls": 5,
+     "batters": [
+      "Raghav Dhawan",
+      "R Obuya"
+     ],
+     "contributions": {
+      "Raghav Dhawan": 7,
+      "R Obuya": 16
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 23,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "VE Tembo",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "R Obuya",
+    "runs": 16,
+    "balls": 3,
+    "strike_rate": 533.3
+   },
+   {
+    "name": "Raghav Dhawan",
+    "runs": 7,
+    "balls": 2,
+    "strike_rate": 350.0
+   },
+   {
+    "name": "LI Salomone",
+    "runs": 4,
+    "balls": 4,
+    "strike_rate": 100.0
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "J Miyaji",
+    "figures": "5/7",
+    "overs": "4.0",
+    "economy": 1.75
+   },
+   {
+    "name": "E Kasaija",
+    "figures": "4/4",
+    "overs": "2.2",
+    "economy": 1.71
+   },
+   {
+    "name": "AR Ramjani",
+    "figures": "1/3",
+    "overs": "1.0",
+    "economy": 3.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Mozambique",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "2 wickets fell in over 3 (bowled by J Miyaji, 2 credited to J Miyaji)"
+  },
+  {
+   "innings": 1,
+   "team": "Mozambique",
+   "type": "wicket_burst",
+   "over": 5,
+   "detail": "2 wickets fell in over 5 (bowled by J Miyaji, 2 credited to J Miyaji)"
+  },
+  {
+   "innings": 1,
+   "team": "Mozambique",
+   "type": "wicket_burst",
+   "over": 6,
+   "detail": "2 wickets fell in over 6 (bowled by E Kasaija, 2 credited to E Kasaija)"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (VE Tembo) went for 23 runs"
+  }
+ ],
+ "checks": []
+}

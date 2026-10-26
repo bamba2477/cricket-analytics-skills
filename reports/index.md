@@ -2,6 +2,67 @@
 
 | Date | Match | Format | Event | Result |
 |---|---|---|---|---|
+| 2026-10-25 | [Zambia vs Mozambique](2026-10-25_zambia-v-mozambique_1557533.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Mozambique won by 3 wickets |
+| 2026-10-25 | [United Arab Emirates vs Netherlands](2026-10-25_united-arab-emirates-v-netherlands_1559563.md) | ODI | ICC Men's Cricket World Cup League 2 | Netherlands won by 3 wickets |
+| 2026-10-25 | [Nigeria vs Uganda](2026-10-25_nigeria-v-uganda_1557534.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 1 run |
+| 2026-10-25 | [Jersey vs Kenya](2026-10-25_jersey-v-kenya_1559445.md) | ODM | CWC Challenge League | Jersey won by 123 runs |
+| 2026-10-25 | [India vs Zimbabwe](2026-10-25_india-v-zimbabwe_1535656.md) | ODI | Zimbabwe Women tour of India | India won by 121 runs |
+| 2026-10-25 | [Gambia vs Lesotho](2026-10-25_gambia-v-lesotho_1557532.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Gambia won by 3 runs |
+| 2026-10-25 | [England vs Pakistan](2026-10-25_england-v-pakistan_1550716.md) | ODI | Pakistan ODI Tri-Series | Pakistan won by 1 wicket |
+| 2026-10-24 | [Victoria vs Tasmania](2026-10-24_victoria-v-tasmania_1544852.md) | ODM | One-Day Cup (Australia) | Victoria won by 138 runs (D/L) |
+| 2026-10-24 | [Qatar vs Kenya](2026-10-24_qatar-v-kenya_1559444.md) | ODM | CWC Challenge League | Qatar won by 4 runs |
+| 2026-10-24 | [New Zealand vs India](2026-10-24_new-zealand-v-india_1539433.md) | T20 | India tour of New Zealand | India won by 4 wickets |
+| 2026-10-24 | [New South Wales vs Western Australia](2026-10-24_new-south-wales-v-western-australia_1544853.md) | ODM | One-Day Cup (Australia) | New South Wales won by 78 runs |
+| 2026-10-24 | [Namibia vs Ireland](2026-10-24_namibia-v-ireland_1558232.md) | ODI | Ireland tour of Namibia | Namibia won by 31 runs |
+| 2026-10-24 | [Mozambique vs Uganda](2026-10-24_mozambique-v-uganda_1557529.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Uganda won by 10 wickets |
+| 2026-10-24 | [Lesotho vs Nigeria](2026-10-24_lesotho-v-nigeria_1557531.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 7 wickets |
+| 2026-10-24 | [Gambia vs Zambia](2026-10-24_gambia-v-zambia_1557530.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Zambia won by 8 wickets |
+| 2026-10-24 | [Denmark vs Kuwait](2026-10-24_denmark-v-kuwait_1559443.md) | ODM | CWC Challenge League | Denmark won by 102 runs |
+| 2026-10-24 | [Argentina vs Mexico](2026-10-24_argentina-v-mexico_1558572.md) | T20 | Argentina Women tour of Mexico | Argentina won by 165 runs |
+| 2026-10-24 | [Argentina vs Mexico](2026-10-24_argentina-v-mexico_1558571.md) | T20 | Argentina Women tour of Mexico | Argentina won by 223 runs |
+| 2026-10-23 | [Zimbabwe vs India](2026-10-23_zimbabwe-v-india_1535655.md) | ODI | Zimbabwe Women tour of India | India won by 9 wickets |
+| 2026-10-23 | [Mozambique vs Nigeria](2026-10-23_mozambique-v-nigeria_1557526.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 7 wickets |
+| 2026-10-23 | [Lesotho vs Zambia](2026-10-23_lesotho-v-zambia_1557527.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Zambia won by 7 wickets |
+| 2026-10-23 | [Gambia vs Uganda](2026-10-23_gambia-v-uganda_1557528.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Uganda won by 10 wickets |
+| 2026-10-22 | [New Zealand vs India](2026-10-22_new-zealand-v-india_1539432.md) | T20 | India tour of New Zealand | India won by 4 wickets |
+| 2026-10-22 | [New Zealand vs Australia](2026-10-22_new-zealand-v-australia_1528724.md) | T20 | New Zealand Women tour of Australia | No result |
+| 2026-10-22 | [Kuwait vs Qatar](2026-10-22_kuwait-v-qatar_1559442.md) | ODM | CWC Challenge League | Qatar won by 5 wickets |
+| 2026-10-22 | [Jersey vs Papua New Guinea](2026-10-22_jersey-v-papua-new-guinea_1559441.md) | ODM | CWC Challenge League | Jersey won by 172 runs |
+| 2026-10-22 | [Ireland vs Namibia](2026-10-22_ireland-v-namibia_1558231.md) | ODI | Ireland tour of Namibia | Ireland won by 55 runs |
+| 2026-10-22 | [England vs Sri Lanka](2026-10-22_england-v-sri-lanka_1550715.md) | ODI | Pakistan ODI Tri-Series | Sri Lanka won by 2 wickets |
+| 2026-10-21 | [Zambia vs Nigeria](2026-10-21_zambia-v-nigeria_1557525.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 9 wickets |
+| 2026-10-21 | [Mozambique vs Gambia](2026-10-21_mozambique-v-gambia_1557523.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Mozambique won by 28 runs |
+| 2026-10-21 | [Lesotho vs Uganda](2026-10-21_lesotho-v-uganda_1557524.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Uganda won by 5 wickets |
+| 2026-10-21 | [Kenya vs Denmark](2026-10-21_kenya-v-denmark_1559440.md) | ODM | CWC Challenge League | Kenya won by 103 runs |
+| 2026-10-20 | [Uganda vs Zambia](2026-10-20_uganda-v-zambia_1557520.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Uganda won by 87 runs |
+| 2026-10-20 | [Pakistan vs England](2026-10-20_pakistan-v-england_1550714.md) | ODI | Pakistan ODI Tri-Series | Pakistan won by 87 runs |
+| 2026-10-20 | [Nigeria vs Gambia](2026-10-20_nigeria-v-gambia_1557522.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 160 runs |
+| 2026-10-20 | [Lesotho vs Mozambique](2026-10-20_lesotho-v-mozambique_1557521.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Lesotho won by 74 runs |
+| 2026-10-20 | [India vs Zimbabwe](2026-10-20_india-v-zimbabwe_1535654.md) | T20 | Zimbabwe Women tour of India | India won by 92 runs |
+| 2026-10-20 | [Australia vs New Zealand](2026-10-20_australia-v-new-zealand_1528723.md) | T20 | New Zealand Women tour of Australia | Australia won by 40 runs |
+| 2026-10-19 | [Tasmania vs Victoria](2026-10-19_tasmania-v-victoria_1544867.md) | MDM | Sheffield Shield | Tasmania won by 4 runs |
+| 2026-10-19 | [South Australia vs Queensland](2026-10-19_south-australia-v-queensland_1544868.md) | MDM | Sheffield Shield | Queensland won by 6 wickets |
+| 2026-10-19 | [New South Wales vs Western Australia](2026-10-19_new-south-wales-v-western-australia_1544869.md) | MDM | Sheffield Shield | Draw |
+| 2026-10-19 | [Nepal vs Oman](2026-10-19_nepal-v-oman_1554420.md) | ODI | ICC Men's Cricket World Cup League 2 | Nepal won by 10 runs |
+| 2026-10-18 | [Zimbabwe vs India](2026-10-18_zimbabwe-v-india_1535653.md) | T20 | Zimbabwe Women tour of India | India won by 9 wickets |
+| 2026-10-18 | [Sweden vs Austria](2026-10-18_sweden-v-austria_1558250.md) | T20 | ECA Women's European Cup | Sweden won by 64 runs |
+| 2026-10-18 | [South Africa vs Australia](2026-10-18_south-africa-v-australia_1525660.md) | Test | Australia tour of South Africa | South Africa won by 31 runs |
+| 2026-10-18 | [Romania vs Bulgaria](2026-10-18_romania-v-bulgaria_1558251.md) | T20 | ECA Women's European Cup | Bulgaria won by 5 wickets |
+| 2026-10-18 | [Pakistan vs Sri Lanka](2026-10-18_pakistan-v-sri-lanka_1550713.md) | ODI | Pakistan ODI Tri-Series | Pakistan won by 37 runs |
+| 2026-10-18 | [New Zealand vs Australia](2026-10-18_new-zealand-v-australia_1528722.md) | T20 | New Zealand Women tour of Australia | Australia won by 2 wickets |
+| 2026-10-17 | [Zimbabwe vs Bangladesh](2026-10-17_zimbabwe-v-bangladesh_1555117.md) | ODI | UAE ODI Tri-Series | Zimbabwe won by 99 runs |
+| 2026-10-17 | [South Australia vs Queensland](2026-10-17_south-australia-v-queensland_1544851.md) | ODM | One-Day Cup (Australia) | South Australia won by 126 runs |
+| 2026-10-17 | [Romania vs Sweden](2026-10-17_romania-v-sweden_1558249.md) | T20 | ECA Women's European Cup | Sweden won by 10 wickets |
+| 2026-10-17 | [Romania vs Austria](2026-10-17_romania-v-austria_1558248.md) | T20 | ECA Women's European Cup | Austria won by 7 wickets |
+| 2026-10-17 | [India vs West Indies](2026-10-17_india-v-west-indies_1529234.md) | T20 | West Indies tour of India | No result |
+| 2026-10-17 | [Canada vs Nepal](2026-10-17_canada-v-nepal_1554419.md) | ODI | ICC Men's Cricket World Cup League 2 | Canada won by 24 runs |
+| 2026-10-16 | [Zimbabwe vs India](2026-10-16_zimbabwe-v-india_1535652.md) | T20 | Zimbabwe Women tour of India | India won by 4 wickets |
+| 2026-10-16 | [Romania vs Bulgaria](2026-10-16_romania-v-bulgaria_1558246.md) | T20 | ECA Women's European Cup | Bulgaria won by 2 wickets |
+| 2026-10-16 | [Bulgaria vs Austria](2026-10-16_bulgaria-v-austria_1558247.md) | T20 | ECA Women's European Cup | Austria won by 10 wickets (D/L) |
+| 2026-10-15 | [Canada vs Oman](2026-10-15_canada-v-oman_1554418.md) | ODI | ICC Men's Cricket World Cup League 2 | Canada won by 58 runs |
+| 2026-10-15 | [Bulgaria vs Sweden](2026-10-15_bulgaria-v-sweden_1558245.md) | T20 | ECA Women's European Cup | Sweden won by 10 wickets |
+| 2026-10-15 | [Austria vs Sweden](2026-10-15_austria-v-sweden_1558244.md) | T20 | ECA Women's European Cup | Sweden won by 9 wickets |
+| 2026-10-14 | [West Indies vs India](2026-10-14_west-indies-v-india_1529233.md) | T20 | West Indies tour of India | West Indies won by 24 runs |
 | 2026-10-14 | [Thailand vs Bhutan](2026-10-14_thailand-v-bhutan_1554553.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Thailand won by 37 runs |
 | 2026-10-14 | [Saudi Arabia vs Maldives](2026-10-14_saudi-arabia-v-maldives_1554582.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier B | Saudi Arabia won by 125 runs |
 | 2026-10-14 | [Mongolia vs Myanmar](2026-10-14_mongolia-v-myanmar_1554551.md) | T20 | ICC Men's T20 World Cup Sub Regional Asia Qualifier A | Myanmar won by 9 wickets |

@@ -1,0 +1,216 @@
+{
+ "match": {
+  "teams": [
+   "New Zealand",
+   "Australia"
+  ],
+  "dates": [
+   "2026-10-22"
+  ],
+  "venue": "North Sydney Oval",
+  "city": "Sydney",
+  "event": "New Zealand Women tour of Australia",
+  "match_number": 3,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Australia"
+  },
+  "player_of_match": [],
+  "result": "No result"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "New Zealand",
+   "batting_team": "New Zealand",
+   "bowling_team": "Australia",
+   "super_over": false,
+   "total": 11,
+   "wickets": 2,
+   "overs": "2.4",
+   "run_rate": 4.12,
+   "target": null,
+   "extras": {
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "GE Plimmer",
+     "dismissal": "b KJ Garth",
+     "runs": 2,
+     "balls": 12,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "AC Kerr",
+     "dismissal": "c A Sutherland b S Molineux",
+     "runs": 4,
+     "balls": 2,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "IG Sharp",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 2,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KJ Garth",
+     "overs": "1.4",
+     "maidens": 0,
+     "runs": 1,
+     "wickets": 1,
+     "economy": 0.6,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Molineux",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 1,
+     "economy": 10.0,
+     "dots": 3,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "2.4",
+     "runs": 11,
+     "wickets": 2,
+     "run_rate": 4.12
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 7,
+     "player": "AC Kerr",
+     "over": "1.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 11,
+     "player": "GE Plimmer",
+     "over": "2.4",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 7,
+     "balls": 10,
+     "batters": [
+      "GE Plimmer",
+      "AC Kerr"
+     ],
+     "contributions": {
+      "GE Plimmer": 2,
+      "AC Kerr": 4
+     },
+     "ended_by": "AC Kerr (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "IG Sharp",
+      "GE Plimmer"
+     ],
+     "contributions": {
+      "IG Sharp": 4,
+      "GE Plimmer": 0
+     },
+     "ended_by": "GE Plimmer (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KJ Garth",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Molineux",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KJ Garth",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "AC Kerr",
+    "runs": 4,
+    "balls": 2,
+    "strike_rate": 200.0
+   },
+   {
+    "name": "IG Sharp",
+    "runs": 4,
+    "balls": 2,
+    "strike_rate": 200.0
+   },
+   {
+    "name": "GE Plimmer",
+    "runs": 2,
+    "balls": 12,
+    "strike_rate": 16.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "KJ Garth",
+    "figures": "1/1",
+    "overs": "1.4",
+    "economy": 0.6
+   },
+   {
+    "name": "S Molineux",
+    "figures": "1/10",
+    "overs": "1.0",
+    "economy": 10.0
+   }
+  ]
+ },
+ "turning_points": [],
+ "checks": []
+}

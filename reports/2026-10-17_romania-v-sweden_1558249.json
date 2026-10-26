@@ -1,0 +1,822 @@
+{
+ "match": {
+  "teams": [
+   "Romania",
+   "Sweden"
+  ],
+  "dates": [
+   "2026-10-17"
+  ],
+  "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+  "city": "Ilfov County",
+  "event": "ECA Women's European Cup",
+  "match_number": 6,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Romania"
+  },
+  "player_of_match": [
+   "J Sasi Rekha"
+  ],
+  "result": "Sweden won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Romania",
+   "batting_team": "Romania",
+   "bowling_team": "Sweden",
+   "super_over": false,
+   "total": 56,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 2.8,
+   "target": null,
+   "extras": {
+    "legbyes": 6,
+    "noballs": 1,
+    "wides": 13,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "I Muntean",
+     "dismissal": "c Kanchan Rana b J Sasi Rekha",
+     "runs": 25,
+     "balls": 52,
+     "dots": 35,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 48.1
+    },
+    {
+     "name": "N Kuruppu",
+     "dismissal": "lbw b J Sasi Rekha",
+     "runs": 2,
+     "balls": 16,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "G Ionita",
+     "dismissal": "c Eman Asim b Fatima Zahra",
+     "runs": 3,
+     "balls": 20,
+     "dots": 18,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 15.0
+    },
+    {
+     "name": "D Tanase",
+     "dismissal": "c Kanchan Rana b Fatima Zahra",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "A Lupascu",
+     "dismissal": "c Kanchan Rana b Fatima Zahra",
+     "runs": 4,
+     "balls": 13,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.8
+    },
+    {
+     "name": "C Cirlig",
+     "dismissal": "b Malyun Yusuf",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "HM Bandara",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Batorii",
+     "dismissal": "lbw b Malyun Yusuf",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Eshaal Shakoor",
+     "dismissal": "b Malyun Yusuf",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Slavaston",
+     "dismissal": "c Anoushka Vaidya b Malyun Yusuf",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "D Brinzea",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 0,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": null
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Malyun Yusuf",
+     "overs": "3.0",
+     "maidens": 2,
+     "runs": 1,
+     "wickets": 4,
+     "economy": 0.33,
+     "dots": 17,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Vaidya",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "J Sasi Rekha",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 2,
+     "economy": 2.5,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "H Chamto",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 3.25,
+     "dots": 19,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "Fatima Zahra",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 3,
+     "economy": 4.0,
+     "dots": 16,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Adan Gul",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Anoushka Vaidya",
+     "overs": "1.0",
+     "maidens": 1,
+     "runs": 0,
+     "wickets": 0,
+     "economy": 0.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 16,
+     "wickets": 1,
+     "run_rate": 2.67
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 30,
+     "wickets": 2,
+     "run_rate": 3.33
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 10,
+     "wickets": 6,
+     "run_rate": 2.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 14,
+     "player": "N Kuruppu",
+     "over": "4.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 31,
+     "player": "G Ionita",
+     "over": "10.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 36,
+     "player": "D Tanase",
+     "over": "12.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 52,
+     "player": "A Lupascu",
+     "over": "16.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 55,
+     "player": "I Muntean",
+     "over": "17.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 55,
+     "player": "C Cirlig",
+     "over": "18.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 55,
+     "player": "S Batorii",
+     "over": "18.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 55,
+     "player": "Eshaal Shakoor",
+     "over": "18.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 55,
+     "player": "S Slavaston",
+     "over": "18.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 14,
+     "balls": 30,
+     "batters": [
+      "I Muntean",
+      "N Kuruppu"
+     ],
+     "contributions": {
+      "I Muntean": 4,
+      "N Kuruppu": 2
+     },
+     "ended_by": "N Kuruppu (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 17,
+     "balls": 36,
+     "batters": [
+      "I Muntean",
+      "G Ionita"
+     ],
+     "contributions": {
+      "I Muntean": 7,
+      "G Ionita": 3
+     },
+     "ended_by": "G Ionita (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 5,
+     "balls": 10,
+     "batters": [
+      "I Muntean",
+      "D Tanase"
+     ],
+     "contributions": {
+      "I Muntean": 4,
+      "D Tanase": 0
+     },
+     "ended_by": "D Tanase (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 16,
+     "balls": 24,
+     "batters": [
+      "A Lupascu",
+      "I Muntean"
+     ],
+     "contributions": {
+      "A Lupascu": 4,
+      "I Muntean": 9
+     },
+     "ended_by": "A Lupascu (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "C Cirlig",
+      "I Muntean"
+     ],
+     "contributions": {
+      "C Cirlig": 1,
+      "I Muntean": 1
+     },
+     "ended_by": "I Muntean (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "HM Bandara",
+      "C Cirlig"
+     ],
+     "contributions": {
+      "HM Bandara": 0,
+      "C Cirlig": 0
+     },
+     "ended_by": "C Cirlig (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "S Batorii",
+      "HM Bandara"
+     ],
+     "contributions": {
+      "S Batorii": 0,
+      "HM Bandara": 0
+     },
+     "ended_by": "S Batorii (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Eshaal Shakoor",
+      "HM Bandara"
+     ],
+     "contributions": {
+      "Eshaal Shakoor": 0,
+      "HM Bandara": 0
+     },
+     "ended_by": "Eshaal Shakoor (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "S Slavaston",
+      "HM Bandara"
+     ],
+     "contributions": {
+      "S Slavaston": 0,
+      "HM Bandara": 0
+     },
+     "ended_by": "S Slavaston (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "HM Bandara",
+      "D Brinzea"
+     ],
+     "contributions": {
+      "HM Bandara": 0,
+      "D Brinzea": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vaidya",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vaidya",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adan Gul",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Adan Gul",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Chamto",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Fatima Zahra",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Sasi Rekha",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 4,
+     "bowler_wickets": 4,
+     "bowler": "Malyun Yusuf",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Anoushka Vaidya",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sweden",
+   "batting_team": "Sweden",
+   "bowling_team": "Romania",
+   "super_over": false,
+   "total": 57,
+   "wickets": 0,
+   "overs": "5.0",
+   "run_rate": 11.4,
+   "target": 57,
+   "extras": {
+    "wides": 5,
+    "noballs": 2,
+    "legbyes": 6
+   },
+   "batting": [
+    {
+     "name": "A Vaidya",
+     "dismissal": "not out",
+     "runs": 30,
+     "balls": 16,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 187.5
+    },
+    {
+     "name": "Adan Gul",
+     "dismissal": "not out",
+     "runs": 14,
+     "balls": 16,
+     "dots": 9,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 87.5
+    }
+   ],
+   "bowling": [
+    {
+     "name": "I Muntean",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 9.67,
+     "dots": 3,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "D Tanase",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 2
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.0",
+     "runs": 57,
+     "wickets": 0,
+     "run_rate": 11.4
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 57,
+     "balls": 30,
+     "batters": [
+      "A Vaidya",
+      "Adan Gul"
+     ],
+     "contributions": {
+      "A Vaidya": 30,
+      "Adan Gul": 14
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 22,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Tanase",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Tanase",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Muntean",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "A Vaidya",
+    "runs": 30,
+    "balls": 16,
+    "strike_rate": 187.5
+   },
+   {
+    "name": "I Muntean",
+    "runs": 25,
+    "balls": 52,
+    "strike_rate": 48.1
+   },
+   {
+    "name": "Adan Gul",
+    "runs": 14,
+    "balls": 16,
+    "strike_rate": 87.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Malyun Yusuf",
+    "figures": "4/1",
+    "overs": "3.0",
+    "economy": 0.33
+   },
+   {
+    "name": "Fatima Zahra",
+    "figures": "3/16",
+    "overs": "4.0",
+    "economy": 4.0
+   },
+   {
+    "name": "J Sasi Rekha",
+    "figures": "2/10",
+    "overs": "4.0",
+    "economy": 2.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Romania",
+   "type": "wicket_burst",
+   "over": 19,
+   "detail": "4 wickets fell in over 19 (bowled by Malyun Yusuf, 4 credited to Malyun Yusuf)"
+  },
+  {
+   "innings": 2,
+   "team": "Sweden",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (D Tanase) went for 22 runs"
+  }
+ ],
+ "checks": []
+}

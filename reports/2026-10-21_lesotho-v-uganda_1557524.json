@@ -1,0 +1,1104 @@
+{
+ "match": {
+  "teams": [
+   "Lesotho",
+   "Uganda"
+  ],
+  "dates": [
+   "2026-10-21"
+  ],
+  "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+  "city": "Abuja",
+  "event": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+  "match_number": 5,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "bat",
+   "winner": "Lesotho"
+  },
+  "player_of_match": [
+   "K Waiswa"
+  ],
+  "result": "Uganda won by 5 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Lesotho",
+   "batting_team": "Lesotho",
+   "bowling_team": "Uganda",
+   "super_over": false,
+   "total": 87,
+   "wickets": 10,
+   "overs": "19.3",
+   "run_rate": 4.46,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "byes": 1,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "LM Gabriel",
+     "dismissal": "c CN Kakuru b Riazat Ali Shah",
+     "runs": 14,
+     "balls": 11,
+     "dots": 6,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 127.3
+    },
+    {
+     "name": "C Tlali",
+     "dismissal": "run out (Olipa Gerald)",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Devush Patel",
+     "dismissal": "c P Oloka b J Baguma",
+     "runs": 7,
+     "balls": 15,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 46.7
+    },
+    {
+     "name": "LJ Leokaoke",
+     "dismissal": "c CN Kakuru b K Waiswa",
+     "runs": 3,
+     "balls": 11,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.3
+    },
+    {
+     "name": "Maaz Khan",
+     "dismissal": "c CN Kakuru b K Waiswa",
+     "runs": 38,
+     "balls": 32,
+     "dots": 17,
+     "fours": 1,
+     "sixes": 4,
+     "strike_rate": 118.8
+    },
+    {
+     "name": "Ajaz Patel",
+     "dismissal": "c Riazat Ali Shah b P Oloka",
+     "runs": 5,
+     "balls": 9,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "Inshaf Farook",
+     "dismissal": "b E Kasaija",
+     "runs": 8,
+     "balls": 19,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 42.1
+    },
+    {
+     "name": "L Monanthane",
+     "dismissal": "b K Waiswa",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "TG Thamae",
+     "dismissal": "c SL Verma b E Kasaija",
+     "runs": 7,
+     "balls": 9,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 77.8
+    },
+    {
+     "name": "TD Chaoana",
+     "dismissal": "lbw b K Waiswa",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Khauta",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Riazat Ali Shah",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Kasaija",
+     "overs": "3.3",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 2,
+     "economy": 3.43,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AR Ramjani",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 0,
+     "economy": 1.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Waiswa",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 4,
+     "economy": 4.5,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Baguma",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 1,
+     "economy": 6.75,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "P Oloka",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 3.5,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 24,
+     "wickets": 3,
+     "run_rate": 4.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 37,
+     "wickets": 2,
+     "run_rate": 4.11
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.3",
+     "runs": 26,
+     "wickets": 5,
+     "run_rate": 5.78
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "C Tlali",
+     "over": "1.6",
+     "kind": "run out"
+    },
+    {
+     "wicket": 2,
+     "score": 15,
+     "player": "LM Gabriel",
+     "over": "2.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 24,
+     "player": "LJ Leokaoke",
+     "over": "5.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 30,
+     "player": "M Devush Patel",
+     "over": "8.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 47,
+     "player": "Ajaz Patel",
+     "over": "11.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 77,
+     "player": "Maaz Khan",
+     "over": "16.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 77,
+     "player": "L Monanthane",
+     "over": "16.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 84,
+     "player": "Inshaf Farook",
+     "over": "17.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 85,
+     "player": "TD Chaoana",
+     "over": "18.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 87,
+     "player": "TG Thamae",
+     "over": "19.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 12,
+     "batters": [
+      "LM Gabriel",
+      "C Tlali"
+     ],
+     "contributions": {
+      "LM Gabriel": 6,
+      "C Tlali": 0
+     },
+     "ended_by": "C Tlali (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 9,
+     "balls": 6,
+     "batters": [
+      "M Devush Patel",
+      "LM Gabriel"
+     ],
+     "contributions": {
+      "M Devush Patel": 1,
+      "LM Gabriel": 8
+     },
+     "ended_by": "LM Gabriel (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 9,
+     "balls": 17,
+     "batters": [
+      "M Devush Patel",
+      "LJ Leokaoke"
+     ],
+     "contributions": {
+      "M Devush Patel": 4,
+      "LJ Leokaoke": 3
+     },
+     "ended_by": "LJ Leokaoke (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 6,
+     "balls": 15,
+     "batters": [
+      "Maaz Khan",
+      "M Devush Patel"
+     ],
+     "contributions": {
+      "Maaz Khan": 4,
+      "M Devush Patel": 2
+     },
+     "ended_by": "M Devush Patel (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 17,
+     "balls": 18,
+     "batters": [
+      "Ajaz Patel",
+      "Maaz Khan"
+     ],
+     "contributions": {
+      "Ajaz Patel": 5,
+      "Maaz Khan": 12
+     },
+     "ended_by": "Ajaz Patel (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 30,
+     "balls": 31,
+     "batters": [
+      "Inshaf Farook",
+      "Maaz Khan"
+     ],
+     "contributions": {
+      "Inshaf Farook": 8,
+      "Maaz Khan": 22
+     },
+     "ended_by": "Maaz Khan (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "L Monanthane",
+      "Inshaf Farook"
+     ],
+     "contributions": {
+      "L Monanthane": 0,
+      "Inshaf Farook": 0
+     },
+     "ended_by": "L Monanthane (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 7,
+     "balls": 6,
+     "batters": [
+      "Inshaf Farook",
+      "TG Thamae"
+     ],
+     "contributions": {
+      "Inshaf Farook": 0,
+      "TG Thamae": 5
+     },
+     "ended_by": "Inshaf Farook (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "TG Thamae",
+      "TD Chaoana"
+     ],
+     "contributions": {
+      "TG Thamae": 1,
+      "TD Chaoana": 0
+     },
+     "ended_by": "TD Chaoana (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 2,
+     "balls": 7,
+     "batters": [
+      "M Khauta",
+      "TG Thamae"
+     ],
+     "contributions": {
+      "M Khauta": 1,
+      "TG Thamae": 1
+     },
+     "ended_by": "TG Thamae (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Riazat Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Riazat Ali Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Ramjani",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Ramjani",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Oloka",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "P Oloka",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Oloka",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Baguma",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Oloka",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kasaija",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Waiswa",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Kasaija",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Uganda",
+   "batting_team": "Uganda",
+   "bowling_team": "Lesotho",
+   "super_over": false,
+   "total": 89,
+   "wickets": 5,
+   "overs": "12.3",
+   "run_rate": 7.12,
+   "target": 88,
+   "extras": {
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "R Obuya",
+     "dismissal": "lbw b TD Chaoana",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Raghav Dhawan",
+     "dismissal": "lbw b TD Chaoana",
+     "runs": 10,
+     "balls": 8,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 125.0
+    },
+    {
+     "name": "Riazat Ali Shah",
+     "dismissal": "c C Tlali b TD Chaoana",
+     "runs": 26,
+     "balls": 15,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 3,
+     "strike_rate": 173.3
+    },
+    {
+     "name": "Olipa Gerald",
+     "dismissal": "c Maaz Khan b M Devush Patel",
+     "runs": 20,
+     "balls": 11,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 181.8
+    },
+    {
+     "name": "SL Verma",
+     "dismissal": "not out",
+     "runs": 20,
+     "balls": 22,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 90.9
+    },
+    {
+     "name": "K Waiswa",
+     "dismissal": "c Ajaz Patel b TG Thamae",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "AR Ramjani",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 13,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 84.6
+    }
+   ],
+   "bowling": [
+    {
+     "name": "TD Chaoana",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 3,
+     "economy": 3.25,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Inshaf Farook",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 16.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Khauta",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 0,
+     "economy": 16.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "M Devush Patel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TG Thamae",
+     "overs": "2.3",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 5.2,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 57,
+     "wickets": 3,
+     "run_rate": 9.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "6.3",
+     "runs": 32,
+     "wickets": 2,
+     "run_rate": 4.92
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "R Obuya",
+     "over": "0.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 23,
+     "player": "Raghav Dhawan",
+     "over": "2.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 40,
+     "player": "Riazat Ali Shah",
+     "over": "4.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 61,
+     "player": "Olipa Gerald",
+     "over": "7.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 64,
+     "player": "K Waiswa",
+     "over": "8.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "R Obuya",
+      "Raghav Dhawan"
+     ],
+     "contributions": {
+      "R Obuya": 0,
+      "Raghav Dhawan": 0
+     },
+     "ended_by": "R Obuya (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 23,
+     "balls": 17,
+     "batters": [
+      "Riazat Ali Shah",
+      "Raghav Dhawan"
+     ],
+     "contributions": {
+      "Riazat Ali Shah": 13,
+      "Raghav Dhawan": 10
+     },
+     "ended_by": "Raghav Dhawan (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 17,
+     "balls": 8,
+     "batters": [
+      "Riazat Ali Shah",
+      "Olipa Gerald"
+     ],
+     "contributions": {
+      "Riazat Ali Shah": 13,
+      "Olipa Gerald": 4
+     },
+     "ended_by": "Riazat Ali Shah (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 21,
+     "balls": 17,
+     "batters": [
+      "SL Verma",
+      "Olipa Gerald"
+     ],
+     "contributions": {
+      "SL Verma": 4,
+      "Olipa Gerald": 16
+     },
+     "ended_by": "Olipa Gerald (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 3,
+     "balls": 9,
+     "batters": [
+      "K Waiswa",
+      "SL Verma"
+     ],
+     "contributions": {
+      "K Waiswa": 1,
+      "SL Verma": 2
+     },
+     "ended_by": "K Waiswa (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 25,
+     "balls": 23,
+     "batters": [
+      "AR Ramjani",
+      "SL Verma"
+     ],
+     "contributions": {
+      "AR Ramjani": 11,
+      "SL Verma": 14
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Inshaf Farook",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Khauta",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Khauta",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TD Chaoana",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Devush Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "TG Thamae",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Devush Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Thamae",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Devush Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TG Thamae",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Maaz Khan",
+    "runs": 38,
+    "balls": 32,
+    "strike_rate": 118.8
+   },
+   {
+    "name": "Riazat Ali Shah",
+    "runs": 26,
+    "balls": 15,
+    "strike_rate": 173.3
+   },
+   {
+    "name": "Olipa Gerald",
+    "runs": 20,
+    "balls": 11,
+    "strike_rate": 181.8
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "K Waiswa",
+    "figures": "4/18",
+    "overs": "4.0",
+    "economy": 4.5
+   },
+   {
+    "name": "TD Chaoana",
+    "figures": "3/13",
+    "overs": "4.0",
+    "economy": 3.25
+   },
+   {
+    "name": "E Kasaija",
+    "figures": "2/12",
+    "overs": "3.3",
+    "economy": 3.43
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "wicket_burst",
+   "over": 17,
+   "detail": "2 wickets fell in over 17 (bowled by K Waiswa, 2 credited to K Waiswa)"
+  },
+  {
+   "innings": 1,
+   "team": "Lesotho",
+   "type": "collapse",
+   "over": 18,
+   "detail": "3 wickets fell between overs 18 and 20"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (Inshaf Farook) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (M Khauta) went for 17 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 57 scored, needed 31 from 14 overs (RRR 2.21)"
+  },
+  {
+   "innings": 2,
+   "team": "Uganda",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 73 scored, needed 15 from 10 overs (RRR 1.5)"
+  }
+ ],
+ "checks": []
+}

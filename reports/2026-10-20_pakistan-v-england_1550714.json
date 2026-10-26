@@ -1,0 +1,1698 @@
+{
+ "match": {
+  "teams": [
+   "Pakistan",
+   "England"
+  ],
+  "dates": [
+   "2026-10-20"
+  ],
+  "venue": "Rawalpindi Cricket Stadium",
+  "city": "Rawalpindi",
+  "event": "Pakistan ODI Tri-Series",
+  "match_number": 2,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "England"
+  },
+  "player_of_match": [
+   "Arafat Minhas"
+  ],
+  "result": "Pakistan won by 87 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Pakistan",
+   "batting_team": "Pakistan",
+   "bowling_team": "England",
+   "super_over": false,
+   "total": 302,
+   "wickets": 9,
+   "overs": "50.0",
+   "run_rate": 6.04,
+   "target": null,
+   "extras": {
+    "wides": 5,
+    "legbyes": 11,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Fakhar Zaman",
+     "dismissal": "c JE Root b AAP Atkinson",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Saim Ayub",
+     "dismissal": "c SM Curran b S Baker",
+     "runs": 8,
+     "balls": 6,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "Babar Azam",
+     "dismissal": "b WG Jacks",
+     "runs": 34,
+     "balls": 52,
+     "dots": 32,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 65.4
+    },
+    {
+     "name": "Saad Baig",
+     "dismissal": "c SM Curran b AAP Atkinson",
+     "runs": 35,
+     "balls": 54,
+     "dots": 35,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 64.8
+    },
+    {
+     "name": "Agha Salman",
+     "dismissal": "c AAP Atkinson b AU Rashid",
+     "runs": 16,
+     "balls": 19,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 84.2
+    },
+    {
+     "name": "Hassan Nawaz",
+     "dismissal": "b J Overton",
+     "runs": 79,
+     "balls": 74,
+     "dots": 36,
+     "fours": 5,
+     "sixes": 4,
+     "strike_rate": 106.8
+    },
+    {
+     "name": "Arafat Minhas",
+     "dismissal": "c HC Brook b S Baker",
+     "runs": 59,
+     "balls": 58,
+     "dots": 28,
+     "fours": 9,
+     "sixes": 0,
+     "strike_rate": 101.7
+    },
+    {
+     "name": "Faheem Ashraf",
+     "dismissal": "c WG Jacks b SM Curran",
+     "runs": 39,
+     "balls": 26,
+     "dots": 8,
+     "fours": 5,
+     "sixes": 1,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "Shaheen Shah Afridi",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 5,
+     "dots": 1,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "Naseem Shah",
+     "dismissal": "c J Overton b S Baker",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Haris Rauf",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 2,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "AAP Atkinson",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 5.0,
+     "dots": 26,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Baker",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 65,
+     "wickets": 3,
+     "economy": 7.22,
+     "dots": 30,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "WG Jacks",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 45,
+     "wickets": 1,
+     "economy": 4.5,
+     "dots": 31,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Overton",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 3.8,
+     "dots": 36,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AU Rashid",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 55,
+     "wickets": 1,
+     "economy": 6.88,
+     "dots": 25,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SM Curran",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 40,
+     "wickets": 1,
+     "economy": 8.0,
+     "dots": 10,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "JE Root",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 46,
+     "wickets": 2,
+     "run_rate": 4.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 165,
+     "wickets": 4,
+     "run_rate": 5.5
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 91,
+     "wickets": 3,
+     "run_rate": 9.1
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "Fakhar Zaman",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 31,
+     "player": "Saim Ayub",
+     "over": "5.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 59,
+     "player": "Babar Azam",
+     "over": "14.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 81,
+     "player": "Agha Salman",
+     "over": "18.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 133,
+     "player": "Saad Baig",
+     "over": "27.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 211,
+     "player": "Hassan Nawaz",
+     "over": "39.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 283,
+     "player": "Arafat Minhas",
+     "over": "47.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 285,
+     "player": "Faheem Ashraf",
+     "over": "48.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 296,
+     "player": "Naseem Shah",
+     "over": "49.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Fakhar Zaman",
+      "Saim Ayub"
+     ],
+     "contributions": {
+      "Fakhar Zaman": 0,
+      "Saim Ayub": 0
+     },
+     "ended_by": "Fakhar Zaman (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 31,
+     "balls": 34,
+     "batters": [
+      "Babar Azam",
+      "Saim Ayub"
+     ],
+     "contributions": {
+      "Babar Azam": 22,
+      "Saim Ayub": 8
+     },
+     "ended_by": "Saim Ayub (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 28,
+     "balls": 51,
+     "batters": [
+      "Saad Baig",
+      "Babar Azam"
+     ],
+     "contributions": {
+      "Saad Baig": 13,
+      "Babar Azam": 12
+     },
+     "ended_by": "Babar Azam (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 22,
+     "balls": 26,
+     "batters": [
+      "Agha Salman",
+      "Saad Baig"
+     ],
+     "contributions": {
+      "Agha Salman": 16,
+      "Saad Baig": 5
+     },
+     "ended_by": "Agha Salman (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 52,
+     "balls": 53,
+     "batters": [
+      "Hassan Nawaz",
+      "Saad Baig"
+     ],
+     "contributions": {
+      "Hassan Nawaz": 31,
+      "Saad Baig": 17
+     },
+     "ended_by": "Saad Baig (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 78,
+     "balls": 74,
+     "batters": [
+      "Arafat Minhas",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Arafat Minhas": 29,
+      "Hassan Nawaz": 48
+     },
+     "ended_by": "Hassan Nawaz (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 72,
+     "balls": 49,
+     "batters": [
+      "Faheem Ashraf",
+      "Arafat Minhas"
+     ],
+     "contributions": {
+      "Faheem Ashraf": 38,
+      "Arafat Minhas": 30
+     },
+     "ended_by": "Arafat Minhas (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "Faheem Ashraf",
+      "Shaheen Shah Afridi"
+     ],
+     "contributions": {
+      "Faheem Ashraf": 1,
+      "Shaheen Shah Afridi": 1
+     },
+     "ended_by": "Faheem Ashraf (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 11,
+     "balls": 6,
+     "batters": [
+      "Naseem Shah",
+      "Shaheen Shah Afridi"
+     ],
+     "contributions": {
+      "Naseem Shah": 1,
+      "Shaheen Shah Afridi": 8
+     },
+     "ended_by": "Naseem Shah (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 6,
+     "balls": 3,
+     "batters": [
+      "Haris Rauf",
+      "Shaheen Shah Afridi"
+     ],
+     "contributions": {
+      "Haris Rauf": 4,
+      "Shaheen Shah Afridi": 1
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 13,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AAP Atkinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Overton",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "WG Jacks",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AU Rashid",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JE Root",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SM Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 11,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SM Curran",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Baker",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "England",
+   "batting_team": "England",
+   "bowling_team": "Pakistan",
+   "super_over": false,
+   "total": 215,
+   "wickets": 10,
+   "overs": "38.4",
+   "run_rate": 5.56,
+   "target": 303,
+   "extras": {
+    "wides": 2
+   },
+   "batting": [
+    {
+     "name": "T Banton",
+     "dismissal": "c Shaheen Shah Afridi b Arafat Minhas",
+     "runs": 57,
+     "balls": 53,
+     "dots": 29,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 107.5
+    },
+    {
+     "name": "BM Duckett",
+     "dismissal": "c Fakhar Zaman b Haris Rauf",
+     "runs": 45,
+     "balls": 46,
+     "dots": 27,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 97.8
+    },
+    {
+     "name": "JE Root",
+     "dismissal": "b Naseem Shah",
+     "runs": 33,
+     "balls": 35,
+     "dots": 12,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 94.3
+    },
+    {
+     "name": "HC Brook",
+     "dismissal": "b Arafat Minhas",
+     "runs": 5,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 71.4
+    },
+    {
+     "name": "SM Curran",
+     "dismissal": "c Ghazi Ghori b Haris Rauf",
+     "runs": 27,
+     "balls": 39,
+     "dots": 18,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 69.2
+    },
+    {
+     "name": "JM Cox",
+     "dismissal": "lbw b Arafat Minhas",
+     "runs": 18,
+     "balls": 16,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 112.5
+    },
+    {
+     "name": "WG Jacks",
+     "dismissal": "c Shaheen Shah Afridi b Arafat Minhas",
+     "runs": 19,
+     "balls": 24,
+     "dots": 13,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 79.2
+    },
+    {
+     "name": "J Overton",
+     "dismissal": "c Hassan Nawaz b Arafat Minhas",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "AAP Atkinson",
+     "dismissal": "run out (Arafat Minhas)",
+     "runs": 7,
+     "balls": 5,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 140.0
+    },
+    {
+     "name": "AU Rashid",
+     "dismissal": "lbw b Arafat Minhas",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "S Baker",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shaheen Shah Afridi",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 36,
+     "wickets": 0,
+     "economy": 5.14,
+     "dots": 24,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Naseem Shah",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 46,
+     "wickets": 1,
+     "economy": 6.57,
+     "dots": 25,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Faheem Ashraf",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Haris Rauf",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 32,
+     "wickets": 2,
+     "economy": 5.33,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Saim Ayub",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 47,
+     "wickets": 0,
+     "economy": 5.88,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Arafat Minhas",
+     "overs": "8.4",
+     "maidens": 0,
+     "runs": 40,
+     "wickets": 6,
+     "economy": 4.62,
+     "dots": 24,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 65,
+     "wickets": 0,
+     "run_rate": 6.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "28.4",
+     "runs": 150,
+     "wickets": 10,
+     "run_rate": 5.23
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 91,
+     "player": "BM Duckett",
+     "over": "14.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 120,
+     "player": "T Banton",
+     "over": "18.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 128,
+     "player": "HC Brook",
+     "over": "20.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 165,
+     "player": "JE Root",
+     "over": "28.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 177,
+     "player": "SM Curran",
+     "over": "31.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 197,
+     "player": "JM Cox",
+     "over": "34.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 205,
+     "player": "J Overton",
+     "over": "36.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 214,
+     "player": "WG Jacks",
+     "over": "38.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 214,
+     "player": "AU Rashid",
+     "over": "38.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 215,
+     "player": "AAP Atkinson",
+     "over": "38.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 91,
+     "balls": 87,
+     "batters": [
+      "T Banton",
+      "BM Duckett"
+     ],
+     "contributions": {
+      "T Banton": 44,
+      "BM Duckett": 45
+     },
+     "ended_by": "BM Duckett (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 29,
+     "balls": 24,
+     "batters": [
+      "JE Root",
+      "T Banton"
+     ],
+     "contributions": {
+      "JE Root": 16,
+      "T Banton": 13
+     },
+     "ended_by": "T Banton (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 8,
+     "balls": 11,
+     "batters": [
+      "HC Brook",
+      "JE Root"
+     ],
+     "contributions": {
+      "HC Brook": 5,
+      "JE Root": 3
+     },
+     "ended_by": "HC Brook (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 37,
+     "balls": 51,
+     "batters": [
+      "SM Curran",
+      "JE Root"
+     ],
+     "contributions": {
+      "SM Curran": 23,
+      "JE Root": 14
+     },
+     "ended_by": "JE Root (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 12,
+     "balls": 16,
+     "batters": [
+      "JM Cox",
+      "SM Curran"
+     ],
+     "contributions": {
+      "JM Cox": 8,
+      "SM Curran": 4
+     },
+     "ended_by": "SM Curran (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 20,
+     "balls": 20,
+     "batters": [
+      "WG Jacks",
+      "JM Cox"
+     ],
+     "contributions": {
+      "WG Jacks": 10,
+      "JM Cox": 10
+     },
+     "ended_by": "JM Cox (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 8,
+     "balls": 11,
+     "batters": [
+      "J Overton",
+      "WG Jacks"
+     ],
+     "contributions": {
+      "J Overton": 1,
+      "WG Jacks": 7
+     },
+     "ended_by": "J Overton (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 9,
+     "balls": 9,
+     "batters": [
+      "AAP Atkinson",
+      "WG Jacks"
+     ],
+     "contributions": {
+      "AAP Atkinson": 7,
+      "WG Jacks": 2
+     },
+     "ended_by": "WG Jacks (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "AU Rashid",
+      "AAP Atkinson"
+     ],
+     "contributions": {
+      "AU Rashid": 0,
+      "AAP Atkinson": 0
+     },
+     "ended_by": "AU Rashid (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "S Baker",
+      "AAP Atkinson"
+     ],
+     "contributions": {
+      "S Baker": 1,
+      "AAP Atkinson": 0
+     },
+     "ended_by": "AAP Atkinson (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Faheem Ashraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Faheem Ashraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Saim Ayub",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 3,
+     "bowler_wickets": 2,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 4
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Hassan Nawaz",
+    "runs": 79,
+    "balls": 74,
+    "strike_rate": 106.8
+   },
+   {
+    "name": "Arafat Minhas",
+    "runs": 59,
+    "balls": 58,
+    "strike_rate": 101.7
+   },
+   {
+    "name": "T Banton",
+    "runs": 57,
+    "balls": 53,
+    "strike_rate": 107.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Arafat Minhas",
+    "figures": "6/40",
+    "overs": "8.4",
+    "economy": 4.62
+   },
+   {
+    "name": "S Baker",
+    "figures": "3/65",
+    "overs": "9.0",
+    "economy": 7.22
+   },
+   {
+    "name": "Haris Rauf",
+    "figures": "2/32",
+    "overs": "6.0",
+    "economy": 5.33
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Pakistan",
+   "type": "collapse",
+   "over": 48,
+   "detail": "3 wickets fell between overs 48 and 50"
+  },
+  {
+   "innings": 2,
+   "team": "England",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 29 scored, needed 274 from 44 overs (RRR 6.23)"
+  },
+  {
+   "innings": 2,
+   "team": "England",
+   "type": "big_over",
+   "over": 8,
+   "detail": "Over 8 (Naseem Shah) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "England",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 65 scored, needed 238 from 40 overs (RRR 5.95)"
+  },
+  {
+   "innings": 2,
+   "team": "England",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 96 scored, needed 207 from 35 overs (RRR 5.91)"
+  },
+  {
+   "innings": 2,
+   "team": "England",
+   "type": "wicket_burst",
+   "over": 39,
+   "detail": "3 wickets fell in over 39 (bowled by Arafat Minhas, 2 credited to Arafat Minhas)"
+  }
+ ],
+ "checks": []
+}
