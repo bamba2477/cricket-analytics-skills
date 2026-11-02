@@ -5,6 +5,17 @@
 **Toss:** Jersey chose to bat  
 **Player of the match:** ZM Tribe  
 
+<!-- narrative -->
+**Jersey win by 172 runs, driven by a 165‑run partnership in the final overs**
+
+Jersey posted 347/5 in 50.0 overs, cruising through the Powerplay with 33 runs for 1 wicket and adding 172 runs for a single wicket in the middle overs. The death overs exploded for 142 runs, taking the total to 347/5. ZM Tribe anchored the innings with 150 from 129 balls, while JAD Lawrenson contributed 72 from 95 and JW Jenner smashed 72 from 23. Their 165‑run stand off 173 balls and a 112‑run burst off 40 balls turned the innings into a commanding total.
+
+Papua New Guinea’s chase faltered early, slipping to 49/2 in the Powerplay and losing wickets regularly in the middle phase, ending at 175/10 in 36.5 overs. B Ward’s 5/49 and CW Perchard’s tight 2/22 kept the run rate in check. After 6 overs the required rate was 7.09, rising to 7.47 after 10 overs and 7.8 after 15 overs, while overs 46 (J Kariko) and 47 (A Nao) went for 22 and 24 runs respectively, sealing the defeat.
+
+ZM Tribe was named Player of the Match for his unbeaten 150, the backbone of the massive partnership that defined the game.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Jersey**: 347/5 in 50.0 overs (RR 6.94)
 - **Papua New Guinea**: 175/10 in 36.5 overs (RR 4.75, chasing 348)

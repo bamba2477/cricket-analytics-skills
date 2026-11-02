@@ -5,6 +5,15 @@
 **Toss:** Mozambique chose to bat  
 **Player of the match:** J Miyaji  
 
+<!-- narrative -->
+**Uganda won by 10 wickets thanks to J Miyaji’s 5/7 spell**  
+
+Mozambique’s innings unraveled in the Powerplay, losing eight wickets for just 18 runs. Two wickets fell in over 3 and another two in over 5, both credited to J Miyaji, who finished with figures of 5/7 from 4.0 overs at an economy of 1.75. E Kasaija added 4/4 from 2.2 overs (economy 1.71) and AR Ramjani took 1/3 in 1.0 over (economy 3.0). The final score was 19/10 in 7.2 overs, a run rate of 2.59.
+
+Uganda needed only 20 to win and achieved it without losing a wicket. Opening partners R Obuya (16 off 3) and Raghav Dhawan (7 off 2) smashed 23 runs in just 0.5 overs, a run rate of 27.6, reaching the target in the first ball of the second over. VE Tembo’s 0/23 in 0.5 overs (economy 27.6) could not stop the chase. The decisive partnership of 23 off 5 balls secured a 10‑wicket victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Mozambique**: 19/10 in 7.2 overs (RR 2.59)
 - **Uganda**: 23/0 in 0.5 overs (RR 27.6, chasing 20)

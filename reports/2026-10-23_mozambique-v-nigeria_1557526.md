@@ -5,6 +5,17 @@
 **Toss:** Mozambique chose to bat  
 **Player of the match:** IO Okpe  
 
+<!-- narrative -->
+**Nigeria win by 7 wickets as IO Okpe’s 4/3 spell dismantles Mozambique**
+
+Mozambique’s innings stalled after a steady Powerplay of 30 runs for 1 wicket. The middle phase (overs 7‑15) saw 47 runs but five wickets, with two wickets falling in over 8 credited to IO Okpe and another two in over 14 when M Akhigbe went for 15 runs. A further three wickets fell between overs 15 and 17, and the Death overs added only 16 runs for four wickets, leaving Mozambique all out for 93/10 in 19.4 overs (run rate 4.73).
+
+Nigeria’s chase exploded in the Powerplay, posting 72 runs for the loss of just one wicket (run rate 12.0). Ali Rahmon anchored the innings with 41 off 24 balls, while M Akhigbe contributed 20 off 15 balls, their 50‑run partnership coming off 27 balls. Selim Salau added a quick 21 off 9 balls, and SA Okpe added 6 off 4 balls before being dismissed. Nigeria reached the target of 94 with three wickets down in 8.3 overs (run rate 11.06), finishing on 94/3.
+
+IO Okpe was named player of the match, his figures of 4/3 in 3.4 overs (economy 0.82) proving the decisive factor that turned the game in Nigeria’s favour.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Mozambique**: 93/10 in 19.4 overs (RR 4.73)
 - **Nigeria**: 94/3 in 8.3 overs (RR 11.06, chasing 94)

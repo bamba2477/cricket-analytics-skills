@@ -4,6 +4,17 @@
 **Result:** No result  
 **Toss:** Australia chose to field  
 
+<!-- narrative -->
+**No result as New Zealand were 11/2 after 2.4 overs**  
+
+In the opening powerplay (overs 1‑6) New Zealand managed 11 runs for the loss of two wickets, leaving the scoreboard at 11/2 with a run rate of 4.12. AC Kerr fell first on 7‑1 at 1.4 overs, having struck 4 runs from just 2 balls before being caught by A Sutherland off S Molineux. GE Plimmer followed at 11‑2 on 2.4 overs, contributing 2 runs from 12 balls. IG Sharp remained unbeaten on 4 runs from 2 balls at the close of play.
+
+Australia’s bowlers made an immediate impact. KJ Garth returned figures of 1/1 from 1.4 overs at an economy of 0.6, claiming the wicket of Kerr. In contrast, S Molineux bowled a single over for 10 runs, finishing with 1/10 and an economy of 10.0, the wicket being Plimmer’s dismissal.
+
+The match could not continue beyond 2.4 overs, leaving the contest without a result after New Zealand’s brief 11/2 innings.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **New Zealand**: 11/2 in 2.4 overs (RR 4.12)
 

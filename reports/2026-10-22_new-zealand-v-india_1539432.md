@@ -5,6 +5,17 @@
 **Toss:** India chose to field  
 **Player of the match:** SV Samson  
 
+<!-- narrative -->
+**India win by 4 wickets, SV Samson’s 67 seals the chase**
+
+New Zealand posted 225/4 in 20.0 overs, cruising through the powerplay with 65 runs for 1 wicket and adding 93 runs for 2 wickets in the middle overs. GD Phillips anchored the innings with 82 from 40 balls and a 73‑run partnership with BJ Jacobs, while FH Allen contributed 45 off 24. The death spell yielded 67 runs for 1 wicket, with overs such as over 3 (B Kumar) going for 17 runs and over 4 (AF Milne) conceding 26 runs.
+
+India’s reply began explosively, scoring 94 runs for 1 wicket in the first six overs at a run rate of 15.67. A 93‑run stand between SV Samson (67 off 33) and Abhishek Sharma (29 off 12) carried the chase into the middle phase, where 77 runs for 4 wickets were added. Overs that hurt New Zealand’s bowlers included over 3 (LH Ferguson) for 22 runs and over 17 (MP Yadav) for 18 runs.
+
+The chase was completed in 19.4 overs at 230/6, surpassing the target of 226 with a run rate of 11.69. A late‑stage partnership of 45 runs between AR Patel (24) and SS Iyer (42) steadied the innings after wickets fell at 93, 115, 117 and 122, ensuring India held their nerve to clinch the win.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **New Zealand**: 225/4 in 20.0 overs (RR 11.25)
 - **India**: 230/6 in 19.4 overs (RR 11.69, chasing 226)

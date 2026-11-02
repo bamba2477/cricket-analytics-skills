@@ -4,6 +4,15 @@
 **Result:** New South Wales won by 78 runs  
 **Toss:** New South Wales chose to bat  
 
+<!-- narrative -->
+**New South Wales won by 78 runs, powered by S Konstas 149**  
+
+New South Wales posted 371/8 in 50 overs, cruising after a modest 51/1 in the Powerplay. The middle overs (11‑40) yielded 215 runs and three wickets, with S Konstas anchoring an 85‑run partnership with L Shaw and later adding 82 runs with J Edwards. A burst in Over 4 (BA Jackson 15 runs) and another surge in Over 22 (O Davies 16 runs) set the tone, while the death overs exploded – Over 44 gave up 18 runs and Over 48 21 runs, taking the run rate to 10.8 after 40 overs and finishing with 105 runs in the final ten. Konstas’ 149 off 131 balls and SM Whiteman’s 116 off 113 underpinned the total, leaving Western Australia a steep target of 372.
+
+Western Australia’s chase stalled at 293/10 in 46.3 overs. The Powerplay produced 65 runs for two wickets, but the middle phase (11‑40) added 199 runs for three more wickets, leaving them needing 108 from the last ten overs at a required rate of 10.8. The death overs yielded only 29 runs for five wickets as wickets fell at regular intervals – BL Couch fell in Over 48 after conceding 21 runs, and M Beardman was out in the final over. Despite SM Whiteman’s fighting 116, the earlier expensive spells from BA Jackson (2/58, economy 8.29) and BL Couch (1/88, economy 8.8) kept the run rate down, and New South Wales held on to win by 78 runs.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **New South Wales**: 371/8 in 50.0 overs (RR 7.42)
 - **Western Australia**: 293/10 in 46.3 overs (RR 6.3, chasing 372)

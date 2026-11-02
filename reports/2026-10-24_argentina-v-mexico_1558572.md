@@ -5,6 +5,15 @@
 **Toss:** Argentina chose to bat  
 **Player of the match:** Francesca Galan  
 
+<!-- narrative -->
+**Argentina win by 165 runs as Francesca Galan’s 5/5 spell dismantles Mexico**
+
+Argentina’s innings began with a solid Powerplay, posting 57 runs for the loss of 3 wickets at a run rate of 9.5. A 97‑run partnership off 66 balls between A Galan (37 off 37) and MV Lehmann (51 off 40) carried the total into the middle phase, which added 84 runs for 2 wickets at a run rate of 9.33. The death overs contributed another 47 runs without loss, taking the final score to 188/5 in 20.0 overs.
+
+Mexico’s chase never recovered from the early damage. The Powerplay yielded only 11 runs for 5 wickets at a run rate of 1.83, and after 6 overs the side needed 178 from 14 overs. Francesca Galan struck twice in over 2 and again took two wickets in over 7, completing a 5/5 spell in her four overs at an economy of 1.25. By the end of over 9 the score was 23/10, leaving Mexico needing 166 from 10 overs; the innings closed at 23/10 after 9.3 overs with a run rate of 2.42.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Argentina**: 188/5 in 20.0 overs (RR 9.4)
 - **Mexico**: 23/10 in 9.3 overs (RR 2.42, chasing 189)

@@ -4,6 +4,15 @@
 **Result:** Argentina won by 223 runs  
 **Toss:** Mexico chose to field  
 
+<!-- narrative -->
+**Argentina win by 223 runs powered by a 260/5 total**
+
+Argentina’s 20.0‑over innings exploded in every phase. The powerplay produced 65 runs with no wicket, the middle overs added 130 runs for just two wickets, and the death overs contributed a further 65 runs before the fifth wicket fell at 256. M Castineiras led with 87 from 46 balls, supported by JC Cullen’s 41 off 20 and MV Lehmann’s 39 off 28. A 145‑run stand off 66 balls between Castineiras and Lehmann and a 77‑run partnership off 35 balls between A Galan and Cullen kept the run rate at 13.0. Key bursts came in over 7, when AC Septien gave away 24 runs, and over 10, when AD Perez yielded 18 runs, cementing the massive total of 260/5.
+
+Mexico’s chase collapsed from the start. The powerplay delivered only 22 runs while losing four wickets, leaving them 22/4 after 6 overs and still needing 239 from 14 overs. The middle overs added just 15 runs for six more wickets, ending at 37/10 in 11.4 overs with a run rate of 3.17. Francesca Galan’s spell of 2/3 in 2.0 overs (economy 1.5) and A Emch’s 2/8 in 2.0 overs (economy 4.0) ripped through the line‑up, with two wickets falling in over 4 (both to A Emch) and another two in over 7 (both to Francesca Galan). The relentless pressure left Mexico all out for 37, handing Argentina a 223‑run victory.
+
+*Story written by openai/gpt-oss-120b from the computed stats below.*
+
 ## Summary
 - **Argentina**: 260/5 in 20.0 overs (RR 13.0)
 - **Mexico**: 37/10 in 11.4 overs (RR 3.17, chasing 261)
