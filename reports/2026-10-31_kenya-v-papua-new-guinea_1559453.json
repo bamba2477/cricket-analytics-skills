@@ -1,0 +1,1459 @@
+{
+ "match": {
+  "teams": [
+   "Kenya",
+   "Papua New Guinea"
+  ],
+  "dates": [
+   "2026-10-31"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 44,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Papua New Guinea"
+  },
+  "player_of_match": [
+   "F Mutua"
+  ],
+  "result": "Kenya won by 88 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Kenya",
+   "batting_team": "Kenya",
+   "bowling_team": "Papua New Guinea",
+   "super_over": false,
+   "total": 230,
+   "wickets": 7,
+   "overs": "38.0",
+   "run_rate": 6.05,
+   "target": null,
+   "extras": {
+    "noballs": 7,
+    "wides": 8,
+    "legbyes": 4,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "Subham Patel",
+     "dismissal": "c Doko Rupa b A Nao",
+     "runs": 13,
+     "balls": 14,
+     "dots": 7,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 92.9
+    },
+    {
+     "name": "DM Gondaria",
+     "dismissal": "b KV Morea",
+     "runs": 68,
+     "balls": 84,
+     "dots": 48,
+     "fours": 1,
+     "sixes": 5,
+     "strike_rate": 81.0
+    },
+    {
+     "name": "IA Karim",
+     "dismissal": "b SI Kamea",
+     "runs": 6,
+     "balls": 22,
+     "dots": 16,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.3
+    },
+    {
+     "name": "SR Bhudia",
+     "dismissal": "c KV Morea b J Kariko",
+     "runs": 6,
+     "balls": 10,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "RR Patel",
+     "dismissal": "b SI Kamea",
+     "runs": 26,
+     "balls": 29,
+     "dots": 15,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 89.7
+    },
+    {
+     "name": "B Likavu",
+     "dismissal": "b KV Morea",
+     "runs": 5,
+     "balls": 10,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "S Gill",
+     "dismissal": "run out (TP Ura, A Vala)",
+     "runs": 35,
+     "balls": 27,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 129.6
+    },
+    {
+     "name": "F Mutua",
+     "dismissal": "not out",
+     "runs": 40,
+     "balls": 29,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 3,
+     "strike_rate": 137.9
+    },
+    {
+     "name": "SO Ngoche",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 80.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "SI Kamea",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 55,
+     "wickets": 2,
+     "economy": 6.88,
+     "dots": 27,
+     "wides": 3,
+     "noballs": 4
+    },
+    {
+     "name": "KV Morea",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 47,
+     "wickets": 2,
+     "economy": 5.88,
+     "dots": 25,
+     "wides": 3,
+     "noballs": 3
+    },
+    {
+     "name": "A Nao",
+     "overs": "7.0",
+     "maidens": 1,
+     "runs": 45,
+     "wickets": 1,
+     "economy": 6.43,
+     "dots": 20,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Kariko",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 1,
+     "economy": 4.38,
+     "dots": 19,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "L Siaka",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 9,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Vala",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 5.17,
+     "dots": 22,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 41,
+     "wickets": 1,
+     "run_rate": 4.1
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "28.0",
+     "runs": 189,
+     "wickets": 6,
+     "run_rate": 6.75
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 23,
+     "player": "Subham Patel",
+     "over": "4.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 46,
+     "player": "IA Karim",
+     "over": "11.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 70,
+     "player": "SR Bhudia",
+     "over": "14.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 127,
+     "player": "RR Patel",
+     "over": "25.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 137,
+     "player": "DM Gondaria",
+     "over": "26.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 146,
+     "player": "B Likavu",
+     "over": "28.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 201,
+     "player": "S Gill",
+     "over": "34.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 23,
+     "balls": 27,
+     "batters": [
+      "Subham Patel",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "Subham Patel": 13,
+      "DM Gondaria": 9
+     },
+     "ended_by": "Subham Patel (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 23,
+     "balls": 40,
+     "batters": [
+      "IA Karim",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "IA Karim": 6,
+      "DM Gondaria": 13
+     },
+     "ended_by": "IA Karim (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 24,
+     "balls": 21,
+     "batters": [
+      "SR Bhudia",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "SR Bhudia": 6,
+      "DM Gondaria": 15
+     },
+     "ended_by": "SR Bhudia (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 57,
+     "balls": 63,
+     "batters": [
+      "RR Patel",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "RR Patel": 26,
+      "DM Gondaria": 27
+     },
+     "ended_by": "RR Patel (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 10,
+     "balls": 9,
+     "batters": [
+      "B Likavu",
+      "DM Gondaria"
+     ],
+     "contributions": {
+      "B Likavu": 3,
+      "DM Gondaria": 4
+     },
+     "ended_by": "DM Gondaria (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 9,
+     "balls": 12,
+     "batters": [
+      "S Gill",
+      "B Likavu"
+     ],
+     "contributions": {
+      "S Gill": 7,
+      "B Likavu": 2
+     },
+     "ended_by": "B Likavu (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 55,
+     "balls": 36,
+     "batters": [
+      "F Mutua",
+      "S Gill"
+     ],
+     "contributions": {
+      "F Mutua": 24,
+      "S Gill": 28
+     },
+     "ended_by": "S Gill (run out)"
+    },
+    {
+     "wicket": 8,
+     "runs": 29,
+     "balls": 20,
+     "batters": [
+      "SO Ngoche",
+      "F Mutua"
+     ],
+     "contributions": {
+      "SO Ngoche": 8,
+      "F Mutua": 16
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Siaka",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Papua New Guinea",
+   "batting_team": "Papua New Guinea",
+   "bowling_team": "Kenya",
+   "super_over": false,
+   "total": 142,
+   "wickets": 10,
+   "overs": "30.1",
+   "run_rate": 4.71,
+   "target": 231,
+   "extras": {
+    "legbyes": 3,
+    "wides": 5
+   },
+   "batting": [
+    {
+     "name": "TP Ura",
+     "dismissal": "c Vraj Patel b F Mutua",
+     "runs": 30,
+     "balls": 33,
+     "dots": 18,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 90.9
+    },
+    {
+     "name": "Doko Rupa",
+     "dismissal": "run out (RR Patel, SO Ngoche)",
+     "runs": 2,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "S Bau",
+     "dismissal": "c Vishil Patel b F Mutua",
+     "runs": 13,
+     "balls": 20,
+     "dots": 13,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 65.0
+    },
+    {
+     "name": "L Siaka",
+     "dismissal": "c IA Karim b Vishil Patel",
+     "runs": 12,
+     "balls": 25,
+     "dots": 16,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 48.0
+    },
+    {
+     "name": "A Vala",
+     "dismissal": "b Vraj Patel",
+     "runs": 42,
+     "balls": 40,
+     "dots": 13,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 105.0
+    },
+    {
+     "name": "Patrick Nou",
+     "dismissal": "c IA Karim b SO Ngoche",
+     "runs": 18,
+     "balls": 26,
+     "dots": 16,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 69.2
+    },
+    {
+     "name": "Boio Ray",
+     "dismissal": "c IA Karim b SO Ngoche",
+     "runs": 0,
+     "balls": 9,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "KV Morea",
+     "dismissal": "b SO Ngoche",
+     "runs": 2,
+     "balls": 6,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "A Nao",
+     "dismissal": "c IA Karim b Vraj Patel",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "J Kariko",
+     "dismissal": "c Subham Patel b Vraj Patel",
+     "runs": 14,
+     "balls": 8,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 175.0
+    },
+    {
+     "name": "SI Kamea",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "S Gill",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SO Ngoche",
+     "overs": "7.0",
+     "maidens": 0,
+     "runs": 39,
+     "wickets": 3,
+     "economy": 5.57,
+     "dots": 25,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Vraj Patel",
+     "overs": "6.1",
+     "maidens": 1,
+     "runs": 25,
+     "wickets": 3,
+     "economy": 4.05,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "F Mutua",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 2,
+     "economy": 5.67,
+     "dots": 10,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "DM Gondaria",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Vishil Patel",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 3.25,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 47,
+     "wickets": 2,
+     "run_rate": 4.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "20.1",
+     "runs": 95,
+     "wickets": 8,
+     "run_rate": 4.71
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "Doko Rupa",
+     "over": "1.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 2,
+     "score": 45,
+     "player": "TP Ura",
+     "over": "8.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 51,
+     "player": "S Bau",
+     "over": "10.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 80,
+     "player": "L Siaka",
+     "over": "16.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 115,
+     "player": "Patrick Nou",
+     "over": "23.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 121,
+     "player": "Boio Ray",
+     "over": "25.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 125,
+     "player": "A Vala",
+     "over": "26.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 125,
+     "player": "KV Morea",
+     "over": "27.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 137,
+     "player": "A Nao",
+     "over": "28.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 142,
+     "player": "J Kariko",
+     "over": "30.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 10,
+     "batters": [
+      "TP Ura",
+      "Doko Rupa"
+     ],
+     "contributions": {
+      "TP Ura": 9,
+      "Doko Rupa": 2
+     },
+     "ended_by": "Doko Rupa (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 33,
+     "balls": 43,
+     "batters": [
+      "TP Ura",
+      "S Bau"
+     ],
+     "contributions": {
+      "TP Ura": 21,
+      "S Bau": 12
+     },
+     "ended_by": "TP Ura (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 6,
+     "balls": 11,
+     "batters": [
+      "L Siaka",
+      "S Bau"
+     ],
+     "contributions": {
+      "L Siaka": 2,
+      "S Bau": 1
+     },
+     "ended_by": "S Bau (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 34,
+     "batters": [
+      "A Vala",
+      "L Siaka"
+     ],
+     "contributions": {
+      "A Vala": 19,
+      "L Siaka": 10
+     },
+     "ended_by": "L Siaka (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 35,
+     "balls": 43,
+     "batters": [
+      "Patrick Nou",
+      "A Vala"
+     ],
+     "contributions": {
+      "Patrick Nou": 18,
+      "A Vala": 15
+     },
+     "ended_by": "Patrick Nou (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 6,
+     "balls": 12,
+     "batters": [
+      "Boio Ray",
+      "A Vala"
+     ],
+     "contributions": {
+      "Boio Ray": 0,
+      "A Vala": 6
+     },
+     "ended_by": "Boio Ray (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 4,
+     "balls": 8,
+     "batters": [
+      "KV Morea",
+      "A Vala"
+     ],
+     "contributions": {
+      "KV Morea": 2,
+      "A Vala": 2
+     },
+     "ended_by": "A Vala (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "A Nao",
+      "KV Morea"
+     ],
+     "contributions": {
+      "A Nao": 0,
+      "KV Morea": 0
+     },
+     "ended_by": "KV Morea (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 12,
+     "balls": 8,
+     "batters": [
+      "J Kariko",
+      "A Nao"
+     ],
+     "contributions": {
+      "J Kariko": 12,
+      "A Nao": 0
+     },
+     "ended_by": "A Nao (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 5,
+     "balls": 10,
+     "batters": [
+      "SI Kamea",
+      "J Kariko"
+     ],
+     "contributions": {
+      "SI Kamea": 1,
+      "J Kariko": 2
+     },
+     "ended_by": "J Kariko (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Gill",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Mutua",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DM Gondaria",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vishil Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vraj Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SO Ngoche",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vraj Patel",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DM Gondaria",
+    "runs": 68,
+    "balls": 84,
+    "strike_rate": 81.0
+   },
+   {
+    "name": "A Vala",
+    "runs": 42,
+    "balls": 40,
+    "strike_rate": 105.0
+   },
+   {
+    "name": "F Mutua",
+    "runs": 40,
+    "balls": 29,
+    "strike_rate": 137.9
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Vraj Patel",
+    "figures": "3/25",
+    "overs": "6.1",
+    "economy": 4.05
+   },
+   {
+    "name": "SO Ngoche",
+    "figures": "3/39",
+    "overs": "7.0",
+    "economy": 5.57
+   },
+   {
+    "name": "F Mutua",
+    "figures": "2/17",
+    "overs": "3.0",
+    "economy": 5.67
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 21,
+   "detail": "Over 21 (A Nao) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Kenya",
+   "type": "big_over",
+   "over": 34,
+   "detail": "Over 34 (A Vala) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 35 scored, needed 196 from 32 overs (RRR 6.12)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 47 scored, needed 184 from 28 overs (RRR 6.57)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 69 scored, needed 162 from 23 overs (RRR 7.04)"
+  },
+  {
+   "innings": 2,
+   "team": "Papua New Guinea",
+   "type": "collapse",
+   "over": 26,
+   "detail": "3 wickets fell between overs 26 and 28"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1482 @@
+{
+ "match": {
+  "teams": [
+   "Oman",
+   "Netherlands"
+  ],
+  "dates": [
+   "2026-11-02"
+  ],
+  "venue": "ICC Academy, Dubai",
+  "city": "Dubai",
+  "event": "ICC Men's Cricket World Cup League 2",
+  "match_number": 143,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Netherlands"
+  },
+  "player_of_match": [
+   "CN Ackermann"
+  ],
+  "result": "Netherlands won by 7 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Oman",
+   "batting_team": "Oman",
+   "bowling_team": "Netherlands",
+   "super_over": false,
+   "total": 182,
+   "wickets": 10,
+   "overs": "49.2",
+   "run_rate": 3.69,
+   "target": null,
+   "extras": {
+    "wides": 6,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "Jatinder Singh",
+     "dismissal": "b A Dutt",
+     "runs": 30,
+     "balls": 36,
+     "dots": 24,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "Jeet Shah",
+     "dismissal": "b CN Ackermann",
+     "runs": 8,
+     "balls": 26,
+     "dots": 22,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.8
+    },
+    {
+     "name": "Hammad Mirza",
+     "dismissal": "c NRJ Croes b Shariz Ahmad",
+     "runs": 17,
+     "balls": 38,
+     "dots": 22,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 44.7
+    },
+    {
+     "name": "AR Bisht",
+     "dismissal": "c ZB Lion-Cachet b CN Ackermann",
+     "runs": 4,
+     "balls": 15,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 26.7
+    },
+    {
+     "name": "Mujibur Ali",
+     "dismissal": "st SA Edwards b Shariz Ahmad",
+     "runs": 44,
+     "balls": 78,
+     "dots": 46,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 56.4
+    },
+    {
+     "name": "V Shukla",
+     "dismissal": "c T van der Gugten b FJ Klaassen",
+     "runs": 38,
+     "balls": 50,
+     "dots": 29,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 76.0
+    },
+    {
+     "name": "K Sonavale",
+     "dismissal": "c FJ Klaassen b CN Ackermann",
+     "runs": 14,
+     "balls": 18,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 77.8
+    },
+    {
+     "name": "Nadeem Khan",
+     "dismissal": "b CN Ackermann",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "S Shrivastava",
+     "dismissal": "not out",
+     "runs": 9,
+     "balls": 16,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 56.2
+    },
+    {
+     "name": "Hassnain Shah",
+     "dismissal": "c Shariz Ahmad b K Klein",
+     "runs": 9,
+     "balls": 14,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 64.3
+    },
+    {
+     "name": "Shakeel Ahmed",
+     "dismissal": "c FJ Klaassen b K Klein",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "FJ Klaassen",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 40,
+     "wickets": 1,
+     "economy": 4.44,
+     "dots": 34,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "K Klein",
+     "overs": "7.2",
+     "maidens": 1,
+     "runs": 38,
+     "wickets": 2,
+     "economy": 5.18,
+     "dots": 31,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "A Dutt",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 1,
+     "economy": 2.2,
+     "dots": 43,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "CN Ackermann",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 23,
+     "wickets": 4,
+     "economy": 2.3,
+     "dots": 40,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Shariz Ahmad",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 44,
+     "wickets": 2,
+     "economy": 4.89,
+     "dots": 23,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "ZB Lion-Cachet",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 3.5,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 40,
+     "wickets": 1,
+     "run_rate": 4.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 108,
+     "wickets": 4,
+     "run_rate": 3.6
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "9.2",
+     "runs": 34,
+     "wickets": 5,
+     "run_rate": 3.64
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 40,
+     "player": "Jeet Shah",
+     "over": "9.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 42,
+     "player": "Jatinder Singh",
+     "over": "10.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 51,
+     "player": "AR Bisht",
+     "over": "15.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 80,
+     "player": "Hammad Mirza",
+     "over": "22.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 138,
+     "player": "V Shukla",
+     "over": "38.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 158,
+     "player": "Mujibur Ali",
+     "over": "42.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 7,
+     "score": 161,
+     "player": "Nadeem Khan",
+     "over": "43.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 170,
+     "player": "K Sonavale",
+     "over": "45.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 182,
+     "player": "Hassnain Shah",
+     "over": "49.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 182,
+     "player": "Shakeel Ahmed",
+     "over": "49.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 40,
+     "balls": 58,
+     "batters": [
+      "Jatinder Singh",
+      "Jeet Shah"
+     ],
+     "contributions": {
+      "Jatinder Singh": 29,
+      "Jeet Shah": 8
+     },
+     "ended_by": "Jeet Shah (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 2,
+     "balls": 7,
+     "batters": [
+      "Hammad Mirza",
+      "Jatinder Singh"
+     ],
+     "contributions": {
+      "Hammad Mirza": 1,
+      "Jatinder Singh": 1
+     },
+     "ended_by": "Jatinder Singh (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 9,
+     "balls": 28,
+     "batters": [
+      "AR Bisht",
+      "Hammad Mirza"
+     ],
+     "contributions": {
+      "AR Bisht": 4,
+      "Hammad Mirza": 5
+     },
+     "ended_by": "AR Bisht (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 45,
+     "batters": [
+      "Mujibur Ali",
+      "Hammad Mirza"
+     ],
+     "contributions": {
+      "Mujibur Ali": 17,
+      "Hammad Mirza": 11
+     },
+     "ended_by": "Hammad Mirza (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 58,
+     "balls": 91,
+     "batters": [
+      "Mujibur Ali",
+      "V Shukla"
+     ],
+     "contributions": {
+      "Mujibur Ali": 18,
+      "V Shukla": 38
+     },
+     "ended_by": "V Shukla (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 20,
+     "balls": 25,
+     "batters": [
+      "K Sonavale",
+      "Mujibur Ali"
+     ],
+     "contributions": {
+      "K Sonavale": 10,
+      "Mujibur Ali": 9
+     },
+     "ended_by": "Mujibur Ali (stumped)"
+    },
+    {
+     "wicket": 7,
+     "runs": 3,
+     "balls": 6,
+     "batters": [
+      "Nadeem Khan",
+      "K Sonavale"
+     ],
+     "contributions": {
+      "Nadeem Khan": 2,
+      "K Sonavale": 1
+     },
+     "ended_by": "Nadeem Khan (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 9,
+     "balls": 14,
+     "batters": [
+      "S Shrivastava",
+      "K Sonavale"
+     ],
+     "contributions": {
+      "S Shrivastava": 6,
+      "K Sonavale": 3
+     },
+     "ended_by": "K Sonavale (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 12,
+     "balls": 21,
+     "batters": [
+      "Hassnain Shah",
+      "S Shrivastava"
+     ],
+     "contributions": {
+      "Hassnain Shah": 9,
+      "S Shrivastava": 3
+     },
+     "ended_by": "Hassnain Shah (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Shakeel Ahmed",
+      "S Shrivastava"
+     ],
+     "contributions": {
+      "Shakeel Ahmed": 0,
+      "S Shrivastava": 0
+     },
+     "ended_by": "Shakeel Ahmed (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZB Lion-Cachet",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZB Lion-Cachet",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Klein",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZB Lion-Cachet",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZB Lion-Cachet",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shariz Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CN Ackermann",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Dutt",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "FJ Klaassen",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "K Klein",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Netherlands",
+   "batting_team": "Netherlands",
+   "bowling_team": "Oman",
+   "super_over": false,
+   "total": 183,
+   "wickets": 3,
+   "overs": "36.0",
+   "run_rate": 5.08,
+   "target": 183,
+   "extras": {
+    "legbyes": 2,
+    "noballs": 1,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "MP O'Dowd",
+     "dismissal": "c Jeet Shah b Nadeem Khan",
+     "runs": 29,
+     "balls": 29,
+     "dots": 19,
+     "fours": 3,
+     "sixes": 2,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "C de Lange",
+     "dismissal": "run out (V Shukla, Shakeel Ahmed)",
+     "runs": 79,
+     "balls": 107,
+     "dots": 59,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 73.8
+    },
+    {
+     "name": "ZB Lion-Cachet",
+     "dismissal": "run out (Jatinder Singh, V Shukla)",
+     "runs": 68,
+     "balls": 75,
+     "dots": 34,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 90.7
+    },
+    {
+     "name": "SA Edwards",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 4,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "CN Ackermann",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shakeel Ahmed",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 44,
+     "wickets": 0,
+     "economy": 4.4,
+     "dots": 34,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Hassnain Shah",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nadeem Khan",
+     "overs": "9.0",
+     "maidens": 1,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 4.22,
+     "dots": 33,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "K Sonavale",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 4.33,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Shrivastava",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 5.17,
+     "dots": 21,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AR Bisht",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mujibur Ali",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 46,
+     "wickets": 1,
+     "run_rate": 4.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "26.0",
+     "runs": 137,
+     "wickets": 2,
+     "run_rate": 5.27
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 39,
+     "player": "MP O'Dowd",
+     "over": "7.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 179,
+     "player": "C de Lange",
+     "over": "34.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 3,
+     "score": 182,
+     "player": "ZB Lion-Cachet",
+     "over": "35.4",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 39,
+     "balls": 46,
+     "batters": [
+      "MP O'Dowd",
+      "C de Lange"
+     ],
+     "contributions": {
+      "MP O'Dowd": 29,
+      "C de Lange": 9
+     },
+     "ended_by": "MP O'Dowd (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 140,
+     "balls": 163,
+     "batters": [
+      "ZB Lion-Cachet",
+      "C de Lange"
+     ],
+     "contributions": {
+      "ZB Lion-Cachet": 67,
+      "C de Lange": 70
+     },
+     "ended_by": "C de Lange (run out)"
+    },
+    {
+     "wicket": 3,
+     "runs": 3,
+     "balls": 5,
+     "batters": [
+      "SA Edwards",
+      "ZB Lion-Cachet"
+     ],
+     "contributions": {
+      "SA Edwards": 2,
+      "ZB Lion-Cachet": 1
+     },
+     "ended_by": "ZB Lion-Cachet (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "CN Ackermann",
+      "SA Edwards"
+     ],
+     "contributions": {
+      "CN Ackermann": 1,
+      "SA Edwards": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Sonavale",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Bisht",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AR Bisht",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hassnain Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Shrivastava",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Mujibur Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Nadeem Khan",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "C de Lange",
+    "runs": 79,
+    "balls": 107,
+    "strike_rate": 73.8
+   },
+   {
+    "name": "ZB Lion-Cachet",
+    "runs": 68,
+    "balls": 75,
+    "strike_rate": 90.7
+   },
+   {
+    "name": "Mujibur Ali",
+    "runs": 44,
+    "balls": 78,
+    "strike_rate": 56.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "CN Ackermann",
+    "figures": "4/23",
+    "overs": "10.0",
+    "economy": 2.3
+   },
+   {
+    "name": "K Klein",
+    "figures": "2/38",
+    "overs": "7.2",
+    "economy": 5.18
+   },
+   {
+    "name": "Shariz Ahmad",
+    "figures": "2/44",
+    "overs": "9.0",
+    "economy": 4.89
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (K Klein) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Oman",
+   "type": "wicket_burst",
+   "over": 50,
+   "detail": "2 wickets fell in over 50 (bowled by K Klein, 2 credited to K Klein)"
+  },
+  {
+   "innings": 2,
+   "team": "Netherlands",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 33 scored, needed 150 from 44 overs (RRR 3.41)"
+  },
+  {
+   "innings": 2,
+   "team": "Netherlands",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 46 scored, needed 137 from 40 overs (RRR 3.42)"
+  },
+  {
+   "innings": 2,
+   "team": "Netherlands",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 67 scored, needed 116 from 35 overs (RRR 3.31)"
+  }
+ ],
+ "checks": []
+}

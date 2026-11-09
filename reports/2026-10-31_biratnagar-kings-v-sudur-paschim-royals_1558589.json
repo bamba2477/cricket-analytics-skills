@@ -1,0 +1,539 @@
+{
+ "match": {
+  "teams": [
+   "Biratnagar Kings",
+   "Sudur Paschim Royals"
+  ],
+  "dates": [
+   "2026-10-31"
+  ],
+  "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+  "city": "Kirtipur",
+  "event": "Nepal Premier League",
+  "match_number": 8,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Sudur Paschim Royals"
+  },
+  "player_of_match": [],
+  "result": "Biratnagar Kings won by 35 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Biratnagar Kings",
+   "batting_team": "Biratnagar Kings",
+   "bowling_team": "Sudur Paschim Royals",
+   "super_over": false,
+   "total": 105,
+   "wickets": 2,
+   "overs": "5.0",
+   "run_rate": 21.0,
+   "target": null,
+   "extras": {
+    "byes": 4,
+    "wides": 7,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "GSNFG Jayasuriya",
+     "dismissal": "lbw b A Bohara",
+     "runs": 39,
+     "balls": 11,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 5,
+     "strike_rate": 354.5
+    },
+    {
+     "name": "Lokesh Bam",
+     "dismissal": "c DS Airee b A Bohara",
+     "runs": 25,
+     "balls": 10,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 3,
+     "strike_rate": 250.0
+    },
+    {
+     "name": "AD Russell",
+     "dismissal": "not out",
+     "runs": 29,
+     "balls": 10,
+     "dots": 2,
+     "fours": 2,
+     "sixes": 3,
+     "strike_rate": 290.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KTH Ratnayake",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 31.0,
+     "dots": 1,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "H Dhami",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 25.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "A Bohara",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 2,
+     "economy": 14.0,
+     "dots": 4,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "SC Kuggeleijn",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 17.0,
+     "dots": 2,
+     "wides": 5,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.0",
+     "runs": 105,
+     "wickets": 2,
+     "run_rate": 21.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 68,
+     "player": "GSNFG Jayasuriya",
+     "over": "2.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 105,
+     "player": "Lokesh Bam",
+     "over": "4.6",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 68,
+     "balls": 16,
+     "batters": [
+      "GSNFG Jayasuriya",
+      "Lokesh Bam"
+     ],
+     "contributions": {
+      "GSNFG Jayasuriya": 39,
+      "Lokesh Bam": 23
+     },
+     "ended_by": "GSNFG Jayasuriya (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 37,
+     "balls": 14,
+     "batters": [
+      "AD Russell",
+      "Lokesh Bam"
+     ],
+     "contributions": {
+      "AD Russell": 29,
+      "Lokesh Bam": 2
+     },
+     "ended_by": "Lokesh Bam (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 35,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KTH Ratnayake",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 25,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Dhami",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Bohara",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 17,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SC Kuggeleijn",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 16,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Bohara",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sudur Paschim Royals",
+   "batting_team": "Sudur Paschim Royals",
+   "bowling_team": "Biratnagar Kings",
+   "super_over": false,
+   "total": 70,
+   "wickets": 3,
+   "overs": "5.0",
+   "run_rate": 14.0,
+   "target": 106,
+   "extras": {
+    "wides": 3,
+    "byes": 2,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "SE Rutherford",
+     "dismissal": "b AD Russell",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "SA Zaib",
+     "dismissal": "c AD Russell b Rupesh Singh",
+     "runs": 17,
+     "balls": 10,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 170.0
+    },
+    {
+     "name": "DS Airee",
+     "dismissal": "c Rupesh Singh b AD Mathews",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "Aarif Sheikh",
+     "dismissal": "not out",
+     "runs": 17,
+     "balls": 8,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 212.5
+    },
+    {
+     "name": "SC Kuggeleijn",
+     "dismissal": "not out",
+     "runs": 28,
+     "balls": 6,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 4,
+     "strike_rate": 466.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "AD Russell",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "AD Mathews",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 1,
+     "economy": 15.0,
+     "dots": 3,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Rupesh Singh",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 18.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Pratis GC",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 25.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "5.0",
+     "runs": 70,
+     "wickets": 3,
+     "run_rate": 14.0
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "SE Rutherford",
+     "over": "0.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 7,
+     "player": "DS Airee",
+     "over": "1.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 35,
+     "player": "SA Zaib",
+     "over": "3.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "SE Rutherford",
+      "SA Zaib"
+     ],
+     "contributions": {
+      "SE Rutherford": 0,
+      "SA Zaib": 0
+     },
+     "ended_by": "SE Rutherford (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 7,
+     "balls": 8,
+     "batters": [
+      "DS Airee",
+      "SA Zaib"
+     ],
+     "contributions": {
+      "DS Airee": 1,
+      "SA Zaib": 1
+     },
+     "ended_by": "DS Airee (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 28,
+     "balls": 13,
+     "batters": [
+      "Aarif Sheikh",
+      "SA Zaib"
+     ],
+     "contributions": {
+      "Aarif Sheikh": 10,
+      "SA Zaib": 16
+     },
+     "ended_by": "SA Zaib (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 35,
+     "balls": 8,
+     "batters": [
+      "SC Kuggeleijn",
+      "Aarif Sheikh"
+     ],
+     "contributions": {
+      "SC Kuggeleijn": 28,
+      "Aarif Sheikh": 7
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AD Russell",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AD Mathews",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AD Russell",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 18,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rupesh Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 25,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Pratis GC",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "GSNFG Jayasuriya",
+    "runs": 39,
+    "balls": 11,
+    "strike_rate": 354.5
+   },
+   {
+    "name": "AD Russell",
+    "runs": 29,
+    "balls": 10,
+    "strike_rate": 290.0
+   },
+   {
+    "name": "SC Kuggeleijn",
+    "runs": 28,
+    "balls": 6,
+    "strike_rate": 466.7
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "A Bohara",
+    "figures": "2/28",
+    "overs": "2.0",
+    "economy": 14.0
+   },
+   {
+    "name": "AD Russell",
+    "figures": "1/8",
+    "overs": "2.0",
+    "economy": 4.0
+   },
+   {
+    "name": "AD Mathews",
+    "figures": "1/15",
+    "overs": "1.0",
+    "economy": 15.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Biratnagar Kings",
+   "type": "big_over",
+   "over": 1,
+   "detail": "Over 1 (KTH Ratnayake) went for 35 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Biratnagar Kings",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (H Dhami) went for 25 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sudur Paschim Royals",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (AD Mathews) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sudur Paschim Royals",
+   "type": "big_over",
+   "over": 5,
+   "detail": "Over 5 (Pratis GC) went for 25 runs"
+  }
+ ],
+ "checks": []
+}

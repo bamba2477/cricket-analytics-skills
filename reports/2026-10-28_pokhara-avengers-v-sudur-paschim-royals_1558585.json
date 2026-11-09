@@ -1,0 +1,1073 @@
+{
+ "match": {
+  "teams": [
+   "Pokhara Avengers",
+   "Sudur Paschim Royals"
+  ],
+  "dates": [
+   "2026-10-28"
+  ],
+  "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+  "city": "Kirtipur",
+  "event": "Nepal Premier League",
+  "match_number": 4,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Sudur Paschim Royals"
+  },
+  "player_of_match": [
+   "DS Airee"
+  ],
+  "result": "Sudur Paschim Royals won by 6 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Pokhara Avengers",
+   "batting_team": "Pokhara Avengers",
+   "bowling_team": "Sudur Paschim Royals",
+   "super_over": false,
+   "total": 145,
+   "wickets": 7,
+   "overs": "20.0",
+   "run_rate": 7.25,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "wides": 6,
+    "legbyes": 1,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "D Kharel",
+     "dismissal": "c B Bhandari b H Dhami",
+     "runs": 4,
+     "balls": 7,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Mahedi Hasan",
+     "dismissal": "c DS Airee b A Kharel",
+     "runs": 32,
+     "balls": 21,
+     "dots": 9,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 152.4
+    },
+    {
+     "name": "K Bhurtel",
+     "dismissal": "c A Kharel b DS Airee",
+     "runs": 21,
+     "balls": 17,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 123.5
+    },
+    {
+     "name": "Shakib Al Hasan",
+     "dismissal": "c SC Kuggeleijn b A Kharel",
+     "runs": 14,
+     "balls": 16,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 87.5
+    },
+    {
+     "name": "S Samarawickrama",
+     "dismissal": "st B Bhandari b A Kharel",
+     "runs": 8,
+     "balls": 9,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 88.9
+    },
+    {
+     "name": "D Lakshan",
+     "dismissal": "run out (B Bhandari, SE Rutherford)",
+     "runs": 11,
+     "balls": 16,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 68.8
+    },
+    {
+     "name": "A Gharti",
+     "dismissal": "not out",
+     "runs": 40,
+     "balls": 25,
+     "dots": 7,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 160.0
+    },
+    {
+     "name": "K Thagunna",
+     "dismissal": "c B Bhandari b SC Kuggeleijn",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "Bipin Khatri",
+     "dismissal": "not out",
+     "runs": 5,
+     "balls": 7,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 71.4
+    }
+   ],
+   "bowling": [
+    {
+     "name": "H Dhami",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 4.67,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "SC Kuggeleijn",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 49,
+     "wickets": 1,
+     "economy": 12.25,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "A Kharel",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 3,
+     "economy": 7.67,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SA Zaib",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 6.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DS Airee",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 1,
+     "economy": 5.25,
+     "dots": 8,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "A Bohara",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "I Pandey",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 8,
+     "wickets": 0,
+     "economy": 8.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 51,
+     "wickets": 2,
+     "run_rate": 8.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 52,
+     "wickets": 3,
+     "run_rate": 5.78
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 42,
+     "wickets": 2,
+     "run_rate": 8.4
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 14,
+     "player": "D Kharel",
+     "over": "2.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 49,
+     "player": "Mahedi Hasan",
+     "over": "5.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 68,
+     "player": "K Bhurtel",
+     "over": "9.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 78,
+     "player": "Shakib Al Hasan",
+     "over": "10.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 83,
+     "player": "S Samarawickrama",
+     "over": "12.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 6,
+     "score": 115,
+     "player": "D Lakshan",
+     "over": "16.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 117,
+     "player": "K Thagunna",
+     "over": "17.1",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 14,
+     "balls": 14,
+     "batters": [
+      "D Kharel",
+      "Mahedi Hasan"
+     ],
+     "contributions": {
+      "D Kharel": 4,
+      "Mahedi Hasan": 10
+     },
+     "ended_by": "D Kharel (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 35,
+     "balls": 21,
+     "batters": [
+      "K Bhurtel",
+      "Mahedi Hasan"
+     ],
+     "contributions": {
+      "K Bhurtel": 12,
+      "Mahedi Hasan": 22
+     },
+     "ended_by": "Mahedi Hasan (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 20,
+     "batters": [
+      "Shakib Al Hasan",
+      "K Bhurtel"
+     ],
+     "contributions": {
+      "Shakib Al Hasan": 10,
+      "K Bhurtel": 9
+     },
+     "ended_by": "K Bhurtel (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 10,
+     "balls": 11,
+     "batters": [
+      "S Samarawickrama",
+      "Shakib Al Hasan"
+     ],
+     "contributions": {
+      "S Samarawickrama": 6,
+      "Shakib Al Hasan": 4
+     },
+     "ended_by": "Shakib Al Hasan (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 5,
+     "balls": 8,
+     "batters": [
+      "S Samarawickrama",
+      "D Lakshan"
+     ],
+     "contributions": {
+      "S Samarawickrama": 2,
+      "D Lakshan": 3
+     },
+     "ended_by": "S Samarawickrama (stumped)"
+    },
+    {
+     "wicket": 6,
+     "runs": 32,
+     "balls": 26,
+     "batters": [
+      "A Gharti",
+      "D Lakshan"
+     ],
+     "contributions": {
+      "A Gharti": 18,
+      "D Lakshan": 8
+     },
+     "ended_by": "D Lakshan (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "K Thagunna",
+      "A Gharti"
+     ],
+     "contributions": {
+      "K Thagunna": 1,
+      "A Gharti": 0
+     },
+     "ended_by": "K Thagunna (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 28,
+     "balls": 17,
+     "batters": [
+      "Bipin Khatri",
+      "A Gharti"
+     ],
+     "contributions": {
+      "Bipin Khatri": 5,
+      "A Gharti": 22
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Dhami",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SC Kuggeleijn",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Dhami",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SC Kuggeleijn",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Dhami",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Kharel",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Zaib",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Zaib",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Kharel",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "A Kharel",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DS Airee",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Bohara",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "I Pandey",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "A Bohara",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SC Kuggeleijn",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Bohara",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SC Kuggeleijn",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sudur Paschim Royals",
+   "batting_team": "Sudur Paschim Royals",
+   "bowling_team": "Pokhara Avengers",
+   "super_over": false,
+   "total": 148,
+   "wickets": 4,
+   "overs": "16.5",
+   "run_rate": 8.79,
+   "target": 146,
+   "extras": {
+    "byes": 4,
+    "legbyes": 2,
+    "wides": 5
+   },
+   "batting": [
+    {
+     "name": "SA Zaib",
+     "dismissal": "run out (A Gharti, K Thagunna)",
+     "runs": 15,
+     "balls": 16,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 93.8
+    },
+    {
+     "name": "B Bhandari",
+     "dismissal": "b D Lakshan",
+     "runs": 4,
+     "balls": 2,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 200.0
+    },
+    {
+     "name": "BJ McMullen",
+     "dismissal": "lbw b Shakib Al Hasan",
+     "runs": 22,
+     "balls": 12,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 183.3
+    },
+    {
+     "name": "DS Airee",
+     "dismissal": "not out",
+     "runs": 51,
+     "balls": 36,
+     "dots": 9,
+     "fours": 4,
+     "sixes": 2,
+     "strike_rate": 141.7
+    },
+    {
+     "name": "I Pandey",
+     "dismissal": "lbw b Mahedi Hasan",
+     "runs": 37,
+     "balls": 31,
+     "dots": 12,
+     "fours": 2,
+     "sixes": 2,
+     "strike_rate": 119.4
+    },
+    {
+     "name": "SE Rutherford",
+     "dismissal": "not out",
+     "runs": 8,
+     "balls": 4,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 200.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "D Lakshan",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 8.5,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mahedi Hasan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 1,
+     "economy": 7.75,
+     "dots": 11,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Bipin Khatri",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 11.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shakib Al Hasan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "P Pokhrel",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 10.0,
+     "dots": 2,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "K Bhurtel",
+     "overs": "2.5",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 9.18,
+     "dots": 5,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Aakash Chand",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 0,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 51,
+     "wickets": 2,
+     "run_rate": 8.5
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 77,
+     "wickets": 1,
+     "run_rate": 8.56
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "1.5",
+     "runs": 20,
+     "wickets": 1,
+     "run_rate": 10.91
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "B Bhandari",
+     "over": "0.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 43,
+     "player": "BJ McMullen",
+     "over": "4.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 56,
+     "player": "SA Zaib",
+     "over": "6.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 4,
+     "score": 130,
+     "player": "I Pandey",
+     "over": "15.3",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 5,
+     "batters": [
+      "SA Zaib",
+      "B Bhandari"
+     ],
+     "contributions": {
+      "SA Zaib": 5,
+      "B Bhandari": 4
+     },
+     "ended_by": "B Bhandari (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 34,
+     "balls": 23,
+     "batters": [
+      "BJ McMullen",
+      "SA Zaib"
+     ],
+     "contributions": {
+      "BJ McMullen": 22,
+      "SA Zaib": 8
+     },
+     "ended_by": "BJ McMullen (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 13,
+     "balls": 11,
+     "batters": [
+      "DS Airee",
+      "SA Zaib"
+     ],
+     "contributions": {
+      "DS Airee": 11,
+      "SA Zaib": 2
+     },
+     "ended_by": "SA Zaib (run out)"
+    },
+    {
+     "wicket": 4,
+     "runs": 74,
+     "balls": 54,
+     "batters": [
+      "I Pandey",
+      "DS Airee"
+     ],
+     "contributions": {
+      "I Pandey": 37,
+      "DS Airee": 30
+     },
+     "ended_by": "I Pandey (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 18,
+     "balls": 8,
+     "batters": [
+      "SE Rutherford",
+      "DS Airee"
+     ],
+     "contributions": {
+      "SE Rutherford": 8,
+      "DS Airee": 10
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Lakshan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bipin Khatri",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shakib Al Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Lakshan",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Shakib Al Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Pokhrel",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Bhurtel",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aakash Chand",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Bhurtel",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakib Al Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bipin Khatri",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakib Al Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mahedi Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Bhurtel",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "DS Airee",
+    "runs": 51,
+    "balls": 36,
+    "strike_rate": 141.7
+   },
+   {
+    "name": "A Gharti",
+    "runs": 40,
+    "balls": 25,
+    "strike_rate": 160.0
+   },
+   {
+    "name": "I Pandey",
+    "runs": 37,
+    "balls": 31,
+    "strike_rate": 119.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "A Kharel",
+    "figures": "3/23",
+    "overs": "3.0",
+    "economy": 7.67
+   },
+   {
+    "name": "H Dhami",
+    "figures": "1/14",
+    "overs": "3.0",
+    "economy": 4.67
+   },
+   {
+    "name": "D Lakshan",
+    "figures": "1/17",
+    "overs": "2.0",
+    "economy": 8.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Pokhara Avengers",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (SC Kuggeleijn) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Pokhara Avengers",
+   "type": "big_over",
+   "over": 20,
+   "detail": "Over 20 (SC Kuggeleijn) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sudur Paschim Royals",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 51 scored, needed 95 from 14 overs (RRR 6.79)"
+  },
+  {
+   "innings": 2,
+   "team": "Sudur Paschim Royals",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 86 scored, needed 60 from 10 overs (RRR 6.0)"
+  },
+  {
+   "innings": 2,
+   "team": "Sudur Paschim Royals",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 128 scored, needed 18 from 5 overs (RRR 3.6)"
+  }
+ ],
+ "checks": []
+}

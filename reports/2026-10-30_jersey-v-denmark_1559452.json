@@ -1,0 +1,1760 @@
+{
+ "match": {
+  "teams": [
+   "Jersey",
+   "Denmark"
+  ],
+  "dates": [
+   "2026-10-30"
+  ],
+  "venue": "Ruaraka Sports Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 43,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Denmark"
+  },
+  "player_of_match": [
+   "JW Jenner"
+  ],
+  "result": "Jersey won by 72 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Jersey",
+   "batting_team": "Jersey",
+   "bowling_team": "Denmark",
+   "super_over": false,
+   "total": 312,
+   "wickets": 8,
+   "overs": "50.0",
+   "run_rate": 6.24,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "H Carlyon",
+     "dismissal": "c Musa Shaheen b Simon Sorensen",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "J Sumerauer",
+     "dismissal": "lbw b Lucky Ali",
+     "runs": 43,
+     "balls": 46,
+     "dots": 28,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 93.5
+    },
+    {
+     "name": "JAD Lawrenson",
+     "dismissal": "c Musa Shaheen b Abdullah Mahmood",
+     "runs": 81,
+     "balls": 97,
+     "dots": 41,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 83.5
+    },
+    {
+     "name": "ZM Tribe",
+     "dismissal": "b Abdullah Mahmood",
+     "runs": 12,
+     "balls": 24,
+     "dots": 15,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "JW Jenner",
+     "dismissal": "c Surya Anand b Abdullah Mahmood",
+     "runs": 81,
+     "balls": 53,
+     "dots": 24,
+     "fours": 10,
+     "sixes": 4,
+     "strike_rate": 152.8
+    },
+    {
+     "name": "C Brennan",
+     "dismissal": "c T Bharaj b Abdullah Mahmood",
+     "runs": 16,
+     "balls": 19,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 84.2
+    },
+    {
+     "name": "W Perchard",
+     "dismissal": "c HAM Shah b Lucky Ali",
+     "runs": 23,
+     "balls": 21,
+     "dots": 8,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 109.5
+    },
+    {
+     "name": "B Ward",
+     "dismissal": "c Abdullah Mahmood b Surya Anand",
+     "runs": 31,
+     "balls": 25,
+     "dots": 10,
+     "fours": 1,
+     "sixes": 2,
+     "strike_rate": 124.0
+    },
+    {
+     "name": "JE Dunford",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 9,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 122.2
+    },
+    {
+     "name": "CW Perchard",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 3,
+     "dots": 0,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 333.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Surya Anand",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 55,
+     "wickets": 1,
+     "economy": 6.88,
+     "dots": 22,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Simon Sorensen",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 1,
+     "economy": 5.25,
+     "dots": 17,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Shakeel Zeb",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Lucky Ali",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 66,
+     "wickets": 2,
+     "economy": 6.6,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SA Ahmad",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 41,
+     "wickets": 0,
+     "economy": 4.1,
+     "dots": 32,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 63,
+     "wickets": 4,
+     "economy": 6.3,
+     "dots": 29,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "HAM Shah",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 47,
+     "wickets": 1,
+     "run_rate": 4.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 183,
+     "wickets": 4,
+     "run_rate": 6.1
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "10.0",
+     "runs": 82,
+     "wickets": 3,
+     "run_rate": 8.2
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 3,
+     "player": "H Carlyon",
+     "over": "1.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 69,
+     "player": "J Sumerauer",
+     "over": "13.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 89,
+     "player": "ZM Tribe",
+     "over": "19.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 205,
+     "player": "JW Jenner",
+     "over": "35.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 229,
+     "player": "C Brennan",
+     "over": "39.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 242,
+     "player": "JAD Lawrenson",
+     "over": "41.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 271,
+     "player": "W Perchard",
+     "over": "45.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 302,
+     "player": "B Ward",
+     "over": "49.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 3,
+     "balls": 7,
+     "batters": [
+      "H Carlyon",
+      "J Sumerauer"
+     ],
+     "contributions": {
+      "H Carlyon": 1,
+      "J Sumerauer": 2
+     },
+     "ended_by": "H Carlyon (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 66,
+     "balls": 75,
+     "batters": [
+      "JAD Lawrenson",
+      "J Sumerauer"
+     ],
+     "contributions": {
+      "JAD Lawrenson": 24,
+      "J Sumerauer": 41
+     },
+     "ended_by": "J Sumerauer (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 20,
+     "balls": 36,
+     "batters": [
+      "ZM Tribe",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "ZM Tribe": 12,
+      "JAD Lawrenson": 8
+     },
+     "ended_by": "ZM Tribe (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 116,
+     "balls": 93,
+     "batters": [
+      "JW Jenner",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "JW Jenner": 81,
+      "JAD Lawrenson": 35
+     },
+     "ended_by": "JW Jenner (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 24,
+     "balls": 27,
+     "batters": [
+      "C Brennan",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "C Brennan": 16,
+      "JAD Lawrenson": 8
+     },
+     "ended_by": "C Brennan (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 13,
+     "balls": 12,
+     "batters": [
+      "W Perchard",
+      "JAD Lawrenson"
+     ],
+     "contributions": {
+      "W Perchard": 7,
+      "JAD Lawrenson": 6
+     },
+     "ended_by": "JAD Lawrenson (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 29,
+     "balls": 21,
+     "batters": [
+      "B Ward",
+      "W Perchard"
+     ],
+     "contributions": {
+      "B Ward": 13,
+      "W Perchard": 16
+     },
+     "ended_by": "W Perchard (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 31,
+     "balls": 26,
+     "batters": [
+      "JE Dunford",
+      "B Ward"
+     ],
+     "contributions": {
+      "JE Dunford": 11,
+      "B Ward": 18
+     },
+     "ended_by": "B Ward (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 10,
+     "balls": 3,
+     "batters": [
+      "CW Perchard",
+      "JE Dunford"
+     ],
+     "contributions": {
+      "CW Perchard": 10,
+      "JE Dunford": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Simon Sorensen",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Simon Sorensen",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Simon Sorensen",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Simon Sorensen",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Zeb",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Zeb",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Zeb",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shakeel Zeb",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "HAM Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Denmark",
+   "batting_team": "Denmark",
+   "bowling_team": "Jersey",
+   "super_over": false,
+   "total": 240,
+   "wickets": 10,
+   "overs": "47.5",
+   "run_rate": 5.02,
+   "target": 313,
+   "extras": {
+    "wides": 11,
+    "noballs": 4,
+    "byes": 1,
+    "legbyes": 6
+   },
+   "batting": [
+    {
+     "name": "Musa Shaheen",
+     "dismissal": "lbw b H Carlyon",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "HAM Shah",
+     "dismissal": "c JE Dunford b B Ward",
+     "runs": 41,
+     "balls": 67,
+     "dots": 38,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 61.2
+    },
+    {
+     "name": "Lucky Ali",
+     "dismissal": "c JE Dunford b CW Perchard",
+     "runs": 66,
+     "balls": 78,
+     "dots": 48,
+     "fours": 10,
+     "sixes": 1,
+     "strike_rate": 84.6
+    },
+    {
+     "name": "SA Ahmad",
+     "dismissal": "c J Sumerauer b B Ward",
+     "runs": 10,
+     "balls": 10,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "S Heath",
+     "dismissal": "st JE Dunford b ZM Tribe",
+     "runs": 28,
+     "balls": 32,
+     "dots": 16,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 87.5
+    },
+    {
+     "name": "S Thanikaithasan",
+     "dismissal": "c JE Dunford b ZM Tribe",
+     "runs": 15,
+     "balls": 18,
+     "dots": 12,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 83.3
+    },
+    {
+     "name": "T Bharaj",
+     "dismissal": "st JE Dunford b ZM Tribe",
+     "runs": 17,
+     "balls": 26,
+     "dots": 18,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 65.4
+    },
+    {
+     "name": "Surya Anand",
+     "dismissal": "run out (ZM Tribe, B Ward)",
+     "runs": 12,
+     "balls": 14,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 85.7
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "dismissal": "b CW Perchard",
+     "runs": 27,
+     "balls": 23,
+     "dots": 8,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 117.4
+    },
+    {
+     "name": "Shakeel Zeb",
+     "dismissal": "c G Richardson b B Ward",
+     "runs": 1,
+     "balls": 9,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 11.1
+    },
+    {
+     "name": "Simon Sorensen",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 13,
+     "dots": 12,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 7.7
+    }
+   ],
+   "bowling": [
+    {
+     "name": "H Carlyon",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 1,
+     "economy": 4.0,
+     "dots": 24,
+     "wides": 1,
+     "noballs": 1
+    },
+    {
+     "name": "J Sumerauer",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 44,
+     "wickets": 0,
+     "economy": 8.8,
+     "dots": 13,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "CW Perchard",
+     "overs": "6.5",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 2,
+     "economy": 4.54,
+     "dots": 23,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "G Richardson",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 16,
+     "wides": 1,
+     "noballs": 3
+    },
+    {
+     "name": "ZM Tribe",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 44,
+     "wickets": 3,
+     "economy": 4.4,
+     "dots": 32,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JAD Lawrenson",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 4.5,
+     "dots": 21,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "B Ward",
+     "overs": "10.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 3,
+     "economy": 3.8,
+     "dots": 37,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 62,
+     "wickets": 1,
+     "run_rate": 6.2
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "30.0",
+     "runs": 143,
+     "wickets": 6,
+     "run_rate": 4.77
+    },
+    {
+     "phase": "Death",
+     "overs": "41-50",
+     "overs_bowled": "7.5",
+     "runs": 35,
+     "wickets": 3,
+     "run_rate": 4.47
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "Musa Shaheen",
+     "over": "0.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 2,
+     "score": 106,
+     "player": "Lucky Ali",
+     "over": "21.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 122,
+     "player": "SA Ahmad",
+     "over": "24.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 129,
+     "player": "HAM Shah",
+     "over": "26.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 147,
+     "player": "S Thanikaithasan",
+     "over": "29.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 194,
+     "player": "T Bharaj",
+     "over": "37.3",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 7,
+     "score": 199,
+     "player": "S Heath",
+     "over": "39.2",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 8,
+     "score": 217,
+     "player": "Surya Anand",
+     "over": "41.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 9,
+     "score": 227,
+     "player": "Shakeel Zeb",
+     "over": "44.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 240,
+     "player": "Abdullah Mahmood",
+     "over": "47.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "Musa Shaheen",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "Musa Shaheen": 0,
+      "HAM Shah": 0
+     },
+     "ended_by": "Musa Shaheen (lbw)"
+    },
+    {
+     "wicket": 2,
+     "runs": 105,
+     "balls": 130,
+     "batters": [
+      "Lucky Ali",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "Lucky Ali": 66,
+      "HAM Shah": 35
+     },
+     "ended_by": "Lucky Ali (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 16,
+     "balls": 18,
+     "batters": [
+      "SA Ahmad",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "SA Ahmad": 10,
+      "HAM Shah": 5
+     },
+     "ended_by": "SA Ahmad (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 7,
+     "balls": 8,
+     "batters": [
+      "S Heath",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "S Heath": 5,
+      "HAM Shah": 1
+     },
+     "ended_by": "HAM Shah (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 18,
+     "balls": 21,
+     "batters": [
+      "S Thanikaithasan",
+      "S Heath"
+     ],
+     "contributions": {
+      "S Thanikaithasan": 15,
+      "S Heath": 2
+     },
+     "ended_by": "S Thanikaithasan (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 47,
+     "balls": 47,
+     "batters": [
+      "T Bharaj",
+      "S Heath"
+     ],
+     "contributions": {
+      "T Bharaj": 17,
+      "S Heath": 21
+     },
+     "ended_by": "T Bharaj (stumped)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 11,
+     "batters": [
+      "Surya Anand",
+      "S Heath"
+     ],
+     "contributions": {
+      "Surya Anand": 5,
+      "S Heath": 0
+     },
+     "ended_by": "S Heath (stumped)"
+    },
+    {
+     "wicket": 8,
+     "runs": 18,
+     "balls": 14,
+     "batters": [
+      "Abdullah Mahmood",
+      "Surya Anand"
+     ],
+     "contributions": {
+      "Abdullah Mahmood": 11,
+      "Surya Anand": 7
+     },
+     "ended_by": "Surya Anand (run out)"
+    },
+    {
+     "wicket": 9,
+     "runs": 10,
+     "balls": 18,
+     "batters": [
+      "Abdullah Mahmood",
+      "Shakeel Zeb"
+     ],
+     "contributions": {
+      "Abdullah Mahmood": 9,
+      "Shakeel Zeb": 1
+     },
+     "ended_by": "Shakeel Zeb (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 13,
+     "balls": 19,
+     "batters": [
+      "Simon Sorensen",
+      "Abdullah Mahmood"
+     ],
+     "contributions": {
+      "Simon Sorensen": 1,
+      "Abdullah Mahmood": 7
+     },
+     "ended_by": "Abdullah Mahmood (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "CW Perchard",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "H Carlyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Sumerauer",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "ZM Tribe",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "B Ward",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Richardson",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JAD Lawrenson",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "CW Perchard",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "JW Jenner",
+    "runs": 81,
+    "balls": 53,
+    "strike_rate": 152.8
+   },
+   {
+    "name": "JAD Lawrenson",
+    "runs": 81,
+    "balls": 97,
+    "strike_rate": 83.5
+   },
+   {
+    "name": "Lucky Ali",
+    "runs": 66,
+    "balls": 78,
+    "strike_rate": 84.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Abdullah Mahmood",
+    "figures": "4/63",
+    "overs": "10.0",
+    "economy": 6.3
+   },
+   {
+    "name": "B Ward",
+    "figures": "3/38",
+    "overs": "10.0",
+    "economy": 3.8
+   },
+   {
+    "name": "ZM Tribe",
+    "figures": "3/44",
+    "overs": "10.0",
+    "economy": 4.4
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Jersey",
+   "type": "big_over",
+   "over": 11,
+   "detail": "Over 11 (Shakeel Zeb) went for 15 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Jersey",
+   "type": "big_over",
+   "over": 26,
+   "detail": "Over 26 (Abdullah Mahmood) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 40 scored, needed 273 from 44 overs (RRR 6.2)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 62 scored, needed 251 from 40 overs (RRR 6.28)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 79 scored, needed 234 from 35 overs (RRR 6.69)"
+  },
+  {
+   "innings": 2,
+   "team": "Denmark",
+   "type": "required_rate",
+   "over": 40,
+   "detail": "After 40 overs: 205 scored, needed 108 from 10 overs (RRR 10.8)"
+  }
+ ],
+ "checks": []
+}

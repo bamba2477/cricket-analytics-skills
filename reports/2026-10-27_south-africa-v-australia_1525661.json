@@ -1,0 +1,5043 @@
+{
+ "match": {
+  "teams": [
+   "South Africa",
+   "Australia"
+  ],
+  "dates": [
+   "2026-10-27",
+   "2026-10-28",
+   "2026-10-29",
+   "2026-10-30",
+   "2026-10-31"
+  ],
+  "venue": "Newlands, Cape Town",
+  "city": "Cape Town",
+  "event": "Australia tour of South Africa",
+  "match_number": 3,
+  "match_type": "Test",
+  "overs": null,
+  "toss": {
+   "decision": "field",
+   "winner": "Australia"
+  },
+  "player_of_match": [
+   "SR Harmer"
+  ],
+  "result": "South Africa won by 176 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "South Africa",
+   "batting_team": "South Africa",
+   "bowling_team": "Australia",
+   "super_over": false,
+   "total": 329,
+   "wickets": 10,
+   "overs": "82.3",
+   "run_rate": 3.99,
+   "target": null,
+   "extras": {
+    "legbyes": 3,
+    "noballs": 1,
+    "byes": 5,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "AK Markram",
+     "dismissal": "c MA Starc b JR Hazlewood",
+     "runs": 78,
+     "balls": 141,
+     "dots": 100,
+     "fours": 10,
+     "sixes": 1,
+     "strike_rate": 55.3
+    },
+    {
+     "name": "MJ Ackerman",
+     "dismissal": "st AT Carey b NM Lyon",
+     "runs": 95,
+     "balls": 94,
+     "dots": 51,
+     "fours": 12,
+     "sixes": 2,
+     "strike_rate": 101.1
+    },
+    {
+     "name": "DG Bedingham",
+     "dismissal": "c JR Hazlewood b MA Starc",
+     "runs": 50,
+     "balls": 80,
+     "dots": 54,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 62.5
+    },
+    {
+     "name": "T Bavuma",
+     "dismissal": "b NM Lyon",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MP Breetzke",
+     "dismissal": "lbw b C Connolly",
+     "runs": 2,
+     "balls": 12,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "RD Rickelton",
+     "dismissal": "lbw b MA Starc",
+     "runs": 42,
+     "balls": 83,
+     "dots": 56,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 50.6
+    },
+    {
+     "name": "PWA Mulder",
+     "dismissal": "c AT Carey b MA Starc",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Jansen",
+     "dismissal": "b MA Starc",
+     "runs": 52,
+     "balls": 71,
+     "dots": 43,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 73.2
+    },
+    {
+     "name": "SR Harmer",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 7,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "G Coetzee",
+     "dismissal": "b MA Starc",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "K Rabada",
+     "dismissal": "lbw b MA Starc",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MA Starc",
+     "overs": "16.3",
+     "maidens": 2,
+     "runs": 72,
+     "wickets": 6,
+     "economy": 4.36,
+     "dots": 62,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "JR Hazlewood",
+     "overs": "15.0",
+     "maidens": 3,
+     "runs": 59,
+     "wickets": 1,
+     "economy": 3.93,
+     "dots": 66,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PJ Cummins",
+     "overs": "18.0",
+     "maidens": 2,
+     "runs": 73,
+     "wickets": 0,
+     "economy": 4.06,
+     "dots": 76,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "NM Lyon",
+     "overs": "23.0",
+     "maidens": 1,
+     "runs": 71,
+     "wickets": 2,
+     "economy": 3.09,
+     "dots": 93,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "C Connolly",
+     "overs": "9.0",
+     "maidens": 0,
+     "runs": 41,
+     "wickets": 1,
+     "economy": 4.56,
+     "dots": 27,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MT Renshaw",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 158,
+     "player": "MJ Ackerman",
+     "over": "31.4",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 2,
+     "score": 203,
+     "player": "AK Markram",
+     "over": "44.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 204,
+     "player": "T Bavuma",
+     "over": "45.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 216,
+     "player": "MP Breetzke",
+     "over": "51.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 232,
+     "player": "DG Bedingham",
+     "over": "56.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 232,
+     "player": "PWA Mulder",
+     "over": "56.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 327,
+     "player": "RD Rickelton",
+     "over": "80.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 328,
+     "player": "M Jansen",
+     "over": "80.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 329,
+     "player": "G Coetzee",
+     "over": "82.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 329,
+     "player": "K Rabada",
+     "over": "82.3",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 158,
+     "balls": 190,
+     "batters": [
+      "AK Markram",
+      "MJ Ackerman"
+     ],
+     "contributions": {
+      "AK Markram": 61,
+      "MJ Ackerman": 95
+     },
+     "ended_by": "MJ Ackerman (stumped)"
+    },
+    {
+     "wicket": 2,
+     "runs": 45,
+     "balls": 78,
+     "batters": [
+      "DG Bedingham",
+      "AK Markram"
+     ],
+     "contributions": {
+      "DG Bedingham": 27,
+      "AK Markram": 17
+     },
+     "ended_by": "AK Markram (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "T Bavuma",
+      "DG Bedingham"
+     ],
+     "contributions": {
+      "T Bavuma": 0,
+      "DG Bedingham": 1
+     },
+     "ended_by": "T Bavuma (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 12,
+     "balls": 35,
+     "batters": [
+      "MP Breetzke",
+      "DG Bedingham"
+     ],
+     "contributions": {
+      "MP Breetzke": 2,
+      "DG Bedingham": 10
+     },
+     "ended_by": "MP Breetzke (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 16,
+     "balls": 31,
+     "batters": [
+      "RD Rickelton",
+      "DG Bedingham"
+     ],
+     "contributions": {
+      "RD Rickelton": 4,
+      "DG Bedingham": 12
+     },
+     "ended_by": "DG Bedingham (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "PWA Mulder",
+      "RD Rickelton"
+     ],
+     "contributions": {
+      "PWA Mulder": 0,
+      "RD Rickelton": 0
+     },
+     "ended_by": "PWA Mulder (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 95,
+     "balls": 144,
+     "batters": [
+      "M Jansen",
+      "RD Rickelton"
+     ],
+     "contributions": {
+      "M Jansen": 52,
+      "RD Rickelton": 38
+     },
+     "ended_by": "RD Rickelton (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "SR Harmer",
+      "M Jansen"
+     ],
+     "contributions": {
+      "SR Harmer": 0,
+      "M Jansen": 0
+     },
+     "ended_by": "M Jansen (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "SR Harmer",
+      "G Coetzee"
+     ],
+     "contributions": {
+      "SR Harmer": 0,
+      "G Coetzee": 0
+     },
+     "ended_by": "G Coetzee (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "K Rabada",
+      "SR Harmer"
+     ],
+     "contributions": {
+      "K Rabada": 0,
+      "SR Harmer": 0
+     },
+     "ended_by": "K Rabada (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "MA Starc",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Australia",
+   "batting_team": "Australia",
+   "bowling_team": "South Africa",
+   "super_over": false,
+   "total": 429,
+   "wickets": 10,
+   "overs": "125.1",
+   "run_rate": 3.43,
+   "target": null,
+   "extras": {
+    "wides": 1,
+    "byes": 16,
+    "legbyes": 4,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "MT Renshaw",
+     "dismissal": "c RD Rickelton b M Jansen",
+     "runs": 74,
+     "balls": 139,
+     "dots": 102,
+     "fours": 10,
+     "sixes": 0,
+     "strike_rate": 53.2
+    },
+    {
+     "name": "TM Head",
+     "dismissal": "b SR Harmer",
+     "runs": 41,
+     "balls": 49,
+     "dots": 30,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 83.7
+    },
+    {
+     "name": "M Labuschagne",
+     "dismissal": "c AK Markram b SR Harmer",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "C Green",
+     "dismissal": "c SR Harmer b M Jansen",
+     "runs": 65,
+     "balls": 110,
+     "dots": 79,
+     "fours": 8,
+     "sixes": 2,
+     "strike_rate": 59.1
+    },
+    {
+     "name": "JP Inglis",
+     "dismissal": "c RD Rickelton b SR Harmer",
+     "runs": 102,
+     "balls": 135,
+     "dots": 82,
+     "fours": 11,
+     "sixes": 2,
+     "strike_rate": 75.6
+    },
+    {
+     "name": "AT Carey",
+     "dismissal": "c AK Markram b SR Harmer",
+     "runs": 80,
+     "balls": 168,
+     "dots": 119,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 47.6
+    },
+    {
+     "name": "C Connolly",
+     "dismissal": "c & b M Jansen",
+     "runs": 29,
+     "balls": 83,
+     "dots": 64,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 34.9
+    },
+    {
+     "name": "PJ Cummins",
+     "dismissal": "lbw b K Rabada",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MA Starc",
+     "dismissal": "c RD Rickelton b G Coetzee",
+     "runs": 11,
+     "balls": 29,
+     "dots": 24,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 37.9
+    },
+    {
+     "name": "NM Lyon",
+     "dismissal": "c SR Harmer b PWA Mulder",
+     "runs": 1,
+     "balls": 25,
+     "dots": 24,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 4.0
+    },
+    {
+     "name": "JR Hazlewood",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Rabada",
+     "overs": "23.0",
+     "maidens": 1,
+     "runs": 98,
+     "wickets": 1,
+     "economy": 4.26,
+     "dots": 89,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Jansen",
+     "overs": "22.1",
+     "maidens": 7,
+     "runs": 60,
+     "wickets": 3,
+     "economy": 2.71,
+     "dots": 103,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "G Coetzee",
+     "overs": "19.0",
+     "maidens": 4,
+     "runs": 70,
+     "wickets": 1,
+     "economy": 3.68,
+     "dots": 81,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PWA Mulder",
+     "overs": "21.0",
+     "maidens": 5,
+     "runs": 63,
+     "wickets": 1,
+     "economy": 3.0,
+     "dots": 94,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "SR Harmer",
+     "overs": "37.0",
+     "maidens": 6,
+     "runs": 104,
+     "wickets": 4,
+     "economy": 2.81,
+     "dots": 159,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AK Markram",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 4.67,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 58,
+     "player": "TM Head",
+     "over": "17.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 58,
+     "player": "M Labuschagne",
+     "over": "17.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 184,
+     "player": "MT Renshaw",
+     "over": "49.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 185,
+     "player": "C Green",
+     "over": "51.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 370,
+     "player": "JP Inglis",
+     "over": "98.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 379,
+     "player": "AT Carey",
+     "over": "102.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 380,
+     "player": "PJ Cummins",
+     "over": "103.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 402,
+     "player": "MA Starc",
+     "over": "111.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 425,
+     "player": "NM Lyon",
+     "over": "124.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 429,
+     "player": "C Connolly",
+     "over": "125.1",
+     "kind": "caught and bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 58,
+     "balls": 103,
+     "batters": [
+      "MT Renshaw",
+      "TM Head"
+     ],
+     "contributions": {
+      "MT Renshaw": 17,
+      "TM Head": 41
+     },
+     "ended_by": "TM Head (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "M Labuschagne",
+      "MT Renshaw"
+     ],
+     "contributions": {
+      "M Labuschagne": 0,
+      "MT Renshaw": 0
+     },
+     "ended_by": "M Labuschagne (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 126,
+     "balls": 191,
+     "batters": [
+      "MT Renshaw",
+      "C Green"
+     ],
+     "contributions": {
+      "MT Renshaw": 57,
+      "C Green": 64
+     },
+     "ended_by": "MT Renshaw (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 1,
+     "balls": 9,
+     "batters": [
+      "JP Inglis",
+      "C Green"
+     ],
+     "contributions": {
+      "JP Inglis": 0,
+      "C Green": 1
+     },
+     "ended_by": "C Green (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 185,
+     "balls": 286,
+     "batters": [
+      "AT Carey",
+      "JP Inglis"
+     ],
+     "contributions": {
+      "AT Carey": 72,
+      "JP Inglis": 102
+     },
+     "ended_by": "JP Inglis (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 9,
+     "balls": 22,
+     "batters": [
+      "AT Carey",
+      "C Connolly"
+     ],
+     "contributions": {
+      "AT Carey": 8,
+      "C Connolly": 1
+     },
+     "ended_by": "AT Carey (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "PJ Cummins",
+      "C Connolly"
+     ],
+     "contributions": {
+      "PJ Cummins": 0,
+      "C Connolly": 1
+     },
+     "ended_by": "PJ Cummins (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 22,
+     "balls": 45,
+     "batters": [
+      "C Connolly",
+      "MA Starc"
+     ],
+     "contributions": {
+      "C Connolly": 11,
+      "MA Starc": 11
+     },
+     "ended_by": "MA Starc (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 23,
+     "balls": 78,
+     "batters": [
+      "NM Lyon",
+      "C Connolly"
+     ],
+     "contributions": {
+      "NM Lyon": 1,
+      "C Connolly": 16
+     },
+     "ended_by": "NM Lyon (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 4,
+     "balls": 4,
+     "batters": [
+      "JR Hazlewood",
+      "C Connolly"
+     ],
+     "contributions": {
+      "JR Hazlewood": 4,
+      "C Connolly": 0
+     },
+     "ended_by": "C Connolly (caught and bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 99,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 100,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 101,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 102,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 103,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 104,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 105,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 106,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 107,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 108,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 109,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 110,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 111,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 112,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 113,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 114,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 115,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 116,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 117,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 118,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 119,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 120,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 121,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 122,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 123,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 124,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 125,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 126,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "M Jansen",
+     "legal_balls": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "South Africa",
+   "batting_team": "South Africa",
+   "bowling_team": "Australia",
+   "super_over": false,
+   "total": 387,
+   "wickets": 10,
+   "overs": "134.4",
+   "run_rate": 2.87,
+   "target": null,
+   "extras": {
+    "byes": 6,
+    "legbyes": 7,
+    "noballs": 1,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "AK Markram",
+     "dismissal": "c TM Head b MA Starc",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "MJ Ackerman",
+     "dismissal": "c C Green b MA Starc",
+     "runs": 62,
+     "balls": 80,
+     "dots": 46,
+     "fours": 8,
+     "sixes": 0,
+     "strike_rate": 77.5
+    },
+    {
+     "name": "DG Bedingham",
+     "dismissal": "c NM Lyon b JR Hazlewood",
+     "runs": 11,
+     "balls": 16,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 68.8
+    },
+    {
+     "name": "T Bavuma",
+     "dismissal": "b NM Lyon",
+     "runs": 35,
+     "balls": 115,
+     "dots": 85,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "MP Breetzke",
+     "dismissal": "c MA Starc b PJ Cummins",
+     "runs": 43,
+     "balls": 121,
+     "dots": 94,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 35.5
+    },
+    {
+     "name": "RD Rickelton",
+     "dismissal": "run out (M Labuschagne, JP Inglis)",
+     "runs": 101,
+     "balls": 219,
+     "dots": 159,
+     "fours": 12,
+     "sixes": 0,
+     "strike_rate": 46.1
+    },
+    {
+     "name": "PWA Mulder",
+     "dismissal": "c MA Starc b PJ Cummins",
+     "runs": 115,
+     "balls": 221,
+     "dots": 164,
+     "fours": 10,
+     "sixes": 4,
+     "strike_rate": 52.0
+    },
+    {
+     "name": "M Jansen",
+     "dismissal": "c NM Lyon b MA Starc",
+     "runs": 0,
+     "balls": 8,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "SR Harmer",
+     "dismissal": "b NM Lyon",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "G Coetzee",
+     "dismissal": "run out (M Labuschagne)",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "K Rabada",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 14,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MA Starc",
+     "overs": "24.0",
+     "maidens": 2,
+     "runs": 65,
+     "wickets": 3,
+     "economy": 2.71,
+     "dots": 106,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "JR Hazlewood",
+     "overs": "21.0",
+     "maidens": 2,
+     "runs": 68,
+     "wickets": 1,
+     "economy": 3.24,
+     "dots": 86,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PJ Cummins",
+     "overs": "24.4",
+     "maidens": 5,
+     "runs": 71,
+     "wickets": 2,
+     "economy": 2.88,
+     "dots": 111,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "NM Lyon",
+     "overs": "44.0",
+     "maidens": 10,
+     "runs": 101,
+     "wickets": 2,
+     "economy": 2.3,
+     "dots": 204,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "C Connolly",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 3.5,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MT Renshaw",
+     "overs": "8.0",
+     "maidens": 2,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 2.75,
+     "dots": 33,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "TM Head",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "M Labuschagne",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 4.5,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "AK Markram",
+     "over": "2.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 31,
+     "player": "DG Bedingham",
+     "over": "7.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 95,
+     "player": "MJ Ackerman",
+     "over": "28.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 131,
+     "player": "T Bavuma",
+     "over": "45.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 181,
+     "player": "MP Breetzke",
+     "over": "66.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 335,
+     "player": "RD Rickelton",
+     "over": "119.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 343,
+     "player": "M Jansen",
+     "over": "122.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 344,
+     "player": "SR Harmer",
+     "over": "123.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 351,
+     "player": "G Coetzee",
+     "over": "125.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 10,
+     "score": 387,
+     "player": "PWA Mulder",
+     "over": "134.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 17,
+     "batters": [
+      "AK Markram",
+      "MJ Ackerman"
+     ],
+     "contributions": {
+      "AK Markram": 1,
+      "MJ Ackerman": 11
+     },
+     "ended_by": "AK Markram (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 19,
+     "balls": 28,
+     "batters": [
+      "DG Bedingham",
+      "MJ Ackerman"
+     ],
+     "contributions": {
+      "DG Bedingham": 11,
+      "MJ Ackerman": 4
+     },
+     "ended_by": "DG Bedingham (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 64,
+     "balls": 125,
+     "batters": [
+      "T Bavuma",
+      "MJ Ackerman"
+     ],
+     "contributions": {
+      "T Bavuma": 17,
+      "MJ Ackerman": 47
+     },
+     "ended_by": "MJ Ackerman (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 36,
+     "balls": 105,
+     "batters": [
+      "MP Breetzke",
+      "T Bavuma"
+     ],
+     "contributions": {
+      "MP Breetzke": 18,
+      "T Bavuma": 18
+     },
+     "ended_by": "T Bavuma (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 50,
+     "balls": 126,
+     "batters": [
+      "RD Rickelton",
+      "MP Breetzke"
+     ],
+     "contributions": {
+      "RD Rickelton": 24,
+      "MP Breetzke": 25
+     },
+     "ended_by": "MP Breetzke (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 154,
+     "balls": 318,
+     "batters": [
+      "PWA Mulder",
+      "RD Rickelton"
+     ],
+     "contributions": {
+      "PWA Mulder": 69,
+      "RD Rickelton": 77
+     },
+     "ended_by": "RD Rickelton (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 8,
+     "balls": 17,
+     "batters": [
+      "PWA Mulder",
+      "M Jansen"
+     ],
+     "contributions": {
+      "PWA Mulder": 7,
+      "M Jansen": 0
+     },
+     "ended_by": "M Jansen (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "SR Harmer",
+      "PWA Mulder"
+     ],
+     "contributions": {
+      "SR Harmer": 1,
+      "PWA Mulder": 0
+     },
+     "ended_by": "SR Harmer (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 7,
+     "balls": 16,
+     "batters": [
+      "G Coetzee",
+      "PWA Mulder"
+     ],
+     "contributions": {
+      "G Coetzee": 1,
+      "PWA Mulder": 6
+     },
+     "ended_by": "G Coetzee (run out)"
+    },
+    {
+     "wicket": 10,
+     "runs": 36,
+     "balls": 53,
+     "batters": [
+      "PWA Mulder",
+      "K Rabada"
+     ],
+     "contributions": {
+      "PWA Mulder": 33,
+      "K Rabada": 2
+     },
+     "ended_by": "PWA Mulder (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MT Renshaw",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "C Connolly",
+     "legal_balls": 6
+    },
+    {
+     "over": 99,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 100,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM Head",
+     "legal_balls": 6
+    },
+    {
+     "over": 101,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Labuschagne",
+     "legal_balls": 6
+    },
+    {
+     "over": 102,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM Head",
+     "legal_balls": 6
+    },
+    {
+     "over": 103,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Labuschagne",
+     "legal_balls": 6
+    },
+    {
+     "over": 104,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 105,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 106,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 107,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 108,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 109,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 110,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 111,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 112,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM Head",
+     "legal_balls": 6
+    },
+    {
+     "over": 113,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 114,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM Head",
+     "legal_balls": 6
+    },
+    {
+     "over": 115,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 116,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "TM Head",
+     "legal_balls": 6
+    },
+    {
+     "over": 117,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 118,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Labuschagne",
+     "legal_balls": 6
+    },
+    {
+     "over": 119,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 120,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "M Labuschagne",
+     "legal_balls": 6
+    },
+    {
+     "over": 121,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JR Hazlewood",
+     "legal_balls": 6
+    },
+    {
+     "over": 122,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 123,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 124,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 125,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 126,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 127,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MA Starc",
+     "legal_balls": 6
+    },
+    {
+     "over": 128,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 129,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 130,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 131,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 132,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 133,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PJ Cummins",
+     "legal_balls": 6
+    },
+    {
+     "over": 134,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NM Lyon",
+     "legal_balls": 6
+    },
+    {
+     "over": 135,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "PJ Cummins",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "team": "Australia",
+   "batting_team": "Australia",
+   "bowling_team": "South Africa",
+   "super_over": false,
+   "total": 111,
+   "wickets": 10,
+   "overs": "57.1",
+   "run_rate": 1.94,
+   "target": null,
+   "extras": {
+    "legbyes": 3,
+    "byes": 12,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "TM Head",
+     "dismissal": "c M Jansen b K Rabada",
+     "runs": 14,
+     "balls": 26,
+     "dots": 21,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 53.8
+    },
+    {
+     "name": "MT Renshaw",
+     "dismissal": "c RD Rickelton b K Rabada",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "M Labuschagne",
+     "dismissal": "lbw b K Rabada",
+     "runs": 4,
+     "balls": 3,
+     "dots": 2,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "C Green",
+     "dismissal": "b SR Harmer",
+     "runs": 27,
+     "balls": 110,
+     "dots": 96,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 24.5
+    },
+    {
+     "name": "JP Inglis",
+     "dismissal": "run out (MJ Ackerman, RD Rickelton)",
+     "runs": 4,
+     "balls": 17,
+     "dots": 13,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 23.5
+    },
+    {
+     "name": "AT Carey",
+     "dismissal": "c M Jansen b SR Harmer",
+     "runs": 2,
+     "balls": 9,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 22.2
+    },
+    {
+     "name": "C Connolly",
+     "dismissal": "c RD Rickelton b SR Harmer",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MA Starc",
+     "dismissal": "c C Bosch b SR Harmer",
+     "runs": 0,
+     "balls": 25,
+     "dots": 25,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "PJ Cummins",
+     "dismissal": "lbw b SR Harmer",
+     "runs": 11,
+     "balls": 90,
+     "dots": 85,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 12.2
+    },
+    {
+     "name": "NM Lyon",
+     "dismissal": "not out",
+     "runs": 33,
+     "balls": 57,
+     "dots": 46,
+     "fours": 6,
+     "sixes": 0,
+     "strike_rate": 57.9
+    },
+    {
+     "name": "JR Hazlewood",
+     "dismissal": "b SR Harmer",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Rabada",
+     "overs": "14.0",
+     "maidens": 4,
+     "runs": 39,
+     "wickets": 3,
+     "economy": 2.79,
+     "dots": 68,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "M Jansen",
+     "overs": "8.0",
+     "maidens": 3,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 2.12,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "PWA Mulder",
+     "overs": "2.0",
+     "maidens": 1,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 2.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SR Harmer",
+     "overs": "21.1",
+     "maidens": 14,
+     "runs": 16,
+     "wickets": 6,
+     "economy": 0.76,
+     "dots": 118,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "G Coetzee",
+     "overs": "6.0",
+     "maidens": 3,
+     "runs": 7,
+     "wickets": 0,
+     "economy": 1.17,
+     "dots": 33,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "AK Markram",
+     "overs": "6.0",
+     "maidens": 2,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 2.17,
+     "dots": 31,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "MT Renshaw",
+     "over": "0.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 5,
+     "player": "M Labuschagne",
+     "over": "0.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 22,
+     "player": "TM Head",
+     "over": "6.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 40,
+     "player": "JP Inglis",
+     "over": "15.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 42,
+     "player": "AT Carey",
+     "over": "17.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 42,
+     "player": "C Connolly",
+     "over": "17.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 60,
+     "player": "MA Starc",
+     "over": "25.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 62,
+     "player": "C Green",
+     "over": "38.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 107,
+     "player": "PJ Cummins",
+     "over": "55.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 111,
+     "player": "JR Hazlewood",
+     "over": "57.1",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "TM Head",
+      "MT Renshaw"
+     ],
+     "contributions": {
+      "TM Head": 1,
+      "MT Renshaw": 0
+     },
+     "ended_by": "MT Renshaw (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 4,
+     "balls": 3,
+     "batters": [
+      "M Labuschagne",
+      "TM Head"
+     ],
+     "contributions": {
+      "M Labuschagne": 4,
+      "TM Head": 0
+     },
+     "ended_by": "M Labuschagne (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 17,
+     "balls": 36,
+     "batters": [
+      "TM Head",
+      "C Green"
+     ],
+     "contributions": {
+      "TM Head": 13,
+      "C Green": 2
+     },
+     "ended_by": "TM Head (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 18,
+     "balls": 51,
+     "batters": [
+      "C Green",
+      "JP Inglis"
+     ],
+     "contributions": {
+      "C Green": 14,
+      "JP Inglis": 4
+     },
+     "ended_by": "JP Inglis (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 11,
+     "batters": [
+      "AT Carey",
+      "C Green"
+     ],
+     "contributions": {
+      "AT Carey": 2,
+      "C Green": 0
+     },
+     "ended_by": "AT Carey (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "C Connolly",
+      "C Green"
+     ],
+     "contributions": {
+      "C Connolly": 0,
+      "C Green": 0
+     },
+     "ended_by": "C Connolly (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 18,
+     "balls": 50,
+     "batters": [
+      "MA Starc",
+      "C Green"
+     ],
+     "contributions": {
+      "MA Starc": 0,
+      "C Green": 9
+     },
+     "ended_by": "MA Starc (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 2,
+     "balls": 73,
+     "batters": [
+      "C Green",
+      "PJ Cummins"
+     ],
+     "contributions": {
+      "C Green": 2,
+      "PJ Cummins": 0
+     },
+     "ended_by": "C Green (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 45,
+     "balls": 104,
+     "batters": [
+      "NM Lyon",
+      "PJ Cummins"
+     ],
+     "contributions": {
+      "NM Lyon": 29,
+      "PJ Cummins": 11
+     },
+     "ended_by": "PJ Cummins (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 4,
+     "balls": 10,
+     "batters": [
+      "JR Hazlewood",
+      "NM Lyon"
+     ],
+     "contributions": {
+      "JR Hazlewood": 0,
+      "NM Lyon": 4
+     },
+     "ended_by": "JR Hazlewood (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "PWA Mulder",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Jansen",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "G Coetzee",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Rabada",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AK Markram",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SR Harmer",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "PWA Mulder",
+    "runs": 115,
+    "balls": 221,
+    "strike_rate": 52.0
+   },
+   {
+    "name": "JP Inglis",
+    "runs": 102,
+    "balls": 135,
+    "strike_rate": 75.6
+   },
+   {
+    "name": "RD Rickelton",
+    "runs": 101,
+    "balls": 219,
+    "strike_rate": 46.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "SR Harmer",
+    "figures": "6/16",
+    "overs": "21.1",
+    "economy": 0.76
+   },
+   {
+    "name": "MA Starc",
+    "figures": "6/72",
+    "overs": "16.3",
+    "economy": 4.36
+   },
+   {
+    "name": "SR Harmer",
+    "figures": "4/104",
+    "overs": "37.0",
+    "economy": 2.81
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "South Africa",
+   "type": "big_over",
+   "over": 22,
+   "detail": "Over 22 (PJ Cummins) went for 12 runs"
+  },
+  {
+   "innings": 1,
+   "team": "South Africa",
+   "type": "big_over",
+   "over": 25,
+   "detail": "Over 25 (MA Starc) went for 18 runs"
+  },
+  {
+   "innings": 1,
+   "team": "South Africa",
+   "type": "wicket_burst",
+   "over": 57,
+   "detail": "2 wickets fell in over 57 (bowled by MA Starc, 2 credited to MA Starc)"
+  },
+  {
+   "innings": 1,
+   "team": "South Africa",
+   "type": "wicket_burst",
+   "over": 81,
+   "detail": "2 wickets fell in over 81 (bowled by MA Starc, 2 credited to MA Starc)"
+  },
+  {
+   "innings": 1,
+   "team": "South Africa",
+   "type": "wicket_burst",
+   "over": 83,
+   "detail": "2 wickets fell in over 83 (bowled by MA Starc, 2 credited to MA Starc)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "wicket_burst",
+   "over": 18,
+   "detail": "2 wickets fell in over 18 (bowled by SR Harmer, 2 credited to SR Harmer)"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 35,
+   "detail": "Over 35 (K Rabada) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Australia",
+   "type": "big_over",
+   "over": 89,
+   "detail": "Over 89 (G Coetzee) went for 13 runs"
+  },
+  {
+   "innings": 4,
+   "team": "Australia",
+   "type": "wicket_burst",
+   "over": 1,
+   "detail": "2 wickets fell in over 1 (bowled by K Rabada, 2 credited to K Rabada)"
+  },
+  {
+   "innings": 4,
+   "team": "Australia",
+   "type": "wicket_burst",
+   "over": 18,
+   "detail": "2 wickets fell in over 18 (bowled by SR Harmer, 2 credited to SR Harmer)"
+  }
+ ],
+ "checks": []
+}

@@ -1,0 +1,1186 @@
+{
+ "match": {
+  "teams": [
+   "Zimbabwe",
+   "India"
+  ],
+  "dates": [
+   "2026-10-28"
+  ],
+  "venue": "Kotambi Stadium, Vadodara",
+  "city": "Vadodara",
+  "event": "Zimbabwe Women tour of India",
+  "match_number": 3,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Zimbabwe"
+  },
+  "player_of_match": [
+   "Vaishnavi Sharma"
+  ],
+  "result": "India won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Zimbabwe",
+   "batting_team": "Zimbabwe",
+   "bowling_team": "India",
+   "super_over": false,
+   "total": 131,
+   "wickets": 10,
+   "overs": "39.5",
+   "run_rate": 3.29,
+   "target": null,
+   "extras": {
+    "wides": 7,
+    "noballs": 2,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "M Mupachikwa",
+     "dismissal": "st YH Bhatia b Vaishnavi Sharma",
+     "runs": 37,
+     "balls": 48,
+     "dots": 32,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 77.1
+    },
+    {
+     "name": "L Phiri",
+     "dismissal": "c YH Bhatia b SG Satghare",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "CS Mugeri-Tiripano",
+     "dismissal": "c Shafali Verma b K Goud",
+     "runs": 4,
+     "balls": 8,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "B Biza",
+     "dismissal": "c H Kaur b Vaishnavi Sharma",
+     "runs": 1,
+     "balls": 16,
+     "dots": 15,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 6.2
+    },
+    {
+     "name": "J Nkomo",
+     "dismissal": "c JN Kalita b K Goud",
+     "runs": 35,
+     "balls": 67,
+     "dots": 46,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 52.2
+    },
+    {
+     "name": "CT Dhururu",
+     "dismissal": "c JN Kalita b Vaishnavi Sharma",
+     "runs": 20,
+     "balls": 39,
+     "dots": 32,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 51.3
+    },
+    {
+     "name": "M Mavunga",
+     "dismissal": "c H Deol b Vaishnavi Sharma",
+     "runs": 6,
+     "balls": 9,
+     "dots": 7,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 66.7
+    },
+    {
+     "name": "N Gwanzura",
+     "dismissal": "b Vaishnavi Sharma",
+     "runs": 10,
+     "balls": 13,
+     "dots": 10,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 76.9
+    },
+    {
+     "name": "O Chare",
+     "dismissal": "b SG Satghare",
+     "runs": 0,
+     "balls": 10,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "N Sibanda",
+     "dismissal": "run out (YH Bhatia, JN Kalita)",
+     "runs": 3,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "F Chipare",
+     "dismissal": "not out",
+     "runs": 4,
+     "balls": 13,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.8
+    }
+   ],
+   "bowling": [
+    {
+     "name": "K Goud",
+     "overs": "7.0",
+     "maidens": 1,
+     "runs": 23,
+     "wickets": 2,
+     "economy": 3.29,
+     "dots": 33,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "SG Satghare",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 11,
+     "wickets": 2,
+     "economy": 1.83,
+     "dots": 30,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "JN Kalita",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 4.5,
+     "dots": 25,
+     "wides": 3,
+     "noballs": 1
+    },
+    {
+     "name": "Vaishnavi Sharma",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 39,
+     "wickets": 5,
+     "economy": 3.9,
+     "dots": 46,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "DB Sharma",
+     "overs": "6.5",
+     "maidens": 1,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 1.76,
+     "dots": 31,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shafali Verma",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 4.25,
+     "dots": 17,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 30,
+     "wickets": 3,
+     "run_rate": 3.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "29.5",
+     "runs": 101,
+     "wickets": 7,
+     "run_rate": 3.39
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "L Phiri",
+     "over": "1.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 12,
+     "player": "CS Mugeri-Tiripano",
+     "over": "2.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 25,
+     "player": "B Biza",
+     "over": "9.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 52,
+     "player": "M Mupachikwa",
+     "over": "15.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 5,
+     "score": 95,
+     "player": "CT Dhururu",
+     "over": "27.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 105,
+     "player": "M Mavunga",
+     "over": "29.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 119,
+     "player": "J Nkomo",
+     "over": "32.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 123,
+     "player": "N Gwanzura",
+     "over": "33.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 125,
+     "player": "O Chare",
+     "over": "36.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 131,
+     "player": "N Sibanda",
+     "over": "39.5",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 9,
+     "batters": [
+      "M Mupachikwa",
+      "L Phiri"
+     ],
+     "contributions": {
+      "M Mupachikwa": 6,
+      "L Phiri": 0
+     },
+     "ended_by": "L Phiri (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 6,
+     "balls": 9,
+     "batters": [
+      "CS Mugeri-Tiripano",
+      "M Mupachikwa"
+     ],
+     "contributions": {
+      "CS Mugeri-Tiripano": 4,
+      "M Mupachikwa": 1
+     },
+     "ended_by": "CS Mugeri-Tiripano (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 13,
+     "balls": 37,
+     "batters": [
+      "M Mupachikwa",
+      "B Biza"
+     ],
+     "contributions": {
+      "M Mupachikwa": 9,
+      "B Biza": 1
+     },
+     "ended_by": "B Biza (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 27,
+     "balls": 40,
+     "batters": [
+      "J Nkomo",
+      "M Mupachikwa"
+     ],
+     "contributions": {
+      "J Nkomo": 4,
+      "M Mupachikwa": 21
+     },
+     "ended_by": "M Mupachikwa (stumped)"
+    },
+    {
+     "wicket": 5,
+     "runs": 43,
+     "balls": 69,
+     "batters": [
+      "CT Dhururu",
+      "J Nkomo"
+     ],
+     "contributions": {
+      "CT Dhururu": 20,
+      "J Nkomo": 19
+     },
+     "ended_by": "CT Dhururu (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 10,
+     "balls": 15,
+     "batters": [
+      "M Mavunga",
+      "J Nkomo"
+     ],
+     "contributions": {
+      "M Mavunga": 6,
+      "J Nkomo": 4
+     },
+     "ended_by": "M Mavunga (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 14,
+     "balls": 19,
+     "batters": [
+      "N Gwanzura",
+      "J Nkomo"
+     ],
+     "contributions": {
+      "N Gwanzura": 6,
+      "J Nkomo": 8
+     },
+     "ended_by": "J Nkomo (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "N Gwanzura",
+      "O Chare"
+     ],
+     "contributions": {
+      "N Gwanzura": 4,
+      "O Chare": 0
+     },
+     "ended_by": "N Gwanzura (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 2,
+     "balls": 14,
+     "batters": [
+      "O Chare",
+      "N Sibanda"
+     ],
+     "contributions": {
+      "O Chare": 0,
+      "N Sibanda": 1
+     },
+     "ended_by": "O Chare (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 6,
+     "balls": 21,
+     "batters": [
+      "F Chipare",
+      "N Sibanda"
+     ],
+     "contributions": {
+      "F Chipare": 4,
+      "N Sibanda": 2
+     },
+     "ended_by": "N Sibanda (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JN Kalita",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shafali Verma",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shafali Verma",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shafali Verma",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shafali Verma",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Vaishnavi Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "K Goud",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SG Satghare",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "DB Sharma",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "India",
+   "batting_team": "India",
+   "bowling_team": "Zimbabwe",
+   "super_over": false,
+   "total": 133,
+   "wickets": 2,
+   "overs": "17.0",
+   "run_rate": 7.82,
+   "target": 132,
+   "extras": {
+    "wides": 3,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "YH Bhatia",
+     "dismissal": "c F Chipare b N Sibanda",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Pratika Rawal",
+     "dismissal": "not out",
+     "runs": 59,
+     "balls": 56,
+     "dots": 26,
+     "fours": 4,
+     "sixes": 3,
+     "strike_rate": 105.4
+    },
+    {
+     "name": "H Deol",
+     "dismissal": "c M Mupachikwa b L Phiri",
+     "runs": 19,
+     "balls": 19,
+     "dots": 12,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Shafali Verma",
+     "dismissal": "not out",
+     "runs": 51,
+     "balls": 26,
+     "dots": 8,
+     "fours": 6,
+     "sixes": 3,
+     "strike_rate": 196.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "N Sibanda",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 1,
+     "economy": 6.0,
+     "dots": 11,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "M Mavunga",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 18,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "F Chipare",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 6.25,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "L Phiri",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 28,
+     "wickets": 1,
+     "economy": 9.33,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "O Chare",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 8.67,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "B Biza",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 6,
+     "wides": 1,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 66,
+     "wickets": 2,
+     "run_rate": 6.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "7.0",
+     "runs": 67,
+     "wickets": 0,
+     "run_rate": 9.57
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "YH Bhatia",
+     "over": "0.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 59,
+     "player": "H Deol",
+     "over": "8.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "YH Bhatia",
+      "Pratika Rawal"
+     ],
+     "contributions": {
+      "YH Bhatia": 0,
+      "Pratika Rawal": 0
+     },
+     "ended_by": "YH Bhatia (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 59,
+     "balls": 51,
+     "batters": [
+      "H Deol",
+      "Pratika Rawal"
+     ],
+     "contributions": {
+      "H Deol": 19,
+      "Pratika Rawal": 38
+     },
+     "ended_by": "H Deol (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 74,
+     "balls": 50,
+     "batters": [
+      "Shafali Verma",
+      "Pratika Rawal"
+     ],
+     "contributions": {
+      "Shafali Verma": 51,
+      "Pratika Rawal": 21
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Sibanda",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mavunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Sibanda",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "M Mavunga",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Sibanda",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Chipare",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Phiri",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Chipare",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "L Phiri",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Chipare",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "L Phiri",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "F Chipare",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Chare",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Biza",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Chare",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "B Biza",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Chare",
+     "legal_balls": 6
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Pratika Rawal",
+    "runs": 59,
+    "balls": 56,
+    "strike_rate": 105.4
+   },
+   {
+    "name": "Shafali Verma",
+    "runs": 51,
+    "balls": 26,
+    "strike_rate": 196.2
+   },
+   {
+    "name": "M Mupachikwa",
+    "runs": 37,
+    "balls": 48,
+    "strike_rate": 77.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Vaishnavi Sharma",
+    "figures": "5/39",
+    "overs": "10.0",
+    "economy": 3.9
+   },
+   {
+    "name": "SG Satghare",
+    "figures": "2/11",
+    "overs": "6.0",
+    "economy": 1.83
+   },
+   {
+    "name": "K Goud",
+    "figures": "2/23",
+    "overs": "7.0",
+    "economy": 3.29
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "India",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 42 scored, needed 90 from 44 overs (RRR 2.05)"
+  },
+  {
+   "innings": 2,
+   "team": "India",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 66 scored, needed 66 from 40 overs (RRR 1.65)"
+  },
+  {
+   "innings": 2,
+   "team": "India",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 116 scored, needed 16 from 35 overs (RRR 0.46)"
+  }
+ ],
+ "checks": []
+}

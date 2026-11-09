@@ -1,0 +1,3356 @@
+{
+ "match": {
+  "teams": [
+   "Tasmania",
+   "New South Wales"
+  ],
+  "dates": [
+   "2026-10-30",
+   "2026-10-31",
+   "2026-11-01"
+  ],
+  "venue": "Bellerive Oval, Hobart",
+  "city": "Hobart",
+  "event": "Sheffield Shield",
+  "match_number": 8,
+  "match_type": "MDM",
+  "overs": null,
+  "toss": {
+   "decision": "field",
+   "winner": "New South Wales"
+  },
+  "player_of_match": [
+   "JR Doran"
+  ],
+  "result": "Tasmania won by 81 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Tasmania",
+   "batting_team": "Tasmania",
+   "bowling_team": "New South Wales",
+   "super_over": false,
+   "total": 427,
+   "wickets": 10,
+   "overs": "119.1",
+   "run_rate": 3.58,
+   "target": null,
+   "extras": {
+    "noballs": 4,
+    "byes": 14,
+    "wides": 2,
+    "legbyes": 5
+   },
+   "batting": [
+    {
+     "name": "CP Jewell",
+     "dismissal": "c RR Hicks b J Scott",
+     "runs": 46,
+     "balls": 83,
+     "dots": 63,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 55.4
+    },
+    {
+     "name": "MJ Owen",
+     "dismissal": "c NJ Maddinson b BJ Dwarshuis",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "TP Ward",
+     "dismissal": "b BA Jackson",
+     "runs": 17,
+     "balls": 35,
+     "dots": 29,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 48.6
+    },
+    {
+     "name": "T Wyllie",
+     "dismissal": "c & b J Scott",
+     "runs": 64,
+     "balls": 113,
+     "dots": 86,
+     "fours": 7,
+     "sixes": 1,
+     "strike_rate": 56.6
+    },
+    {
+     "name": "JC Silk",
+     "dismissal": "lbw b SA Abbott",
+     "runs": 37,
+     "balls": 104,
+     "dots": 82,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 35.6
+    },
+    {
+     "name": "JR Doran",
+     "dismissal": "c J Scott b BJ Dwarshuis",
+     "runs": 77,
+     "balls": 123,
+     "dots": 85,
+     "fours": 11,
+     "sixes": 0,
+     "strike_rate": 62.6
+    },
+    {
+     "name": "BM Hope",
+     "dismissal": "c RR Hicks b BJ Dwarshuis",
+     "runs": 99,
+     "balls": 182,
+     "dots": 135,
+     "fours": 13,
+     "sixes": 0,
+     "strike_rate": 54.4
+    },
+    {
+     "name": "N Radhakrishnan",
+     "dismissal": "c RR Hicks b BJ Dwarshuis",
+     "runs": 1,
+     "balls": 6,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 16.7
+    },
+    {
+     "name": "RP Meredith",
+     "dismissal": "c KR Patterson b LC Hatcher",
+     "runs": 22,
+     "balls": 25,
+     "dots": 17,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 88.0
+    },
+    {
+     "name": "GT Bell",
+     "dismissal": "b LC Hatcher",
+     "runs": 14,
+     "balls": 26,
+     "dots": 19,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 53.8
+    },
+    {
+     "name": "JM Bird",
+     "dismissal": "not out",
+     "runs": 25,
+     "balls": 21,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 119.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "LC Hatcher",
+     "overs": "21.1",
+     "maidens": 4,
+     "runs": 67,
+     "wickets": 2,
+     "economy": 3.17,
+     "dots": 98,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BJ Dwarshuis",
+     "overs": "22.0",
+     "maidens": 5,
+     "runs": 85,
+     "wickets": 4,
+     "economy": 3.86,
+     "dots": 103,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BA Jackson",
+     "overs": "19.0",
+     "maidens": 5,
+     "runs": 67,
+     "wickets": 1,
+     "economy": 3.53,
+     "dots": 85,
+     "wides": 0,
+     "noballs": 3
+    },
+    {
+     "name": "SA Abbott",
+     "overs": "23.0",
+     "maidens": 6,
+     "runs": 48,
+     "wickets": 1,
+     "economy": 2.09,
+     "dots": 112,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "J Scott",
+     "overs": "18.0",
+     "maidens": 2,
+     "runs": 80,
+     "wickets": 2,
+     "economy": 4.44,
+     "dots": 72,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "O Davies",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 3.75,
+     "dots": 33,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "NJ Maddinson",
+     "overs": "8.0",
+     "maidens": 1,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 3.88,
+     "dots": 27,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 8,
+     "player": "MJ Owen",
+     "over": "1.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 48,
+     "player": "TP Ward",
+     "over": "14.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 79,
+     "player": "CP Jewell",
+     "over": "22.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 170,
+     "player": "T Wyllie",
+     "over": "54.2",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 182,
+     "player": "JC Silk",
+     "over": "57.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 363,
+     "player": "JR Doran",
+     "over": "104.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 365,
+     "player": "N Radhakrishnan",
+     "over": "106.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 370,
+     "player": "BM Hope",
+     "over": "108.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 396,
+     "player": "RP Meredith",
+     "over": "113.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 427,
+     "player": "GT Bell",
+     "over": "119.1",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 8,
+     "balls": 12,
+     "batters": [
+      "CP Jewell",
+      "MJ Owen"
+     ],
+     "contributions": {
+      "CP Jewell": 8,
+      "MJ Owen": 0
+     },
+     "ended_by": "MJ Owen (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 40,
+     "balls": 78,
+     "batters": [
+      "CP Jewell",
+      "TP Ward"
+     ],
+     "contributions": {
+      "CP Jewell": 22,
+      "TP Ward": 17
+     },
+     "ended_by": "TP Ward (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 31,
+     "balls": 47,
+     "batters": [
+      "CP Jewell",
+      "T Wyllie"
+     ],
+     "contributions": {
+      "CP Jewell": 16,
+      "T Wyllie": 11
+     },
+     "ended_by": "CP Jewell (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 91,
+     "balls": 189,
+     "batters": [
+      "JC Silk",
+      "T Wyllie"
+     ],
+     "contributions": {
+      "JC Silk": 36,
+      "T Wyllie": 53
+     },
+     "ended_by": "T Wyllie (caught and bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 12,
+     "balls": 17,
+     "batters": [
+      "JR Doran",
+      "JC Silk"
+     ],
+     "contributions": {
+      "JR Doran": 10,
+      "JC Silk": 1
+     },
+     "ended_by": "JC Silk (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 181,
+     "balls": 285,
+     "batters": [
+      "BM Hope",
+      "JR Doran"
+     ],
+     "contributions": {
+      "BM Hope": 97,
+      "JR Doran": 67
+     },
+     "ended_by": "JR Doran (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 9,
+     "batters": [
+      "N Radhakrishnan",
+      "BM Hope"
+     ],
+     "contributions": {
+      "N Radhakrishnan": 1,
+      "BM Hope": 1
+     },
+     "ended_by": "N Radhakrishnan (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 5,
+     "balls": 16,
+     "batters": [
+      "RP Meredith",
+      "BM Hope"
+     ],
+     "contributions": {
+      "RP Meredith": 4,
+      "BM Hope": 1
+     },
+     "ended_by": "BM Hope (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 26,
+     "balls": 27,
+     "batters": [
+      "GT Bell",
+      "RP Meredith"
+     ],
+     "contributions": {
+      "GT Bell": 8,
+      "RP Meredith": 18
+     },
+     "ended_by": "RP Meredith (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 31,
+     "balls": 35,
+     "batters": [
+      "JM Bird",
+      "GT Bell"
+     ],
+     "contributions": {
+      "JM Bird": 25,
+      "GT Bell": 6
+     },
+     "ended_by": "GT Bell (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NJ Maddinson",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "O Davies",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 99,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 100,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 101,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 102,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 103,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Scott",
+     "legal_balls": 6
+    },
+    {
+     "over": 104,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 105,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 106,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 107,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 108,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Abbott",
+     "legal_balls": 6
+    },
+    {
+     "over": 109,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 110,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 111,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BJ Dwarshuis",
+     "legal_balls": 6
+    },
+    {
+     "over": 112,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 113,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 114,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 115,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 116,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 117,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 118,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LC Hatcher",
+     "legal_balls": 6
+    },
+    {
+     "over": 119,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BA Jackson",
+     "legal_balls": 6
+    },
+    {
+     "over": 120,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LC Hatcher",
+     "legal_balls": 1
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "New South Wales",
+   "batting_team": "New South Wales",
+   "bowling_team": "Tasmania",
+   "super_over": false,
+   "total": 202,
+   "wickets": 10,
+   "overs": "79.2",
+   "run_rate": 2.55,
+   "target": null,
+   "extras": {
+    "noballs": 6,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "O Davies",
+     "dismissal": "c JR Doran b JM Bird",
+     "runs": 13,
+     "balls": 25,
+     "dots": 19,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 52.0
+    },
+    {
+     "name": "S Konstas",
+     "dismissal": "c JR Doran b JM Bird",
+     "runs": 5,
+     "balls": 10,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "KR Patterson",
+     "dismissal": "c JR Doran b BM Hope",
+     "runs": 14,
+     "balls": 50,
+     "dots": 41,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 28.0
+    },
+    {
+     "name": "NJ Maddinson",
+     "dismissal": "c MJ Owen b JM Bird",
+     "runs": 2,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "L Shaw",
+     "dismissal": "c JC Silk b JM Bird",
+     "runs": 45,
+     "balls": 57,
+     "dots": 36,
+     "fours": 7,
+     "sixes": 0,
+     "strike_rate": 78.9
+    },
+    {
+     "name": "J Scott",
+     "dismissal": "c & b RP Meredith",
+     "runs": 31,
+     "balls": 79,
+     "dots": 62,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 39.2
+    },
+    {
+     "name": "RR Hicks",
+     "dismissal": "c CP Jewell b MJ Owen",
+     "runs": 43,
+     "balls": 81,
+     "dots": 61,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 53.1
+    },
+    {
+     "name": "BJ Dwarshuis",
+     "dismissal": "c BM Hope b N Radhakrishnan",
+     "runs": 14,
+     "balls": 46,
+     "dots": 38,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "SA Abbott",
+     "dismissal": "c JC Silk b MJ Owen",
+     "runs": 1,
+     "balls": 10,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 10.0
+    },
+    {
+     "name": "LC Hatcher",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 63,
+     "dots": 56,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.6
+    },
+    {
+     "name": "BA Jackson",
+     "dismissal": "c JM Bird b BM Hope",
+     "runs": 13,
+     "balls": 56,
+     "dots": 50,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 23.2
+    }
+   ],
+   "bowling": [
+    {
+     "name": "GT Bell",
+     "overs": "14.0",
+     "maidens": 1,
+     "runs": 44,
+     "wickets": 0,
+     "economy": 3.14,
+     "dots": 62,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "JM Bird",
+     "overs": "15.0",
+     "maidens": 2,
+     "runs": 39,
+     "wickets": 4,
+     "economy": 2.6,
+     "dots": 75,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "RP Meredith",
+     "overs": "12.0",
+     "maidens": 3,
+     "runs": 27,
+     "wickets": 1,
+     "economy": 2.25,
+     "dots": 57,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Owen",
+     "overs": "12.0",
+     "maidens": 2,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 2.92,
+     "dots": 55,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BM Hope",
+     "overs": "7.2",
+     "maidens": 0,
+     "runs": 35,
+     "wickets": 2,
+     "economy": 4.77,
+     "dots": 30,
+     "wides": 0,
+     "noballs": 3
+    },
+    {
+     "name": "N Radhakrishnan",
+     "overs": "19.0",
+     "maidens": 10,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 1.05,
+     "dots": 101,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 12,
+     "player": "S Konstas",
+     "over": "3.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 23,
+     "player": "O Davies",
+     "over": "9.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 26,
+     "player": "NJ Maddinson",
+     "over": "9.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 64,
+     "player": "KR Patterson",
+     "over": "20.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 101,
+     "player": "L Shaw",
+     "over": "29.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 134,
+     "player": "J Scott",
+     "over": "43.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 168,
+     "player": "RR Hicks",
+     "over": "56.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 171,
+     "player": "SA Abbott",
+     "over": "58.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 176,
+     "player": "BJ Dwarshuis",
+     "over": "60.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 202,
+     "player": "BA Jackson",
+     "over": "79.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 12,
+     "balls": 21,
+     "batters": [
+      "O Davies",
+      "S Konstas"
+     ],
+     "contributions": {
+      "O Davies": 7,
+      "S Konstas": 5
+     },
+     "ended_by": "S Konstas (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 11,
+     "balls": 35,
+     "batters": [
+      "KR Patterson",
+      "O Davies"
+     ],
+     "contributions": {
+      "KR Patterson": 5,
+      "O Davies": 6
+     },
+     "ended_by": "O Davies (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 3,
+     "balls": 4,
+     "batters": [
+      "NJ Maddinson",
+      "KR Patterson"
+     ],
+     "contributions": {
+      "NJ Maddinson": 2,
+      "KR Patterson": 0
+     },
+     "ended_by": "NJ Maddinson (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 38,
+     "balls": 65,
+     "batters": [
+      "KR Patterson",
+      "L Shaw"
+     ],
+     "contributions": {
+      "KR Patterson": 9,
+      "L Shaw": 27
+     },
+     "ended_by": "KR Patterson (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 37,
+     "balls": 50,
+     "batters": [
+      "J Scott",
+      "L Shaw"
+     ],
+     "contributions": {
+      "J Scott": 18,
+      "L Shaw": 18
+     },
+     "ended_by": "L Shaw (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 33,
+     "balls": 88,
+     "batters": [
+      "RR Hicks",
+      "J Scott"
+     ],
+     "contributions": {
+      "RR Hicks": 20,
+      "J Scott": 13
+     },
+     "ended_by": "J Scott (caught and bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 34,
+     "balls": 76,
+     "batters": [
+      "BJ Dwarshuis",
+      "RR Hicks"
+     ],
+     "contributions": {
+      "BJ Dwarshuis": 11,
+      "RR Hicks": 23
+     },
+     "ended_by": "RR Hicks (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 3,
+     "balls": 11,
+     "batters": [
+      "SA Abbott",
+      "BJ Dwarshuis"
+     ],
+     "contributions": {
+      "SA Abbott": 1,
+      "BJ Dwarshuis": 1
+     },
+     "ended_by": "SA Abbott (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 5,
+     "balls": 16,
+     "batters": [
+      "LC Hatcher",
+      "BJ Dwarshuis"
+     ],
+     "contributions": {
+      "LC Hatcher": 3,
+      "BJ Dwarshuis": 2
+     },
+     "ended_by": "BJ Dwarshuis (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 26,
+     "balls": 110,
+     "batters": [
+      "LC Hatcher",
+      "BA Jackson"
+     ],
+     "contributions": {
+      "LC Hatcher": 10,
+      "BA Jackson": 13
+     },
+     "ended_by": "BA Jackson (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "BM Hope",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "New South Wales",
+   "batting_team": "New South Wales",
+   "bowling_team": "Tasmania",
+   "super_over": false,
+   "total": 144,
+   "wickets": 10,
+   "overs": "50.2",
+   "run_rate": 2.86,
+   "target": null,
+   "extras": {
+    "byes": 6,
+    "noballs": 4,
+    "legbyes": 4
+   },
+   "batting": [
+    {
+     "name": "O Davies",
+     "dismissal": "c JM Bird b GT Bell",
+     "runs": 4,
+     "balls": 13,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 30.8
+    },
+    {
+     "name": "S Konstas",
+     "dismissal": "lbw b GT Bell",
+     "runs": 2,
+     "balls": 10,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "KR Patterson",
+     "dismissal": "c JR Doran b JM Bird",
+     "runs": 9,
+     "balls": 18,
+     "dots": 14,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "NJ Maddinson",
+     "dismissal": "lbw b JM Bird",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "L Shaw",
+     "dismissal": "c JR Doran b RP Meredith",
+     "runs": 9,
+     "balls": 26,
+     "dots": 21,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 34.6
+    },
+    {
+     "name": "J Scott",
+     "dismissal": "c CP Jewell b MJ Owen",
+     "runs": 28,
+     "balls": 109,
+     "dots": 94,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 25.7
+    },
+    {
+     "name": "RR Hicks",
+     "dismissal": "lbw b JM Bird",
+     "runs": 4,
+     "balls": 23,
+     "dots": 22,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 17.4
+    },
+    {
+     "name": "BJ Dwarshuis",
+     "dismissal": "b N Radhakrishnan",
+     "runs": 36,
+     "balls": 60,
+     "dots": 39,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "SA Abbott",
+     "dismissal": "c JR Doran b MJ Owen",
+     "runs": 17,
+     "balls": 17,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "LC Hatcher",
+     "dismissal": "c GT Bell b MJ Owen",
+     "runs": 10,
+     "balls": 13,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 76.9
+    },
+    {
+     "name": "BA Jackson",
+     "dismissal": "not out",
+     "runs": 10,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 83.3
+    }
+   ],
+   "bowling": [
+    {
+     "name": "GT Bell",
+     "overs": "13.0",
+     "maidens": 5,
+     "runs": 13,
+     "wickets": 2,
+     "economy": 1.0,
+     "dots": 68,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JM Bird",
+     "overs": "9.0",
+     "maidens": 2,
+     "runs": 26,
+     "wickets": 3,
+     "economy": 2.89,
+     "dots": 45,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "RP Meredith",
+     "overs": "8.0",
+     "maidens": 2,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 37,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MJ Owen",
+     "overs": "9.2",
+     "maidens": 1,
+     "runs": 36,
+     "wickets": 3,
+     "economy": 3.86,
+     "dots": 42,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "N Radhakrishnan",
+     "overs": "6.0",
+     "maidens": 2,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 2.33,
+     "dots": 27,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "BM Hope",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 20,
+     "wides": 0,
+     "noballs": 2
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 6,
+     "player": "O Davies",
+     "over": "2.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 7,
+     "player": "S Konstas",
+     "over": "4.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 8,
+     "player": "NJ Maddinson",
+     "over": "5.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 20,
+     "player": "KR Patterson",
+     "over": "9.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 31,
+     "player": "L Shaw",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 45,
+     "player": "RR Hicks",
+     "over": "21.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 92,
+     "player": "J Scott",
+     "over": "40.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 118,
+     "player": "SA Abbott",
+     "over": "44.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 124,
+     "player": "BJ Dwarshuis",
+     "over": "47.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 144,
+     "player": "LC Hatcher",
+     "over": "50.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 6,
+     "balls": 16,
+     "batters": [
+      "O Davies",
+      "S Konstas"
+     ],
+     "contributions": {
+      "O Davies": 4,
+      "S Konstas": 1
+     },
+     "ended_by": "O Davies (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 1,
+     "balls": 11,
+     "batters": [
+      "KR Patterson",
+      "S Konstas"
+     ],
+     "contributions": {
+      "KR Patterson": 0,
+      "S Konstas": 1
+     },
+     "ended_by": "S Konstas (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "NJ Maddinson",
+      "KR Patterson"
+     ],
+     "contributions": {
+      "NJ Maddinson": 1,
+      "KR Patterson": 0
+     },
+     "ended_by": "NJ Maddinson (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 12,
+     "balls": 22,
+     "batters": [
+      "L Shaw",
+      "KR Patterson"
+     ],
+     "contributions": {
+      "L Shaw": 2,
+      "KR Patterson": 9
+     },
+     "ended_by": "KR Patterson (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 11,
+     "balls": 24,
+     "batters": [
+      "J Scott",
+      "L Shaw"
+     ],
+     "contributions": {
+      "J Scott": 4,
+      "L Shaw": 7
+     },
+     "ended_by": "L Shaw (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 14,
+     "balls": 52,
+     "batters": [
+      "RR Hicks",
+      "J Scott"
+     ],
+     "contributions": {
+      "RR Hicks": 4,
+      "J Scott": 4
+     },
+     "ended_by": "RR Hicks (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 47,
+     "balls": 111,
+     "batters": [
+      "J Scott",
+      "BJ Dwarshuis"
+     ],
+     "contributions": {
+      "J Scott": 20,
+      "BJ Dwarshuis": 26
+     },
+     "ended_by": "J Scott (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 26,
+     "balls": 26,
+     "batters": [
+      "SA Abbott",
+      "BJ Dwarshuis"
+     ],
+     "contributions": {
+      "SA Abbott": 17,
+      "BJ Dwarshuis": 7
+     },
+     "ended_by": "SA Abbott (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 6,
+     "balls": 16,
+     "batters": [
+      "LC Hatcher",
+      "BJ Dwarshuis"
+     ],
+     "contributions": {
+      "LC Hatcher": 3,
+      "BJ Dwarshuis": 3
+     },
+     "ended_by": "BJ Dwarshuis (bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 20,
+     "balls": 17,
+     "batters": [
+      "BA Jackson",
+      "LC Hatcher"
+     ],
+     "contributions": {
+      "BA Jackson": 10,
+      "LC Hatcher": 7
+     },
+     "ended_by": "LC Hatcher (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JM Bird",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "GT Bell",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RP Meredith",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "BM Hope",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MJ Owen",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "N Radhakrishnan",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MJ Owen",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "BM Hope",
+    "runs": 99,
+    "balls": 182,
+    "strike_rate": 54.4
+   },
+   {
+    "name": "JR Doran",
+    "runs": 77,
+    "balls": 123,
+    "strike_rate": 62.6
+   },
+   {
+    "name": "T Wyllie",
+    "runs": 64,
+    "balls": 113,
+    "strike_rate": 56.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "JM Bird",
+    "figures": "4/39",
+    "overs": "15.0",
+    "economy": 2.6
+   },
+   {
+    "name": "BJ Dwarshuis",
+    "figures": "4/85",
+    "overs": "22.0",
+    "economy": 3.86
+   },
+   {
+    "name": "JM Bird",
+    "figures": "3/26",
+    "overs": "9.0",
+    "economy": 2.89
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Tasmania",
+   "type": "big_over",
+   "over": 67,
+   "detail": "Over 67 (LC Hatcher) went for 12 runs"
+  },
+  {
+   "innings": 1,
+   "team": "Tasmania",
+   "type": "big_over",
+   "over": 111,
+   "detail": "Over 111 (BJ Dwarshuis) went for 14 runs"
+  },
+  {
+   "innings": 2,
+   "team": "New South Wales",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by JM Bird, 2 credited to JM Bird)"
+  }
+ ],
+ "checks": []
+}

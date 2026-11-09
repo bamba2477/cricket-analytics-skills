@@ -1,0 +1,3645 @@
+{
+ "match": {
+  "teams": [
+   "Bangladesh",
+   "West Indies"
+  ],
+  "dates": [
+   "2026-10-28",
+   "2026-10-29",
+   "2026-10-30",
+   "2026-10-31"
+  ],
+  "venue": "Shere Bangla National Stadium, Mirpur",
+  "city": "Dhaka",
+  "event": "West Indies tour of Bangladesh",
+  "match_number": 1,
+  "match_type": "Test",
+  "overs": null,
+  "toss": {
+   "decision": "bat",
+   "winner": "Bangladesh"
+  },
+  "player_of_match": [
+   "JA Warrican"
+  ],
+  "result": "West Indies won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "West Indies",
+   "super_over": false,
+   "total": 272,
+   "wickets": 10,
+   "overs": "97.4",
+   "run_rate": 2.78,
+   "target": null,
+   "extras": {
+    "byes": 3,
+    "legbyes": 2,
+    "noballs": 5
+   },
+   "batting": [
+    {
+     "name": "Shadman Islam",
+     "dismissal": "lbw b J Bishop",
+     "runs": 105,
+     "balls": 234,
+     "dots": 174,
+     "fours": 11,
+     "sixes": 0,
+     "strike_rate": 44.9
+    },
+    {
+     "name": "Tanzid Hasan",
+     "dismissal": "c JP Greaves b JNT Seales",
+     "runs": 7,
+     "balls": 23,
+     "dots": 20,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "Mominul Haque",
+     "dismissal": "c S Joseph b JA Warrican",
+     "runs": 28,
+     "balls": 51,
+     "dots": 36,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 54.9
+    },
+    {
+     "name": "Nazmul Hossain Shanto",
+     "dismissal": "lbw b JA Warrican",
+     "runs": 19,
+     "balls": 42,
+     "dots": 27,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 45.2
+    },
+    {
+     "name": "Towhid Hridoy",
+     "dismissal": "b J Bishop",
+     "runs": 42,
+     "balls": 86,
+     "dots": 58,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 48.8
+    },
+    {
+     "name": "Liton Das",
+     "dismissal": "not out",
+     "runs": 34,
+     "balls": 88,
+     "dots": 67,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 38.6
+    },
+    {
+     "name": "Mehedi Hasan Miraz",
+     "dismissal": "b JA Warrican",
+     "runs": 15,
+     "balls": 39,
+     "dots": 33,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 38.5
+    },
+    {
+     "name": "Nayeem Hasan",
+     "dismissal": "c KAR Hodge b S Joseph",
+     "runs": 5,
+     "balls": 12,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 41.7
+    },
+    {
+     "name": "Hasan Mahmud",
+     "dismissal": "c AA Jangoo b S Joseph",
+     "runs": 6,
+     "balls": 11,
+     "dots": 9,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 54.5
+    },
+    {
+     "name": "Taijul Islam",
+     "dismissal": "c AA Jangoo b JA Warrican",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Shoriful Islam",
+     "dismissal": "lbw b JA Warrican",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JNT Seales",
+     "overs": "13.0",
+     "maidens": 4,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 2.23,
+     "dots": 61,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "S Joseph",
+     "overs": "15.0",
+     "maidens": 3,
+     "runs": 41,
+     "wickets": 2,
+     "economy": 2.73,
+     "dots": 67,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "RL Chase",
+     "overs": "13.0",
+     "maidens": 1,
+     "runs": 53,
+     "wickets": 0,
+     "economy": 4.08,
+     "dots": 49,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JP Greaves",
+     "overs": "10.0",
+     "maidens": 4,
+     "runs": 30,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 50,
+     "wides": 0,
+     "noballs": 2
+    },
+    {
+     "name": "J Bishop",
+     "overs": "23.0",
+     "maidens": 2,
+     "runs": 61,
+     "wickets": 2,
+     "economy": 2.65,
+     "dots": 102,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "JA Warrican",
+     "overs": "23.4",
+     "maidens": 3,
+     "runs": 53,
+     "wickets": 5,
+     "economy": 2.24,
+     "dots": 104,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 9,
+     "player": "Tanzid Hasan",
+     "over": "6.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 68,
+     "player": "Mominul Haque",
+     "over": "21.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 110,
+     "player": "Nazmul Hossain Shanto",
+     "over": "35.3",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 4,
+     "score": 221,
+     "player": "Shadman Islam",
+     "over": "76.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 221,
+     "player": "Towhid Hridoy",
+     "over": "78.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 253,
+     "player": "Mehedi Hasan Miraz",
+     "over": "89.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 262,
+     "player": "Nayeem Hasan",
+     "over": "94.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 271,
+     "player": "Hasan Mahmud",
+     "over": "96.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 272,
+     "player": "Taijul Islam",
+     "over": "97.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 272,
+     "player": "Shoriful Islam",
+     "over": "97.4",
+     "kind": "lbw"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 9,
+     "balls": 40,
+     "batters": [
+      "Shadman Islam",
+      "Tanzid Hasan"
+     ],
+     "contributions": {
+      "Shadman Islam": 1,
+      "Tanzid Hasan": 7
+     },
+     "ended_by": "Tanzid Hasan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 59,
+     "balls": 88,
+     "batters": [
+      "Mominul Haque",
+      "Shadman Islam"
+     ],
+     "contributions": {
+      "Mominul Haque": 28,
+      "Shadman Islam": 30
+     },
+     "ended_by": "Mominul Haque (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 42,
+     "balls": 85,
+     "batters": [
+      "Nazmul Hossain Shanto",
+      "Shadman Islam"
+     ],
+     "contributions": {
+      "Nazmul Hossain Shanto": 19,
+      "Shadman Islam": 21
+     },
+     "ended_by": "Nazmul Hossain Shanto (lbw)"
+    },
+    {
+     "wicket": 4,
+     "runs": 111,
+     "balls": 248,
+     "batters": [
+      "Towhid Hridoy",
+      "Shadman Islam",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Towhid Hridoy": 42,
+      "Shadman Islam": 53,
+      "Liton Das": 12
+     },
+     "ended_by": "Shadman Islam (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 8,
+     "batters": [
+      "Towhid Hridoy",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Towhid Hridoy": 0,
+      "Liton Das": 0
+     },
+     "ended_by": "Towhid Hridoy (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 32,
+     "balls": 70,
+     "batters": [
+      "Mehedi Hasan Miraz",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Mehedi Hasan Miraz": 15,
+      "Liton Das": 16
+     },
+     "ended_by": "Mehedi Hasan Miraz (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 9,
+     "balls": 26,
+     "batters": [
+      "Nayeem Hasan",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Nayeem Hasan": 5,
+      "Liton Das": 4
+     },
+     "ended_by": "Nayeem Hasan (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 9,
+     "balls": 14,
+     "batters": [
+      "Hasan Mahmud",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Hasan Mahmud": 6,
+      "Liton Das": 2
+     },
+     "ended_by": "Hasan Mahmud (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "Taijul Islam",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Taijul Islam": 1,
+      "Liton Das": 0
+     },
+     "ended_by": "Taijul Islam (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Shoriful Islam",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Shoriful Islam": 0,
+      "Liton Das": 0
+     },
+     "ended_by": "Shoriful Islam (lbw)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JP Greaves",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 84,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 85,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 86,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 87,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 88,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 89,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 90,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 91,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 92,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 93,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 94,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 95,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 96,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 97,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 98,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "JA Warrican",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "West Indies",
+   "batting_team": "West Indies",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 245,
+   "wickets": 10,
+   "overs": "82.5",
+   "run_rate": 2.96,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "JD Campbell",
+     "dismissal": "c Nazmul Hossain Shanto b Mehedi Hasan Miraz",
+     "runs": 54,
+     "balls": 78,
+     "dots": 54,
+     "fours": 6,
+     "sixes": 2,
+     "strike_rate": 69.2
+    },
+    {
+     "name": "BA King",
+     "dismissal": "c Jaker Ali b Hasan Mahmud",
+     "runs": 15,
+     "balls": 20,
+     "dots": 14,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "T Chanderpaul",
+     "dismissal": "c Nazmul Hossain Shanto b Shoriful Islam",
+     "runs": 56,
+     "balls": 184,
+     "dots": 157,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 30.4
+    },
+    {
+     "name": "KAR Hodge",
+     "dismissal": "c Mominul Haque b Taijul Islam",
+     "runs": 7,
+     "balls": 20,
+     "dots": 16,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 35.0
+    },
+    {
+     "name": "AA Jangoo",
+     "dismissal": "c Tanzid Hasan b Taijul Islam",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JP Greaves",
+     "dismissal": "lbw b Nayeem Hasan",
+     "runs": 46,
+     "balls": 103,
+     "dots": 72,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 44.7
+    },
+    {
+     "name": "RL Chase",
+     "dismissal": "not out",
+     "runs": 43,
+     "balls": 60,
+     "dots": 35,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 71.7
+    },
+    {
+     "name": "J Bishop",
+     "dismissal": "st Liton Das b Mehedi Hasan Miraz",
+     "runs": 15,
+     "balls": 11,
+     "dots": 5,
+     "fours": 3,
+     "sixes": 0,
+     "strike_rate": 136.4
+    },
+    {
+     "name": "S Joseph",
+     "dismissal": "c Liton Das b Nayeem Hasan",
+     "runs": 4,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "JA Warrican",
+     "dismissal": "lbw b Nayeem Hasan",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "JNT Seales",
+     "dismissal": "c Mehedi Hasan Miraz b Nayeem Hasan",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Hasan Mahmud",
+     "overs": "11.0",
+     "maidens": 1,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 3.45,
+     "dots": 49,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Shoriful Islam",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 2.9,
+     "dots": 48,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mehedi Hasan Miraz",
+     "overs": "25.0",
+     "maidens": 5,
+     "runs": 65,
+     "wickets": 2,
+     "economy": 2.6,
+     "dots": 114,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Taijul Islam",
+     "overs": "26.0",
+     "maidens": 3,
+     "runs": 76,
+     "wickets": 2,
+     "economy": 2.92,
+     "dots": 117,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nayeem Hasan",
+     "overs": "10.5",
+     "maidens": 1,
+     "runs": 33,
+     "wickets": 4,
+     "economy": 3.05,
+     "dots": 44,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 29,
+     "player": "BA King",
+     "over": "4.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 90,
+     "player": "JD Campbell",
+     "over": "30.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 97,
+     "player": "KAR Hodge",
+     "over": "35.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 97,
+     "player": "AA Jangoo",
+     "over": "35.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 162,
+     "player": "T Chanderpaul",
+     "over": "58.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 213,
+     "player": "JP Greaves",
+     "over": "74.5",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 7,
+     "score": 234,
+     "player": "J Bishop",
+     "over": "77.3",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 8,
+     "score": 245,
+     "player": "S Joseph",
+     "over": "80.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 245,
+     "player": "JA Warrican",
+     "over": "80.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 245,
+     "player": "JNT Seales",
+     "over": "82.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 29,
+     "balls": 29,
+     "batters": [
+      "JD Campbell",
+      "BA King"
+     ],
+     "contributions": {
+      "JD Campbell": 14,
+      "BA King": 15
+     },
+     "ended_by": "BA King (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 61,
+     "balls": 152,
+     "batters": [
+      "T Chanderpaul",
+      "JD Campbell"
+     ],
+     "contributions": {
+      "T Chanderpaul": 21,
+      "JD Campbell": 40
+     },
+     "ended_by": "JD Campbell (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 31,
+     "batters": [
+      "KAR Hodge",
+      "T Chanderpaul"
+     ],
+     "contributions": {
+      "KAR Hodge": 7,
+      "T Chanderpaul": 0
+     },
+     "ended_by": "KAR Hodge (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "AA Jangoo",
+      "T Chanderpaul"
+     ],
+     "contributions": {
+      "AA Jangoo": 0,
+      "T Chanderpaul": 0
+     },
+     "ended_by": "AA Jangoo (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 65,
+     "balls": 135,
+     "batters": [
+      "JP Greaves",
+      "T Chanderpaul"
+     ],
+     "contributions": {
+      "JP Greaves": 25,
+      "T Chanderpaul": 35
+     },
+     "ended_by": "T Chanderpaul (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 51,
+     "balls": 99,
+     "batters": [
+      "RL Chase",
+      "JP Greaves"
+     ],
+     "contributions": {
+      "RL Chase": 30,
+      "JP Greaves": 21
+     },
+     "ended_by": "JP Greaves (lbw)"
+    },
+    {
+     "wicket": 7,
+     "runs": 21,
+     "balls": 16,
+     "batters": [
+      "J Bishop",
+      "RL Chase"
+     ],
+     "contributions": {
+      "J Bishop": 15,
+      "RL Chase": 6
+     },
+     "ended_by": "J Bishop (stumped)"
+    },
+    {
+     "wicket": 8,
+     "runs": 11,
+     "balls": 17,
+     "batters": [
+      "S Joseph",
+      "RL Chase"
+     ],
+     "contributions": {
+      "S Joseph": 4,
+      "RL Chase": 7
+     },
+     "ended_by": "S Joseph (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "JA Warrican",
+      "RL Chase"
+     ],
+     "contributions": {
+      "JA Warrican": 0,
+      "RL Chase": 0
+     },
+     "ended_by": "JA Warrican (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 0,
+     "balls": 11,
+     "batters": [
+      "RL Chase",
+      "JNT Seales"
+     ],
+     "contributions": {
+      "RL Chase": 0,
+      "JNT Seales": 0
+     },
+     "ended_by": "JNT Seales (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 50,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 51,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 52,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 53,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 54,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 55,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 56,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 57,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 58,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 59,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 60,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 61,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 62,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 63,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 64,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 65,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 66,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 67,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 68,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 69,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 70,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 71,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 72,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 73,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 74,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 75,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 76,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 77,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 78,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 79,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 80,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 81,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 82,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 83,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 5
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "team": "Bangladesh",
+   "batting_team": "Bangladesh",
+   "bowling_team": "West Indies",
+   "super_over": false,
+   "total": 142,
+   "wickets": 10,
+   "overs": "48.4",
+   "run_rate": 2.92,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "wides": 5,
+    "byes": 1,
+    "legbyes": 2
+   },
+   "batting": [
+    {
+     "name": "Shadman Islam",
+     "dismissal": "b RL Chase",
+     "runs": 13,
+     "balls": 30,
+     "dots": 25,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 43.3
+    },
+    {
+     "name": "Tanzid Hasan",
+     "dismissal": "c RL Chase b S Joseph",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Nazmul Hossain Shanto",
+     "dismissal": "lbw b RL Chase",
+     "runs": 10,
+     "balls": 37,
+     "dots": 30,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 27.0
+    },
+    {
+     "name": "Towhid Hridoy",
+     "dismissal": "c JNT Seales b RL Chase",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Liton Das",
+     "dismissal": "lbw b JA Warrican",
+     "runs": 4,
+     "balls": 10,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Jaker Ali",
+     "dismissal": "c RL Chase b JA Warrican",
+     "runs": 22,
+     "balls": 34,
+     "dots": 19,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 64.7
+    },
+    {
+     "name": "Mehedi Hasan Miraz",
+     "dismissal": "b JA Warrican",
+     "runs": 9,
+     "balls": 32,
+     "dots": 25,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 28.1
+    },
+    {
+     "name": "Nayeem Hasan",
+     "dismissal": "c J Bishop b RL Chase",
+     "runs": 52,
+     "balls": 91,
+     "dots": 58,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 57.1
+    },
+    {
+     "name": "Hasan Mahmud",
+     "dismissal": "lbw b JA Warrican",
+     "runs": 8,
+     "balls": 31,
+     "dots": 26,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.8
+    },
+    {
+     "name": "Taijul Islam",
+     "dismissal": "lbw b RL Chase",
+     "runs": 8,
+     "balls": 16,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Shoriful Islam",
+     "dismissal": "not out",
+     "runs": 7,
+     "balls": 8,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 87.5
+    }
+   ],
+   "bowling": [
+    {
+     "name": "JNT Seales",
+     "overs": "7.0",
+     "maidens": 1,
+     "runs": 13,
+     "wickets": 0,
+     "economy": 1.86,
+     "dots": 35,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "S Joseph",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 17,
+     "wickets": 1,
+     "economy": 4.25,
+     "dots": 19,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "JA Warrican",
+     "overs": "20.0",
+     "maidens": 3,
+     "runs": 63,
+     "wickets": 4,
+     "economy": 3.15,
+     "dots": 82,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "RL Chase",
+     "overs": "15.4",
+     "maidens": 2,
+     "runs": 36,
+     "wickets": 5,
+     "economy": 2.3,
+     "dots": 67,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Bishop",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 1,
+     "player": "Tanzid Hasan",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 28,
+     "player": "Shadman Islam",
+     "over": "10.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 28,
+     "player": "Towhid Hridoy",
+     "over": "10.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 33,
+     "player": "Nazmul Hossain Shanto",
+     "over": "12.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 5,
+     "score": 35,
+     "player": "Liton Das",
+     "over": "13.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 53,
+     "player": "Mehedi Hasan Miraz",
+     "over": "21.4",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 84,
+     "player": "Jaker Ali",
+     "over": "29.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 110,
+     "player": "Hasan Mahmud",
+     "over": "39.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 127,
+     "player": "Taijul Islam",
+     "over": "44.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 142,
+     "player": "Nayeem Hasan",
+     "over": "48.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 1,
+     "balls": 8,
+     "batters": [
+      "Shadman Islam",
+      "Tanzid Hasan"
+     ],
+     "contributions": {
+      "Shadman Islam": 0,
+      "Tanzid Hasan": 0
+     },
+     "ended_by": "Tanzid Hasan (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 27,
+     "balls": 53,
+     "batters": [
+      "Nazmul Hossain Shanto",
+      "Shadman Islam"
+     ],
+     "contributions": {
+      "Nazmul Hossain Shanto": 9,
+      "Shadman Islam": 13
+     },
+     "ended_by": "Shadman Islam (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Towhid Hridoy",
+      "Nazmul Hossain Shanto"
+     ],
+     "contributions": {
+      "Towhid Hridoy": 0,
+      "Nazmul Hossain Shanto": 0
+     },
+     "ended_by": "Towhid Hridoy (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 5,
+     "balls": 13,
+     "batters": [
+      "Liton Das",
+      "Nazmul Hossain Shanto"
+     ],
+     "contributions": {
+      "Liton Das": 4,
+      "Nazmul Hossain Shanto": 1
+     },
+     "ended_by": "Nazmul Hossain Shanto (lbw)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 6,
+     "batters": [
+      "Jaker Ali",
+      "Liton Das"
+     ],
+     "contributions": {
+      "Jaker Ali": 2,
+      "Liton Das": 0
+     },
+     "ended_by": "Liton Das (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 18,
+     "balls": 48,
+     "batters": [
+      "Mehedi Hasan Miraz",
+      "Jaker Ali"
+     ],
+     "contributions": {
+      "Mehedi Hasan Miraz": 9,
+      "Jaker Ali": 8
+     },
+     "ended_by": "Mehedi Hasan Miraz (bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 31,
+     "balls": 50,
+     "batters": [
+      "Nayeem Hasan",
+      "Jaker Ali"
+     ],
+     "contributions": {
+      "Nayeem Hasan": 19,
+      "Jaker Ali": 12
+     },
+     "ended_by": "Jaker Ali (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 26,
+     "balls": 60,
+     "batters": [
+      "Nayeem Hasan",
+      "Hasan Mahmud"
+     ],
+     "contributions": {
+      "Nayeem Hasan": 16,
+      "Hasan Mahmud": 8
+     },
+     "ended_by": "Hasan Mahmud (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 17,
+     "balls": 30,
+     "batters": [
+      "Nayeem Hasan",
+      "Taijul Islam"
+     ],
+     "contributions": {
+      "Nayeem Hasan": 9,
+      "Taijul Islam": 8
+     },
+     "ended_by": "Taijul Islam (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 15,
+     "balls": 22,
+     "batters": [
+      "Nayeem Hasan",
+      "Shoriful Islam"
+     ],
+     "contributions": {
+      "Nayeem Hasan": 8,
+      "Shoriful Islam": 7
+     },
+     "ended_by": "Nayeem Hasan (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Joseph",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Bishop",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JNT Seales",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 41,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 42,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 43,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 44,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 45,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 46,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 47,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "RL Chase",
+     "legal_balls": 6
+    },
+    {
+     "over": 48,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JA Warrican",
+     "legal_balls": 6
+    },
+    {
+     "over": 49,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "RL Chase",
+     "legal_balls": 4
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "team": "West Indies",
+   "batting_team": "West Indies",
+   "bowling_team": "Bangladesh",
+   "super_over": false,
+   "total": 170,
+   "wickets": 2,
+   "overs": "35.1",
+   "run_rate": 4.83,
+   "target": null,
+   "extras": {
+    "noballs": 1,
+    "legbyes": 7
+   },
+   "batting": [
+    {
+     "name": "BA King",
+     "dismissal": "not out",
+     "runs": 81,
+     "balls": 115,
+     "dots": 72,
+     "fours": 10,
+     "sixes": 1,
+     "strike_rate": 70.4
+    },
+    {
+     "name": "JD Campbell",
+     "dismissal": "b Shoriful Islam",
+     "runs": 49,
+     "balls": 55,
+     "dots": 32,
+     "fours": 6,
+     "sixes": 1,
+     "strike_rate": 89.1
+    },
+    {
+     "name": "T Chanderpaul",
+     "dismissal": "c Taijul Islam b Hasan Mahmud",
+     "runs": 1,
+     "balls": 15,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 6.7
+    },
+    {
+     "name": "KAR Hodge",
+     "dismissal": "not out",
+     "runs": 31,
+     "balls": 27,
+     "dots": 15,
+     "fours": 4,
+     "sixes": 1,
+     "strike_rate": 114.8
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Mehedi Hasan Miraz",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 0,
+     "economy": 5.2,
+     "dots": 18,
+     "wides": 0,
+     "noballs": 1
+    },
+    {
+     "name": "Taijul Islam",
+     "overs": "12.1",
+     "maidens": 3,
+     "runs": 54,
+     "wickets": 0,
+     "economy": 4.44,
+     "dots": 47,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nayeem Hasan",
+     "overs": "11.0",
+     "maidens": 0,
+     "runs": 49,
+     "wickets": 0,
+     "economy": 4.45,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shoriful Islam",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 1,
+     "economy": 5.0,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Hasan Mahmud",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 1,
+     "economy": 4.67,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 112,
+     "player": "JD Campbell",
+     "over": "20.5",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 2,
+     "score": 120,
+     "player": "T Chanderpaul",
+     "over": "26.4",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 112,
+     "balls": 125,
+     "batters": [
+      "BA King",
+      "JD Campbell"
+     ],
+     "contributions": {
+      "BA King": 55,
+      "JD Campbell": 49
+     },
+     "ended_by": "JD Campbell (bowled)"
+    },
+    {
+     "wicket": 2,
+     "runs": 8,
+     "balls": 35,
+     "batters": [
+      "T Chanderpaul",
+      "BA King"
+     ],
+     "contributions": {
+      "T Chanderpaul": 1,
+      "BA King": 7
+     },
+     "ended_by": "T Chanderpaul (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 50,
+     "balls": 51,
+     "batters": [
+      "KAR Hodge",
+      "BA King"
+     ],
+     "contributions": {
+      "KAR Hodge": 31,
+      "BA King": 19
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mehedi Hasan Miraz",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shoriful Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hasan Mahmud",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nayeem Hasan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Taijul Islam",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Shadman Islam",
+    "runs": 105,
+    "balls": 234,
+    "strike_rate": 44.9
+   },
+   {
+    "name": "BA King",
+    "runs": 81,
+    "balls": 115,
+    "strike_rate": 70.4
+   },
+   {
+    "name": "T Chanderpaul",
+    "runs": 56,
+    "balls": 184,
+    "strike_rate": 30.4
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "RL Chase",
+    "figures": "5/36",
+    "overs": "15.4",
+    "economy": 2.3
+   },
+   {
+    "name": "JA Warrican",
+    "figures": "5/53",
+    "overs": "23.4",
+    "economy": 2.24
+   },
+   {
+    "name": "Nayeem Hasan",
+    "figures": "4/33",
+    "overs": "10.5",
+    "economy": 3.05
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 98,
+   "detail": "2 wickets fell in over 98 (bowled by JA Warrican, 2 credited to JA Warrican)"
+  },
+  {
+   "innings": 2,
+   "team": "West Indies",
+   "type": "wicket_burst",
+   "over": 36,
+   "detail": "2 wickets fell in over 36 (bowled by Taijul Islam, 2 credited to Taijul Islam)"
+  },
+  {
+   "innings": 2,
+   "team": "West Indies",
+   "type": "wicket_burst",
+   "over": 81,
+   "detail": "2 wickets fell in over 81 (bowled by Nayeem Hasan, 2 credited to Nayeem Hasan)"
+  },
+  {
+   "innings": 3,
+   "team": "Bangladesh",
+   "type": "wicket_burst",
+   "over": 11,
+   "detail": "2 wickets fell in over 11 (bowled by RL Chase, 2 credited to RL Chase)"
+  },
+  {
+   "innings": 4,
+   "team": "West Indies",
+   "type": "big_over",
+   "over": 9,
+   "detail": "Over 9 (Mehedi Hasan Miraz) went for 13 runs"
+  },
+  {
+   "innings": 4,
+   "team": "West Indies",
+   "type": "big_over",
+   "over": 19,
+   "detail": "Over 19 (Shoriful Islam) went for 12 runs"
+  }
+ ],
+ "checks": []
+}

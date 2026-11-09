@@ -2,6 +2,53 @@
 
 | Date | Match | Format | Event | Result |
 |---|---|---|---|---|
+| 2026-11-03 | [Pokhara Avengers vs Lumbini Lions](2026-11-03_pokhara-avengers-v-lumbini-lions_1558594.md) | T20 | Nepal Premier League | Lumbini Lions won by 8 wickets |
+| 2026-11-03 | [Biratnagar Kings vs Janakpur Bolts](2026-11-03_biratnagar-kings-v-janakpur-bolts_1558593.md) | T20 | Nepal Premier League | Biratnagar Kings won by 2 runs |
+| 2026-11-02 | [Perth Scorchers vs Melbourne Stars](2026-11-02_perth-scorchers-v-melbourne-stars_1543951.md) | T20 | Women's Big Bash League | Perth Scorchers won by 15 runs |
+| 2026-11-02 | [Oman vs Netherlands](2026-11-02_oman-v-netherlands_1559567.md) | ODI | ICC Men's Cricket World Cup League 2 | Netherlands won by 7 wickets |
+| 2026-11-02 | [Karnali Yaks vs Kathmandu Gorkhas](2026-11-02_karnali-yaks-v-kathmandu-gorkhas_1558591.md) | T20 | Nepal Premier League | Kathmandu Gorkhas won by 4 wickets |
+| 2026-11-02 | [Chitwan Rhinos vs Sudur Paschim Royals](2026-11-02_chitwan-rhinos-v-sudur-paschim-royals_1558592.md) | T20 | Nepal Premier League | Sudur Paschim Royals won by 5 wickets |
+| 2026-11-01 | [Sydney Sixers vs Hobart Hurricanes](2026-11-01_sydney-sixers-v-hobart-hurricanes_1543950.md) | T20 | Women's Big Bash League | Sydney Sixers won by 87 runs |
+| 2026-11-01 | [Janakpur Bolts vs Pokhara Avengers](2026-11-01_janakpur-bolts-v-pokhara-avengers_1558590.md) | T20 | Nepal Premier League | Janakpur Bolts won by 9 runs |
+| 2026-11-01 | [Ireland vs Namibia](2026-11-01_ireland-v-namibia_1558235.md) | ODI | Ireland tour of Namibia | Namibia won by 5 wickets |
+| 2026-11-01 | [India vs New Zealand](2026-11-01_india-v-new-zealand_1539436.md) | T20 | India tour of New Zealand | New Zealand won by 7 wickets |
+| 2026-11-01 | [Brisbane Heat vs Sydney Thunder](2026-11-01_brisbane-heat-v-sydney-thunder_1543949.md) | T20 | Women's Big Bash League | Sydney Thunder won by 6 wickets |
+| 2026-10-31 | [Victoria vs Queensland](2026-10-31_victoria-v-queensland_1544872.md) | MDM | Sheffield Shield | Draw |
+| 2026-10-31 | [Sri Lanka vs Pakistan](2026-10-31_sri-lanka-v-pakistan_1550719.md) | ODI | Pakistan ODI Tri-Series | Pakistan won by 3 wickets |
+| 2026-10-31 | [Netherlands vs United Arab Emirates](2026-10-31_netherlands-v-united-arab-emirates_1559566.md) | ODI | ICC Men's Cricket World Cup League 2 | United Arab Emirates won by 5 wickets |
+| 2026-10-31 | [Melbourne Renegades vs Perth Scorchers](2026-10-31_melbourne-renegades-v-perth-scorchers_1543948.md) | T20 | Women's Big Bash League | Perth Scorchers won by 9 wickets |
+| 2026-10-31 | [Kenya vs Papua New Guinea](2026-10-31_kenya-v-papua-new-guinea_1559453.md) | ODM | CWC Challenge League | Kenya won by 88 runs |
+| 2026-10-31 | [Jersey vs Qatar](2026-10-31_jersey-v-qatar_1559454.md) | ODM | CWC Challenge League | Jersey won by 34 runs |
+| 2026-10-31 | [Biratnagar Kings vs Sudur Paschim Royals](2026-10-31_biratnagar-kings-v-sudur-paschim-royals_1558589.md) | T20 | Nepal Premier League | Biratnagar Kings won by 35 runs |
+| 2026-10-31 | [Adelaide Strikers vs Melbourne Stars](2026-10-31_adelaide-strikers-v-melbourne-stars_1543947.md) | T20 | Women's Big Bash League | Adelaide Strikers won by 21 runs |
+| 2026-10-30 | [Tasmania vs New South Wales](2026-10-30_tasmania-v-new-south-wales_1544871.md) | MDM | Sheffield Shield | Tasmania won by 81 runs |
+| 2026-10-30 | [Papua New Guinea vs Kuwait](2026-10-30_papua-new-guinea-v-kuwait_1559451.md) | ODM | CWC Challenge League | Kuwait won by 10 wickets |
+| 2026-10-30 | [New Zealand vs India](2026-10-30_new-zealand-v-india_1539435.md) | T20 | India tour of New Zealand | New Zealand won by 87 runs |
+| 2026-10-30 | [Jersey vs Denmark](2026-10-30_jersey-v-denmark_1559452.md) | ODM | CWC Challenge League | Jersey won by 72 runs |
+| 2026-10-30 | [Ireland vs Namibia](2026-10-30_ireland-v-namibia_1558234.md) | ODI | Ireland tour of Namibia | Ireland won by 130 runs |
+| 2026-10-30 | [Brisbane Heat vs Sydney Sixers](2026-10-30_brisbane-heat-v-sydney-sixers_1543946.md) | T20 | Women's Big Bash League | Sydney Sixers won by 4 wickets |
+| 2026-10-29 | [Oman vs United Arab Emirates](2026-10-29_oman-v-united-arab-emirates_1559565.md) | ODI | ICC Men's Cricket World Cup League 2 | United Arab Emirates won by 4 wickets |
+| 2026-10-29 | [Melbourne Stars vs Hobart Hurricanes](2026-10-29_melbourne-stars-v-hobart-hurricanes_1543945.md) | T20 | Women's Big Bash League | Melbourne Stars won by 18 runs |
+| 2026-10-29 | [Melbourne Renegades vs Sydney Thunder](2026-10-29_melbourne-renegades-v-sydney-thunder_1543944.md) | T20 | Women's Big Bash League | Sydney Thunder won by 6 wickets |
+| 2026-10-29 | [Kathmandu Gorkhas vs Janakpur Bolts](2026-10-29_kathmandu-gorkhas-v-janakpur-bolts_1558586.md) | T20 | Nepal Premier League | Janakpur Bolts won by 8 wickets |
+| 2026-10-29 | [England vs Sri Lanka](2026-10-29_england-v-sri-lanka_1550718.md) | ODI | Pakistan ODI Tri-Series | England won by 55 runs |
+| 2026-10-29 | [Biratnagar Kings vs Karnali Yaks](2026-10-29_biratnagar-kings-v-karnali-yaks_1558587.md) | T20 | Nepal Premier League | Karnali Yaks won by 4 wickets |
+| 2026-10-28 | [Zimbabwe vs India](2026-10-28_zimbabwe-v-india_1535657.md) | ODI | Zimbabwe Women tour of India | India won by 8 wickets |
+| 2026-10-28 | [Western Australia vs South Australia](2026-10-28_western-australia-v-south-australia_1544870.md) | MDM | Sheffield Shield | Western Australia won by 105 runs |
+| 2026-10-28 | [Pokhara Avengers vs Sudur Paschim Royals](2026-10-28_pokhara-avengers-v-sudur-paschim-royals_1558585.md) | T20 | Nepal Premier League | Sudur Paschim Royals won by 6 wickets |
+| 2026-10-28 | [Kuwait vs Kenya](2026-10-28_kuwait-v-kenya_1559450.md) | ODM | CWC Challenge League | Kuwait won by 150 runs |
+| 2026-10-28 | [Denmark vs Qatar](2026-10-28_denmark-v-qatar_1559449.md) | ODM | CWC Challenge League | Denmark won by 52 runs |
+| 2026-10-28 | [Bangladesh vs West Indies](2026-10-28_bangladesh-v-west-indies_1553295.md) | Test | West Indies tour of Bangladesh | West Indies won by 8 wickets |
+| 2026-10-27 | [South Africa vs Australia](2026-10-27_south-africa-v-australia_1525661.md) | Test | Australia tour of South Africa | South Africa won by 176 runs |
+| 2026-10-27 | [Papua New Guinea vs Qatar](2026-10-27_papua-new-guinea-v-qatar_1559447.md) | ODM | CWC Challenge League | Qatar won by 9 wickets |
+| 2026-10-27 | [Pakistan vs Sri Lanka](2026-10-27_pakistan-v-sri-lanka_1550717.md) | ODI | Pakistan ODI Tri-Series | Sri Lanka won by 8 wickets |
+| 2026-10-27 | [New Zealand vs India](2026-10-27_new-zealand-v-india_1539434.md) | T20 | India tour of New Zealand | India won by 6 wickets |
+| 2026-10-27 | [Netherlands vs Oman](2026-10-27_netherlands-v-oman_1559564.md) | ODI | ICC Men's Cricket World Cup League 2 | Netherlands won by 106 runs |
+| 2026-10-27 | [Namibia vs Ireland](2026-10-27_namibia-v-ireland_1558233.md) | ODI | Ireland tour of Namibia | Namibia won by 63 runs |
+| 2026-10-27 | [Karnali Yaks vs Janakpur Bolts](2026-10-27_karnali-yaks-v-janakpur-bolts_1558584.md) | T20 | Nepal Premier League | Karnali Yaks won by 19 runs |
+| 2026-10-27 | [Jersey vs Kuwait](2026-10-27_jersey-v-kuwait_1559448.md) | ODM | CWC Challenge League | Kuwait won by 7 wickets |
+| 2026-10-27 | [Chitwan Rhinos vs Biratnagar Kings](2026-10-27_chitwan-rhinos-v-biratnagar-kings_1558583.md) | T20 | Nepal Premier League | Chitwan Rhinos won by 8 runs |
+| 2026-10-26 | [Sudur Paschim Royals vs Lumbini Lions](2026-10-26_sudur-paschim-royals-v-lumbini-lions_1558582.md) | T20 | Nepal Premier League | Lumbini Lions won by 7 wickets |
 | 2026-10-25 | [Zambia vs Mozambique](2026-10-25_zambia-v-mozambique_1557533.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Mozambique won by 3 wickets |
 | 2026-10-25 | [United Arab Emirates vs Netherlands](2026-10-25_united-arab-emirates-v-netherlands_1559563.md) | ODI | ICC Men's Cricket World Cup League 2 | Netherlands won by 3 wickets |
 | 2026-10-25 | [Nigeria vs Uganda](2026-10-25_nigeria-v-uganda_1557534.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Nigeria won by 1 run |
@@ -9,6 +56,7 @@
 | 2026-10-25 | [India vs Zimbabwe](2026-10-25_india-v-zimbabwe_1535656.md) | ODI | Zimbabwe Women tour of India | India won by 121 runs |
 | 2026-10-25 | [Gambia vs Lesotho](2026-10-25_gambia-v-lesotho_1557532.md) | T20 | ICC Men's T20 World Cup Africa Sub Regional Qualifier C | Gambia won by 3 runs |
 | 2026-10-25 | [England vs Pakistan](2026-10-25_england-v-pakistan_1550716.md) | ODI | Pakistan ODI Tri-Series | Pakistan won by 1 wicket |
+| 2026-10-25 | [Argentina vs Mexico](2026-10-25_argentina-v-mexico_1558573.md) | T20 | Argentina Women tour of Mexico | Argentina won by 135 runs |
 | 2026-10-24 | [Victoria vs Tasmania](2026-10-24_victoria-v-tasmania_1544852.md) | ODM | One-Day Cup (Australia) | Victoria won by 138 runs (D/L) |
 | 2026-10-24 | [Qatar vs Kenya](2026-10-24_qatar-v-kenya_1559444.md) | ODM | CWC Challenge League | Qatar won by 4 runs |
 | 2026-10-24 | [New Zealand vs India](2026-10-24_new-zealand-v-india_1539433.md) | T20 | India tour of New Zealand | India won by 4 wickets |

@@ -1,0 +1,1129 @@
+{
+ "match": {
+  "teams": [
+   "Papua New Guinea",
+   "Qatar"
+  ],
+  "dates": [
+   "2026-10-27"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 38,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Papua New Guinea"
+  },
+  "player_of_match": [
+   "Muhammad Asim"
+  ],
+  "result": "Qatar won by 9 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Papua New Guinea",
+   "batting_team": "Papua New Guinea",
+   "bowling_team": "Qatar",
+   "super_over": false,
+   "total": 155,
+   "wickets": 10,
+   "overs": "36.3",
+   "run_rate": 4.25,
+   "target": null,
+   "extras": {
+    "legbyes": 6,
+    "wides": 11,
+    "byes": 4
+   },
+   "batting": [
+    {
+     "name": "S Bau",
+     "dismissal": "c Mujeeb-ur-Rehman b Muhammad Asim",
+     "runs": 24,
+     "balls": 46,
+     "dots": 28,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 52.2
+    },
+    {
+     "name": "TP Ura",
+     "dismissal": "c Ikramullah Khan b Owais Ahmed",
+     "runs": 52,
+     "balls": 44,
+     "dots": 24,
+     "fours": 5,
+     "sixes": 3,
+     "strike_rate": 118.2
+    },
+    {
+     "name": "L Siaka",
+     "dismissal": "c Mujeeb-ur-Rehman b Muhammad Asim",
+     "runs": 12,
+     "balls": 15,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 80.0
+    },
+    {
+     "name": "Patrick Nou",
+     "dismissal": "b Owais Ahmed",
+     "runs": 12,
+     "balls": 20,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 60.0
+    },
+    {
+     "name": "A Vala",
+     "dismissal": "c Mujeeb-ur-Rehman b Muhammad Asim",
+     "runs": 15,
+     "balls": 32,
+     "dots": 21,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 46.9
+    },
+    {
+     "name": "Boio Ray",
+     "dismissal": "lbw b Muhammad Asim",
+     "runs": 3,
+     "balls": 11,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 27.3
+    },
+    {
+     "name": "Doko Rupa",
+     "dismissal": "st I Liyanage b Owais Ahmed",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "A Nao",
+     "dismissal": "c Zeeshan Haider b Muhammad Asim",
+     "runs": 0,
+     "balls": 8,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "KV Morea",
+     "dismissal": "not out",
+     "runs": 16,
+     "balls": 21,
+     "dots": 15,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 76.2
+    },
+    {
+     "name": "J Kariko",
+     "dismissal": "c Shahzeb Afridi b Ikramullah Khan",
+     "runs": 0,
+     "balls": 7,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "SI Kamea",
+     "dismissal": "c I Liyanage b Ikramullah Khan",
+     "runs": 0,
+     "balls": 9,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ikramullah Khan",
+     "overs": "5.3",
+     "maidens": 1,
+     "runs": 12,
+     "wickets": 2,
+     "economy": 2.18,
+     "dots": 26,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MM Baig",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 10,
+     "wickets": 0,
+     "economy": 5.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Mujeeb-ur-Rehman",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 0,
+     "economy": 7.6,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Asim",
+     "overs": "10.0",
+     "maidens": 3,
+     "runs": 34,
+     "wickets": 5,
+     "economy": 3.4,
+     "dots": 51,
+     "wides": 10,
+     "noballs": 0
+    },
+    {
+     "name": "Owais Ahmed",
+     "overs": "10.0",
+     "maidens": 1,
+     "runs": 30,
+     "wickets": 3,
+     "economy": 3.0,
+     "dots": 40,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DAM Louis",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 21,
+     "wickets": 0,
+     "economy": 5.25,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 66,
+     "wickets": 0,
+     "run_rate": 6.6
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "26.3",
+     "runs": 89,
+     "wickets": 10,
+     "run_rate": 3.36
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 86,
+     "player": "TP Ura",
+     "over": "14.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 91,
+     "player": "S Bau",
+     "over": "15.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 116,
+     "player": "Patrick Nou",
+     "over": "20.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 116,
+     "player": "L Siaka",
+     "over": "21.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 130,
+     "player": "Boio Ray",
+     "over": "25.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 131,
+     "player": "Doko Rupa",
+     "over": "26.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 7,
+     "score": 132,
+     "player": "A Nao",
+     "over": "29.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 141,
+     "player": "A Vala",
+     "over": "31.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 149,
+     "player": "J Kariko",
+     "over": "34.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 155,
+     "player": "SI Kamea",
+     "over": "36.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 86,
+     "balls": 89,
+     "batters": [
+      "S Bau",
+      "TP Ura"
+     ],
+     "contributions": {
+      "S Bau": 24,
+      "TP Ura": 52
+     },
+     "ended_by": "TP Ura (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 5,
+     "balls": 2,
+     "batters": [
+      "L Siaka",
+      "S Bau"
+     ],
+     "contributions": {
+      "L Siaka": 0,
+      "S Bau": 0
+     },
+     "ended_by": "S Bau (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 25,
+     "balls": 31,
+     "batters": [
+      "Patrick Nou",
+      "L Siaka"
+     ],
+     "contributions": {
+      "Patrick Nou": 12,
+      "L Siaka": 12
+     },
+     "ended_by": "Patrick Nou (bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 7,
+     "batters": [
+      "A Vala",
+      "L Siaka"
+     ],
+     "contributions": {
+      "A Vala": 0,
+      "L Siaka": 0
+     },
+     "ended_by": "L Siaka (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 14,
+     "balls": 23,
+     "batters": [
+      "Boio Ray",
+      "A Vala"
+     ],
+     "contributions": {
+      "Boio Ray": 3,
+      "A Vala": 11
+     },
+     "ended_by": "Boio Ray (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 1,
+     "balls": 9,
+     "batters": [
+      "Doko Rupa",
+      "A Vala"
+     ],
+     "contributions": {
+      "Doko Rupa": 0,
+      "A Vala": 1
+     },
+     "ended_by": "Doko Rupa (stumped)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 16,
+     "batters": [
+      "A Nao",
+      "A Vala"
+     ],
+     "contributions": {
+      "A Nao": 0,
+      "A Vala": 1
+     },
+     "ended_by": "A Nao (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 9,
+     "balls": 12,
+     "batters": [
+      "KV Morea",
+      "A Vala"
+     ],
+     "contributions": {
+      "KV Morea": 7,
+      "A Vala": 2
+     },
+     "ended_by": "A Vala (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 8,
+     "balls": 18,
+     "batters": [
+      "J Kariko",
+      "KV Morea"
+     ],
+     "contributions": {
+      "J Kariko": 0,
+      "KV Morea": 7
+     },
+     "ended_by": "J Kariko (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 6,
+     "balls": 12,
+     "batters": [
+      "SI Kamea",
+      "KV Morea"
+     ],
+     "contributions": {
+      "SI Kamea": 0,
+      "KV Morea": 2
+     },
+     "ended_by": "SI Kamea (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Qatar",
+   "batting_team": "Qatar",
+   "bowling_team": "Papua New Guinea",
+   "super_over": false,
+   "total": 157,
+   "wickets": 1,
+   "overs": "14.5",
+   "run_rate": 10.58,
+   "target": 156,
+   "extras": {
+    "wides": 2,
+    "noballs": 1
+   },
+   "batting": [
+    {
+     "name": "Zubair Ali",
+     "dismissal": "not out",
+     "runs": 58,
+     "balls": 44,
+     "dots": 23,
+     "fours": 9,
+     "sixes": 2,
+     "strike_rate": 131.8
+    },
+    {
+     "name": "Shahzeb Afridi",
+     "dismissal": "c Boio Ray b KV Morea",
+     "runs": 85,
+     "balls": 35,
+     "dots": 12,
+     "fours": 5,
+     "sixes": 9,
+     "strike_rate": 242.9
+    },
+    {
+     "name": "I Liyanage",
+     "dismissal": "not out",
+     "runs": 11,
+     "balls": 11,
+     "dots": 6,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 100.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KV Morea",
+     "overs": "5.5",
+     "maidens": 0,
+     "runs": 54,
+     "wickets": 1,
+     "economy": 9.26,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Nao",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 0,
+     "economy": 11.5,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SI Kamea",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 20,
+     "wickets": 0,
+     "economy": 20.0,
+     "dots": 3,
+     "wides": 2,
+     "noballs": 1
+    },
+    {
+     "name": "J Kariko",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Vala",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 25,
+     "wickets": 0,
+     "economy": 12.5,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Bau",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 5.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 121,
+     "wickets": 0,
+     "run_rate": 12.1
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "4.5",
+     "runs": 36,
+     "wickets": 1,
+     "run_rate": 7.45
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 130,
+     "player": "Shahzeb Afridi",
+     "over": "10.5",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 130,
+     "balls": 65,
+     "batters": [
+      "Zubair Ali",
+      "Shahzeb Afridi"
+     ],
+     "contributions": {
+      "Zubair Ali": 42,
+      "Shahzeb Afridi": 85
+     },
+     "ended_by": "Shahzeb Afridi (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 27,
+     "balls": 24,
+     "batters": [
+      "I Liyanage",
+      "Zubair Ali"
+     ],
+     "contributions": {
+      "I Liyanage": 11,
+      "Zubair Ali": 16
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 20,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 13,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Nao",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 18,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 5
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Shahzeb Afridi",
+    "runs": 85,
+    "balls": 35,
+    "strike_rate": 242.9
+   },
+   {
+    "name": "Zubair Ali",
+    "runs": 58,
+    "balls": 44,
+    "strike_rate": 131.8
+   },
+   {
+    "name": "TP Ura",
+    "runs": 52,
+    "balls": 44,
+    "strike_rate": 118.2
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Muhammad Asim",
+    "figures": "5/34",
+    "overs": "10.0",
+    "economy": 3.4
+   },
+   {
+    "name": "Owais Ahmed",
+    "figures": "3/30",
+    "overs": "10.0",
+    "economy": 3.0
+   },
+   {
+    "name": "Ikramullah Khan",
+    "figures": "2/12",
+    "overs": "5.3",
+    "economy": 2.18
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (SI Kamea) went for 20 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 72 scored, needed 84 from 44 overs (RRR 1.91)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 10,
+   "detail": "Over 10 (A Vala) went for 18 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 121 scored, needed 35 from 40 overs (RRR 0.88)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 157 scored, needed -1 from 35 overs (RRR -0.03)"
+  }
+ ],
+ "checks": []
+}

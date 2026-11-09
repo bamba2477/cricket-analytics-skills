@@ -1,0 +1,1082 @@
+{
+ "match": {
+  "teams": [
+   "Pakistan",
+   "Sri Lanka"
+  ],
+  "dates": [
+   "2026-10-27"
+  ],
+  "venue": "Gaddafi Stadium, Lahore",
+  "city": "Lahore",
+  "event": "Pakistan ODI Tri-Series",
+  "match_number": 5,
+  "match_type": "ODI",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Sri Lanka"
+  },
+  "player_of_match": [
+   "D Madushanka"
+  ],
+  "result": "Sri Lanka won by 8 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Pakistan",
+   "batting_team": "Pakistan",
+   "bowling_team": "Sri Lanka",
+   "super_over": false,
+   "total": 110,
+   "wickets": 10,
+   "overs": "25.3",
+   "run_rate": 4.31,
+   "target": null,
+   "extras": {
+    "legbyes": 6,
+    "wides": 1
+   },
+   "batting": [
+    {
+     "name": "Fakhar Zaman",
+     "dismissal": "c P Rathnayake b D Madushanka",
+     "runs": 5,
+     "balls": 13,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 38.5
+    },
+    {
+     "name": "Maaz Sadaqat",
+     "dismissal": "lbw b AM Fernando",
+     "runs": 8,
+     "balls": 11,
+     "dots": 6,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 72.7
+    },
+    {
+     "name": "Babar Azam",
+     "dismissal": "lbw b E Malinga",
+     "runs": 29,
+     "balls": 33,
+     "dots": 21,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 87.9
+    },
+    {
+     "name": "Saad Baig",
+     "dismissal": "c J Liyanage b D Madushanka",
+     "runs": 5,
+     "balls": 8,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 62.5
+    },
+    {
+     "name": "Agha Salman",
+     "dismissal": "c BKG Mendis b SSD Arachchige",
+     "runs": 9,
+     "balls": 14,
+     "dots": 8,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 64.3
+    },
+    {
+     "name": "Hassan Nawaz",
+     "dismissal": "c SSD Arachchige b DN Wellalage",
+     "runs": 17,
+     "balls": 31,
+     "dots": 20,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 54.8
+    },
+    {
+     "name": "Shadab Khan",
+     "dismissal": "c BKG Mendis b SSD Arachchige",
+     "runs": 2,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    },
+    {
+     "name": "Arafat Minhas",
+     "dismissal": "c BKG Mendis b D Madushanka",
+     "runs": 10,
+     "balls": 18,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "Shaheen Shah Afridi",
+     "dismissal": "c DN Wellalage b D Madushanka",
+     "runs": 15,
+     "balls": 13,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 115.4
+    },
+    {
+     "name": "Haris Rauf",
+     "dismissal": "c PHKD Mendis b D Madushanka",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Naseem Shah",
+     "dismissal": "not out",
+     "runs": 2,
+     "balls": 5,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 40.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "AM Fernando",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 34,
+     "wickets": 1,
+     "economy": 5.67,
+     "dots": 23,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "D Madushanka",
+     "overs": "8.3",
+     "maidens": 1,
+     "runs": 34,
+     "wickets": 5,
+     "economy": 4.0,
+     "dots": 36,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SSD Arachchige",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 2,
+     "economy": 4.8,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "E Malinga",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 8,
+     "wickets": 1,
+     "economy": 2.0,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "DN Wellalage",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 1,
+     "economy": 2.0,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 47,
+     "wickets": 3,
+     "run_rate": 4.7
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "15.3",
+     "runs": 63,
+     "wickets": 7,
+     "run_rate": 4.06
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 11,
+     "player": "Fakhar Zaman",
+     "over": "3.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 23,
+     "player": "Maaz Sadaqat",
+     "over": "6.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 3,
+     "score": 46,
+     "player": "Saad Baig",
+     "over": "9.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 61,
+     "player": "Agha Salman",
+     "over": "12.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 61,
+     "player": "Babar Azam",
+     "over": "13.1",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 64,
+     "player": "Shadab Khan",
+     "over": "14.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 91,
+     "player": "Arafat Minhas",
+     "over": "21.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 91,
+     "player": "Hassan Nawaz",
+     "over": "22.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 92,
+     "player": "Haris Rauf",
+     "over": "23.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 110,
+     "player": "Shaheen Shah Afridi",
+     "over": "25.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 11,
+     "balls": 20,
+     "batters": [
+      "Fakhar Zaman",
+      "Maaz Sadaqat"
+     ],
+     "contributions": {
+      "Fakhar Zaman": 5,
+      "Maaz Sadaqat": 6
+     },
+     "ended_by": "Fakhar Zaman (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 12,
+     "balls": 18,
+     "batters": [
+      "Babar Azam",
+      "Maaz Sadaqat"
+     ],
+     "contributions": {
+      "Babar Azam": 10,
+      "Maaz Sadaqat": 2
+     },
+     "ended_by": "Maaz Sadaqat (lbw)"
+    },
+    {
+     "wicket": 3,
+     "runs": 23,
+     "balls": 18,
+     "batters": [
+      "Saad Baig",
+      "Babar Azam"
+     ],
+     "contributions": {
+      "Saad Baig": 5,
+      "Babar Azam": 14
+     },
+     "ended_by": "Saad Baig (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 15,
+     "balls": 22,
+     "batters": [
+      "Agha Salman",
+      "Babar Azam"
+     ],
+     "contributions": {
+      "Agha Salman": 9,
+      "Babar Azam": 5
+     },
+     "ended_by": "Agha Salman (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "Babar Azam",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Babar Azam": 0,
+      "Hassan Nawaz": 0
+     },
+     "ended_by": "Babar Azam (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 3,
+     "balls": 9,
+     "batters": [
+      "Shadab Khan",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Shadab Khan": 2,
+      "Hassan Nawaz": 0
+     },
+     "ended_by": "Shadab Khan (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 27,
+     "balls": 42,
+     "batters": [
+      "Arafat Minhas",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Arafat Minhas": 10,
+      "Hassan Nawaz": 17
+     },
+     "ended_by": "Arafat Minhas (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "Shaheen Shah Afridi",
+      "Hassan Nawaz"
+     ],
+     "contributions": {
+      "Shaheen Shah Afridi": 0,
+      "Hassan Nawaz": 0
+     },
+     "ended_by": "Hassan Nawaz (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 1,
+     "balls": 4,
+     "batters": [
+      "Haris Rauf",
+      "Shaheen Shah Afridi"
+     ],
+     "contributions": {
+      "Haris Rauf": 1,
+      "Shaheen Shah Afridi": 0
+     },
+     "ended_by": "Haris Rauf (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 18,
+     "balls": 14,
+     "batters": [
+      "Naseem Shah",
+      "Shaheen Shah Afridi"
+     ],
+     "contributions": {
+      "Naseem Shah": 2,
+      "Shaheen Shah Afridi": 15
+     },
+     "ended_by": "Shaheen Shah Afridi (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SSD Arachchige",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Malinga",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SSD Arachchige",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "E Malinga",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SSD Arachchige",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Malinga",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SSD Arachchige",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "E Malinga",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SSD Arachchige",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DN Wellalage",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "DN Wellalage",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Madushanka",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "AM Fernando",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "D Madushanka",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Sri Lanka",
+   "batting_team": "Sri Lanka",
+   "bowling_team": "Pakistan",
+   "super_over": false,
+   "total": 114,
+   "wickets": 2,
+   "overs": "18.1",
+   "run_rate": 6.28,
+   "target": 111,
+   "extras": {
+    "legbyes": 1,
+    "byes": 1,
+    "wides": 3
+   },
+   "batting": [
+    {
+     "name": "PHKD Mendis",
+     "dismissal": "not out",
+     "runs": 62,
+     "balls": 60,
+     "dots": 37,
+     "fours": 8,
+     "sixes": 2,
+     "strike_rate": 103.3
+    },
+    {
+     "name": "WIA Fernando",
+     "dismissal": "c Fakhar Zaman b Shaheen Shah Afridi",
+     "runs": 16,
+     "balls": 17,
+     "dots": 10,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 94.1
+    },
+    {
+     "name": "BKG Mendis",
+     "dismissal": "b Arafat Minhas",
+     "runs": 8,
+     "balls": 6,
+     "dots": 4,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "P Rathnayake",
+     "dismissal": "not out",
+     "runs": 23,
+     "balls": 26,
+     "dots": 11,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 88.5
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Shaheen Shah Afridi",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 1,
+     "economy": 4.83,
+     "dots": 24,
+     "wides": 2,
+     "noballs": 0
+    },
+    {
+     "name": "Naseem Shah",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 29,
+     "wickets": 0,
+     "economy": 7.25,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Haris Rauf",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 9.0,
+     "dots": 11,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Arafat Minhas",
+     "overs": "5.0",
+     "maidens": 0,
+     "runs": 23,
+     "wickets": 1,
+     "economy": 4.6,
+     "dots": 15,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Maaz Sadaqat",
+     "overs": "0.1",
+     "maidens": 0,
+     "runs": 4,
+     "wickets": 0,
+     "economy": 24.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 70,
+     "wickets": 2,
+     "run_rate": 7.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "8.1",
+     "runs": 44,
+     "wickets": 0,
+     "run_rate": 5.39
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 50,
+     "player": "WIA Fernando",
+     "over": "6.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 62,
+     "player": "BKG Mendis",
+     "over": "8.5",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 50,
+     "balls": 41,
+     "batters": [
+      "PHKD Mendis",
+      "WIA Fernando"
+     ],
+     "contributions": {
+      "PHKD Mendis": 31,
+      "WIA Fernando": 16
+     },
+     "ended_by": "WIA Fernando (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 12,
+     "balls": 12,
+     "batters": [
+      "BKG Mendis",
+      "PHKD Mendis"
+     ],
+     "contributions": {
+      "BKG Mendis": 8,
+      "PHKD Mendis": 4
+     },
+     "ended_by": "BKG Mendis (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 52,
+     "balls": 56,
+     "batters": [
+      "P Rathnayake",
+      "PHKD Mendis"
+     ],
+     "contributions": {
+      "P Rathnayake": 23,
+      "PHKD Mendis": 27
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Haris Rauf",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shaheen Shah Afridi",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Arafat Minhas",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Naseem Shah",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Maaz Sadaqat",
+     "legal_balls": 1
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "PHKD Mendis",
+    "runs": 62,
+    "balls": 60,
+    "strike_rate": 103.3
+   },
+   {
+    "name": "Babar Azam",
+    "runs": 29,
+    "balls": 33,
+    "strike_rate": 87.9
+   },
+   {
+    "name": "P Rathnayake",
+    "runs": 23,
+    "balls": 26,
+    "strike_rate": 88.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "D Madushanka",
+    "figures": "5/34",
+    "overs": "8.3",
+    "economy": 4.0
+   },
+   {
+    "name": "SSD Arachchige",
+    "figures": "2/24",
+    "overs": "5.0",
+    "economy": 4.8
+   },
+   {
+    "name": "DN Wellalage",
+    "figures": "1/4",
+    "overs": "2.0",
+    "economy": 2.0
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Pakistan",
+   "type": "collapse",
+   "over": 13,
+   "detail": "3 wickets fell between overs 13 and 15"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "big_over",
+   "over": 4,
+   "detail": "Over 4 (Naseem Shah) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 48 scored, needed 63 from 44 overs (RRR 1.43)"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 70 scored, needed 41 from 40 overs (RRR 1.02)"
+  },
+  {
+   "innings": 2,
+   "team": "Sri Lanka",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 94 scored, needed 17 from 35 overs (RRR 0.49)"
+  }
+ ],
+ "checks": []
+}

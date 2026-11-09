@@ -1,0 +1,1326 @@
+{
+ "match": {
+  "teams": [
+   "Karnali Yaks",
+   "Janakpur Bolts"
+  ],
+  "dates": [
+   "2026-10-27"
+  ],
+  "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+  "city": "Kirtipur",
+  "event": "Nepal Premier League",
+  "match_number": 3,
+  "match_type": "T20",
+  "overs": 20,
+  "toss": {
+   "decision": "field",
+   "winner": "Janakpur Bolts"
+  },
+  "player_of_match": [
+   "UBS Thakuri"
+  ],
+  "result": "Karnali Yaks won by 19 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Karnali Yaks",
+   "batting_team": "Karnali Yaks",
+   "bowling_team": "Janakpur Bolts",
+   "super_over": false,
+   "total": 132,
+   "wickets": 9,
+   "overs": "20.0",
+   "run_rate": 6.6,
+   "target": null,
+   "extras": {
+    "legbyes": 2,
+    "wides": 8,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "MRJ Watt",
+     "dismissal": "c Rahul Yadav b MM Ali",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "Ariful Islam",
+     "dismissal": "c Rahul Yadav b Harmeet Singh",
+     "runs": 43,
+     "balls": 29,
+     "dots": 10,
+     "fours": 0,
+     "sixes": 4,
+     "strike_rate": 148.3
+    },
+    {
+     "name": "Deepak Dumre",
+     "dismissal": "b Rahul Yadav",
+     "runs": 13,
+     "balls": 5,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 260.0
+    },
+    {
+     "name": "Hussain Talat",
+     "dismissal": "c AK Sah b Rahul Yadav",
+     "runs": 3,
+     "balls": 14,
+     "dots": 11,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 21.4
+    },
+    {
+     "name": "P Sarraf",
+     "dismissal": "c JDS Neesham b LN Rajbanshi",
+     "runs": 37,
+     "balls": 37,
+     "dots": 18,
+     "fours": 0,
+     "sixes": 3,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Akbar Ali",
+     "dismissal": "lbw b Harmeet Singh",
+     "runs": 1,
+     "balls": 2,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 50.0
+    },
+    {
+     "name": "Gulsan Jha",
+     "dismissal": "c Mayan Yadav b MM Ali",
+     "runs": 12,
+     "balls": 9,
+     "dots": 5,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 133.3
+    },
+    {
+     "name": "Sompal Kami",
+     "dismissal": "lbw b Harmeet Singh",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    },
+    {
+     "name": "NK Yadav",
+     "dismissal": "run out (AK Sah, MDKJ Perera)",
+     "runs": 9,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 75.0
+    },
+    {
+     "name": "Y Khatri",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 1,
+     "dots": 0,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "UBS Thakuri",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MM Ali",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 19,
+     "wickets": 2,
+     "economy": 4.75,
+     "dots": 13,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "LN Rajbanshi",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 38,
+     "wickets": 1,
+     "economy": 12.67,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Rahul Yadav",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 2,
+     "economy": 3.75,
+     "dots": 19,
+     "wides": 7,
+     "noballs": 0
+    },
+    {
+     "name": "JDS Neesham",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 17,
+     "wickets": 0,
+     "economy": 8.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Harmeet Singh",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 22,
+     "wickets": 3,
+     "economy": 5.5,
+     "dots": 13,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Mahata",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Abhisekh Tiwari",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 15,
+     "wickets": 0,
+     "economy": 7.5,
+     "dots": 5,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 38,
+     "wickets": 3,
+     "run_rate": 6.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 65,
+     "wickets": 2,
+     "run_rate": 7.22
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "5.0",
+     "runs": 29,
+     "wickets": 4,
+     "run_rate": 5.8
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 4,
+     "player": "MRJ Watt",
+     "over": "0.6",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 18,
+     "player": "Deepak Dumre",
+     "over": "2.1",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 37,
+     "player": "Hussain Talat",
+     "over": "5.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 79,
+     "player": "Ariful Islam",
+     "over": "12.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 81,
+     "player": "Akbar Ali",
+     "over": "12.4",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 6,
+     "score": 103,
+     "player": "Gulsan Jha",
+     "over": "15.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 104,
+     "player": "Sompal Kami",
+     "over": "16.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 8,
+     "score": 126,
+     "player": "P Sarraf",
+     "over": "18.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 131,
+     "player": "NK Yadav",
+     "over": "19.5",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "MRJ Watt",
+      "Ariful Islam"
+     ],
+     "contributions": {
+      "MRJ Watt": 1,
+      "Ariful Islam": 3
+     },
+     "ended_by": "MRJ Watt (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 14,
+     "balls": 7,
+     "batters": [
+      "Ariful Islam",
+      "Deepak Dumre"
+     ],
+     "contributions": {
+      "Ariful Islam": 1,
+      "Deepak Dumre": 13
+     },
+     "ended_by": "Deepak Dumre (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 19,
+     "balls": 20,
+     "batters": [
+      "Hussain Talat",
+      "Ariful Islam"
+     ],
+     "contributions": {
+      "Hussain Talat": 3,
+      "Ariful Islam": 15
+     },
+     "ended_by": "Hussain Talat (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 42,
+     "balls": 40,
+     "batters": [
+      "P Sarraf",
+      "Ariful Islam"
+     ],
+     "contributions": {
+      "P Sarraf": 17,
+      "Ariful Islam": 24
+     },
+     "ended_by": "Ariful Islam (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 3,
+     "batters": [
+      "Akbar Ali",
+      "P Sarraf"
+     ],
+     "contributions": {
+      "Akbar Ali": 1,
+      "P Sarraf": 1
+     },
+     "ended_by": "Akbar Ali (lbw)"
+    },
+    {
+     "wicket": 6,
+     "runs": 22,
+     "balls": 15,
+     "batters": [
+      "Gulsan Jha",
+      "P Sarraf"
+     ],
+     "contributions": {
+      "Gulsan Jha": 12,
+      "P Sarraf": 9
+     },
+     "ended_by": "Gulsan Jha (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 1,
+     "balls": 7,
+     "batters": [
+      "Sompal Kami",
+      "P Sarraf"
+     ],
+     "contributions": {
+      "Sompal Kami": 1,
+      "P Sarraf": 0
+     },
+     "ended_by": "Sompal Kami (lbw)"
+    },
+    {
+     "wicket": 8,
+     "runs": 22,
+     "balls": 15,
+     "batters": [
+      "NK Yadav",
+      "P Sarraf"
+     ],
+     "contributions": {
+      "NK Yadav": 7,
+      "P Sarraf": 10
+     },
+     "ended_by": "P Sarraf (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 5,
+     "balls": 6,
+     "batters": [
+      "Y Khatri",
+      "NK Yadav"
+     ],
+     "contributions": {
+      "Y Khatri": 1,
+      "NK Yadav": 2
+     },
+     "ended_by": "NK Yadav (run out)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 1,
+     "batters": [
+      "UBS Thakuri",
+      "Y Khatri"
+     ],
+     "contributions": {
+      "UBS Thakuri": 0,
+      "Y Khatri": 0
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rahul Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JDS Neesham",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Rahul Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harmeet Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Harmeet Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "JDS Neesham",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Mahata",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abhisekh Tiwari",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 8,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Harmeet Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abhisekh Tiwari",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "MM Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Harmeet Singh",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Rahul Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 14,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "LN Rajbanshi",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Rahul Yadav",
+     "legal_balls": 6
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Janakpur Bolts",
+   "batting_team": "Janakpur Bolts",
+   "bowling_team": "Karnali Yaks",
+   "super_over": false,
+   "total": 113,
+   "wickets": 10,
+   "overs": "19.3",
+   "run_rate": 5.79,
+   "target": 133,
+   "extras": {
+    "wides": 5,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "Mayan Yadav",
+     "dismissal": "run out (Sompal Kami)",
+     "runs": 14,
+     "balls": 11,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 127.3
+    },
+    {
+     "name": "TR Das",
+     "dismissal": "c Gulsan Jha b Sompal Kami",
+     "runs": 1,
+     "balls": 3,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 33.3
+    },
+    {
+     "name": "MM Ali",
+     "dismissal": "c Ariful Islam b Hussain Talat",
+     "runs": 19,
+     "balls": 22,
+     "dots": 11,
+     "fours": 1,
+     "sixes": 1,
+     "strike_rate": 86.4
+    },
+    {
+     "name": "AK Sah",
+     "dismissal": "c Gulsan Jha b NK Yadav",
+     "runs": 11,
+     "balls": 17,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 64.7
+    },
+    {
+     "name": "MDKJ Perera",
+     "dismissal": "c Deepak Dumre b Hussain Talat",
+     "runs": 6,
+     "balls": 4,
+     "dots": 1,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 150.0
+    },
+    {
+     "name": "JDS Neesham",
+     "dismissal": "c Ariful Islam b UBS Thakuri",
+     "runs": 15,
+     "balls": 14,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 107.1
+    },
+    {
+     "name": "Harmeet Singh",
+     "dismissal": "c & b UBS Thakuri",
+     "runs": 19,
+     "balls": 13,
+     "dots": 3,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 146.2
+    },
+    {
+     "name": "Abhisekh Tiwari",
+     "dismissal": "c Gulsan Jha b Hussain Talat",
+     "runs": 20,
+     "balls": 17,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 2,
+     "strike_rate": 117.6
+    },
+    {
+     "name": "A Mahata",
+     "dismissal": "lbw b UBS Thakuri",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Rahul Yadav",
+     "dismissal": "not out",
+     "runs": 1,
+     "balls": 10,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 10.0
+    },
+    {
+     "name": "LN Rajbanshi",
+     "dismissal": "b NK Yadav",
+     "runs": 1,
+     "balls": 5,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 20.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "MRJ Watt",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 0,
+     "economy": 2.5,
+     "dots": 7,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Sompal Kami",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 5,
+     "wickets": 1,
+     "economy": 2.5,
+     "dots": 8,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "P Sarraf",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 27,
+     "wickets": 0,
+     "economy": 6.75,
+     "dots": 12,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "NK Yadav",
+     "overs": "2.3",
+     "maidens": 0,
+     "runs": 13,
+     "wickets": 2,
+     "economy": 5.2,
+     "dots": 7,
+     "wides": 3,
+     "noballs": 0
+    },
+    {
+     "name": "Hussain Talat",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 26,
+     "wickets": 3,
+     "economy": 6.5,
+     "dots": 12,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "UBS Thakuri",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 22,
+     "wickets": 3,
+     "economy": 5.5,
+     "dots": 14,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Gulsan Jha",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 14.0,
+     "dots": 0,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-6",
+     "overs_bowled": "6.0",
+     "runs": 32,
+     "wickets": 2,
+     "run_rate": 5.33
+    },
+    {
+     "phase": "Middle",
+     "overs": "7-15",
+     "overs_bowled": "9.0",
+     "runs": 62,
+     "wickets": 4,
+     "run_rate": 6.89
+    },
+    {
+     "phase": "Death",
+     "overs": "16-20",
+     "overs_bowled": "4.3",
+     "runs": 19,
+     "wickets": 4,
+     "run_rate": 4.22
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 2,
+     "player": "TR Das",
+     "over": "1.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 16,
+     "player": "Mayan Yadav",
+     "over": "2.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 3,
+     "score": 37,
+     "player": "AK Sah",
+     "over": "6.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 56,
+     "player": "MM Ali",
+     "over": "9.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 57,
+     "player": "MDKJ Perera",
+     "over": "9.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 89,
+     "player": "Harmeet Singh",
+     "over": "13.1",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 7,
+     "score": 94,
+     "player": "JDS Neesham",
+     "over": "15.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 94,
+     "player": "A Mahata",
+     "over": "15.2",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 9,
+     "score": 112,
+     "player": "Abhisekh Tiwari",
+     "over": "18.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 113,
+     "player": "LN Rajbanshi",
+     "over": "19.3",
+     "kind": "bowled"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 2,
+     "balls": 8,
+     "batters": [
+      "Mayan Yadav",
+      "TR Das"
+     ],
+     "contributions": {
+      "Mayan Yadav": 1,
+      "TR Das": 1
+     },
+     "ended_by": "TR Das (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 14,
+     "balls": 8,
+     "batters": [
+      "MM Ali",
+      "Mayan Yadav"
+     ],
+     "contributions": {
+      "MM Ali": 1,
+      "Mayan Yadav": 13
+     },
+     "ended_by": "Mayan Yadav (run out)"
+    },
+    {
+     "wicket": 3,
+     "runs": 21,
+     "balls": 25,
+     "batters": [
+      "AK Sah",
+      "MM Ali"
+     ],
+     "contributions": {
+      "AK Sah": 11,
+      "MM Ali": 7
+     },
+     "ended_by": "AK Sah (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 19,
+     "balls": 15,
+     "batters": [
+      "MDKJ Perera",
+      "MM Ali"
+     ],
+     "contributions": {
+      "MDKJ Perera": 6,
+      "MM Ali": 11
+     },
+     "ended_by": "MM Ali (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 1,
+     "balls": 3,
+     "batters": [
+      "JDS Neesham",
+      "MDKJ Perera"
+     ],
+     "contributions": {
+      "JDS Neesham": 1,
+      "MDKJ Perera": 0
+     },
+     "ended_by": "MDKJ Perera (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 32,
+     "balls": 20,
+     "batters": [
+      "Harmeet Singh",
+      "JDS Neesham"
+     ],
+     "contributions": {
+      "Harmeet Singh": 19,
+      "JDS Neesham": 12
+     },
+     "ended_by": "Harmeet Singh (caught and bowled)"
+    },
+    {
+     "wicket": 7,
+     "runs": 5,
+     "balls": 12,
+     "batters": [
+      "Abhisekh Tiwari",
+      "JDS Neesham"
+     ],
+     "contributions": {
+      "Abhisekh Tiwari": 3,
+      "JDS Neesham": 2
+     },
+     "ended_by": "JDS Neesham (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "A Mahata",
+      "Abhisekh Tiwari"
+     ],
+     "contributions": {
+      "A Mahata": 0,
+      "Abhisekh Tiwari": 0
+     },
+     "ended_by": "A Mahata (lbw)"
+    },
+    {
+     "wicket": 9,
+     "runs": 18,
+     "balls": 19,
+     "batters": [
+      "Rahul Yadav",
+      "Abhisekh Tiwari"
+     ],
+     "contributions": {
+      "Rahul Yadav": 1,
+      "Abhisekh Tiwari": 17
+     },
+     "ended_by": "Abhisekh Tiwari (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 1,
+     "balls": 6,
+     "batters": [
+      "LN Rajbanshi",
+      "Rahul Yadav"
+     ],
+     "contributions": {
+      "LN Rajbanshi": 1,
+      "Rahul Yadav": 0
+     },
+     "ended_by": "LN Rajbanshi (bowled)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 12,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "P Sarraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Sompal Kami",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "NK Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hussain Talat",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 8,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NK Yadav",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "UBS Thakuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Sarraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Hussain Talat",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 14,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Gulsan Jha",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Hussain Talat",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Sarraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "UBS Thakuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "P Sarraf",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "UBS Thakuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MRJ Watt",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "UBS Thakuri",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Hussain Talat",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "NK Yadav",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "Ariful Islam",
+    "runs": 43,
+    "balls": 29,
+    "strike_rate": 148.3
+   },
+   {
+    "name": "P Sarraf",
+    "runs": 37,
+    "balls": 37,
+    "strike_rate": 100.0
+   },
+   {
+    "name": "Abhisekh Tiwari",
+    "runs": 20,
+    "balls": 17,
+    "strike_rate": 117.6
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Harmeet Singh",
+    "figures": "3/22",
+    "overs": "4.0",
+    "economy": 5.5
+   },
+   {
+    "name": "UBS Thakuri",
+    "figures": "3/22",
+    "overs": "4.0",
+    "economy": 5.5
+   },
+   {
+    "name": "Hussain Talat",
+    "figures": "3/26",
+    "overs": "4.0",
+    "economy": 6.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Karnali Yaks",
+   "type": "wicket_burst",
+   "over": 13,
+   "detail": "2 wickets fell in over 13 (bowled by Harmeet Singh, 2 credited to Harmeet Singh)"
+  },
+  {
+   "innings": 2,
+   "team": "Janakpur Bolts",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 32 scored, needed 101 from 14 overs (RRR 7.21)"
+  },
+  {
+   "innings": 2,
+   "team": "Janakpur Bolts",
+   "type": "wicket_burst",
+   "over": 10,
+   "detail": "2 wickets fell in over 10 (bowled by Hussain Talat, 2 credited to Hussain Talat)"
+  },
+  {
+   "innings": 2,
+   "team": "Janakpur Bolts",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 58 scored, needed 75 from 10 overs (RRR 7.5)"
+  },
+  {
+   "innings": 2,
+   "team": "Janakpur Bolts",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 94 scored, needed 39 from 5 overs (RRR 7.8)"
+  },
+  {
+   "innings": 2,
+   "team": "Janakpur Bolts",
+   "type": "wicket_burst",
+   "over": 16,
+   "detail": "2 wickets fell in over 16 (bowled by UBS Thakuri, 2 credited to UBS Thakuri)"
+  }
+ ],
+ "checks": []
+}

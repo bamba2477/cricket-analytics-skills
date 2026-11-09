@@ -1,0 +1,1398 @@
+{
+ "match": {
+  "teams": [
+   "Denmark",
+   "Qatar"
+  ],
+  "dates": [
+   "2026-10-28"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 40,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "bat",
+   "winner": "Denmark"
+  },
+  "player_of_match": [
+   "SA Ahmad"
+  ],
+  "result": "Denmark won by 52 runs"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Denmark",
+   "batting_team": "Denmark",
+   "bowling_team": "Qatar",
+   "super_over": false,
+   "total": 120,
+   "wickets": 10,
+   "overs": "36.2",
+   "run_rate": 3.3,
+   "target": null,
+   "extras": {
+    "legbyes": 1,
+    "wides": 3,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "Musa Shaheen",
+     "dismissal": "run out (I Liyanage, MM Baig)",
+     "runs": 5,
+     "balls": 9,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 55.6
+    },
+    {
+     "name": "HAM Shah",
+     "dismissal": "c Mujeeb-ur-Rehman b Muhammad Asim",
+     "runs": 44,
+     "balls": 61,
+     "dots": 44,
+     "fours": 5,
+     "sixes": 2,
+     "strike_rate": 72.1
+    },
+    {
+     "name": "Lucky Ali",
+     "dismissal": "c Zubair Ali b Ikramullah Khan",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "SA Ahmad",
+     "dismissal": "c Shahzeb Afridi b Ikramullah Khan",
+     "runs": 6,
+     "balls": 6,
+     "dots": 4,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "S Thanikaithasan",
+     "dismissal": "b Owais Ahmed",
+     "runs": 21,
+     "balls": 22,
+     "dots": 14,
+     "fours": 4,
+     "sixes": 0,
+     "strike_rate": 95.5
+    },
+    {
+     "name": "S Heath",
+     "dismissal": "c I Liyanage b Mujeeb-ur-Rehman",
+     "runs": 5,
+     "balls": 5,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "T Bharaj",
+     "dismissal": "run out (Muhammad Asim)",
+     "runs": 4,
+     "balls": 11,
+     "dots": 8,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 36.4
+    },
+    {
+     "name": "Surya Anand",
+     "dismissal": "c Shahzaib Jamil b Owais Ahmed",
+     "runs": 21,
+     "balls": 65,
+     "dots": 49,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 32.3
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "dismissal": "b Muhammad Asim",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Saud Munir",
+     "dismissal": "c Zeeshan Haider b Muhammad Asim",
+     "runs": 6,
+     "balls": 19,
+     "dots": 15,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 31.6
+    },
+    {
+     "name": "N Sonne-Rudd",
+     "dismissal": "not out",
+     "runs": 3,
+     "balls": 17,
+     "dots": 14,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 17.6
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Ikramullah Khan",
+     "overs": "8.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 2,
+     "economy": 3.88,
+     "dots": 33,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "MM Baig",
+     "overs": "5.0",
+     "maidens": 1,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 6.2,
+     "dots": 18,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "Mujeeb-ur-Rehman",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 13,
+     "wickets": 1,
+     "economy": 2.17,
+     "dots": 26,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Owais Ahmed",
+     "overs": "8.2",
+     "maidens": 2,
+     "runs": 22,
+     "wickets": 2,
+     "economy": 2.64,
+     "dots": 39,
+     "wides": 1,
+     "noballs": 0
+    },
+    {
+     "name": "DAM Louis",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 3.0,
+     "dots": 10,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Muhammad Asim",
+     "overs": "7.0",
+     "maidens": 1,
+     "runs": 15,
+     "wickets": 3,
+     "economy": 2.14,
+     "dots": 32,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 54,
+     "wickets": 3,
+     "run_rate": 5.4
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "26.2",
+     "runs": 66,
+     "wickets": 7,
+     "run_rate": 2.51
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 18,
+     "player": "Musa Shaheen",
+     "over": "3.4",
+     "kind": "run out"
+    },
+    {
+     "wicket": 2,
+     "score": 25,
+     "player": "Lucky Ali",
+     "over": "4.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 32,
+     "player": "SA Ahmad",
+     "over": "6.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 61,
+     "player": "S Thanikaithasan",
+     "over": "12.3",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 5,
+     "score": 66,
+     "player": "S Heath",
+     "over": "13.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 72,
+     "player": "T Bharaj",
+     "over": "15.3",
+     "kind": "run out"
+    },
+    {
+     "wicket": 7,
+     "score": 96,
+     "player": "HAM Shah",
+     "over": "21.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 96,
+     "player": "Abdullah Mahmood",
+     "over": "21.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 9,
+     "score": 104,
+     "player": "Saud Munir",
+     "over": "27.5",
+     "kind": "caught"
+    },
+    {
+     "wicket": 10,
+     "score": 120,
+     "player": "Surya Anand",
+     "over": "36.2",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 18,
+     "balls": 22,
+     "batters": [
+      "Musa Shaheen",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "Musa Shaheen": 5,
+      "HAM Shah": 12
+     },
+     "ended_by": "Musa Shaheen (run out)"
+    },
+    {
+     "wicket": 2,
+     "runs": 7,
+     "balls": 3,
+     "batters": [
+      "HAM Shah",
+      "Lucky Ali"
+     ],
+     "contributions": {
+      "HAM Shah": 6,
+      "Lucky Ali": 0
+     },
+     "ended_by": "Lucky Ali (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 7,
+     "balls": 12,
+     "batters": [
+      "SA Ahmad",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "SA Ahmad": 6,
+      "HAM Shah": 0
+     },
+     "ended_by": "SA Ahmad (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 29,
+     "balls": 38,
+     "batters": [
+      "S Thanikaithasan",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "S Thanikaithasan": 21,
+      "HAM Shah": 7
+     },
+     "ended_by": "S Thanikaithasan (bowled)"
+    },
+    {
+     "wicket": 5,
+     "runs": 5,
+     "balls": 5,
+     "batters": [
+      "S Heath",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "S Heath": 5,
+      "HAM Shah": 0
+     },
+     "ended_by": "S Heath (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 6,
+     "balls": 13,
+     "batters": [
+      "T Bharaj",
+      "HAM Shah"
+     ],
+     "contributions": {
+      "T Bharaj": 4,
+      "HAM Shah": 2
+     },
+     "ended_by": "T Bharaj (run out)"
+    },
+    {
+     "wicket": 7,
+     "runs": 24,
+     "balls": 37,
+     "batters": [
+      "HAM Shah",
+      "Surya Anand"
+     ],
+     "contributions": {
+      "HAM Shah": 17,
+      "Surya Anand": 7
+     },
+     "ended_by": "HAM Shah (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Abdullah Mahmood",
+      "Surya Anand"
+     ],
+     "contributions": {
+      "Abdullah Mahmood": 0,
+      "Surya Anand": 0
+     },
+     "ended_by": "Abdullah Mahmood (bowled)"
+    },
+    {
+     "wicket": 9,
+     "runs": 8,
+     "balls": 35,
+     "batters": [
+      "Surya Anand",
+      "Saud Munir"
+     ],
+     "contributions": {
+      "Surya Anand": 2,
+      "Saud Munir": 6
+     },
+     "ended_by": "Saud Munir (caught)"
+    },
+    {
+     "wicket": 10,
+     "runs": 16,
+     "balls": 51,
+     "batters": [
+      "N Sonne-Rudd",
+      "Surya Anand"
+     ],
+     "contributions": {
+      "N Sonne-Rudd": 3,
+      "Surya Anand": 12
+     },
+     "ended_by": "Surya Anand (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 10,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 7,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 9,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "DAM Louis",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Muhammad Asim",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MM Baig",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Ikramullah Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Mujeeb-ur-Rehman",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Owais Ahmed",
+     "legal_balls": 2
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Qatar",
+   "batting_team": "Qatar",
+   "bowling_team": "Denmark",
+   "super_over": false,
+   "total": 68,
+   "wickets": 10,
+   "overs": "16.2",
+   "run_rate": 4.16,
+   "target": 121,
+   "extras": {
+    "wides": 6
+   },
+   "batting": [
+    {
+     "name": "Zubair Ali",
+     "dismissal": "c Musa Shaheen b SA Ahmad",
+     "runs": 5,
+     "balls": 5,
+     "dots": 3,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 100.0
+    },
+    {
+     "name": "Shahzeb Afridi",
+     "dismissal": "c Saud Munir b SA Ahmad",
+     "runs": 21,
+     "balls": 9,
+     "dots": 3,
+     "fours": 3,
+     "sixes": 1,
+     "strike_rate": 233.3
+    },
+    {
+     "name": "I Liyanage",
+     "dismissal": "c SA Ahmad b Abdullah Mahmood",
+     "runs": 9,
+     "balls": 17,
+     "dots": 12,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 52.9
+    },
+    {
+     "name": "Muhammad Asim",
+     "dismissal": "c & b SA Ahmad",
+     "runs": 0,
+     "balls": 2,
+     "dots": 2,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Zeeshan Haider",
+     "dismissal": "run out (Lucky Ali)",
+     "runs": 0,
+     "balls": 1,
+     "dots": 1,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "MM Baig",
+     "dismissal": "c S Heath b SA Ahmad",
+     "runs": 9,
+     "balls": 13,
+     "dots": 10,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 69.2
+    },
+    {
+     "name": "Shahzaib Jamil",
+     "dismissal": "c Surya Anand b Abdullah Mahmood",
+     "runs": 1,
+     "balls": 7,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 14.3
+    },
+    {
+     "name": "DAM Louis",
+     "dismissal": "not out",
+     "runs": 13,
+     "balls": 25,
+     "dots": 18,
+     "fours": 0,
+     "sixes": 1,
+     "strike_rate": 52.0
+    },
+    {
+     "name": "Mujeeb-ur-Rehman",
+     "dismissal": "c Musa Shaheen b Abdullah Mahmood",
+     "runs": 3,
+     "balls": 12,
+     "dots": 9,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Ikramullah Khan",
+     "dismissal": "c & b Abdullah Mahmood",
+     "runs": 0,
+     "balls": 3,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Owais Ahmed",
+     "dismissal": "run out (Abdullah Mahmood)",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "SA Ahmad",
+     "overs": "8.2",
+     "maidens": 1,
+     "runs": 31,
+     "wickets": 4,
+     "economy": 3.72,
+     "dots": 36,
+     "wides": 4,
+     "noballs": 0
+    },
+    {
+     "name": "Surya Anand",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 16.0,
+     "dots": 2,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Lucky Ali",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 4,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Abdullah Mahmood",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 15,
+     "wickets": 4,
+     "economy": 2.5,
+     "dots": 28,
+     "wides": 2,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 50,
+     "wickets": 7,
+     "run_rate": 5.0
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "6.2",
+     "runs": 18,
+     "wickets": 3,
+     "run_rate": 2.84
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 26,
+     "player": "Zubair Ali",
+     "over": "2.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 27,
+     "player": "Shahzeb Afridi",
+     "over": "2.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 3,
+     "score": 27,
+     "player": "Muhammad Asim",
+     "over": "2.5",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 4,
+     "score": 31,
+     "player": "Zeeshan Haider",
+     "over": "3.5",
+     "kind": "run out"
+    },
+    {
+     "wicket": 5,
+     "score": 44,
+     "player": "I Liyanage",
+     "over": "7.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 6,
+     "score": 47,
+     "player": "MM Baig",
+     "over": "8.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 47,
+     "player": "Shahzaib Jamil",
+     "over": "9.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 8,
+     "score": 56,
+     "player": "Mujeeb-ur-Rehman",
+     "over": "13.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 9,
+     "score": 56,
+     "player": "Ikramullah Khan",
+     "over": "13.6",
+     "kind": "caught and bowled"
+    },
+    {
+     "wicket": 10,
+     "score": 68,
+     "player": "Owais Ahmed",
+     "over": "16.2",
+     "kind": "run out"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 26,
+     "balls": 13,
+     "batters": [
+      "Zubair Ali",
+      "Shahzeb Afridi"
+     ],
+     "contributions": {
+      "Zubair Ali": 5,
+      "Shahzeb Afridi": 21
+     },
+     "ended_by": "Zubair Ali (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 1,
+     "balls": 2,
+     "batters": [
+      "I Liyanage",
+      "Shahzeb Afridi"
+     ],
+     "contributions": {
+      "I Liyanage": 1,
+      "Shahzeb Afridi": 0
+     },
+     "ended_by": "Shahzeb Afridi (caught)"
+    },
+    {
+     "wicket": 3,
+     "runs": 0,
+     "balls": 2,
+     "batters": [
+      "Muhammad Asim",
+      "I Liyanage"
+     ],
+     "contributions": {
+      "Muhammad Asim": 0,
+      "I Liyanage": 0
+     },
+     "ended_by": "Muhammad Asim (caught and bowled)"
+    },
+    {
+     "wicket": 4,
+     "runs": 4,
+     "balls": 6,
+     "batters": [
+      "Zeeshan Haider",
+      "I Liyanage"
+     ],
+     "contributions": {
+      "Zeeshan Haider": 0,
+      "I Liyanage": 4
+     },
+     "ended_by": "Zeeshan Haider (run out)"
+    },
+    {
+     "wicket": 5,
+     "runs": 13,
+     "balls": 20,
+     "batters": [
+      "I Liyanage",
+      "MM Baig"
+     ],
+     "contributions": {
+      "I Liyanage": 4,
+      "MM Baig": 8
+     },
+     "ended_by": "I Liyanage (caught)"
+    },
+    {
+     "wicket": 6,
+     "runs": 3,
+     "balls": 8,
+     "batters": [
+      "Shahzaib Jamil",
+      "MM Baig"
+     ],
+     "contributions": {
+      "Shahzaib Jamil": 1,
+      "MM Baig": 1
+     },
+     "ended_by": "MM Baig (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 0,
+     "balls": 6,
+     "batters": [
+      "DAM Louis",
+      "Shahzaib Jamil"
+     ],
+     "contributions": {
+      "DAM Louis": 0,
+      "Shahzaib Jamil": 0
+     },
+     "ended_by": "Shahzaib Jamil (caught)"
+    },
+    {
+     "wicket": 8,
+     "runs": 9,
+     "balls": 24,
+     "batters": [
+      "Mujeeb-ur-Rehman",
+      "DAM Louis"
+     ],
+     "contributions": {
+      "Mujeeb-ur-Rehman": 3,
+      "DAM Louis": 5
+     },
+     "ended_by": "Mujeeb-ur-Rehman (caught)"
+    },
+    {
+     "wicket": 9,
+     "runs": 0,
+     "balls": 3,
+     "batters": [
+      "Ikramullah Khan",
+      "DAM Louis"
+     ],
+     "contributions": {
+      "Ikramullah Khan": 0,
+      "DAM Louis": 0
+     },
+     "ended_by": "Ikramullah Khan (caught and bowled)"
+    },
+    {
+     "wicket": 10,
+     "runs": 12,
+     "balls": 14,
+     "batters": [
+      "DAM Louis",
+      "Owais Ahmed"
+     ],
+     "contributions": {
+      "DAM Louis": 8,
+      "Owais Ahmed": 1
+     },
+     "ended_by": "Owais Ahmed (run out)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 10,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 16,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Surya Anand",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 3,
+     "bowler_wickets": 3,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 6,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "Lucky Ali",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 3,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 2,
+     "bowler_wickets": 2,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Abdullah Mahmood",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 0,
+     "bowler": "SA Ahmad",
+     "legal_balls": 2
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "HAM Shah",
+    "runs": 44,
+    "balls": 61,
+    "strike_rate": 72.1
+   },
+   {
+    "name": "Shahzeb Afridi",
+    "runs": 21,
+    "balls": 9,
+    "strike_rate": 233.3
+   },
+   {
+    "name": "S Thanikaithasan",
+    "runs": 21,
+    "balls": 22,
+    "strike_rate": 95.5
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Abdullah Mahmood",
+    "figures": "4/15",
+    "overs": "6.0",
+    "economy": 2.5
+   },
+   {
+    "name": "SA Ahmad",
+    "figures": "4/31",
+    "overs": "8.2",
+    "economy": 3.72
+   },
+   {
+    "name": "Muhammad Asim",
+    "figures": "3/15",
+    "overs": "7.0",
+    "economy": 2.14
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Denmark",
+   "type": "wicket_burst",
+   "over": 22,
+   "detail": "2 wickets fell in over 22 (bowled by Muhammad Asim, 2 credited to Muhammad Asim)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "big_over",
+   "over": 2,
+   "detail": "Over 2 (Surya Anand) went for 16 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "wicket_burst",
+   "over": 3,
+   "detail": "3 wickets fell in over 3 (bowled by SA Ahmad, 3 credited to SA Ahmad)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 38 scored, needed 83 from 44 overs (RRR 1.89)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "collapse",
+   "over": 8,
+   "detail": "3 wickets fell between overs 8 and 10"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 50 scored, needed 71 from 40 overs (RRR 1.77)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "wicket_burst",
+   "over": 14,
+   "detail": "2 wickets fell in over 14 (bowled by Abdullah Mahmood, 2 credited to Abdullah Mahmood)"
+  },
+  {
+   "innings": 2,
+   "team": "Qatar",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 62 scored, needed 59 from 35 overs (RRR 1.69)"
+  }
+ ],
+ "checks": []
+}

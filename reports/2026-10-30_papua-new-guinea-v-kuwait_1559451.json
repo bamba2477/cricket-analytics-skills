@@ -1,0 +1,1188 @@
+{
+ "match": {
+  "teams": [
+   "Papua New Guinea",
+   "Kuwait"
+  ],
+  "dates": [
+   "2026-10-30"
+  ],
+  "venue": "Gymkhana Club Ground, Nairobi",
+  "city": "Nairobi",
+  "event": "CWC Challenge League",
+  "match_number": 42,
+  "match_type": "ODM",
+  "overs": 50,
+  "toss": {
+   "decision": "field",
+   "winner": "Kuwait"
+  },
+  "player_of_match": [
+   "Yasin Patel"
+  ],
+  "result": "Kuwait won by 10 wickets"
+ },
+ "innings": [
+  {
+   "number": 1,
+   "team": "Papua New Guinea",
+   "batting_team": "Papua New Guinea",
+   "bowling_team": "Kuwait",
+   "super_over": false,
+   "total": 119,
+   "wickets": 10,
+   "overs": "39.3",
+   "run_rate": 3.01,
+   "target": null,
+   "extras": {
+    "wides": 5,
+    "byes": 1,
+    "legbyes": 1
+   },
+   "batting": [
+    {
+     "name": "TP Ura",
+     "dismissal": "c CV Anto b Yasin Patel",
+     "runs": 0,
+     "balls": 4,
+     "dots": 4,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Doko Rupa",
+     "dismissal": "c Aqif Farooq b Nimish Lathief",
+     "runs": 14,
+     "balls": 43,
+     "dots": 34,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 32.6
+    },
+    {
+     "name": "S Bau",
+     "dismissal": "b Nimish Lathief",
+     "runs": 20,
+     "balls": 43,
+     "dots": 31,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 46.5
+    },
+    {
+     "name": "L Siaka",
+     "dismissal": "c Nimish Lathief b Yasin Patel",
+     "runs": 18,
+     "balls": 23,
+     "dots": 15,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 78.3
+    },
+    {
+     "name": "A Vala",
+     "dismissal": "c MNM Aslam b Nimish Lathief",
+     "runs": 1,
+     "balls": 8,
+     "dots": 7,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 12.5
+    },
+    {
+     "name": "Patrick Nou",
+     "dismissal": "b Yasin Patel",
+     "runs": 0,
+     "balls": 6,
+     "dots": 6,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    },
+    {
+     "name": "Boio Ray",
+     "dismissal": "st CV Anto b Shiraz Khan",
+     "runs": 11,
+     "balls": 24,
+     "dots": 19,
+     "fours": 2,
+     "sixes": 0,
+     "strike_rate": 45.8
+    },
+    {
+     "name": "KV Morea",
+     "dismissal": "b Yasin Patel",
+     "runs": 1,
+     "balls": 4,
+     "dots": 3,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 25.0
+    },
+    {
+     "name": "Aue Oru",
+     "dismissal": "lbw b Meet Bhavsar",
+     "runs": 25,
+     "balls": 43,
+     "dots": 26,
+     "fours": 1,
+     "sixes": 0,
+     "strike_rate": 58.1
+    },
+    {
+     "name": "J Kariko",
+     "dismissal": "c Aqif Farooq b Nimish Lathief",
+     "runs": 22,
+     "balls": 34,
+     "dots": 23,
+     "fours": 2,
+     "sixes": 1,
+     "strike_rate": 64.7
+    },
+    {
+     "name": "SI Kamea",
+     "dismissal": "not out",
+     "runs": 0,
+     "balls": 5,
+     "dots": 5,
+     "fours": 0,
+     "sixes": 0,
+     "strike_rate": 0.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "Yasin Patel",
+     "overs": "10.0",
+     "maidens": 2,
+     "runs": 24,
+     "wickets": 4,
+     "economy": 2.4,
+     "dots": 46,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Aqif Farooq",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 0,
+     "economy": 2.75,
+     "dots": 19,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Nimish Lathief",
+     "overs": "9.3",
+     "maidens": 0,
+     "runs": 30,
+     "wickets": 4,
+     "economy": 3.16,
+     "dots": 42,
+     "wides": 5,
+     "noballs": 0
+    },
+    {
+     "name": "Bilal Tahir",
+     "overs": "4.0",
+     "maidens": 1,
+     "runs": 16,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "MNM Aslam",
+     "overs": "6.0",
+     "maidens": 1,
+     "runs": 22,
+     "wickets": 0,
+     "economy": 3.67,
+     "dots": 25,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Shiraz Khan",
+     "overs": "4.0",
+     "maidens": 0,
+     "runs": 11,
+     "wickets": 1,
+     "economy": 2.75,
+     "dots": 16,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Meet Bhavsar",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 3,
+     "wickets": 1,
+     "economy": 1.5,
+     "dots": 9,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 28,
+     "wickets": 1,
+     "run_rate": 2.8
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "29.3",
+     "runs": 91,
+     "wickets": 9,
+     "run_rate": 3.08
+    }
+   ],
+   "fall_of_wickets": [
+    {
+     "wicket": 1,
+     "score": 0,
+     "player": "TP Ura",
+     "over": "0.4",
+     "kind": "caught"
+    },
+    {
+     "wicket": 2,
+     "score": 36,
+     "player": "S Bau",
+     "over": "12.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 3,
+     "score": 56,
+     "player": "L Siaka",
+     "over": "18.3",
+     "kind": "caught"
+    },
+    {
+     "wicket": 4,
+     "score": 56,
+     "player": "Doko Rupa",
+     "over": "19.2",
+     "kind": "caught"
+    },
+    {
+     "wicket": 5,
+     "score": 58,
+     "player": "Patrick Nou",
+     "over": "20.6",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 6,
+     "score": 58,
+     "player": "A Vala",
+     "over": "21.1",
+     "kind": "caught"
+    },
+    {
+     "wicket": 7,
+     "score": 60,
+     "player": "KV Morea",
+     "over": "22.2",
+     "kind": "bowled"
+    },
+    {
+     "wicket": 8,
+     "score": 78,
+     "player": "Boio Ray",
+     "over": "28.5",
+     "kind": "stumped"
+    },
+    {
+     "wicket": 9,
+     "score": 113,
+     "player": "Aue Oru",
+     "over": "36.6",
+     "kind": "lbw"
+    },
+    {
+     "wicket": 10,
+     "score": 119,
+     "player": "J Kariko",
+     "over": "39.3",
+     "kind": "caught"
+    }
+   ],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 0,
+     "balls": 4,
+     "batters": [
+      "TP Ura",
+      "Doko Rupa"
+     ],
+     "contributions": {
+      "TP Ura": 0,
+      "Doko Rupa": 0
+     },
+     "ended_by": "TP Ura (caught)"
+    },
+    {
+     "wicket": 2,
+     "runs": 36,
+     "balls": 74,
+     "batters": [
+      "S Bau",
+      "Doko Rupa"
+     ],
+     "contributions": {
+      "S Bau": 20,
+      "Doko Rupa": 12
+     },
+     "ended_by": "S Bau (bowled)"
+    },
+    {
+     "wicket": 3,
+     "runs": 20,
+     "balls": 33,
+     "batters": [
+      "Doko Rupa",
+      "L Siaka"
+     ],
+     "contributions": {
+      "Doko Rupa": 2,
+      "L Siaka": 18
+     },
+     "ended_by": "L Siaka (caught)"
+    },
+    {
+     "wicket": 4,
+     "runs": 0,
+     "balls": 5,
+     "batters": [
+      "A Vala",
+      "Doko Rupa"
+     ],
+     "contributions": {
+      "A Vala": 0,
+      "Doko Rupa": 0
+     },
+     "ended_by": "Doko Rupa (caught)"
+    },
+    {
+     "wicket": 5,
+     "runs": 2,
+     "balls": 10,
+     "batters": [
+      "Patrick Nou",
+      "A Vala"
+     ],
+     "contributions": {
+      "Patrick Nou": 0,
+      "A Vala": 1
+     },
+     "ended_by": "Patrick Nou (bowled)"
+    },
+    {
+     "wicket": 6,
+     "runs": 0,
+     "balls": 1,
+     "batters": [
+      "A Vala",
+      "Boio Ray"
+     ],
+     "contributions": {
+      "A Vala": 0,
+      "Boio Ray": 0
+     },
+     "ended_by": "A Vala (caught)"
+    },
+    {
+     "wicket": 7,
+     "runs": 2,
+     "balls": 7,
+     "batters": [
+      "KV Morea",
+      "Boio Ray"
+     ],
+     "contributions": {
+      "KV Morea": 1,
+      "Boio Ray": 0
+     },
+     "ended_by": "KV Morea (bowled)"
+    },
+    {
+     "wicket": 8,
+     "runs": 18,
+     "balls": 39,
+     "batters": [
+      "Aue Oru",
+      "Boio Ray"
+     ],
+     "contributions": {
+      "Aue Oru": 6,
+      "Boio Ray": 11
+     },
+     "ended_by": "Boio Ray (stumped)"
+    },
+    {
+     "wicket": 9,
+     "runs": 35,
+     "balls": 49,
+     "batters": [
+      "J Kariko",
+      "Aue Oru"
+     ],
+     "contributions": {
+      "J Kariko": 16,
+      "Aue Oru": 19
+     },
+     "ended_by": "Aue Oru (lbw)"
+    },
+    {
+     "wicket": 10,
+     "runs": 6,
+     "balls": 15,
+     "batters": [
+      "J Kariko",
+      "SI Kamea"
+     ],
+     "contributions": {
+      "J Kariko": 6,
+      "SI Kamea": 0
+     },
+     "ended_by": "J Kariko (caught)"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aqif Farooq",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aqif Farooq",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aqif Farooq",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Aqif Farooq",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bilal Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bilal Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bilal Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Bilal Tahir",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 23,
+     "runs": 0,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 24,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 25,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 26,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 27,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 28,
+     "runs": 0,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 29,
+     "runs": 1,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Shiraz Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 30,
+     "runs": 4,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Yasin Patel",
+     "legal_balls": 6
+    },
+    {
+     "over": 31,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shiraz Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 32,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 33,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shiraz Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 34,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 35,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Shiraz Khan",
+     "legal_balls": 6
+    },
+    {
+     "over": 36,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "MNM Aslam",
+     "legal_balls": 6
+    },
+    {
+     "over": 37,
+     "runs": 2,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 38,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 6
+    },
+    {
+     "over": 39,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Meet Bhavsar",
+     "legal_balls": 6
+    },
+    {
+     "over": 40,
+     "runs": 4,
+     "wickets": 1,
+     "bowler_wickets": 1,
+     "bowler": "Nimish Lathief",
+     "legal_balls": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "team": "Kuwait",
+   "batting_team": "Kuwait",
+   "bowling_team": "Papua New Guinea",
+   "super_over": false,
+   "total": 123,
+   "wickets": 0,
+   "overs": "21.3",
+   "run_rate": 5.72,
+   "target": 120,
+   "extras": {
+    "legbyes": 2,
+    "byes": 1
+   },
+   "batting": [
+    {
+     "name": "CV Anto",
+     "dismissal": "not out",
+     "runs": 76,
+     "balls": 67,
+     "dots": 34,
+     "fours": 7,
+     "sixes": 4,
+     "strike_rate": 113.4
+    },
+    {
+     "name": "Meet Bhavsar",
+     "dismissal": "not out",
+     "runs": 44,
+     "balls": 62,
+     "dots": 37,
+     "fours": 5,
+     "sixes": 0,
+     "strike_rate": 71.0
+    }
+   ],
+   "bowling": [
+    {
+     "name": "KV Morea",
+     "overs": "2.0",
+     "maidens": 0,
+     "runs": 14,
+     "wickets": 0,
+     "economy": 7.0,
+     "dots": 6,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "J Kariko",
+     "overs": "8.3",
+     "maidens": 0,
+     "runs": 33,
+     "wickets": 0,
+     "economy": 3.88,
+     "dots": 32,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "A Vala",
+     "overs": "6.0",
+     "maidens": 0,
+     "runs": 24,
+     "wickets": 0,
+     "economy": 4.0,
+     "dots": 21,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "S Bau",
+     "overs": "3.0",
+     "maidens": 0,
+     "runs": 31,
+     "wickets": 0,
+     "economy": 10.33,
+     "dots": 8,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "SI Kamea",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 6,
+     "wickets": 0,
+     "economy": 6.0,
+     "dots": 3,
+     "wides": 0,
+     "noballs": 0
+    },
+    {
+     "name": "Boio Ray",
+     "overs": "1.0",
+     "maidens": 0,
+     "runs": 12,
+     "wickets": 0,
+     "economy": 12.0,
+     "dots": 1,
+     "wides": 0,
+     "noballs": 0
+    }
+   ],
+   "phases": [
+    {
+     "phase": "Powerplay",
+     "overs": "1-10",
+     "overs_bowled": "10.0",
+     "runs": 64,
+     "wickets": 0,
+     "run_rate": 6.4
+    },
+    {
+     "phase": "Middle",
+     "overs": "11-40",
+     "overs_bowled": "11.3",
+     "runs": 59,
+     "wickets": 0,
+     "run_rate": 5.13
+    }
+   ],
+   "fall_of_wickets": [],
+   "partnerships": [
+    {
+     "wicket": 1,
+     "runs": 123,
+     "balls": 129,
+     "batters": [
+      "CV Anto",
+      "Meet Bhavsar"
+     ],
+     "contributions": {
+      "CV Anto": 76,
+      "Meet Bhavsar": 44
+     },
+     "ended_by": "unbroken"
+    }
+   ],
+   "over_by_over": [
+    {
+     "over": 1,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 2,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 3,
+     "runs": 8,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "KV Morea",
+     "legal_balls": 6
+    },
+    {
+     "over": 4,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 5,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 6,
+     "runs": 7,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 7,
+     "runs": 11,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 8,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 9,
+     "runs": 6,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "SI Kamea",
+     "legal_balls": 6
+    },
+    {
+     "over": 10,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 11,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 12,
+     "runs": 15,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "S Bau",
+     "legal_balls": 6
+    },
+    {
+     "over": 13,
+     "runs": 12,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "Boio Ray",
+     "legal_balls": 6
+    },
+    {
+     "over": 14,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 15,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 16,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 17,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 18,
+     "runs": 1,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 19,
+     "runs": 3,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 20,
+     "runs": 2,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 6
+    },
+    {
+     "over": 21,
+     "runs": 5,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "A Vala",
+     "legal_balls": 6
+    },
+    {
+     "over": 22,
+     "runs": 9,
+     "wickets": 0,
+     "bowler_wickets": 0,
+     "bowler": "J Kariko",
+     "legal_balls": 3
+    }
+   ]
+  }
+ ],
+ "top_performers": {
+  "batters": [
+   {
+    "name": "CV Anto",
+    "runs": 76,
+    "balls": 67,
+    "strike_rate": 113.4
+   },
+   {
+    "name": "Meet Bhavsar",
+    "runs": 44,
+    "balls": 62,
+    "strike_rate": 71.0
+   },
+   {
+    "name": "Aue Oru",
+    "runs": 25,
+    "balls": 43,
+    "strike_rate": 58.1
+   }
+  ],
+  "bowlers": [
+   {
+    "name": "Yasin Patel",
+    "figures": "4/24",
+    "overs": "10.0",
+    "economy": 2.4
+   },
+   {
+    "name": "Nimish Lathief",
+    "figures": "4/30",
+    "overs": "9.3",
+    "economy": 3.16
+   },
+   {
+    "name": "Meet Bhavsar",
+    "figures": "1/3",
+    "overs": "2.0",
+    "economy": 1.5
+   }
+  ]
+ },
+ "turning_points": [
+  {
+   "innings": 1,
+   "team": "Papua New Guinea",
+   "type": "collapse",
+   "over": 19,
+   "detail": "3 wickets fell between overs 19 and 21"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "required_rate",
+   "over": 6,
+   "detail": "After 6 overs: 30 scored, needed 90 from 44 overs (RRR 2.05)"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "required_rate",
+   "over": 10,
+   "detail": "After 10 overs: 64 scored, needed 56 from 40 overs (RRR 1.4)"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "big_over",
+   "over": 12,
+   "detail": "Over 12 (S Bau) went for 15 runs"
+  },
+  {
+   "innings": 2,
+   "team": "Kuwait",
+   "type": "required_rate",
+   "over": 15,
+   "detail": "After 15 overs: 97 scored, needed 23 from 35 overs (RRR 0.66)"
+  }
+ ],
+ "checks": []
+}
